@@ -1,6 +1,6 @@
 # arawa_pre_release
 <p align="center">
-<img src="https://github.com/LanguageStructure/arawa_pre_release/blob/main/map.png" width="400" height="350">
+<img src="https://github.com/LanguageStructure/arawa_pre_release/blob/main/map.png" width="200" height="175">
 </p>
 <br>
 
