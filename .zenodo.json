@@ -5,12 +5,33 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": ["Fabrício Ferraz Gerardi", "Carolina Aragon", "Stanislav Reichert"],
+    "creators": [
+            {
+            "name": "Fabr\u00edcio Ferraz Gerardi",
+            "affiliation": "Universit\u00e4t T\u00fcbingen"
+        },
+        {
+            "name": "Stanislav Reichert",
+            "affiliation": "Universit\u00e4t T\u00fcbingen"
+        },
+        {
+            "name": "Carolina Aragon",
+            "affiliation": "UFPB"
+        },
+    ],
     "contributors": [],
     "communities": [
         {
-            "identifier": "lexibank"
-        }
+            "identifier": "lexibank"            
+        },
+        {
+            "identifier": "aled"
+        }        
     ],
-    "upload_type": "dataset"
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Fabr\u00edcio Ferraz Gerardi, Fabr\u00edcio and Aragon, Carolina and Reichert, Stanislav (2022): Arawa Lexical Database (ALeD) [Dataset]. Pre-release </p>\n</blockquote>",
+    
+        "license": {
+        "id": "CC-BY-4.0"
+    }
 }
