@@ -1,0 +1,59 @@
+{% extends 'base.html' %}
+
+{% block extra_header %}
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.46.0/codemirror.css">
+{% endblock %}
+
+{% block contents %}
+
+<p>This page is designed to query the database locally with SQLite. Data is
+loaded in memory and can take a while to load. It is intended for
+experimentation and exploration by advanced users familiar with SQL.</p>
+
+<p>The `sqljs` library is original work by kripken (<a href='https://github.com/kripken/sql.js'>sql.js</a>),
+now maintained by <a href='https://github.com/lovasoa'>lovasoa</a>.</p>
+
+<main>
+  <label for='commands'>Enter your SQL commands in the text bow below.</label>
+  <br />
+
+  <p>
+  Table schemata:<br/>
+  {% for table in data %}
+    <b>{{ table }}</b>: {{ schemata[table] }}<br/>
+  {% endfor %}
+  </p>
+
+  <textarea id="commands">
+SELECT * FROM languages;
+SELECT * FROM forms WHERE language_id="Achagua";
+</textarea>
+
+<div class='sql-execute'>
+  <button id="execute" class="btn btn-dark btn-sm">Execute</button>
+  <button id='savedb' class="btn btn-dark btn-sm">Download SQLite-db</button>
+</div>
+  <div id="error" class="error"></div>
+
+  <pre id="output">Results will be displayed here</pre>
+</main>
+
+{% endblock %}
+
+{% block sql_js %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.46.0/codemirror.js"></script>
+<script type="text/javascript" src="sql_interface.js"></script>
+<script type="text/javascript">
+
+{% for table in data %}
+  execute("DROP TABLE IF EXISTS {{ table }};");
+  execute("CREATE TABLE {{ table }}({{ schemata[table] }});");
+
+  {% for row in data[table] %}
+  execute("INSERT INTO {{ table }} VALUES ({{ row }});");
+  {% endfor %}
+{% endfor %}
+
+</script>
+
+{% endblock %}

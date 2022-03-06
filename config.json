@@ -1,0 +1,14 @@
+{
+  "output_path" : "_site",
+  "title" : "Arawa Lexical Database (ALeD)",
+  "description" : "The pre-release version of the dataset for Arawa Lexical Database (ALeD)",
+  "author" : "Fabrício Ferraz Gerardi",
+  "favicon" : "https://clts.clld.org/clld-static/images/favicon.ico",
+  "mainlink" : "https://static-cldf.netlify.com",
+  "citation" : "Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Arawa Lexical Database (ALeD) [Dataset]. Pre-release",
+
+  "language_table" : ["ID", "Doculect", "ISO639P3code", "Glottocode", "Glottolog_Name", "Latitude", "Longitude", "Macroarea", "Family", "Sources"],
+  "parameter_table" : ["ID", "CONCEPT", "SEMANTIC_FIELD", "CONCEPTICON_ID", "CONCEPTICON_GLOSS"],
+  "form_table" : ["ID", "DOCULECT", "CONCEPT", "VALUE", "FORM", "TOKENS", "MORPHEMES", "COGIDS", "NOTE"]
+
+}

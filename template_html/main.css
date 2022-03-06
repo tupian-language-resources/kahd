@@ -1,0 +1,25 @@
+html {
+    overflow-y: scroll;
+    position: relative;
+    min-height: 100%;
+}
+body {
+    background-color: #fdfdfd;
+}
+.page-footer {
+    background-color: #222;
+    color: #ccc;
+    padding: 60px 0 30px;
+}
+.footer-copyright {
+    color: #666;
+    padding: 40px 0;
+}
+#contents {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.sql-execute {
+    margin:10px;
+}
