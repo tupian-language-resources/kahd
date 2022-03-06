@@ -10,7 +10,7 @@ This repository includes the data from Ferraz Gerardi, Fabrício & Aragon, Carol
 
 
 [![CLDF validation](https://github.com/LanguageStructure/TuLeD_Data/workflows/CLDF-validation/badge.svg)](https://github.com/LanguageStructure/TuLeD_Data/actions?query=workflow%3ACLDF-validation)
-![Glottolog: 91%](https://img.shields.io/badge/Glottolog-91%25-green.svg "Glottolog: 100%")
+![Glottolog: 91%](https://img.shields.io/badge/Glottolog-91%25-brightgreen.svg "Glottolog: 100%")
 ![Concepticon: 97%](https://img.shields.io/badge/Concepticon-97%25-green.svg "Concepticon: 97%")
 ![Source: 95%](https://img.shields.io/badge/Source-95%25-green.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
