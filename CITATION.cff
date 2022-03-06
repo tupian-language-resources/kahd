@@ -1,0 +1,15 @@
+cff-version: 1.1.0
+message: "If you use this database, please cite it as below."
+authors:
+  - family-names: Fabrício
+    given-names: Ferraz Gerardi
+    orcid: https://orcid.org/0000-0002-1438-7336
+    - family-names: Carolina
+    given-names: Coelho Aragon
+    orcid: https://orcid.org/0000-0001-9459-9939
+    - family-names: Stanislav
+    given-names: Reichert
+    orcid: https://orcid.org/0000-0002-8330-1954
+title: LanguageStructure/arawa_pre_release: Arawa Lexical Database (ALeD)
+version: v0.1
+date-released: 2022-03-06
