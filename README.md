@@ -6,6 +6,10 @@
 
 This repository includes the data from Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022) Arawá Lexical Database (ALeD). The data has been converted to the CLDF format.
 
+## About the repository
+
+This repository contains some duplicate files. One set of files contains the output of the CLDFbench, which is automatically generated. The other files are necessary for static CLLD representation of the dataset.
+
 ## Statistics
 
 
