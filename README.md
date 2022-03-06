@@ -16,17 +16,17 @@ This repository includes the data from Ferraz Gerardi, Fabrício & Aragon, Carol
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 89
-- **Concepts:** 447
-- **Lexemes:** 25,042
-- **Sources:** 257
-- **Synonymy:** 1.07
-- **Cognacy:** 28,995 cognates in 5,813 cognate sets (3,322 singletons)
-- **Cognate Diversity:** 0.22
+- **Varieties:** 8
+- **Concepts:** 549
+- **Lexemes:** 2,328
+- **Sources:** 17
+- **Synonymy:** 1.14
+- **Cognacy:** 2,367 cognates in 784 cognate sets (334 singletons)
+- **Cognate Diversity:** 0.13
 - **Invalid lexemes:** 0
-- **Tokens:** 118,796
-- **Segments:** 399 (0 BIPA errors, 0 CTLS sound class errors, 398 CLTS modified)
-- **Inventory size (avg):** 59.11
+- **Tokens:** 10,815
+- **Segments:** 78 (0 BIPA errors, 0 CTLS sound class errors, 78 CLTS modified)
+- **Inventory size (avg):** 29.38
 
 ## Possible Improvements:
 
