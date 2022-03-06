@@ -8,7 +8,7 @@ This repository includes the data from Ferraz Gerardi, Fabrício & Aragon, Carol
 
 ## About the repository
 
-This repository contains some duplicate files. One set of files contains the output of the CLDFbench, which is automatically generated. The other files are necessary for static CLLD representation of the dataset.
+This repository contains some duplicate files. One set of files contains the output of the ![CLDFbench](https://github.com/cldf/cldfbench), which is automatically generated. The other files are necessary for static CLLD representation of the dataset.
 
 ## Statistics
 
