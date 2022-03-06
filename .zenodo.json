@@ -1,11 +1,11 @@
 {
-    "title": null,
+    "title": "Arawa Lexical Database (ALeD)",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
+    "creators": [Fabrício Ferraz Gerardi, Carolina Aragon, Stanislav Reichert],
     "contributors": [],
     "communities": [
         {
