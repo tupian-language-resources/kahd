@@ -28,16 +28,12 @@ This repository includes the data from Ferraz Gerardi, Fabrício & Aragon, Carol
 - **Segments:** 78 (0 BIPA errors, 0 CTLS sound class errors, 78 CLTS modified)
 - **Inventory size (avg):** 29.38
 
-## Possible Improvements:
-
-
-
-- Entries missing sources: 1259/25042 (5.03%)
 
 # Contributors
 
 Name | Affiliation | GitHub user | Description | Role
 --- | --- | --- | --- | ---
 Fabrício Ferraz Gerardi | Universität Tübingen | @LanguageStructure | Data Collector, cognacy assignment, co-lexifications, notes | Author
-Stanislav Reichert | Universität Tübingen |@StasReichert | Data Collector | Author
 Carolina Aragon | UFPB | @carolinaaragon | Data Collector, cognacy assignment, co-lexifications, notes | Author
+Stanislav Reichert | Universität Tübingen |@StasReichert | Data Collector | Author
+
