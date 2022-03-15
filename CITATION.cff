@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this database, please cite it as below."
 authors:
-  - family-names: "Ferraz Gerardi"
+    - family-names: "Ferraz Gerardi"
     given-names: "Fabrício"
     orcid: "https://orcid.org/0000-0002-1438-7336"
     - family-names: "Coelho Aragon"
@@ -11,5 +11,5 @@ authors:
     given-names: "Stanislav"
     orcid: "https://orcid.org/0000-0002-8330-1954"
 title: "Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release (Arawan)"
-version: "v0.1"
-date-released: "2022-03-15"
+version: v0.1
+date-released: 2022-03-15
