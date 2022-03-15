@@ -10,7 +10,7 @@ If you use these data please cite
 ## Description
 
 
-Lexical Database of the Arawa language family
+Lexical Database of the Katukinan, Arawan, and Harakmbut language families
 
 This dataset is licensed under a MIT License license
 
