@@ -1,5 +1,10 @@
 #  Katukinan-Arawan-Harakmbut Database (KAHD)
 
+<p align="center">
+ <img src="https://github.com/LanguageStructure/arawa_pre_release/blob/main/map.png" width="300" height="225">
+ </p>
+ <br>
+
 ## How to cite
 
 If you use these data please cite
