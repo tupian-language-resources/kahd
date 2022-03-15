@@ -10,7 +10,7 @@ If you use these data please cite
 ## Description
 
 
-Lexical Database of the Katukinan, Arawan, and Harakmbut language families. The pre-release versin only contains Arawan data.
+Lexical Database of the Katukinan, Arawan, and Harakmbut language families. The pre-release version only contains Arawan data.
 
 This dataset is licensed under a MIT License license
 
