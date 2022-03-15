@@ -1,6 +1,6 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist  Arawa Lexical Database (ALeD)
+# Wordlist   Katulkinan-Arawan-Harakmbut Database (KAHD)
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
@@ -10,7 +10,7 @@ Lexical Database of the Arawa language family
 
 property | value
  --- | ---
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Arawa Lexical Database (ALeD) [Dataset]. Pre-release
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Katulkinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release (Arawan)
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:license](http://purl.org/dc/terms/license) | http://www.opensource.org/licenses/MIT
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/LanguageStructure/KAHD_pre_release
