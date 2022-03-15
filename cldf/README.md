@@ -1,6 +1,6 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist   Katulkinan-Arawan-Harakmbut Database (KAHD)
+# Wordlist  Arawa Lexical Database (ALeD)
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
@@ -10,11 +10,11 @@ Lexical Database of the Arawa language family
 
 property | value
  --- | ---
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Katulkinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release (Arawan)
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Arawa Lexical Database (ALeD) [Dataset]. Pre-release
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:license](http://purl.org/dc/terms/license) | http://www.opensource.org/licenses/MIT
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/LanguageStructure/KAHD_pre_release
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/LanguageStructure/KAHD_pre_release/tree/0648e51">LanguageStructure/KAHD_pre_release v0.1-8-g0648e51</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.5">Glottolog v4.5</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.5.0">Concepticon v2.5.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.1.0">CLTS v2.1.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/LanguageStructure/KAHD_pre_release/tree/2fb6943">LanguageStructure/KAHD_pre_release v0.1-15-g2fb6943</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.5">Glottolog v4.5</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.5.0">Concepticon v2.5.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.1.0">CLTS v2.1.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.8.10</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | tuled
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
