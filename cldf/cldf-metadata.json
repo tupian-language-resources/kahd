@@ -1,16 +1,20 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
+    "dc:bibliographicCitation": "Ferraz Gerardi, Fabr\u00edcio & Aragon, Carolina & Reichert, Stanislav (2022): Arawa Lexical Database (ALeD) [Dataset]. Pre-release",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+    "dc:description": "Lexical Database of the Arawa language family",
     "dc:isVersionOf": null,
+    "dc:license": "http://www.opensource.org/licenses/MIT",
     "dc:related": null,
     "dc:source": "sources.bib",
-    "dcat:accessURL": "https://github.com/tupian-language-resources/gerardiarawa",
+    "dc:title": " Arawa Lexical Database (ALeD)",
+    "dcat:accessURL": "https://github.com/LanguageStructure/arawa_pre_release",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/tupian-language-resources/gerardiarawa",
+            "rdf:about": "https://github.com/LanguageStructure/arawa_pre_release",
             "rdf:type": "prov:Entity",
-            "dc:created": "664109e",
+            "dc:created": "v0.1-6-g7c34ee0",
             "dc:title": "Repository"
         },
         {
@@ -54,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 2328,
+            "dc:extent": 2503,
             "tableSchema": {
                 "columns": [
                     {
@@ -244,7 +248,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 549,
+            "dc:extent": 556,
             "tableSchema": {
                 "columns": [
                     {
@@ -284,7 +288,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 2367,
+            "dc:extent": 2555,
             "tableSchema": {
                 "columns": [
                     {

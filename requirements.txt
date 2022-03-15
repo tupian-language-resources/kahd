@@ -1,4 +1,0 @@
-tabulate
-pycldf
-Markdown
-jinja2

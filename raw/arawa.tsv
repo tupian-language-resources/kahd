@@ -12,6 +12,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 301	Deni	GOOD	amotsʰi	amotsʰi	a m o tsʰ i	a m o tsʰ i	8	8	BE.GOOD			
 640	Jamamadi	GOOD	amosa	amosa	a m o s a	a m o s a	8	8	BE.GOOD			
 914	Jarawara	GOOD	amosa	amosa	a m o s a	a m o s a	8	8	BE.GOOD			
+10228	Paumari	GOOD	dʒaha / makʰani	dʒaha	dʒ a h a	dʒ a h a	806	763	BE.GOOD			
+10230	Paumari	GOOD	dʒaha / makʰani	makʰani	m a kʰ a n i	m a kʰ a n i	805	762	BE.GOOD			
 3	Arawa	FIRE	ʃihú	ʃihú	ʃ i h ú	ʃ i h ú	259	259	FIRE			
 65	Banawa	FIRE	jiɸo	jifo	j i f o	j i f o	259	259	FIRE			
 340	Deni	FIRE	jipho	jipho	j i pʰ o	j i pʰ o	259	259	FIRE			
@@ -41,7 +43,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5	Arawa	HOUSE	zami	zami	z a m i	z a m i - -	254	254	HOUSE			
 365	Deni	HOUSE	jamari	jamari	j a m a r i	j a m a r i	254	254	HOUSE			
 1990	Sorowaha	HOUSE	uuda	uuda	uː d a	uː d a	1272	1272	HOUSE			
-6	Arawa	LAKE	dacu	dacu	d a c u	d a c u	47	47	LAKE			
+6	Arawa	LAKE	daku	daku	d a k u	d a k u	47	47	LAKE			
 374	Deni	LAKE	korija	korija	k o r i j a	k o r i j a	46	46	LAKE			
 1004	Jarawara	LAKE	rako	rako	r a k o	r a k o	47	47	LAKE			
 1366	Kulina	LAKE	koɾija / koɾidza	koɾija	k o ɾ i j a	k o ɾ i j a	46	46	LAKE			
@@ -98,6 +100,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1764	Paumari	FOOT	ɗama	ɗama	ɗ a m a	- ɗ a m a	47	47	FOOT			
 1932	Sorowaha	FOOT	dama	dama	d a m a	- d a m a	47	47	FOOT			
 10086	Sorowaha	FOOT	ud̥ɨ	ud̥ɨ	u d̥ ɨ	u d̥ ɨ	717	660	FOOT			
+10223	Deni	FOOT	amuri	amuri	a m u r i	a m u r i	1260	1260	FOOT			
 13	Arawa	HAND	usaɸá	usaɸá	u s a ɸ á	u s a ɸ á - -	83	83	HAND			
 205	Banawa	HAND	jahi	jahi	j a h i	- j a h i - -	83	83	HAND			
 538	Deni	HAND	japa	japa	j a p a	- j a p a - -	83	83	HAND			
@@ -177,21 +180,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1264	Kulina	TREE AND EDIBLE FRUIT	imi	imi	i m i	i m i	319	319	TREE.AND.EDIBLE.FRUIT			
 1836	Sorowaha	TREE AND EDIBLE FRUIT	imi	imi	i m i	i m i	319	319	TREE.AND.EDIBLE.FRUIT			
 23	Banawa	ANT	jimo / maɸo	jimo	j i m o	j i m o	227	227	ANT			
-24	Banawa	ANT	jimo / maɸo	maɸo	m a ɸ o	m a ɸ o	358	344	ANT			
+24	Banawa	ANT	jimo / maɸo	maɸo	m a ɸ o	m a ɸ o	358	344	ANT		YES	Loan from PJC Proto-Japurá-Colômbia
 291	Deni	ANT	jomo / mapo	jomo	j o m o	j o m o	227	227	ANT			
-292	Deni	ANT	jomo / mapo	mapo	m a p o	m a p o	358	344	ANT			
+292	Deni	ANT	jomo / mapo	mapo	m a p o	m a p o	358	344	ANT		YES	Loan from PJC Proto-Japurá-Colômbia
 554	Deni	ANT	kaposhiri / meʔi	karakara	k a p o s h i r i	k a p o s h i r i	102	102	ANT.SP.			
 596	Deni	ANT	kaposhiri / meʔi	meʔi	m e ʔ i	m e ʔ i	134	134	ANT.SP.			
-632	Jamamadi	ANT	maɸo	maɸo	m a ɸ o	m a ɸ o	358	344	ANT			
+632	Jamamadi	ANT	maɸo	maɸo	m a ɸ o	m a ɸ o	358	344	ANT		YES	Loan from PJC Proto-Japurá-Colômbia
 864	Jamamadi	ANT	meme / takasiri	meme	m e m e	m e m e	134	134	ANT.SP.			
 902	Jarawara	ANT	jimo / maɸo	jimo	j i m o	j i m o	227	227	ANT			
-903	Jarawara	ANT	jimo / maɸo	maɸo	m a ɸ o	m a ɸ o	358	344	ANT			
+903	Jarawara	ANT	jimo / maɸo	maɸo	m a ɸ o	m a ɸ o	358	344	ANT		YES	Loan from PJC Proto-Japurá-Colômbia
 1226	Jarawara	ANT	mai / takasiri	mai	m a i	m a - i	134	134	ANT.SP.			
 1265	Kulina	ANT	datsʰa	datsʰa	d a tsʰ a	d a tsʰ a - -	359	353	ANT			
 1266	Kulina	ANT	jomo / mapo	jomo	j o m o	j o m o	227	227	ANT			
-1267	Kulina	ANT	jomo / mapo	mapo	m a p o	m a p o	358	344	ANT			
+1267	Kulina	ANT	jomo / mapo	mapo	m a p o	m a p o	358	344	ANT		YES	Loan from PJC Proto-Japurá-Colômbia
 1605	Kulina	ANT	mɛʔi	mɛʔi	m ɛ ʔ i	m ɛ ʔ i	134	134	ANT.SP.			
-1634	Paumari	ANT	maɸo	maɸo	m a ɸ o	m a ɸ o	358	344	ANT			
+1634	Paumari	ANT	maɸo	maɸo	m a ɸ o	m a ɸ o	358	344	ANT		YES	Loan from PJC Proto-Japurá-Colômbia
 1797	Paumari	ANT	kapohi	kapohi	k a p o h i	k a p o - h i - -	102	102	ANT.SP.			
 1837	Sorowaha	ANT	dasaɾi	dasaɾi	d a s a ɾ i	d a s a ɾ i	359	353	ANT			
 1999	Jarawara	ANT	mai / takasiri	takasiri	t a k a s i r i	t a k a s i r i	179	179	ANT.SP.			
@@ -206,9 +209,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1778	Paumari	ANTEATER	hiβa	hiβa	h i β a	h i - - β a	65	65	ANTEATER			Giant anteater (Myrmecophaga tridactyla)
 5003	Sorowaha	ANTEATER	dʒukitɛɾidʒa	dʒukitɛɾidʒa	dʒ u k i t ɛ ɾ i dʒ a	dʒ u k i t ɛ ɾ i dʒ a	1227	1227	ANTEATER			
 26	Banawa	ARAUNÃ	abajaro	abajaro	a b a + j a r o	a b a + - - - j a r o	321	6000 321	? ARAUNÃ			
-635	Jamamadi	ARAUNÃ	bajaro	bajaro	b a j a r o	- b a + - - - j a r o	321	321	ARAUNÃ			
-906	Jarawara	ARAUNÃ	bajaro	bajaro	b a j a r o	- b a + - - - j a r o	321	321	ARAUNÃ			
-1635	Paumari	ARAUNÃ	bajara	bajara	b a j a r a	- b a + - - - j a r a	321	321	ARAUNÃ			
+635	Jamamadi	ARAUNÃ	bajaro	bajaro	b a j a r o	b a j a r o	321	321	ARAUNÃ			
+906	Jarawara	ARAUNÃ	bajaro	bajaro	b a j a r o	b a j a r o	321	321	ARAUNÃ			
+1635	Paumari	ARAUNÃ	bajara	bajara	b a j a r a	b a j a r a	321	321	ARAUNÃ			
 1838	Sorowaha	ARAUNÃ	aba majaɾo	aba majaɾo	a b a + m a j a ɾ o	a b a + m a j a ɾ o	321	6000 321	? ARAUNÃ			
 27	Banawa	ACAI PALM	ɸare	ɸare	ɸ a r e	ɸ a r e - -	311	311	AÇAÍ			
 636	Jamamadi	ACAI PALM	ɸare	ɸare	ɸ a r e	ɸ a r e - -	311	311	AÇAÍ			
@@ -216,6 +219,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1271	Kulina	ACAI PALM	paɾaʔi	paɾaʔi	p a ɾ a ʔ i	p a ɾ a ʔ i	311	311	AÇAÍ			
 1636	Paumari	ACAI PALM	parai	parai	p a r a i	p a r a - i	311	311	AÇAÍ			
 1839	Sorowaha	ACAI PALM	haɾami	haɾami	h a ɾ a m i	h a ɾ a m i	311	311	AÇAÍ			
+10161	Deni	ACAI PALM	maraka	maraka	m a r a k a	m a r a k a	311	311	AÇAÍ			
 29	Banawa	BAMBOO	hado / toto	hado	h a d o	h a d o - -	237	237	BAMBOO			
 30	Banawa	BAMBOO	hado / toto	toto	t o t o	t o t o - -	382	364	BAMBOO			
 127	Banawa	BAMBOO	aɸi	aɸi	a ɸ i	a ɸ i	10	10	BAMBOO			small bamboo sp.
@@ -236,6 +240,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 911	Jarawara	BARK	atari	atari	a t a r i	a t a r i	208	208	SKIN			bark (of a tree)
 1277	Kulina	BARK	ɛtɛɾo	ɛtɛɾo	ɛ t ɛ ɾ o	ɛ t ɛ ɾ o	208	208	SKIN			bark (of a tree)
 10054	Sorowaha	BARK	asihi	asihi	a s i h i	a s i h i	679	207	SKIN			
+10170	Paumari	BARK	asaɸi	asaɸi	a s a ɸ i	a s a ɸ i	207	207	SKIN			
 32	Banawa	BE ANGRY	hama / jawa	hama	h a m a	h a m a	325	325	BE.ANGRY			
 207	Banawa	BE ANGRY	hama / jawa	jawa	j a w a	- - j a w a	86	86	BE.ANGRY			
 423	Deni	BE ANGRY	hamiʔe	hamiʔe	h a m i ʔ e	h a m i ʔ e	1232	1232	BE.ANGRY			
@@ -352,6 +357,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 937	Jarawara	NEAR	boko	boko	b o k o	b o k o	32	32	CLOSE			
 1022	Jarawara	NEAR	ajata	ajata	a j a t a	a j a t a	586	573	NEAR			
 1300	Kulina	NEAR	boko	boko	b o k o	b o k o	32	32	CLOSE			
+10266	Paumari	NEAR	maakari	maakari	m aː k a r i	m aː k a r i	830	788	NEAR			
+10267	Paumari	NEAR	ʔdihania	ʔdihania	ʔ d i h a n ia	ʔ d i h a n ia	828	786	NEAR			
+10268	Paumari	NEAR	iʔoarini	iʔoarini	i ʔ oa r i n i	i ʔ oa r i n i	829	787	NEAR			
 51	Banawa	FRIEND	tase	tase	t a s e	t a s e	332	332	COMPANION			
 657	Jamamadi	FRIEND	tese	tese	t e s e	t e s e	332	332	COMPANION			
 939	Jarawara	FRIEND	tase	tase	t a s e	t a s e	332	332	COMPANION			
@@ -418,6 +426,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1654	Paumari	FATHER	biʔi	biʔi	b i ʔ i	- - b i ʔ i	1	1	FATHER			
 1858	Sorowaha	FATHER	abi / ahadi	abi	a b i	- a b i - -	1	1	FATHER			
 10036	Sorowaha	FATHER	abi / ahadi	ahadi	a h a d i	a h a d i	656	615	FATHER			
+10202	Deni	FATHER	abi	abi	a b i	a b i	1	1	FATHER			
+10294	Arawa	FATHER	abi	abi	a b i	a b i	1	1	FATHER			
 62	Banawa	PATERNAL UNCLE (FATHER'S BROTHER)	badise	badise	b a d i s e	b a d i s e	336	336	FATHER'S.BROTHER			
 666	Jamamadi	PATERNAL UNCLE (FATHER'S BROTHER)	badise	badise	b a d i s e	b a d i s e	336	336	FATHER'S.BROTHER			
 960	Jarawara	PATERNAL UNCLE (FATHER'S BROTHER)	batise	batise	b a t i s e	b a t i s e	336	336	FATHER'S.BROTHER			
@@ -492,6 +502,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1339	Kulina	HAIR	kona	kona	k o n a	k o n a	275	275	HAIR			
 1866	Sorowaha	HAIR	kona / kasukɨ	kona	k o n a	k o n a	275	275	HAIR			
 10114	Sorowaha	HAIR	kona / kasukɨ	kasukɨ	k a s u k ɨ	k a s u k ɨ	737	699	HAIR			
+10240	Paumari	HAIR	aɸa	aɸa	a ɸ a	a ɸ a	813	749	FEATHER			
 75	Banawa	HAMMOCK	jiɸo	jiɸo	j i ɸ o	j i ɸ o	260	260	HAMMOCK			
 355	Deni	HAMMOCK	phoʔi	phoʔi	pʰ o ʔ i	pʰ o ʔ i	260	260	HAMMOCK			
 680	Jamamadi	HAMMOCK	jiɸo	jiɸo	j i ɸ o	j i ɸ o	260	260	HAMMOCK			
@@ -504,16 +515,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 985	Jarawara	HEAD	tati	tati	t a t i	t a t i	44	44	HEAD			
 1344	Kulina	HEAD	tati	tati	t a t i	t a t i	44	44	HEAD			
 1667	Paumari	HEAD	ɗaɗi	ɗaɗi	ɗ a ɗ i	ɗ a ɗ i	44	44	HEAD			
+10241	Paumari	HEAD	inakɨ / atɨ	atɨ	a t ɨ	a t ɨ	44	44	HEAD			also means forehead or face
+10242	Paumari	HEAD	inakɨ / atɨ	inakɨ	i n a k ɨ	i n a k ɨ	814	770	HEAD			refers to the upper part of any object
 77	Banawa	HEART	wakamari	wakamari	w a k a m a r i	w a k a m a r i	285	285	HEART			
 1345	Kulina	HEART	bonokʰoɾi	bonokʰoɾi	b o n o kʰ o ɾ i	b o n o kʰ o ɾ i	521	510	HEART			
 5036	Sorowaha	HEART	gʲazubuni / gʲãzubuni	gʲazubuni	gʲ a z u b u n i	gʲ a z u b u n i	1270	1270	HEART			
 5039	Sorowaha	HEART	gʲazubuni / gʲãzubuni	gʲãzubuni	gʲ ã z u b u n i	gʲ ã z u b u n i	1270	1270	HEART			
+10243	Paumari	HEART	kanabidi	kanabidi	k a n a b i d i	k a n a b i d i	1270	1270	HEART			
+10244	Deni	HEART	vabunukʰuri	vabunukʰuri	v a b u n u kʰ u r i	v a b u n u kʰ u r i	521	510	HEART			
 78	Banawa	HEAVY	kanaha	kanaha	k a n a h a	k a n a h a	279	279	HEAVY			
 358	Deni	HEAVY	kanaha	kanaha	k a n a h a	k a n a h a	279	279	HEAVY			
 1346	Kulina	HEAVY	kʰanaha	kʰanaha	kʰ a n a h a	kʰ a n a h a	279	279	HEAVY			
 1668	Paumari	HEAVY	khana	khana	kʰ a n a	kʰ a n a - -	279	279	HEAVY			
 10105	Sorowaha	HEAVY	kazaha / kaza	kazaha	k a z a h a	k a z a h a	279	279	HEAVY			
 10106	Sorowaha	HEAVY	kazaha / kaza	kaza	k a z a	k a z a	279	279	HEAVY			
+10245	Jarawara	HEAVY	kanaha	kanaha	k a n a h a	k a n a h a	279	279	HEAVY			
 79	Banawa	HERE	ahi	ahi	a h i	a h i - -	204	204	HERE			
 359	Deni	HERE	ahi	ahi	a h i	a h i - -	204	204	HERE			
 682	Jamamadi	HERE	ahi	ahi	a h i	a h i - -	204	204	HERE			
@@ -543,7 +559,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 989	Jarawara	MOUNTAIN OR HILL	atami	atami	a t a m i	a t a m i	3	3	HILL			
 1349	Kulina	MOUNTAIN OR HILL	adami	adami	a d a m i	a d a m i	3	3	HILL			
 1671	Paumari	MOUNTAIN OR HILL	adami	adami	a d a m i	a d a m i	3	3	HILL			
-1870	Sorowaha	MOUNTAIN OR HILL	aḍami	aḍami	a ḍ a + m i	a ḍ a + m i	3	3 631	EARTH ?			
+1870	Sorowaha	MOUNTAIN OR HILL	adami	adami	a d a + m i	a d a + m i	3	3 631	EARTH ?			
 83	Banawa	POISON	iha	iha	i h a	i h a	339	339	POISON			
 362	Deni	POISON	iha	iha	i h a	i h a	339	339	POISON			
 990	Jarawara	POISON	iha	iha	i h a	i h a	339	339	POISON			
@@ -554,6 +570,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 991	Jarawara	HOLE	hoti	hoti	h o t i	h o t i	246	246	HOLE			
 1351	Kulina	HOLE	odi	odi	o d i	- o d i	246	246	HOLE			
 1674	Paumari	HOLE	hodi	hodi	h o d i	h o d i	246	246	HOLE			
+10155	Sorowaha	HOLE	dadɨ	dadɨ	d a d ɨ	d a d ɨ	246	246	HOLE			
 85	Banawa	HOWLER MONKEY	jiko	jiko	j i k o	j i k - - o	252	252	HOWLER.MONKEY			
 366	Deni	HOWLER MONKEY	jajiʔo	jajiʔo	j a j i ʔ o	j a j i ʔ o	252	252	HOWLER.MONKEY			
 686	Jamamadi	HOWLER MONKEY	jiko	jiko	j i k o	j i k - - o	252	252	HOWLER.MONKEY			
@@ -568,6 +585,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 996	Jarawara	LIGHT (RADIATION)	ɸiri	ɸiri	ɸ i r i	ɸ i r i	312	312	ILLUMINATE			
 1192	Jarawara	LIGHT (RADIATION)	oje	oje	o j e	o j e	687	410	LIGHT			
 1356	Kulina	LIGHT (RADIATION)	piɾi	piɾi	p i ɾ i	p i ɾ i	312	312	ILLUMINATE			
+10153	Sorowaha	LIGHT (RADIATION)	harari	harari	h a r a r i	h a r a r i	759	721	LIGHT			
+10154	Sorowaha	LIGHT (RADIATION)	dukuma	dukuma	d u k u m a	d u k u m a	760	722	ILLUMINATE			
 87	Banawa	IMBAUBA	boko	boko	b o k o	b o k o - - - -	35	35	IMBAUBA			
 688	Jamamadi	IMBAUBA	bokosara	bokosara	b o k o s a r a	b o k o s a r a	35	35	IMBAUBA			
 997	Jarawara	IMBAUBA	boko	boko	b o k o	b o k o - - - -	35	35	IMBAUBA			
@@ -588,6 +607,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 999	Jarawara	FAT (ORGANIC SUBSTANCE)	jaha	jaha	j a h a	j a h a	1246	1246	FAT			
 1318	Kulina	FAT (ORGANIC SUBSTANCE)	okinɛ	okinɛ	o k i n ɛ	o k i n ɛ	1248	1248	FAT			
 5007	Sorowaha	FAT (ORGANIC SUBSTANCE)	amudzɨ	amudzɨ	a m u dz ɨ	a m u dz ɨ	1247	1247	FAT			
+10201	Paumari	FAT (ORGANIC SUBSTANCE)	basina	basina	b a s i n a	b a s i n a	787	747	FAT			
 90	Banawa	THING	jama	jama	j a m a	j a m a	341	341	THING			
 370	Deni	THING	jama	jama	j a m a	j a m a	341	341	THING			
 690	Jamamadi	THING	jama	jama	j a m a	j a m a	341	341	THING			
@@ -671,6 +691,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1691	Paumari	MOTHER	mia	mia	m i a	- m i - a - -	6	6	MOTHER			
 1880	Sorowaha	MOTHER	amiji / amadɪni	amiji	a m i j i	a m i j i - -	6	6	MOTHER			
 5035	Sorowaha	MOTHER	amiji / amadini	amadini	a m a d i n i	a m a d i n i	6	6	MOTHER			
+10295	Arawa	MOTHER	ami	ami	a m i	a m i	6	6	MOTHER			
 105	Banawa	MUD HOLE	ata	ata	a t a	a t a	349	349	MUD.HOLE			
 393	Deni	MUD HOLE	ata	ata	a t a	a t a	349	349	MUD.HOLE			
 706	Jamamadi	MUD HOLE	ata	ata	a t a	a t a	349	349	MUD.HOLE			
@@ -686,6 +707,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1023	Jarawara	NECK	namiti	namiti	n a m i t i	n a m i t i	373	405	NECK			
 1390	Kulina	NECK	mat̪ʰo	mat̪ʰo	m a t̪ʰ o	- - m a t̪ʰ o	373	405	NECK			
 10052	Sorowaha	NECK	asami	asami	a s a m i	a s a m i	678	628	NECK			
+10269	Paumari	NECK	nabidi / matʰa	nabidi	n a b i d i	n a b i d i	373	405	NECK			
+10270	Deni	NECK	matʰo	matʰo	m a tʰ o	m a tʰ o	373	405	NECK			
+10271	Paumari	NECK	nabidi / matʰa	matʰa	m a tʰ a	m a tʰ a	373	405	NECK			
 108	Banawa	NECKLACE	kasaro	kasaro	k a s a r o	k a s a r o	269	269	NECKLACE			
 709	Jamamadi	NECKLACE	kasaro	kasaro	k a s a r o	k a s a r o	269	269	NECKLACE			
 1024	Jarawara	NECKLACE	kasaro	kasaro	k a s a r o	k a s a r o	269	269	NECKLACE			
@@ -889,6 +913,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 741	Jamamadi	SICK	kija	kija	k i j a	k i j a	1212	1212	BE.ILL			
 1071	Jarawara	SICK	kija	kija	k i j a	k i j a	1212	1212	BE.ILL			
 1444	Kulina	SICK	kija	kija	k i j a	k i j a	1212	1212	BE.ILL			
+10151	Sorowaha	SICK	ʝumuri	ʝumuri	ʝ u m u r i	ʝ u m u r i	757	720	BE.ILL			
+10291	Arawa	SICK	amozaraha	amozaraha	a m o z a r a h a	a m o z a r a h a	839	796	BAD			
 138	Banawa	CATFISH	bahama	bahama	b a h a m a	- b a h a m a	215	215	SURUBIM.FISH			
 742	Jamamadi	CATFISH	bahama	bahama	b a h a m a	- b a h a m a	215	215	SURUBIM.FISH			
 1073	Jarawara	CATFISH	bahama	bahama	b a h a m a	- b a h a m a	215	215	SURUBIM.FISH			
@@ -965,6 +991,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 754	Jamamadi	CRY	ohi	ohi	o h i	o h i	304	304	CRY			
 1089	Jarawara	CRY	ohi	ohi	o h i	o h i	304	304	CRY			
 1462	Kulina	CRY	ohi	ohi	o h i	o h i	304	304	CRY			
+10147	Sorowaha	CRY	azana	azana	a z a n a	a z a n a	754	717	CRY			
 150	Banawa	CUT	kaa / wisi	kaa	k aː	k aː	265	265	CUT			
 466	Deni	CUT	ka / witsʰi	ka	k a	k a	265	265	CUT			
 755	Jamamadi	CUT	kaa / wisi	kaa	k aː	k aː	265	265	CUT			
@@ -1294,6 +1321,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1160	Jarawara	LEG	isi	isi	i s i	i s i - - - - -	77	77	LEG			
 1556	Kulina	LEG	itsʰo	itsʰo	i tsʰ o	i tsʰ o - - - - -	77	77	LEG			
 1946	Sorowaha	LEG	isowata	isowata	i s o + w a t a	i s o + w a t a	77	77 235	LEG CATCH			catch?
+10255	Paumari	LEG	avai	avai	a v ai	a v ai	820	776	LEG			below a knee
 202	Banawa	NEW	jati	jati	j a t i	j a t i	79	79	NEW			
 397	Deni	NEW	dzati / jati	dzati	dz a t i	dz a t i	79	79	NEW			
 535	Deni	NEW	dzati / jati	jati	j a t i	j a t i	79	79	NEW			
@@ -1314,6 +1342,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 812	Jamamadi	SLOTH	jao	jao	j a o	j a - o	82	82	SLOTH.SP.			
 1165	Jarawara	SLOTH	jao	jao	j a o	j a - o	82	82	SLOTH.SP.			
 1558	Kulina	SLOTH	jaʔo	jaʔo	j a ʔ o	j a ʔ o	82	82	SLOTH.SP.			
+10150	Kulina	SLOTH	kɨrɨwɨ	kɨrɨwɨ	k ɨ r ɨ w ɨ	k ɨ r ɨ w ɨ	756	719	SLOTH			
 206	Banawa	RAT	jaɸi	jaɸi	j a ɸ i	j a ɸ i	85	85	RAT.SP.			
 539	Deni	RAT	japi	japi	j a p i	j a p i	85	85	RAT.SP.			
 815	Jamamadi	RAT	jaɸi	jaɸi	j a ɸ i	j a ɸ i	85	85	RAT.SP.			
@@ -1379,12 +1408,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1574	Kulina	CHIN	anada	anada	a n a d a	- a n a d a	100	100	CHIN			
 1795	Paumari	CHIN	kanada	kanada	k a n a d a	k a n a d a	100	100	CHIN			
 10094	Sorowaha	CHIN	zaɾadɨ	zaɾadɨ	z a ɾ a d ɨ	z a ɾ a d ɨ	724	672	CHIN			
-219	Banawa	SMALL TOAD SP.	kawa	kawa	k a w a	k a w a	101	101	SMALL.TAOD.SP.			
-553	Deni	SMALL TOAD SP.	kawa	kawa	k a w a	k a w a	101	101	SMALL.TAOD.SP.			
-827	Jamamadi	SMALL TOAD SP.	kawa	kawa	k a w a	k a w a	101	101	SMALL.TAOD.SP.			
-1180	Jarawara	SMALL TOAD SP.	kawa	kawa	k a w a	k a w a	101	101	SMALL.TAOD.SP.			
-1575	Kulina	SMALL TOAD SP.	kawa	kawa	k a w a	k a w a	101	101	SMALL.TAOD.SP.			
-1796	Paumari	SMALL TOAD SP.	kapakapa	kapakapa	k a p a k a p a	k a p a + k a p a	557	550 550	? ?			
+219	Banawa	SMALL TOAD (SPECIES)	kawa	kawa	k a w a	k a w a	101	101	SMALL.TAOD.SP.			
+553	Deni	SMALL TOAD (SPECIES)	kawa	kawa	k a w a	k a w a	101	101	SMALL.TAOD.SP.			
+827	Jamamadi	SMALL TOAD (SPECIES)	kawa	kawa	k a w a	k a w a	101	101	SMALL.TAOD.SP.			
+1180	Jarawara	SMALL TOAD (SPECIES)	kawa	kawa	k a w a	k a w a	101	101	SMALL.TAOD.SP.			
+1575	Kulina	SMALL TOAD (SPECIES)	kawa	kawa	k a w a	k a w a	101	101	SMALL.TAOD.SP.			
+1796	Paumari	SMALL TOAD (SPECIES)	kapakapa	kapakapa	k a p a + k a p a	k a p a + k a p a	557	550 550	? ?			
 220	Banawa	HORSEFLY	karajati	karajati	k a r a j a t i	k a r a j a t i	103	103	HORSEFLY			
 555	Deni	HORSEFLY	karajati	karajati	k a r a j a t i	k a r a j a t i	103	103	HORSEFLY			
 828	Jamamadi	HORSEFLY	kariti	kariti	k a r i t i	k a r i - - t i	103	103	HORSEFLY			
@@ -1507,14 +1536,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1325	Kulina	FLOWER	mowɛ	mowɛ	m o w ɛ	m o w ɛ	136	136	FLOWER			
 1816	Paumari	FLOWER	moβa	moβa	m o β a	m o β a	136	136	FLOWER			
 1976	Sorowaha	FLOWER	mawa	mawa	m a w a	m a w a	136	136	FLOWER			
+10219	Deni	FLOWER	karabuni	karabuni	k a r a b u n i	k a r a b u n i	797	755	FLOWER			
 258	Banawa	NIGHT MONKEY	mowi	mowi	m o w i	m o w i	137	137	NIGHT.MONKEY			
 597	Deni	NIGHT MONKEY	mowi	mowi	m o w i	m o w i	137	137	NIGHT.MONKEY			
 1607	Kulina	NIGHT MONKEY	mowi	mowi	m o w i	m o w i	137	137	NIGHT.MONKEY			
-259	Banawa	PAXIUBA-BARRIGUDA	maboi	maboi	m a b oi	m a b oi	139	139	PAXIÚBA-BARRIGUDA.(PALM SP.)			
-598	Deni	PAXIUBA-BARRIGUDA	wabohi	wabohi	w a b o h i	w a b o h i	139	139	PAXIÚBA-BARRIGUDA.(PALM SP.)			
-867	Jamamadi	PAXIUBA-BARRIGUDA	nabohi	nabohi	n a b o h i	n a b o h i	139	139	PAXIÚBA-BARRIGUDA.(PALM SP.)			
-1229	Jarawara	PAXIUBA-BARRIGUDA	nabohi	nabohi	n a b o h i	n a b o h i	139	139	PAXIÚBA-BARRIGUDA.(PALM SP.)			
-1608	Kulina	PAXIUBA-BARRIGUDA	wabowi	wabowi	w a b o w i	w a b o w i	139	139	PAXIÚBA-BARRIGUDA.(PALM SP.)			
+259	Banawa	PAXIUBA-BARRIGUDA	maboi	maboi	m a b oi	m a b oi	139	139	PAXIUBA-BARRIGUDA			
+598	Deni	PAXIUBA-BARRIGUDA	wabohi	wabohi	w a b o h i	w a b o h i	139	139	PAXIUBA-BARRIGUDA			
+867	Jamamadi	PAXIUBA-BARRIGUDA	nabohi	nabohi	n a b o h i	n a b o h i	139	139	PAXIUBA-BARRIGUDA			
+1229	Jarawara	PAXIUBA-BARRIGUDA	nabohi	nabohi	n a b o h i	n a b o h i	139	139	PAXIUBA-BARRIGUDA			
+1608	Kulina	PAXIUBA-BARRIGUDA	wabowi	wabowi	w a b o w i	w a b o w i	139	139	PAXIUBA-BARRIGUDA			
 260	Banawa	BIG	naɸi	naɸi	n a ɸ i	n a ɸ i	138	138	BIG			
 308	Deni	BIG	putahari / napi	putahari	p u t a h a r i	p u t a h a r i	390	370	BIG			
 599	Deni	BIG	putahari / napi	napi	n a p i	n a p i	138	138	BIG			
@@ -1577,6 +1607,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1243	Jarawara	WOMAN	ɸana	ɸana	ɸ a n a	ɸ a n a	155	154	WOMAN			
 1527	Kulina	WOMAN	amonɛhɛ	amonɛhɛ	a m o n ɛ h ɛ	a m o n ɛ h ɛ	401	1006	WOMAN			
 5063	Sorowaha	WOMAN	hadʒini	hadʒini	h a dʒ i n i	h a dʒ i n i	403	381	WOMAN			
+10293	Arawa	WOMAN	waidawa	waidawa	w ai d a w a	w ai d a w a	841	798	WOMAN			
 272	Banawa	BITTER MANIOC	ɸowa	ɸowa	ɸ o w a	ɸ o w a	156	156	BITTER.MANIOC			
 611	Deni	BITTER MANIOC	poʔo	poʔo	p o ʔ o	p o ʔ o	156	156	BITTER.MANIOC			
 881	Jamamadi	BITTER MANIOC	ɸowa	ɸowa	ɸ o w a	ɸ o w a	156	156	BITTER.MANIOC			
@@ -1622,12 +1653,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 891	Jamamadi	TOBACCO	sina	sina	s i n a	s i n a	169	169	TOBACCO			
 1254	Jarawara	TOBACCO	sina	sina	s i n a	s i n a	169	169	TOBACCO			
 1627	Kulina	TOBACCO	tsʰina	tsʰina	tsʰ i n a	tsʰ i n a	169	169	TOBACCO			
-5181	Sorowaha	TOBACCO	kuumadi	kuumadi	k uː m a d i	k uː m a d i	568	556	TOBACCO			
+5181	Sorowaha	TOBACCO	kumadi	kumadi	k u m a d i	k u m a d i	568	556	TOBACCO			
+10287	Arawa	TOBACCO	aga	aga	a g a	a g a	837	795	TOBACCO			
 283	Banawa	AGOUTI	sinama	sinama	s i n a m a	s i n a m a	170	170	AGOUTI			
 623	Deni	AGOUTI	tsʰinama	tsʰinama	tsʰ i n a m a	tsʰ i n a m a	170	170	AGOUTI			
 892	Jamamadi	AGOUTI	sinama	sinama	s i n a m a	s i n a m a	170	170	AGOUTI			
 1255	Jarawara	AGOUTI	sinama	sinama	s i n a m a	s i n a m a	170	170	AGOUTI			
 1628	Kulina	AGOUTI	tsʰinama	tsʰinama	tsʰ i n a m a	tsʰ i n a m a	170	170	AGOUTI			
+10159	Sorowaha	AGOUTI	inamɨ	inamɨ	i n a m ɨ	i n a m ɨ	170	170	AGOUTI			
+10160	Paumari	AGOUTI	dʒaoʔoro	dʒaoʔoro	dʒ ao ʔ o r o	dʒ ao ʔ o r o	762	725	AGOUTI			
 284	Banawa	TOAST	sira	sira	s i r a	s i r a	171	171	TOAST			
 893	Jamamadi	TOAST	sira	sira	s i r a	s i r a	171	171	TOAST			
 1256	Jarawara	TOAST	sira	sira	s i r a	s i r a	171	171	TOAST			
@@ -1664,6 +1698,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1273	Kulina	BAD	bitsʰa / waidiɾa /tabakʰoɾa	bitsʰa	b i tsʰ a	b i tsʰ a	357	286	BAD			
 1274	Kulina	BAD	bitsʰa / waidiɾa /tabakʰoɾa	tabakʰoɾa	t a b a kʰ o ɾ a	t a b a kʰ o ɾ a	571	559	BAD			
 7563	Kulina	BAD	bitsʰa / waidiɾa /tabakʰoɾa	waidiɾa	w ai d i ɾ a	w ai d i ɾ a	356	180	BAD			
+10167	Paumari	BAD	dʒahariki	dʒahariki	dʒ a h a r i k i	dʒ a h a r i k i	766	729	BAD			
+10168	Jarawara	BAD	hijara / tohe	hijara	h i j a r a	h i j a r a	768	731	BAD			
+10169	Jarawara	BAD	hijara / tohe	tohe	t o h e	t o h e	767	730	BAD			
+10290	Arawa	BAD	amozaraha	amozaraha	a m o z a r a h a	a m o z a r a h a	838	796	BAD			
 300	Deni	BATHE	konaha	konaha	k o n a h a	k o n a h a	276	276	BATHE			
 1278	Kulina	BATHE	kona	kona	k o n a	k o n a - -	276	276	BATHE			
 1639	Paumari	BATHE	kona	kona	k o n a	k o n a - -	276	276	BATHE			
@@ -1674,8 +1712,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 643	Jamamadi	BEETLE	hijabo	hijabo	h i j a b o	h i j a b o	242	242	BEETLE			
 917	Jarawara	BEETLE	hijabo	hijabo	h i j a b o	h i j a b o	242	242	BEETLE			
 1283	Kulina	BEETLE	hijabo	hijabo	h i j a b o	h i j a b o	242	242	BEETLE			
-307	Deni	BELLY	dzaha	dzaha	dz a h a	dz a h a	287	287	BELLY			
-369	Deni	BELLY	jehe	jehe	j e h e	j e h e	1228	1228	ABDOMEN			
+307	Deni	BELLY	dzaha / jehe	dzaha	dz a h a	dz a h a	287	287	BELLY			
+369	Deni	BELLY	dzaha / jehe	jehe	j e h e	j e h e	1228	1228	ABDOMEN			
 919	Jarawara	BELLY	nabati	nabati	n a b a t i	n a b a t i	388	366	BELLY			
 1285	Kulina	BELLY	idzoni	idzoni	i dz o n i	i dz o n i	387	367	BELLY			
 1677	Paumari	BELLY	jaha	jaha	j a h a	j a h a	1228	1228	ABDOMEN			
@@ -1687,10 +1725,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 312	Deni	BLACK	kiride	kiride	k i r i d e	k i r i d e	1288	1288	BLACK			
 1289	Kulina	BLACK	tsowɛ	tsowɛ	ts o w ɛ	ts o w ɛ	1289	1289	BLACK			
 10049	Sorowaha	BLACK	asa	asa	a s a	a s a	677	627	DARK			
+10171	Paumari	BLACK	bara	bara	b a r a	b a r a	769	732	BLACK			
+10172	Jarawara	BLACK	soki / hahasa na	hahasa na	h a h a s a + n a	h a h a s a + n a	771	735 734	? CAUSATIVE			
+10173	Jarawara	BLACK	soki / hahasa na	soki	s o k i	s o k i	770	733	BLACK			
 323	Deni	CORPSE	abapo	abapo	a b a p o	a b a p o	574	561	CORPSE			
 324	Deni	CORRECT (RIGHT)	naniarini	naniarini	n a n i a r i n i	n a n i a r i n i	575	562	CORRECT			
 326	Deni	DAY (NOT NIGHT)	vada	vada	v a d a	v a d a	576	563	DAY			
 941	Jarawara	DAY (NOT NIGHT)	jia	jia	j i a	j i a	577	564	DAY			
+10182	Paumari	DAY (NOT NIGHT)	mahi	mahi	m a h i	m a h i	779	741	DAY			
 330	Deni	DIRTY	kiri	kiri	k i r i	k i r i	580	567	DIRTY			
 944	Jarawara	DIRTY	bisa / tohja	bisa	b i s a	b i s a	14	14	DIRTY			
 945	Jarawara	DIRTY	bisa / tohja	tohja	t o h j a	t o h j a	392	372	DIRTY			
@@ -1701,6 +1743,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 337	Deni	FAR	vahini	vahini	v a h i n i	v a h i n i	1243	1243	FAR			
 958	Jarawara	FAR	jabo	jabo	j a b o	j a b o	1244	1244	FAR			
 1317	Kulina	FAR	wahi	wahi	w a h i	w a h i - -	1243	1243	FAR			
+10200	Paumari	FAR	ada	ada	a d a	a d a	786	746	FAR			
 342	Deni	FIX	ta	ta	t a	t a - -	45	45	FIX			
 1661	Paumari	FIX	ɗakha	ɗakha	ɗ a kʰ a	ɗ a kʰ a	45	45	FIX			
 343	Deni	FOREHEAD	atha	atha	a t h a	a t h a	210	210	FOREHEAD			
@@ -1721,7 +1764,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1329	Kulina	FRUIT	bono	bono	b o n o	b o n o	34	34	FRUIT			
 1663	Paumari	FRUIT	bono	bono	b o n o	b o n o	34	34	FRUIT			
 5011	Sorowaha	FRUIT	midʒiɾi	midʒiɾi	m i dʒ i ɾ i	m i dʒ i ɾ i	1263	1263	FRUIT			
-351	Deni	GREEN	derepede	derepede	d e r e p e d e	d e r e p e d e	1267	1267	GREEN			
+351	Deni	BLUE OR GREEN	tereɸede	tereɸede	t e r e ɸ e d e	t e r e ɸ e d e	1267	1267	BLUE_GREEN			
+10234	Paumari	BLUE OR GREEN	kori	kori	k o r i	k o r i	810	767	BLUE_GREEN			
+10235	Sorowaha	BLUE OR GREEN	karakori	karakori	k a r a k o r i	k a r a k o r i	810	767	BLUE_GREEN			
+10236	Jarawara	BLUE OR GREEN	teteɸo	teteɸo	t e t e ɸ o	t e t e ɸ o	811	768	BLUE_GREEN			
 356	Deni	HARD	khara	khara	kʰ a r a	kʰ a r a	278	278	HARD			
 1342	Kulina	HARD	kʰaɾa	kʰaɾa	kʰ a ɾ a	kʰ a ɾ a	278	278	HARD			
 1666	Paumari	HARD	kaara	kaara	k aː r a	k aː r a	278	278	HARD			
@@ -1732,6 +1778,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1364	Kulina	KNEE	kʰoboɾi / pito / tidzoɾi	pito	p i t o	p i t o	582	569	KNEE			
 1365	Kulina	KNEE	kʰoboɾi / pito / tidzoɾi	tidzoɾi	t i dz o ɾ i	t i dz o ɾ i	583	570	KNEE			
 10076	Sorowaha	KNEE	suwatɨ	suwatɨ	s u w a t ɨ	s u w a t ɨ	344	651	KNEE			
+10254	Paumari	KNEE	kadʒoʔatʰa	kadʒoʔatʰa	k a dʒ o ʔ a tʰ a	k a dʒ o ʔ a tʰ a	819	775	KNEE			
 375	Deni	LATE	naho	naho	n a h o	n a h o - - -	296	296	LATE			
 1682	Paumari	LATE	naothi	naothi	n a o t h i	n a - o t h i	296	296	LATE			
 379	Deni	STORY	ima	ima	i m a	i m a	695	695	STORY			
@@ -1749,11 +1796,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1021	Jarawara	NAME	ini	ini	i n i	i n i	309	309	NAME			
 1389	Kulina	NAME	oni	oni	o n i	o n i	309	309	NAME			
 1692	Paumari	NAME	oni	oni	o n i	o n i	309	309	NAME			
-398	Deni	NIGHT	dzume	dzume	d z u m e	d z u m e	589	574	NIGHT			
-1026	Jarawara	NIGHT	jama	jama	j a m a	j a m a	588	575	NIGHT			
+398	Deni	NIGHT	dzume	dzume	dz u m e	dz u m e	589	575	NIGHT			
+1026	Jarawara	NIGHT	jama	jama	j a m a	j a m a	589	575	NIGHT			
+10272	Paumari	NIGHT	dʒoma	dʒoma	dʒ o m a	dʒ o m a	589	575	NIGHT			
+10273	Kulina	NIGHT	zome	zome	z o m e	z o m e	589	575	NIGHT			
 399	Deni	NOSE	ene	ene	e n e	e n e	1112	1112	NOSE			
 1392	Kulina	NOSE	ɛnɛ	ɛnɛ	ɛ n ɛ	ɛ n ɛ	1112	1112	NOSE			
 1694	Paumari	NOSE	βiridi	βiridi	β i r i d i	β i r i d i	590	576	NOSE			
+10274	Jarawara	NOSE	witi	witi	w i t i	w i t i	588	574	NOSE			
 408	Deni	PASSION FRUIT	sanaro	sanaro	s a n a r o	s a n a r o	1222	1222	PASSION.FRUIT			
 717	Jamamadi	PASSION FRUIT	sanaro	sanaro	s a n a r o	s a n a r o	1222	1222	PASSION.FRUIT			
 1885	Sorowaha	PASSION FRUIT	sanaɾo / sanaɾu	sanaɾo	s a n a ɾ o	s a n a ɾ o	1222	1222	PASSION.FRUIT			
@@ -1792,12 +1842,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1413	Kulina	RED	makʰo / mapʰaɾa	makʰo	m a kʰ o	m a kʰ o - -	595	582	RED			
 1414	Kulina	RED	makʰo / mapʰaɾa	mapʰaɾa	m a pʰ a ɾ a	m a pʰ a ɾ a	596	581	RED			
 10011	Sorowaha	RED	ad̥a	ad̥a	a d̥ a	a d̥ a	632	599	RED			
+10280	Paumari	RED	nadara	nadara	n a d a r a	n a d a r a	596	581	RED			
+10281	Jarawara	RED	ama	ama	a m a	a m a	835	793	RED			
+10282	Jarawara	RED	mawa	mawa	m a w a	m a w a	834	792	RED			
 425	Deni	RESIN	moja	moja	m o j a	m o j a	295	295	RESIN			
 1415	Kulina	RESIN	moja	moja	m o j a	m o j a	295	295	RESIN			
 1891	Sorowaha	RESIN	moja	moja	m o j a	m o j a	295	295	RESIN			
-426	Deni	RIVER	patsu	patsu	p a t s u	p a t s u	597	583	RIVER			
+426	Deni	RIVER	patsu	patsu	p a t s u	p a t s u	597	583	WATER			
 1416	Kulina	RIVER	wɛni	wɛni	w ɛ n i	w ɛ n i	430	417	RIVER			
 1710	Paumari	RIVER	βaini	βaini	β ai n i	β ai n i	430	417	RIVER			
+10289	Arawa	RIVER	paha	paha	p a h a	p a h a	597	157	WATER			
 430	Deni	RUBBER TREE	wekheʔi	wekheʔi	w e kʰ e ʔ i	w e kʰ e ʔ i	1134	1134	RUBBER.TREE			
 726	Jamamadi	RUBBER TREE	weke	weke	w e k e	w e k e - -	1134	1134	RUBBER.TREE			
 1420	Kulina	RUBBER TREE	wɛkʰɛʔi	wɛkʰɛʔi	w ɛ kʰ ɛ ʔ i	w ɛ kʰ ɛ ʔ i	1134	1134	RUBBER.TREE			
@@ -1805,11 +1859,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 729	Jamamadi	ANT (SPECIES)	awita	awita	a w i t a	a w i t - a	15	15	SMALL.ANT.WITH.PAINFUL.BITE			
 1432	Kulina	ANT (SPECIES)	awit̪ʰa	awit̪ʰa	a w i t̪ʰ a	a w i t̪ʰ - a	15	15	SMALL.ANT.WITH.PAINFUL.BITE			
 440	Deni	SMOOTH	merude	merude	m e r u d e	m e r u d e	288	288	SMOOTH			
-1060	Jarawara	SMOOTH	bono kana	bono kana	b o n o + k a n a		622	445 481	SMOOTH ?			
+1060	Jarawara	SMOOTH	bono kana	bono kana	b o n o + k a n a	b o n o + k a n a	622	445 481	SMOOTH ?			
 443	Deni	SON	daʔo	daʔo	d a ʔ o	d a ʔ o	36	36	SON			
 736	Jamamadi	SON	dao	dao	d a o	d a - o	36	36	SON			
 1065	Jarawara	SON	tao	tao	t a o	t a - o	36	36	SON			
-10039	Sorowaha	SON	ahiḍi	ahiḍi	a h i ḍ i	a h i ḍ i	659	425	OFFSPRING			
+10039	Sorowaha	SON	ahidi	ahidi	a h i d i	a h i d i	659	425	OFFSPRING			
 447	Deni	SHIT (DEFECATE)	kija	kija	k i j a	k i j a	599	1212	DEFECATE			
 1726	Paumari	SHIT (DEFECATE)	kia	kia	k i a	k i - a	599	1212	DEFECATE			
 448	Deni	STRETCH OUT LEGS	bitsʰo	bitsʰo	b i tsʰ o	b i tsʰ o - -	696	696	STRETCH.OUT.LEGS			
@@ -1906,6 +1960,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1272	Kulina	BACK	nat̪ʰi / idɛ	nat̪ʰi	n a t̪ʰ i	n a t̪ʰ i	323	323	BACK			
 1552	Kulina	BACK	nat̪ʰi / idɛ	idɛ	i d ɛ	i d ɛ	71	71	BACK			
 1781	Paumari	BACK	ida	ida	i d a	i d a	71	71	BACK			
+10165	Sorowaha	BACK	isi	isi	i s i	i s i	71	71	BACK			
+10166	Jarawara	BACK	bari	bari	b a r i	b a r i	765	728	BACK			
 536	Deni	INSECT	jaʔo	jaʔo	j a ʔ o	j a ʔ o	81	81	LARGE.INSECT			
 1164	Jarawara	INSECT	jao	jao	j a o	j a - o	81	81	LARGE.INSECT			
 551	Deni	BUTTERFLY	makoko	makoko	m a k o k o	- - m a k o k o - -	99	99	BUTTTERFLY			
@@ -1951,6 +2007,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 629	Jamamadi	ALLIGATOR	ona	ona	o n a	o n a	308	308	ALLIGATOR			
 899	Jarawara	ALLIGATOR	ona	ona	o n a	o n a	308	308	ALLIGATOR			
 1835	Sorowaha	ALLIGATOR	ona	ona	o n a	o n a	308	308	ALLIGATOR			
+10162	Deni	ALLIGATOR	tukuzu	tukuzu	t u k u z u	t u k u z u	763	726	ALLIGATOR			
+10163	Kulina	ALLIGATOR	wama / tokozo	wama	w a m a	w a m a	764	727	ALLIGATOR			
+10164	Kulina	ALLIGATOR	wama / tokozo	tokozo	t o k o z o	t o k o z o	763	726	ALLIGATOR			black caiman
 634	Jamamadi	APUNÃ	baro	baro	b a r o	b a r o	320	320	APUNÃ			
 905	Jarawara	APUNÃ	baro	baro	b a r o	b a r o	320	320	APUNÃ			
 659	Jamamadi	CRAB	amo	amo	a m o	a m o	7	7	CRAB			
@@ -1986,14 +2045,24 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1980	Sorowaha	GARDEN	hadaɾa	hadaɾa	h a d a ɾ a	h a d a ɾ a	151	151	GARDEN			
 886	Jamamadi	BANANA	satowi	satowi	s a t o w i	s a t o w i	162	162	BANANA.SP.			
 1826	Paumari	BANANA	satomi	satomi	s a t o m i	s a t o m i	162	162	BANANA.SP.			
+10286	Arawa	BANANA	fanara	fanara	f a n a r a	f a n a r a	836	794	BANANA.SP.			
 898	Jarawara	ALL	naɸi	naɸi	n a ɸ i	n a ɸ i	1231	1231	ALL			
 10080	Sorowaha	ALL	tumimaɾɨ	tumimaɾɨ	t u m i m a ɾ ɨ	t u m i m a ɾ ɨ	712	655	ALL			
+10129	Deni	ALL	tuχirariʔa / hika	tuχirariʔa	t u χ i r a r i ʔ a	t u χ i r a r i ʔ a	712	655	ALL			
+10130	Deni	ALL	tuχirariʔa / hika	hika	h i k a	h i k a	749	712	ALL			
+10131	Paumari	ALL	hehaviki / hahavi	hahavi	h a h a v i	h a h a v i	750	713	ALL			
+10132	Paumari	ALL	hehaviki / hahavi	hehaviki	h e h a v i k i	h e h a v i k i	750	713	ALL			
+10133	Kulina	ALL	wapima / bazima	wapima	w a p i m a	w a p i m a	751	714	ALL			also means 'many'
+10134	Kulina	ALL	wapima / bazima	bazima	b a z i m a	b a z i m a	752	715	ALL			also means 'many'
 900	Jarawara	ANIMAL	bani	bani	b a n i	b a n i - - - - -	318	318	ANIMAL			
 1262	Kulina	ANIMAL	bani / banitsiɾi	bani	b a n i	b a n i - - - - -	318	318	ANIMAL			
 1263	Kulina	ANIMAL	bani / banitsiɾi	banitsiɾi	b a n i + ts i ɾ i	b a n i + ts i ɾ i	318	318 492	ANIMAL ?			
-1782	Paumari	ANIMAL	igitha	igitha	i g i t h a	i g i t h a	73	73	ANIMAL			
+1782	Paumari	ANIMAL	igitʰa	igitʰa	i g i tʰ a	i g i tʰ a	73	73	ANIMAL			
 1944	Sorowaha	ANIMAL	igatɨ / iigʲatɨ	igatɨ	i g a t ɨ	i g a t - ɨ	73	73	ANIMAL			
 5157	Sorowaha	ANIMAL	igatɨ / iigʲatɨ	iigʲatɨ	iː gʲ a t ɨ	iː gʲ a t - ɨ	73	73	ANIMAL			
+10135	Deni	ANIMAL	bani	bani	b a n i	b a n i	318	318	ANIMAL			
+10139	Banawa	ANIMAL	bani	bani	b a n i	b a n i	318	318	ANIMAL			
+10140	Jamamadi	ANIMAL	bani	bani	b a n i	b a n i	318	318	ANIMAL			
 921	Jarawara	BIRD	bani	bani	b a n i	b a n i	508	318	ANIMAL			
 925	Jarawara	BONE	tone	tone	t o n e	- - t o n e	191	191	BONE			
 2007	Sorowaha	BONE	atona	atona	a t o n a	- a t o n a	191	191	BONE			
@@ -2004,14 +2073,31 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 8005	Paumari	BONE	katona	katona	k a t o n a	k a t o n a	191	191	BONE			
 936	Jarawara	CHILD	inamatewe	inamatewe	i n a m a t e w e	i n a m a t e w e	395	374	CHILD			
 1299	Kulina	CHILD	ɛhɛdɛni	ɛhɛdɛni	ɛ h ɛ d ɛ n i	ɛ h ɛ d ɛ n i	396	375	CHILD			
+10174	Paumari	CHILD	badia / isai	badia	b a d ia	b a d ia	772	736	CHILD			
+10175	Paumari	CHILD	badia / isai	isai	i s ai	i s ai	773	737	CHILD			
+10176	Deni	CHILD	eheve	eheve	e h e v e	e h e v e	774	738	CHILD			
 938	Jarawara	CLOUD	sabi	sabi	s a b i	s a b i	506	491	CLOUD			
 1301	Kulina	CLOUD	mɛmɛ ɛtsʰɛ	mɛmɛ ɛtsʰɛ	m ɛ m ɛ + ɛ tsʰ ɛ	m ɛ m ɛ + ɛ tsʰ ɛ	507	1001 1002	CLOUD ?			
-947	Jarawara	DOG	jomee	jomee	j o m eː	j o m eː	504	489	DOG			
+10177	Paumari	CLOUD	bahi	bahi	b a h i	b a h i	775	739	CLOUD			
+10178	Deni	CLOUD	aʃivani	aʃivani	a ʃ i v a n i	a ʃ i v a n i	776	740	SMOKE			
+947	Jarawara	DOG	jomee	jomee	j o m eː	j o m eː	504	90	JAGUAR			
 1309	Kulina	DOG	ɛt̪ʰɛ	ɛt̪ʰɛ	ɛ t̪ʰ ɛ	ɛ t̪ʰ ɛ	505	490	DOG			
+10185	Paumari	DOG	jomahi vaovaoha	jomahi vaovaoha	j o m a h i + v ao v ao h a	j o m a h i + v ao v ao h a	504	90 742	JAGUAR onomatopoeic			
+10186	Deni	DOG	meze	meze	m e z e	m e z e	781	489	DOG			
+10283	Arawa	DOG	dʒumajhi	dʒumajhi	dʒ u m a j h i	dʒ u m a j h i	504	90	JAGUAR			
 950	Jarawara	DULL	toboro	toboro	t o b o r o	t o b o r o	1236	1236	DULL			
 951	Jarawara	DUST	hobokori	hobokori	h o b o k o r i	h o b o k o r i	1237	1237	DUST			
+10187	Paumari	DUST	χoma	χoma	χ o m a	χ o m a	780	743	DUST			
 966	Jarawara	FOG	hote	hote	h o t e	h o t e	1259	1259	FOG			
+10220	Paumari	FOG	maro	maro	m a r o	m a r o	798	756	FOG			
+10221	Paumari	FOG	magimagi	magimagi	m a g i + m a g i	m a g i + m a g i	799	757 757	FOG FOG			
+10222	Deni	FOG	aʃivani	aʃivani	a ʃ i v a n i	a ʃ i v a n i	800	740	SMOKE			
 975	Jarawara	FULL	moo	moo	m oː	m oː	1264	1264	FULL			
+10225	Sorowaha	FULL	harunaru / habuku	habuku	h a b u k u	h a b u k u	801	758	FULL			
+10226	Sorowaha	FULL	harunaru / habuku	harunaru	h a r u n a r u	h a r u n a r u	802	759	FULL			
+10227	Paumari	FULL	daiki / dʒiʔbiniki	dʒiʔbiniki	dʒ i ʔ b i n i k i	dʒ i ʔ b i n i k i	804	761	FULL			
+10229	Paumari	FULL	daiki / dʒiʔbiniki	daiki	d ai k i	d ai k i	803	760	FULL			
+10292	Arawa	FULL	tɨidi	tɨidi	t ɨi d i	t ɨi d i	840	797	FULL			
 984	Jarawara	HE	he	he	h e	h e	502	487	HE			
 1343	Kulina	HE	powa	powa	p o w a	p o w a	503	488	HE			
 993	Jarawara	I	owa	owa	o w a	o w a	340	340	I			
@@ -2024,6 +2110,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1377	Kulina	MANY	badzima / wapima / tsibɛma	wapima	w a p i m a	w a p i m a	499	483	MANY			
 1378	Kulina	MANY	badzima / wapima / tsibɛma	tsibɛma	ts i b ɛ m a	ts i b ɛ m a	498	484	MANY			
 5158	Sorowaha	MANY	aamasa	aamasa	aː m a s a	aː m a s a	424	398	MANY			
+10261	Deni	MANY	hirahiranaɸiriʔa	hirahiranaɸiriʔa	h i r a h i r a n a ɸ i r i ʔ a	h i r a h i r a n a ɸ i r i ʔ a	824	782	MANY			
 1046	Jarawara	SALT	saha	saha	s a h a	s a h a	494	478	SALT			
 1421	Kulina	SALT	tsao	tsao	ts a o	ts a o	495	479	SALT			
 1048	Jarawara	HAPPY	akara	akara	a k a r a	a k a r a	1005	1005	SATISFIED			
@@ -2069,32 +2156,72 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1222	Jarawara	CATERPILLAR	wakari	wakari	w a k a r i	w a k a r i	394	700	unknown16			
 10013	Sorowaha	CATERPILLAR	zaamakusa	zaamakusa	z aː m a + k u s a	z aː m a + k u s a	634	341 600	THING ?			
 1270	Kulina	ASH	okonɛ	okonɛ	o k o n ɛ	o k o n ɛ	354	155	ASH			
+10136	Deni	ASH	ununi	ununi	u n u n i	u n u n i	354	155	ASH			
+10137	Jarawara	ASH	nakosiri / hobokori	nakosiri	n a k o s i r i	n a k o s i r i	752	715	ASH			
+10138	Jarawara	ASH	nakosiri / hobokori	hobokori	h o b o k o r i	h o b o k o r i	752	715	ASH			
 1281	Kulina	BECAUSE	hini	hini	h i n i	h i n i	361	355	BECAUSE			
 1286	Kulina	BELOW OR UNDER	nami	nami	n a m i	n a m i	298	298	GROUND			
-1313	Kulina	EGG	nɛpʰɛ	nɛpʰɛ	n ɛ pʰ ɛ	n ɛ pʰ ɛ	1254	1254	EGG			
+1313	Kulina	EGG	nɛpʰɛ	nɛpʰɛ	n ɛ pʰ ɛ	n ɛ pʰ ɛ	784	360	EGG			
 5054	Sorowaha	EGG	inʲahɨ	inʲahɨ	i nʲ a h ɨ	i nʲ a h ɨ	1255	1255	EGG			
+10193	Paumari	EGG	χoχoro / naɸani	χoχoro	χ o χ o r o	χ o χ o r o	783	745	EGG			
+10194	Paumari	EGG	χoχoro / naɸani	naɸani	n a ɸ a n i	n a ɸ a n i	784	360	SCROTUM			
+10195	Deni	EGG	naɸani	naɸani	n a ɸ a n i	n a ɸ a n i	784	360	SCROTUM			
+10285	Arawa	EGG	nafarina	nafarina	n a f a r i n a	n a f a r i n a	784	360	EGG			
 1316	Kulina	EYE	nokʰo	nokʰo	n o kʰ o	n o kʰ o	1242	1242	EYE			
+10196	Paumari	EYE	nokʰo	nokʰo	n o kʰ o	n o kʰ o	1242	1242	EYE			
+10197	Deni	EYE	nukʰu	nukʰu	n u kʰ u	n u kʰ u	1242	1242	EYE			
+10198	Jarawara	EYE	noki	noki	n o k i	n o k i	1242	1242	EYE			also means face
+10199	Sorowaha	EYE	zubi	zubi	z u b i	z u b i	785	673	EYE			also means seed
 1322	Kulina	FINGERNAIL	nokotsʰi	nokotsʰi	n o k o tsʰ i	n o k o tsʰ i	1250	685	FINGERNAIL			
+10208	Deni	FINGERNAIL	nukʰuʃini	nukʰuʃini	n u kʰ u ʃ i n i	n u kʰ u ʃ i n i	1250	685	FINGERNAIL			
+10211	Jarawara	FINGERNAIL	jehe atari	jehe atari	j e h e + a t a r i	j e h e + a t a r i	792	83 208	HAND SKIN			
+10216	Paumari	FINGERNAIL	ʔdamai kanakoʔdini	ʔdamai kanakoʔdini	ʔ d a m ai + k a n a k o ʔ d i n i	ʔ d a m ai + k a n a k o ʔ d i n i	796	752 754	FINGER ?			
+10217	Deni	FINGERNAIL	saʔai kanakoʔdini	saʔai kanakoʔdini	s a ʔ ai + k a n a k o ʔ d i n i	s a ʔ ai + k a n a k o ʔ d i n i	796	752 753	FINGER ?			
 1328	Kulina	FOREST	dzama / jama	dzama	dz a m a	dz a m a	341	341	THING			
 1359	Kulina	FOREST	dzama / jama	jama	j a m a	j a m a	341	341	THING			
 10027	Sorowaha	FOREST	aga hʊʊɾi	aga hʊʊɾi	a g a + h ʊː ɾ i	a g a + h ʊː ɾ i	647	537 1274	TREE INSIDE			
 10100	Sorowaha	FOREST	zama	zama	z a m a	z a m a	341	341	THING			
+10224	Paumari	FOREST	dʒama	dʒama	dʒ a m a	dʒ a m a	341	341	THING			
 1335	Kulina	GRASS	dzɛɾo makʰa / dzɛɾo taapi	dzɛɾo makʰa	dz ɛ ɾ o + m a kʰ a	dz ɛ ɾ o + m a kʰ a	1266	4000 288	GRASS SNAKE			
 1336	Kulina	GRASS	dzɛɾo makʰa / dzɛɾo taapi	dzɛɾo taapi	dz ɛ ɾ o + t aː p i	dz ɛ ɾ o + t aː p i	1266	4000 5001	GRASS ?			
+10231	Jarawara	GRASS	masiri	masiri	m a s i r i	m a s i r i	808	764	GRASS			
+10232	Sorowaha	GRASS	natuza	natuza	n a t u z a	n a t u z a	807	765	GRASS			
+10233	Deni	GRASS	hamaʃi	hamaʃi	h a m a ʃ i	h a m a ʃ i	809	766	GRASS			
 1352	Kulina	HORN (ANATOMY)	oɾi	oɾi	o ɾ i	o ɾ i	1271	1271	HORN			
-1354	Kulina	HUSBAND	makʰi	makʰi	m a kʰ i	m a kʰ i	478	289	HUSBAND			
+10246	Jarawara	HORN (ANATOMY)	warabi awe / narabi	warabi awe	w a r a b i + a w e	w a r a b i + a w e	815	771 772	HORN ?			
+10247	Jarawara	HORN (ANATOMY)	warabi awe / narabi	narabi	n a r a b i	n a r a b i	815	771	HORN			
+10248	Deni	HORN (ANATOMY)	tati maʃirine	tati maʃirine	t a t i + m a ʃ i r i n e	t a t i + m a ʃ i r i n e	816	44 773	HEAD ?			
+10249	Paumari	HORN (ANATOMY)	morobo	morobo	m o r o b o	m o r o b o	815	771	HORN			
+1354	Kulina	HUSBAND	makʰi	makʰi	m a kʰ i	m a kʰ i	478	289	MAN.(ADULT.MALE)			
+10250	Jarawara	HUSBAND	jibote	jibote	j i b o t e	j i b o t e	817	774	HUSBAND			
+10251	Paumari	HUSBAND	makʰira	makʰira	m a kʰ i r a	m a kʰ i r a	818	289	MAN.(ADULT.MALE)			
+10252	Sorowaha	HUSBAND	imeki	imeki	i m e k i	i m e k i	818	289	MAN.(ADULT.MALE)			
+10253	Deni	HUSBAND	makʰi	makʰi	m a kʰ i	m a kʰ i	478	289	MAN.(ADULT.MALE)			
 1358	Kulina	UTERUS	jaʔa	jaʔa	j a ʔ a	j a ʔ a	1226	1226	UTERUS			
 1372	Kulina	LONG	wit̪ʰahiɾa	wit̪ʰahiɾa	w i t̪ʰ a h i ɾ a	w i t̪ʰ a h i ɾ a	1279	1279	LONG			
 5169	Sorowaha	LONG	dʒuwazɨ	dʒuwazɨ	dʒ u w a z ɨ	dʒ u w a z ɨ	1280	1280	LONG			
+10257	Deni	LONG	arabude	arabude	a r a b u d e	a r a b u d e	821	779	LONG			
+10258	Paumari	LONG	ʔoadaki	ʔoadaki	ʔ oa d a k i	ʔ oa d a k i	822	780	LONG			
+10259	Jarawara	LONG	jabo	jabo	j a b o	j a b o	823	781	LONG			
 1386	Kulina	MOUTH	ahaɾi	ahaɾi	a h a ɾ i	a h a ɾ i	477	463	MOUTH			
 1875	Sorowaha	MOUTH	ijahi	ijahi	i j a h i	i j a h i	249	249	MOUTH			
+10262	Jarawara	MOUTH	batori / inohoti	batori	b a t o r i	b a t o r i	825	783	MOUTH			
+10263	Jarawara	MOUTH	batori / inohoti	inohoti	i n o h o t i	i n o h o t i	826	784	MOUTH			
+10264	Paumari	MOUTH	bodi	bodi	b o d i	b o d i	827	785	MOUTH			
+10265	Deni	MOUTH	ahaɾi	ahaɾi	a h a ɾ i	a h a ɾ i	477	463	MOUTH			
 1393	Kulina	NOW	hidapana	hidapana	h i d a + p a n a	h i d a + p a n a	241	241 462	NOW ?			
 1695	Paumari	NOW	hida	hida	h i d a	h i d a - - - - -	241	241	NOW			
 1412	Kulina	RAIN (PRECIPITATION)	patsʰo	patsʰo	p a tsʰ o	p a tsʰ o	475	460	RAIN			
+10275	Sorowaha	RAIN (PRECIPITATION)	bami	bami	b a m i	b a m i	831	789	RAIN			
+10276	Deni	RAIN (PRECIPITATION)	paʃu	paʃu	p a ʃ u	p a ʃ u	475	460	RAIN			
+10277	Paumari	RAIN (PRECIPITATION)	bahi	bahi	b a h i	b a h i	831	789	RAIN			
+10278	Jarawara	RAIN (PRECIPITATION)	ɸaha / isi	ɸaha	ɸ a h a	ɸ a h a	832	790	RAIN			
+10279	Jarawara	RAIN (PRECIPITATION)	ɸaha / isi	isi	i s i	i s i	833	791	RAIN			
 1418	Kulina	ROPE	mado	mado	m a d o	m a d o	474	459	ROPE			
 10040	Sorowaha	ROPE	ahu	ahu	a h u	a h u	660	618	ROPE			
 1435	Kulina	SMOKE (EXHAUST)	ɛtsʰɛ	ɛtsʰɛ	ɛ tsʰ ɛ	ɛ tsʰ ɛ	1002	1002	SMOKE			
 10031	Sorowaha	SMOKE (EXHAUST)	aganɨ	aganɨ	a g a n ɨ	a g a n ɨ	651	610	SMOKE			
+10179	Deni	SMOKE (EXHAUST)	aʃivani	aʃivani	a ʃ i v a n i	a ʃ i v a n i	772	740	SMOKE			
 1438	Kulina	SONG	ahiɛ	ahiɛ	a h i ɛ	a h i ɛ	473	458	SONG			
 1633	Kulina	SONG	tahiɛɾi	tahiɛɾi	t a h ɪ + ɛ ɾ i	t a h ɪ + ɛ ɾ i	178	178 444	SONG ?			
 1998	Jarawara	SONG	tahi	tahi	t a h i	t a h i - - -	178	178	SONG			
@@ -2144,6 +2271,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1617	Kulina	GOURD	paho	paho	p a h o	p a h o	152	152	GOURD			
 1823	Paumari	GOURD	βao	βao	β a o	β a - o	152	152	GOURD			
 1657	Paumari	FEATHER	bihi	bihi	b i h i	b i h i	1249	1239	FAN			
+10203	Jarawara	FEATHER	eɸe	eɸe	e ɸ e	e ɸ e	789	749	FEATHER			
+10204	Deni	FEATHER	eɸe / kune	eɸe	e ɸ e	e ɸ e	789	749	FEATHER			
+10205	Deni	FEATHER	eɸe / kune	kune	k u n e	k u n e	788	748	FEATHER			
+10206	Kulina	FEATHER	aɸa	aɸa	a ɸ a	a ɸ a	789	749	FEATHER			
 1678	Paumari	SIDE OF FOREST	jama	jama	j a m a	j a m a	341	341	SIDE.OF.FOREST			
 1684	Paumari	TEACH	na ima	na ima	n a + i m a	n a + i m a	460	442 443	? ?			
 1693	Paumari	NERVE	abaʔo	abaʔo	a b a ʔ o	a b a ʔ o	459	441	NERVE			
@@ -2167,6 +2298,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1986	Sorowaha	FLY	bihʲawa	bihʲawa	b i hʲ a w a	b i hʲ a w a	1258	1258	FLY			
 1988	Sorowaha	THIRST	ʃʲubukʷa	ʃʲubukʷa	ʃʲ u b u kʷ a	ʃʲ u b u kʷ a	455	438	THIRST			
 1989	Sorowaha	ARROW	tɨbɨ	tɨbɨ	t ɨ b ɨ	t ɨ b ɨ	353	124	ARROW			
+10296	Arawa	ARROW	atu	atu	a t u	a t u	842	799	ARROW			
 1991	Sorowaha	PLACE (POSITION)	dʋʋki / dʋci	dʋʋki	d ʋː k i	d ʋː k i	454	437	PLACE			
 5033	Sorowaha	PLACE (POSITION)	dʋʋki / dʋci	dʋci	d ʋ c i	d ʋ c i	454	437	PLACE			
 1996	Sorowaha	MACAW	kawa	kawa	k a w a	k a w a	1282	1282	MACAW			
@@ -2200,17 +2332,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5025	Sorowaha	CAPYBARA	hiiɾi	hiiɾi	h iː ɾ i	h iː ɾ i	1296	1296	CAPYBARA			
 5027	Sorowaha	SQUIRREL	taawi	taawi	t aː w i	t aː w i	443	426	SQUIRREL			
 5031	Sorowaha	BEAUTIFUL	ɨmɨzɨ	ɨmɨzɨ	ɨ m ɨ z ɨ	ɨ m ɨ z ɨ	360	354	BEAUTIFUL			
-5034	Sorowaha	DAUGHTER	ahiḍini / zamuuni	ahiḍini	a h i ḍ i n i	a h i ḍ i n i	442	425	OFFSPRING			
+5034	Sorowaha	DAUGHTER	ahidini / zamuuni	ahidini	a h i d i n i	a h i d i n i	442	425	OFFSPRING			
 8010	Banawa	DAUGHTER	to	to	t o	t o	188	188	DAUGHTER			
 8011	Deni	DAUGHTER	to	to	t o	t o	188	188	DAUGHTER			
 8012	Jamamadi	DAUGHTER	to	to	t o	t o	188	188	DAUGHTER			
 8013	Jarawara	DAUGHTER	to	to	t o	t o	188	188	DAUGHTER			
-10096	Sorowaha	DAUGHTER	ahiḍini / zamuuni	zamuuni	z a m uː n i	z a m uː n i	726	675	DAUGHTER			
+10096	Sorowaha	DAUGHTER	ahidini / zamuuni	zamuuni	z a m uː n i	z a m uː n i	726	675	DAUGHTER			
 5037	Sorowaha	PECCARY	dʒanɨdumuɾi / dʒãdumuɾi	dʒanɨdumuɾi	dʒ a n ɨ d u m u ɾ i	dʒ a n ɨ d u m u ɾ i	441	424	PECCARY			
 5040	Sorowaha	PECCARY	dʒanɨdumuɾi / dʒãdumuɾi	dʒãdumuɾi	dʒ ã d u m u ɾ i	dʒ ã - - d u m u ɾ i	441	424	PECCARY			
 5038	Sorowaha	FISHHOOK	kabɨkana	kabɨkana	k a b ɨ k a n a	k a b ɨ k a n a	1256	1256	FISHHOOK			
 5045	Sorowaha	HAVE SEX	sɨbɨ	sɨbɨ	s ɨ b ɨ	s ɨ b ɨ	1275	1275	INTERCOURSE			
 5047	Sorowaha	EARTH (SOIL)	ad̥aha	ad̥aha	a d̥ a h a	a d̥ a h a	1253	3	EARTH			
+10189	Deni	EARTH (SOIL)	nami	nami	n a m i	n a m i	782	744	EARTH			
+10190	Paumari	EARTH (SOIL)	nami	nami	n a m i	n a m i	782	744	EARTH			
+10191	Jarawara	EARTH (SOIL)	wami	wami	w a m i	w a m i	782	744	EARTH			
+10192	Kulina	EARTH (SOIL)	nami	nami	n a m i	n a m i	782	744	EARTH			
 5048	Sorowaha	INGA	imi	imi	i m i	i m i	439	422	INGA			
 5049	Sorowaha	PIRANHA	uma	uma	u m a	u m a	438	421	PIRANHA			
 5052	Sorowaha	PESTLE	huwa / akubi	huwa	h u w a	h u w a	436	419	PESTLE			
@@ -2239,6 +2375,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5101	Paumari	OAR	βanamo	βanamo	β a n a m o	β a n a m o	432	415	OAR			
 5102	Deni	OAR	warami	warami	w a r a m i	w a r a m i	200	200	OAR			
 5103	Arawa	OAR	waramí	waramí	w a r a m í	w a r a m í	200	200	OAR			
+10152	Sorowaha	OAR	zama tɨmɨnɨ	zama tɨmɨnɨ	z a m a + t ɨ m ɨ n ɨ	z a m a + t ɨ m ɨ n ɨ	758	314 148	THING PADDLE			
 5104	Paumari	ARACUÃ	βarataoko	βarataoko	β a r a t a o k o	β a r a t a o k o	431	414	CHACHALACA			
 5105	Kulina	ARACUÃ	warakaja	warakaja	w a r a k a j a	w a r a k a j a	201	201	CHACHALACA			
 5106	Deni	TREE SP. WITH SOFT WOOD	warakana	warakana	w a r a k a n a	w a r a k a n a	202	202	TREE.SPECIES.WITH.SOFT.WOOD			
@@ -2248,9 +2385,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5110	Jarawara	KAPOK CEIBE TREE	wasina	wasina	w a s i n a	w a s i n a	203	203	KAPOK.CEIBE.TREE			
 5111	Banawa	KAPOK CEIBE TREE	wasina	wasina	w a s i n a	w a s i n a	203	203	KAPOK.CEIBE.TREE			
 5112	Jamamadi	KAPOK CEIBE TREE	wasina	wasina	w a s i n a	w a s i n a	203	203	KAPOK.CEIBE.TREE			
-5113	Deni	LUNG	watsʰabori	watsʰabori	w a tsʰ a b o r i	w a tsʰ a b o r i	204	204	LUNG			
-5114	Jarawara	LUNG	hasabori	hasabori	h a s a b o r i	h a s a b o r i	204	204	LUNG			
-5115	Banawa	LUNG	wasabori	wasabori	w a s a b o r i	w a s a b o r i	204	204	LUNG			
+5113	Deni	LUNG	watsʰabori	watsʰabori	w a tsʰ a b o r i	w a tsʰ a b o r i	611	711	LUNG			
+5114	Jarawara	LUNG	hasabori	hasabori	h a s a b o r i	h a s a b o r i	611	711	LUNG			
+5115	Banawa	LUNG	wasabori	wasabori	w a s a b o r i	w a s a b o r i	611	711	LUNG			
 5116	Kulina	THROW WATER	wisha	wisha	w i s h a	w i s h a	205	205	THROW.WATER			
 5117	Deni	THROW WATER	witsʰa	witsʰa	w i tsʰ a	w i tsʰ - a	205	205	THROW.WATER			
 5118	Jarawara	THROW WATER	wisa	wisa	w i s a	w i s - a	205	205	THROW.WATER			
@@ -2269,6 +2406,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5171	Sorowaha	NET	hʊʊwi	hʊʊwi	h ʊː w i	h ʊː w i	420	395	NET			
 5173	Sorowaha	PACA	hawɨ	hawɨ	h a w ɨ	h a w ɨ	418	393	PACA			
 5174	Sorowaha	CANOE	hiini	hiini	h iː n i	h iː n i	1295	1295	CANOE			
+10288	Arawa	CANOE	safini	safini	s a f i n i	s a f i n i	1295	1295	CANOE			
 5176	Sorowaha	PAN	iiʃʲaha	iiʃʲaha	iː ʃʲ a h a	iː ʃʲ a h a	417	392	PAN			
 5177	Sorowaha	PENIS	iiʃimi	iiʃimi	iː ʃ i m i	iː ʃ i m i	416	391	PENIS			
 5180	Sorowaha	CRICKET	kuubiʃʲa	kuubiʃʲa	k uː b i ʃʲ a	k uː b i ʃʲ a	415	390	CRICKET			
@@ -2291,8 +2429,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10003	Kulina	STING	oɾi	oɾi	o ɾ i	o ɾ i	5	1271	HORN			
 10063	Sorowaha	STING	kuwa	kuwa	k u w a	k u w a	689	638	STING			used only for stingray (?)
 10007	Sorowaha	HOPLIAS (GENUS)	abahɨwɨ	abahɨwɨ	a b a + h ɨ w ɨ	a b a + h ɨ w ɨ	636	210 632	FISH BIG			hɨwɨ - indicates large animals
-10008	Sorowaha	FIREWOOD	abi	abi	a b i	a b i	630	1251	FIRE			
-10023	Sorowaha	FIREWOOD	aga	aga	a g a	a g a	643	537	TREE			
+10008	Sorowaha	FIREWOOD	abi / aga	abi	a b i	a b i	630	1251	FIRE			
+10023	Sorowaha	FIREWOOD	abi / aga	aga	a g a	a g a	643	537	TREE			
+10141	Arawa	FIREWOOD	sihu	sihu	s i h u	s i h u	753	716	FIREWOOD			
+10142	Deni	FIREWOOD	jipʰo	jipʰo	j i pʰ o	j i pʰ o	753	716	FIREWOOD			
+10143	Kulina	FIREWOOD	jipʰo	jipʰo	j i pʰ o	j i pʰ o	753	716	FIREWOOD			
+10144	Jamamadi	FIREWOOD	jiɸo	jiɸo	j i ɸ o	j i ɸ o	753	716	FIREWOOD			
+10145	Jarawara	FIREWOOD	jiɸo	jiɸo	j i ɸ o	j i ɸ o	753	716	FIREWOOD			
+10146	Banawa	FIREWOOD	jiɸo	jiɸo	j i ɸ o	j i ɸ o	753	716	FIREWOOD			
 10009	Sorowaha	VEIN	abu	abu	a b u	a b u	631	584	VEIN			
 10012	Sorowaha	ISLAND	aḍaha dʒuɾunumaɾu	ad̥aha dʒuɾunumaɾu	a d̥ a h a + dʒ u ɾ u n u m a ɾ u	a d̥ a h a + dʒ u ɾ u n u m a ɾ u	633	3 633	EARTH ?			
 10014	Sorowaha	TOMB	ad̥ahɨ	ad̥ahɨ	a d̥ a + h ɨ	a d̥ a + h ɨ	635	3 630	EARTH ?			
@@ -2300,8 +2444,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10016	Sorowaha	PRECIOUS	adjaɾi	adjaɾi	a d j a ɾ i	a d j a ɾ i	638	602	PRECIOUS			
 10017	Sorowaha	PRECIOUS	adjaɾu	adjaɾu	a d j a ɾ u	a d j a ɾ u	638	602	PRECIOUS			
 10019	Sorowaha	SHORT	adje	adje	a d j e	a d j e	639	220	SMALL			
-10020	Sorowaha	ANUS	aḍini	aḍini	a ḍ i n i	a ḍ i n i	640	603	ANUS			
-10022	Sorowaha	SAP	aḍuhɨ	aḍuhɨ	a ḍ u h ɨ	a ḍ u h ɨ	642	605	SAP			
+10020	Sorowaha	ANUS	ad̥ini	ad̥ini	a d̥ i n i	a d̥ i n i	640	603	ANUS			
+10022	Sorowaha	SAP	ad̥uhɨ	ad̥uhɨ	a d̥ u h ɨ	a d̥ u h ɨ	642	605	SAP			
 10025	Sorowaha	HOLD OR TAKE	aga	aga	a g a	a g a	645	606	TAKE			
 10026	Sorowaha	BRING	aga	aga	a g a	a g a	646	606	TAKE			
 10028	Sorowaha	MIDDLE	hʊʊɾi	hʊʊɾi	h ʊː ɾ i	h ʊː ɾ i	648	1274	INSIDE			
@@ -2312,8 +2456,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10035	Sorowaha	CHOKE	aha	aha	a h a	a h a	655	614	CHOKE			
 10038	Sorowaha	ABOVE	ahjadaha / tɨhɨmɨ	ahjadaha	a h j a d a h a	a h j a d a h a	658	617	ABOVE			
 10082	Sorowaha	ABOVE	ahjadaha / tɨhɨmɨ	tɨhɨmɨ	t ɨ h ɨ m ɨ	t ɨ h ɨ m ɨ	714	657	ABOVE			
+10156	Jarawara	ABOVE	neme	neme	n e m e	n e m e	761	723	ABOVE			
+10157	Deni	ABOVE	nemehene	nemehene	n e m e + h e n e	n e m e + h e n e	761	723 724	ABOVE ?			
 10042	Sorowaha	MOAN	adʒiaka	adʒiaka	a dʒ ia k a	a dʒ ia k a	662	620	MOAN			
 10043	Sorowaha	CHICKEN	akaɾa	akaɾa	a k a ɾ a	a k a ɾ a	663	621	CHICKEN			
+10284	Arawa	CHICKEN	takara	takara	t a k a r a	t a k a r a	663	621	CHICKEN			
 10045	Sorowaha	FINISH	akuwa	akuwa	a k u w a	a k u w a	665	623	FINISH			
 10050	Sorowaha	DARK	asa	asa	aː sʲ a	aː sʲ a	675	627	DARK			
 10053	Sorowaha	SAD	asasɨ	asasɨ	a s a s ɨ	a s a s ɨ	565	554	SAD			
@@ -2347,15 +2494,23 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10123	Sorowaha	ROLL	kaɾunaaɾi / kaɾuumɨ	kaɾunaaɾi	k a ɾ u n aː ɾ i	k a ɾ u n aː ɾ i	744	706	ROLL			
 10124	Sorowaha	ROLL	kaɾunaaɾi / kaɾuumɨ	kaɾuumɨ	k a ɾ uː m ɨ	k a ɾ uː m ɨ	744	706	ROLL			
 10128	Sorowaha	CHAMELEON	zukutu	zukutu	z u k u t u	z u k u t u	748	710	CHAMELEON			
+10149	Sorowaha	HAWK	ʃibiri	ʃibiri	ʃ i b i r i	ʃ i b i r i	755	718	?			
+10209	Deni	FINGER	zepe	zepe	z e p e	z e p e	790	750	FINGER			
+10210	Jarawara	FINGER	jehe	jehe	j e h e	j e h e	791	83	HAND			
+10212	Sorowaha	FINGER	bihi	bihi	b i h i	b i h i	793	322	HAND			also means hand and forearm
+10214	Paumari	FINGER	saʔa / dama	dama	d a m a	d a m a	794	751	FINGER			
+10215	Paumari	FINGER	saʔa / dama	saʔa	s a ʔ a	s a ʔ a	795	752	FINGER			
+10218	Kulina	FINGER	zepe	zepe	z e p e	z e p e	790	750	FINGER			
+10237	Kulina	BLUE	napana	napana	n a p a n a	n a p a n a	812	769	BLUE			
 #@highlight=TOKENS|ALIGNMENT|SEGMENTS
 #@sampa=IPA|TOKENS|SEGMENTS|TRANSCRIPTION
 #@pinyin=CHINESE
 #@css=menu:show|database:hide
 #@basics=DOCULECT|CONCEPT|VALUE|FORM|TOKENS|COGID|COGIDS|MORPHEMES|BORROWING|NOTE
 #@_selected_doculects=Arawa|Banawa|Deni|Jamamadi|Jarawara|Kulina|Paumari|Sorowaha
-#@_selected_concepts=AXE|GOOD|FIRE|FISH|HOUSE|LAKE|MAN|MOON|STAR|TAPIR|WHITE-LIPPED PECCARY|FOOT|HAND|JAGUAR|ONE|SCROTUM|SUN|TWO|WATER|TURTLE|TREE AND EDIBLE FRUIT|ANT|ANTEATER|ARAUNÃ|ACAI PALM|BAMBOO|BARK|BE ANGRY|BURN (INJURY)|BE HUNGRY|BEE|BELCH|BITTER|BLACK-FRONTED NUNBIRD|BLOOD|BRANCH|BREAK (DESTROY OR GET DESTROYED)|BREAST|CAPUCHIN MONKEY|YAM|CASHEW|CATCH|CHEEK|CHEST|NEAR|FRIEND|COUGH|DEER|PATTERN|DRY|EAR|EARTHWORM|ELECTRIC EEL|EXCHANGE|FAN (OBJECT)|FATHER|PATERNAL UNCLE (FATHER'S BROTHER)|PATERNAL AUNT (FATHER'S SISTER)|FAECES (EXCREMENT)|FOOD|FRUIT TREE|FRUIT VINE|GAME (ANIMAL)|TAKE|GROUND|GUAN|HAIR|HAMMOCK|HEAD|HEART|HEAVY|HERE|HERON|HIGH OR TALL|MOUNTAIN OR HILL|POISON|HOLE|HOWLER MONKEY|LIGHT (RADIATION)|IMBAUBA|INSIDE|FAT (ORGANIC SUBSTANCE)|THING|KINGFISHER|MOSQUITO|LEAF|LET'S GO|LIVER|LUNG FISH|MANDI|MEASURE|FLESH OR MEAT|MONTH|MOTHER|MUD HOLE|NAKED|NECK|NECKLACE|LEAF SPINE|OLD|OLDER SISTER|ORIOLE|OWL|PAIN|PALM TREE|PATH OR ROAD|PIERCE|PINEAPPLE|PORCUPINE|POT|ROAST OR FRY|ROTTEN|SAND|SHELLFISH|SMALL|EAGLE OR HAWK|SNAIL|SNAKE|SOCÓ HERON|SOFT MATERIAL INSIDE SOMETHING|STEAL|STINGRAY|LUBRICATE|SICK|CATFISH|TERMITE NEST|UPPER LEG (THIGH)|THORN|TICK|TINGUÍ|STRIKE OR BEAT|BITE|BURN|CRY|CUT|DIG|DRINK|GO|HEAR|KNOW|LAUGH|LIE (REST)|LIKE|PULL|PUSH|SEE|SHOW|SMELL|TELL|TIE|TOUCAN|TREE|UNFASTEN|VINE|VOICE|WASP|WEASEL|SPIDER|MONKEY|YAWN|YOUNGER SISTER|COOK (SOMETHING)|LARVA|SOUND OR NOISE|BE|GRASSHOPPER|ROOT|RIPE|SNEEZE|BLOW (WITH MOUTH)|BREATHE|PATAUÁ PALM|YES|PUT|GRANDFATHER|TOOTH|SHAMAN (FOLK HEALER)|LIP|LEG|NEW|STONE|SLOTH|RAT|PEACH PALM|URINE|SCORPION|TAIL|ORDER|BUTTOCKS|COATI (COATIMUNDI)|LOUSE|CHIN|SMALL TOAD SP.|HORSEFLY|MAIZE|THREE-TOED SLOTH|FIRST|TREAD ON|UPSTREAM|SWEAT|STRAIGHTEN|MARMOSET|MATERNAL UNCLE (MOTHER'S BROTHER)|IN FRONT OF|HOME|MEDICINE|SUCK|WOODPECKER|THROW|WHIP|KINKAJOU|TORTOISE|WEAVE|WHISTLE|BOX|TREE WITH RESIN|BAT|TERMITE|FLOWER|NIGHT MONKEY|PAXIUBA-BARRIGUDA|BIG|UNDERSIDE|UPPER PART OF|SQUEEZE|WAIT (FOR)|DOOR|GENIPA|PADDLE|CARÁ (FISH)|WIFE|WOMAN|BITTER MANIOC|SPIT|BIRD (SPECIES)|MORTAR|SHARPEN (SOMETHING)|PEEL|OTTER|TOBACCO|AGOUTI|TOAST|COLD|NAVEL|WASH|FASTEN|ARM|BACURI|BAD|BATHE|BEAK|BEETLE|BELLY|BIG LEAF CALATHEA|BLACK|CORPSE|CORRECT (RIGHT)|DAY (NOT NIGHT)|DIRTY|FAR|FIX|FOREHEAD|FROG|FRUIT|GREEN|HARD|KNEE|LATE|STORY|LIMP|MOT-MOT (BIRD)|MOTH|NAME|NIGHT|NOSE|PASSION FRUIT|PAXIUBA|PEPPER|PIECE|DOVE|PLUCK|POUND TO FLATTEN|PREGNANT|PRETEND|PULL OUT|RED|RESIN|RIVER|RUBBER TREE|ANT (SPECIES)|SMOOTH|SON|SHIT (DEFECATE)|STRETCH OUT LEGS|SWELL|THAT|THICK|THIN|THROAT|THUNDER|EAT|FALL|GIVE|STAND|VOMIT|TOAD|TONGUE|TONKA BEAN|TROGON|WHITE|YELLOW|VISIBLE|URUCURI|ROSE-COLORED BANANA|SHAKE|JUMP|GRATE (SOMETHING)|GRANDCHILD|BACK|INSECT|BUTTERFLY|ARMADILLO|SPILL (SOMETHING)|LIGHT|HOUSE GIRDER|SQUIRREL MONKEY|SEAT|LEAF BUNDLE|GROWL|FLY (INSECT)|WITH|RUN|INDIGENOUS PEOPLES OF THE AMERICAS|AWAKE|DISAPPEAR|ALLIGATOR|APUNÃ|CRAB|PACU|PIAU|SMALL TURTLE|STIR|PULL OFF (SKIN)|SWEET MANIOC|TUCUNARÉ|PALM SPECIES WITH THORNS|GARDEN|BANANA|ALL|ANIMAL|BIRD|BONE|CHILD|CLOUD|DOG|DULL|DUST|FOG|FULL|HE|I|ICE|IF|MANY|SALT|HAPPY|SEA|SEED|SHARP|SKIN|SKY|THERE|THEY|SAY|SCRATCH|SPLIT|WE (EXCLUSIVE)|WE (INCLUSIVE)|WET|YOU TWO|YOU|CANGATI|STRONG TASTE|LIGHT (IGNITE)|ABIU|CATERPILLAR|ASH|BECAUSE|BELOW OR UNDER|EGG|EYE|FINGERNAIL|FOREST|GRASS|HORN (ANATOMY)|HUSBAND|UTERUS|LONG|MOUTH|NOW|RAIN (PRECIPITATION)|ROPE|SMOKE (EXHAUST)|SONG|SOUR|MIX|DIE|KILL|BE ALIVE|PLAY|RUB|SING|SIT|SLEEP|SWIM|TURN|WARM|WE|WIND|WING|YEAR|WINDOW|LARGE CATFISH|STICK|BED|FAST|GOURD|FEATHER|SIDE OF FOREST|TEACH|NERVE|PAU-MULATO|MESSAGE|CICADA|FRAGRANT|SPREAD OUT|WALK BENT OVER|BLOW (OF WIND)|SCARED|PURPLE BANANA|MARK|CLOTHES|FLY|THIRST|ARROW|PLACE (POSITION)|MACAW|JACKFRUIT|IMITATE|PIED-CRESTED OROPENDOLA|PAPAYA|TASTY|BENCH|ROUND|URUCU (BIXA ORELLANA)|SIEVE OR STRAIN|HUNGER|SPIRIT|CURASSOW|MUD|COCKROACH|CAPYBARA|SQUIRREL|BEAUTIFUL|DAUGHTER|PECCARY|FISHHOOK|HAVE SEX|EARTH (SOIL)|INGA|PIRANHA|PESTLE|CAIMAN|COMB|BROTHER-IN-LAW (OF MAN)|DREAM|COTTON|OAR|ARACUÃ|TREE SP. WITH SOFT WOOD|KAPOK CEIBE TREE|LUNG|THROW WATER|BRIGHT|SHRIMP|LIANA|LARGE-BULLET-ANT (subfamily paraponerinae)|OWNER|WOUND|LEECH|FIREFLY|FLAT|NET|PACA|CANOE|PAN|PENIS|CRICKET|SWEAT (SUBSTANCE)|VULTURE|PYTHON|VAGINA|MIRROR|SEAGULL|STING|HOPLIAS (GENUS)|FIREWOOD|VEIN|ISLAND|TOMB|LOW|PRECIOUS|SHORT|ANUS|SAP|HOLD OR TAKE|BRING|MIDDLE|TROWEL|PROCREATE|UNTIE|CHOKE|ABOVE|MOAN|CHICKEN|FINISH|DARK|SAD|SHINY|POLISH (SOMETHING)|SMILE|DEEP|RAINBOW|YOUNGER BROTHER|EDGE|HOT|HICCOUGH|CALM|SPIDER MONKEY|COME|HOOK|TREE TRUNK|DROWN|TASTE (SOMETHING)|FEAR (BE AFRAID)|FORGET|EYEBROW|SEW|LET GO OR SET FREE|DRY UP|PISS|ROLL|CHAMELEON
+#@_selected_concepts=AXE|GOOD|FIRE|FISH|HOUSE|LAKE|MAN|MOON|STAR|TAPIR|WHITE-LIPPED PECCARY|FOOT|HAND|JAGUAR|ONE|SCROTUM|SUN|TWO|WATER|TURTLE|TREE AND EDIBLE FRUIT|ANT|ANTEATER|ARAUNÃ|ACAI PALM|BAMBOO|BARK|BE ANGRY|BURN (INJURY)|BE HUNGRY|BEE|BELCH|BITTER|BLACK-FRONTED NUNBIRD|BLOOD|BRANCH|BREAK (DESTROY OR GET DESTROYED)|BREAST|CAPUCHIN MONKEY|YAM|CASHEW|CATCH|CHEEK|CHEST|NEAR|FRIEND|COUGH|DEER|PATTERN|DRY|EAR|EARTHWORM|ELECTRIC EEL|EXCHANGE|FAN (OBJECT)|FATHER|PATERNAL UNCLE (FATHER'S BROTHER)|PATERNAL AUNT (FATHER'S SISTER)|FAECES (EXCREMENT)|FOOD|FRUIT TREE|FRUIT VINE|GAME (ANIMAL)|TAKE|GROUND|GUAN|HAIR|HAMMOCK|HEAD|HEART|HEAVY|HERE|HERON|HIGH OR TALL|MOUNTAIN OR HILL|POISON|HOLE|HOWLER MONKEY|LIGHT (RADIATION)|IMBAUBA|INSIDE|FAT (ORGANIC SUBSTANCE)|THING|KINGFISHER|MOSQUITO|LEAF|LET'S GO|LIVER|LUNG FISH|MANDI|MEASURE|FLESH OR MEAT|MONTH|MOTHER|MUD HOLE|NAKED|NECK|NECKLACE|LEAF SPINE|OLD|OLDER SISTER|ORIOLE|OWL|PAIN|PALM TREE|PATH OR ROAD|PIERCE|PINEAPPLE|PORCUPINE|POT|ROAST OR FRY|ROTTEN|SAND|SHELLFISH|SMALL|EAGLE OR HAWK|SNAIL|SNAKE|SOCÓ HERON|SOFT MATERIAL INSIDE SOMETHING|STEAL|STINGRAY|LUBRICATE|SICK|CATFISH|TERMITE NEST|UPPER LEG (THIGH)|THORN|TICK|TINGUÍ|STRIKE OR BEAT|BITE|BURN|CRY|CUT|DIG|DRINK|GO|HEAR|KNOW|LAUGH|LIE (REST)|LIKE|PULL|PUSH|SEE|SHOW|SMELL|TELL|TIE|TOUCAN|TREE|UNFASTEN|VINE|VOICE|WASP|WEASEL|SPIDER|MONKEY|YAWN|YOUNGER SISTER|COOK (SOMETHING)|LARVA|SOUND OR NOISE|BE|GRASSHOPPER|ROOT|RIPE|SNEEZE|BLOW (WITH MOUTH)|BREATHE|PATAUÁ PALM|YES|PUT|GRANDFATHER|TOOTH|SHAMAN (FOLK HEALER)|LIP|LEG|NEW|STONE|SLOTH|RAT|PEACH PALM|URINE|SCORPION|TAIL|ORDER|BUTTOCKS|COATI (COATIMUNDI)|LOUSE|CHIN|SMALL TOAD (SPECIES)|HORSEFLY|MAIZE|THREE-TOED SLOTH|FIRST|TREAD ON|UPSTREAM|SWEAT|STRAIGHTEN|MARMOSET|MATERNAL UNCLE (MOTHER'S BROTHER)|IN FRONT OF|HOME|MEDICINE|SUCK|WOODPECKER|THROW|WHIP|KINKAJOU|TORTOISE|WEAVE|WHISTLE|BOX|TREE WITH RESIN|BAT|TERMITE|FLOWER|NIGHT MONKEY|PAXIUBA-BARRIGUDA|BIG|UNDERSIDE|UPPER PART OF|SQUEEZE|WAIT (FOR)|DOOR|GENIPA|PADDLE|CARÁ (FISH)|WIFE|WOMAN|BITTER MANIOC|SPIT|BIRD (SPECIES)|MORTAR|SHARPEN (SOMETHING)|PEEL|OTTER|TOBACCO|AGOUTI|TOAST|COLD|NAVEL|WASH|FASTEN|ARM|BACURI|BAD|BATHE|BEAK|BEETLE|BELLY|BIG LEAF CALATHEA|BLACK|CORPSE|CORRECT (RIGHT)|DAY (NOT NIGHT)|DIRTY|FAR|FIX|FOREHEAD|FROG|FRUIT|BLUE OR GREEN|HARD|KNEE|LATE|STORY|LIMP|MOT-MOT (BIRD)|MOTH|NAME|NIGHT|NOSE|PASSION FRUIT|PAXIUBA|PEPPER|PIECE|DOVE|PLUCK|POUND TO FLATTEN|PREGNANT|PRETEND|PULL OUT|RED|RESIN|RIVER|RUBBER TREE|ANT (SPECIES)|SMOOTH|SON|SHIT (DEFECATE)|STRETCH OUT LEGS|SWELL|THAT|THICK|THIN|THROAT|THUNDER|EAT|FALL|GIVE|STAND|VOMIT|TOAD|TONGUE|TONKA BEAN|TROGON|WHITE|YELLOW|VISIBLE|URUCURI|ROSE-COLORED BANANA|SHAKE|JUMP|GRATE (SOMETHING)|GRANDCHILD|BACK|INSECT|BUTTERFLY|ARMADILLO|SPILL (SOMETHING)|LIGHT|HOUSE GIRDER|SQUIRREL MONKEY|SEAT|LEAF BUNDLE|GROWL|FLY (INSECT)|WITH|RUN|INDIGENOUS PEOPLES OF THE AMERICAS|AWAKE|DISAPPEAR|ALLIGATOR|APUNÃ|CRAB|PACU|PIAU|SMALL TURTLE|STIR|PULL OFF (SKIN)|SWEET MANIOC|TUCUNARÉ|PALM SPECIES WITH THORNS|GARDEN|BANANA|ALL|ANIMAL|BIRD|BONE|CHILD|CLOUD|DOG|DULL|DUST|FOG|FULL|HE|I|ICE|IF|MANY|SALT|HAPPY|SEA|SEED|SHARP|SKIN|SKY|THERE|THEY|SAY|SCRATCH|SPLIT|WE (EXCLUSIVE)|WE (INCLUSIVE)|WET|YOU TWO|YOU|CANGATI|STRONG TASTE|LIGHT (IGNITE)|ABIU|CATERPILLAR|ASH|BECAUSE|BELOW OR UNDER|EGG|EYE|FINGERNAIL|FOREST|GRASS|HORN (ANATOMY)|HUSBAND|UTERUS|LONG|MOUTH|NOW|RAIN (PRECIPITATION)|ROPE|SMOKE (EXHAUST)|SONG|SOUR|MIX|DIE|KILL|BE ALIVE|PLAY|RUB|SING|SIT|SLEEP|SWIM|TURN|WARM|WE|WIND|WING|YEAR|WINDOW|LARGE CATFISH|STICK|BED|FAST|GOURD|FEATHER|SIDE OF FOREST|TEACH|NERVE|PAU-MULATO|MESSAGE|CICADA|FRAGRANT|SPREAD OUT|WALK BENT OVER|BLOW (OF WIND)|SCARED|PURPLE BANANA|MARK|CLOTHES|FLY|THIRST|ARROW|PLACE (POSITION)|MACAW|JACKFRUIT|IMITATE|PIED-CRESTED OROPENDOLA|PAPAYA|TASTY|BENCH|ROUND|URUCU (BIXA ORELLANA)|SIEVE OR STRAIN|HUNGER|SPIRIT|CURASSOW|MUD|COCKROACH|CAPYBARA|SQUIRREL|BEAUTIFUL|DAUGHTER|PECCARY|FISHHOOK|HAVE SEX|EARTH (SOIL)|INGA|PIRANHA|PESTLE|CAIMAN|COMB|BROTHER-IN-LAW (OF MAN)|DREAM|COTTON|OAR|ARACUÃ|TREE SP. WITH SOFT WOOD|KAPOK CEIBE TREE|LUNG|THROW WATER|BRIGHT|SHRIMP|LIANA|LARGE-BULLET-ANT (subfamily paraponerinae)|OWNER|WOUND|LEECH|FIREFLY|FLAT|NET|PACA|CANOE|PAN|PENIS|CRICKET|SWEAT (SUBSTANCE)|VULTURE|PYTHON|VAGINA|MIRROR|SEAGULL|STING|HOPLIAS (GENUS)|FIREWOOD|VEIN|ISLAND|TOMB|LOW|PRECIOUS|SHORT|ANUS|SAP|HOLD OR TAKE|BRING|MIDDLE|TROWEL|PROCREATE|UNTIE|CHOKE|ABOVE|MOAN|CHICKEN|FINISH|DARK|SAD|SHINY|POLISH (SOMETHING)|SMILE|DEEP|RAINBOW|YOUNGER BROTHER|EDGE|HOT|HICCOUGH|CALM|SPIDER MONKEY|COME|HOOK|TREE TRUNK|DROWN|TASTE (SOMETHING)|FEAR (BE AFRAID)|FORGET|EYEBROW|SEW|LET GO OR SET FREE|DRY UP|PISS|ROLL|CHAMELEON|HAWK|FINGER|BLUE
 #@sorted_taxa=Arawa|Banawa|Deni|Jamamadi|Jarawara|Kulina|Paumari|Sorowaha
-#@sorted_concepts=AXE|GOOD|FIRE|FISH|HOUSE|LAKE|MAN|MOON|STAR|TAPIR|WHITE-LIPPED PECCARY|FOOT|HAND|JAGUAR|ONE|SCROTUM|SUN|TWO|WATER|TURTLE|TREE AND EDIBLE FRUIT|ANT|ANTEATER|ARAUNÃ|ACAI PALM|BAMBOO|BARK|BE ANGRY|BURN (INJURY)|BE HUNGRY|BEE|BELCH|BITTER|BLACK-FRONTED NUNBIRD|BLOOD|BRANCH|BREAK (DESTROY OR GET DESTROYED)|BREAST|CAPUCHIN MONKEY|YAM|CASHEW|CATCH|CHEEK|CHEST|NEAR|FRIEND|COUGH|DEER|PATTERN|DRY|EAR|EARTHWORM|ELECTRIC EEL|EXCHANGE|FAN (OBJECT)|FATHER|PATERNAL UNCLE (FATHER'S BROTHER)|PATERNAL AUNT (FATHER'S SISTER)|FAECES (EXCREMENT)|FOOD|FRUIT TREE|FRUIT VINE|GAME (ANIMAL)|TAKE|GROUND|GUAN|HAIR|HAMMOCK|HEAD|HEART|HEAVY|HERE|HERON|HIGH OR TALL|MOUNTAIN OR HILL|POISON|HOLE|HOWLER MONKEY|LIGHT (RADIATION)|IMBAUBA|INSIDE|FAT (ORGANIC SUBSTANCE)|THING|KINGFISHER|MOSQUITO|LEAF|LET'S GO|LIVER|LUNG FISH|MANDI|MEASURE|FLESH OR MEAT|MONTH|MOTHER|MUD HOLE|NAKED|NECK|NECKLACE|LEAF SPINE|OLD|OLDER SISTER|ORIOLE|OWL|PAIN|PALM TREE|PATH OR ROAD|PIERCE|PINEAPPLE|PORCUPINE|POT|ROAST OR FRY|ROTTEN|SAND|SHELLFISH|SMALL|EAGLE OR HAWK|SNAIL|SNAKE|SOCÓ HERON|SOFT MATERIAL INSIDE SOMETHING|STEAL|STINGRAY|LUBRICATE|SICK|CATFISH|TERMITE NEST|UPPER LEG (THIGH)|THORN|TICK|TINGUÍ|STRIKE OR BEAT|BITE|BURN|CRY|CUT|DIG|DRINK|GO|HEAR|KNOW|LAUGH|LIE (REST)|LIKE|PULL|PUSH|SEE|SHOW|SMELL|TELL|TIE|TOUCAN|TREE|UNFASTEN|VINE|VOICE|WASP|WEASEL|SPIDER|MONKEY|YAWN|YOUNGER SISTER|COOK (SOMETHING)|LARVA|SOUND OR NOISE|BE|GRASSHOPPER|ROOT|RIPE|SNEEZE|BLOW (WITH MOUTH)|BREATHE|PATAUÁ PALM|YES|PUT|GRANDFATHER|TOOTH|SHAMAN (FOLK HEALER)|LIP|LEG|NEW|STONE|SLOTH|RAT|PEACH PALM|URINE|SCORPION|TAIL|ORDER|BUTTOCKS|COATI (COATIMUNDI)|LOUSE|CHIN|SMALL TOAD SP.|HORSEFLY|MAIZE|THREE-TOED SLOTH|FIRST|TREAD ON|UPSTREAM|SWEAT|STRAIGHTEN|MARMOSET|MATERNAL UNCLE (MOTHER'S BROTHER)|IN FRONT OF|HOME|MEDICINE|SUCK|WOODPECKER|THROW|WHIP|KINKAJOU|TORTOISE|WEAVE|WHISTLE|BOX|TREE WITH RESIN|BAT|TERMITE|FLOWER|NIGHT MONKEY|PAXIUBA-BARRIGUDA|BIG|UNDERSIDE|UPPER PART OF|SQUEEZE|WAIT (FOR)|DOOR|GENIPA|PADDLE|CARÁ (FISH)|WIFE|WOMAN|BITTER MANIOC|SPIT|BIRD (SPECIES)|MORTAR|SHARPEN (SOMETHING)|PEEL|OTTER|TOBACCO|AGOUTI|TOAST|COLD|NAVEL|WASH|FASTEN|ARM|BACURI|BAD|BATHE|BEAK|BEETLE|BELLY|BIG LEAF CALATHEA|BLACK|CORPSE|CORRECT (RIGHT)|DAY (NOT NIGHT)|DIRTY|FAR|FIX|FOREHEAD|FROG|FRUIT|GREEN|HARD|KNEE|LATE|STORY|LIMP|MOT-MOT (BIRD)|MOTH|NAME|NIGHT|NOSE|PASSION FRUIT|PAXIUBA|PEPPER|PIECE|DOVE|PLUCK|POUND TO FLATTEN|PREGNANT|PRETEND|PULL OUT|RED|RESIN|RIVER|RUBBER TREE|ANT (SPECIES)|SMOOTH|SON|SHIT (DEFECATE)|STRETCH OUT LEGS|SWELL|THAT|THICK|THIN|THROAT|THUNDER|EAT|FALL|GIVE|STAND|VOMIT|TOAD|TONGUE|TONKA BEAN|TROGON|WHITE|YELLOW|VISIBLE|URUCURI|ROSE-COLORED BANANA|SHAKE|JUMP|GRATE (SOMETHING)|GRANDCHILD|BACK|INSECT|BUTTERFLY|ARMADILLO|SPILL (SOMETHING)|LIGHT|HOUSE GIRDER|SQUIRREL MONKEY|SEAT|LEAF BUNDLE|GROWL|FLY (INSECT)|WITH|RUN|INDIGENOUS PEOPLES OF THE AMERICAS|AWAKE|DISAPPEAR|ALLIGATOR|APUNÃ|CRAB|PACU|PIAU|SMALL TURTLE|STIR|PULL OFF (SKIN)|SWEET MANIOC|TUCUNARÉ|PALM SPECIES WITH THORNS|GARDEN|BANANA|ALL|ANIMAL|BIRD|BONE|CHILD|CLOUD|DOG|DULL|DUST|FOG|FULL|HE|I|ICE|IF|MANY|SALT|HAPPY|SEA|SEED|SHARP|SKIN|SKY|THERE|THEY|SAY|SCRATCH|SPLIT|WE (EXCLUSIVE)|WE (INCLUSIVE)|WET|YOU TWO|YOU|CANGATI|STRONG TASTE|LIGHT (IGNITE)|ABIU|CATERPILLAR|ASH|BECAUSE|BELOW OR UNDER|EGG|EYE|FINGERNAIL|FOREST|GRASS|HORN (ANATOMY)|HUSBAND|UTERUS|LONG|MOUTH|NOW|RAIN (PRECIPITATION)|ROPE|SMOKE (EXHAUST)|SONG|SOUR|MIX|DIE|KILL|BE ALIVE|PLAY|RUB|SING|SIT|SLEEP|SWIM|TURN|WARM|WE|WIND|WING|YEAR|WINDOW|LARGE CATFISH|STICK|BED|FAST|GOURD|FEATHER|SIDE OF FOREST|TEACH|NERVE|PAU-MULATO|MESSAGE|CICADA|FRAGRANT|SPREAD OUT|WALK BENT OVER|BLOW (OF WIND)|SCARED|PURPLE BANANA|MARK|CLOTHES|FLY|THIRST|ARROW|PLACE (POSITION)|MACAW|JACKFRUIT|IMITATE|PIED-CRESTED OROPENDOLA|PAPAYA|TASTY|BENCH|ROUND|URUCU (BIXA ORELLANA)|SIEVE OR STRAIN|HUNGER|SPIRIT|CURASSOW|MUD|COCKROACH|CAPYBARA|SQUIRREL|BEAUTIFUL|DAUGHTER|PECCARY|FISHHOOK|HAVE SEX|EARTH (SOIL)|INGA|PIRANHA|PESTLE|CAIMAN|COMB|BROTHER-IN-LAW (OF MAN)|DREAM|COTTON|OAR|ARACUÃ|TREE SP. WITH SOFT WOOD|KAPOK CEIBE TREE|LUNG|THROW WATER|BRIGHT|SHRIMP|LIANA|LARGE-BULLET-ANT (subfamily paraponerinae)|OWNER|WOUND|LEECH|FIREFLY|FLAT|NET|PACA|CANOE|PAN|PENIS|CRICKET|SWEAT (SUBSTANCE)|VULTURE|PYTHON|VAGINA|MIRROR|SEAGULL|STING|HOPLIAS (GENUS)|FIREWOOD|VEIN|ISLAND|TOMB|LOW|PRECIOUS|SHORT|ANUS|SAP|HOLD OR TAKE|BRING|MIDDLE|TROWEL|PROCREATE|UNTIE|CHOKE|ABOVE|MOAN|CHICKEN|FINISH|DARK|SAD|SHINY|POLISH (SOMETHING)|SMILE|DEEP|RAINBOW|YOUNGER BROTHER|EDGE|HOT|HICCOUGH|CALM|SPIDER MONKEY|COME|HOOK|TREE TRUNK|DROWN|TASTE (SOMETHING)|FEAR (BE AFRAID)|FORGET|EYEBROW|SEW|LET GO OR SET FREE|DRY UP|PISS|ROLL|CHAMELEON
+#@sorted_concepts=AXE|GOOD|FIRE|FISH|HOUSE|LAKE|MAN|MOON|STAR|TAPIR|WHITE-LIPPED PECCARY|FOOT|HAND|JAGUAR|ONE|SCROTUM|SUN|TWO|WATER|TURTLE|TREE AND EDIBLE FRUIT|ANT|ANTEATER|ARAUNÃ|ACAI PALM|BAMBOO|BARK|BE ANGRY|BURN (INJURY)|BE HUNGRY|BEE|BELCH|BITTER|BLACK-FRONTED NUNBIRD|BLOOD|BRANCH|BREAK (DESTROY OR GET DESTROYED)|BREAST|CAPUCHIN MONKEY|YAM|CASHEW|CATCH|CHEEK|CHEST|NEAR|FRIEND|COUGH|DEER|PATTERN|DRY|EAR|EARTHWORM|ELECTRIC EEL|EXCHANGE|FAN (OBJECT)|FATHER|PATERNAL UNCLE (FATHER'S BROTHER)|PATERNAL AUNT (FATHER'S SISTER)|FAECES (EXCREMENT)|FOOD|FRUIT TREE|FRUIT VINE|GAME (ANIMAL)|TAKE|GROUND|GUAN|HAIR|HAMMOCK|HEAD|HEART|HEAVY|HERE|HERON|HIGH OR TALL|MOUNTAIN OR HILL|POISON|HOLE|HOWLER MONKEY|LIGHT (RADIATION)|IMBAUBA|INSIDE|FAT (ORGANIC SUBSTANCE)|THING|KINGFISHER|MOSQUITO|LEAF|LET'S GO|LIVER|LUNG FISH|MANDI|MEASURE|FLESH OR MEAT|MONTH|MOTHER|MUD HOLE|NAKED|NECK|NECKLACE|LEAF SPINE|OLD|OLDER SISTER|ORIOLE|OWL|PAIN|PALM TREE|PATH OR ROAD|PIERCE|PINEAPPLE|PORCUPINE|POT|ROAST OR FRY|ROTTEN|SAND|SHELLFISH|SMALL|EAGLE OR HAWK|SNAIL|SNAKE|SOCÓ HERON|SOFT MATERIAL INSIDE SOMETHING|STEAL|STINGRAY|LUBRICATE|SICK|CATFISH|TERMITE NEST|UPPER LEG (THIGH)|THORN|TICK|TINGUÍ|STRIKE OR BEAT|BITE|BURN|CRY|CUT|DIG|DRINK|GO|HEAR|KNOW|LAUGH|LIE (REST)|LIKE|PULL|PUSH|SEE|SHOW|SMELL|TELL|TIE|TOUCAN|TREE|UNFASTEN|VINE|VOICE|WASP|WEASEL|SPIDER|MONKEY|YAWN|YOUNGER SISTER|COOK (SOMETHING)|LARVA|SOUND OR NOISE|BE|GRASSHOPPER|ROOT|RIPE|SNEEZE|BLOW (WITH MOUTH)|BREATHE|PATAUÁ PALM|YES|PUT|GRANDFATHER|TOOTH|SHAMAN (FOLK HEALER)|LIP|LEG|NEW|STONE|SLOTH|RAT|PEACH PALM|URINE|SCORPION|TAIL|ORDER|BUTTOCKS|COATI (COATIMUNDI)|LOUSE|CHIN|SMALL TOAD (SPECIES)|HORSEFLY|MAIZE|THREE-TOED SLOTH|FIRST|TREAD ON|UPSTREAM|SWEAT|STRAIGHTEN|MARMOSET|MATERNAL UNCLE (MOTHER'S BROTHER)|IN FRONT OF|HOME|MEDICINE|SUCK|WOODPECKER|THROW|WHIP|KINKAJOU|TORTOISE|WEAVE|WHISTLE|BOX|TREE WITH RESIN|BAT|TERMITE|FLOWER|NIGHT MONKEY|PAXIUBA-BARRIGUDA|BIG|UNDERSIDE|UPPER PART OF|SQUEEZE|WAIT (FOR)|DOOR|GENIPA|PADDLE|CARÁ (FISH)|WIFE|WOMAN|BITTER MANIOC|SPIT|BIRD (SPECIES)|MORTAR|SHARPEN (SOMETHING)|PEEL|OTTER|TOBACCO|AGOUTI|TOAST|COLD|NAVEL|WASH|FASTEN|ARM|BACURI|BAD|BATHE|BEAK|BEETLE|BELLY|BIG LEAF CALATHEA|BLACK|CORPSE|CORRECT (RIGHT)|DAY (NOT NIGHT)|DIRTY|FAR|FIX|FOREHEAD|FROG|FRUIT|BLUE OR GREEN|HARD|KNEE|LATE|STORY|LIMP|MOT-MOT (BIRD)|MOTH|NAME|NIGHT|NOSE|PASSION FRUIT|PAXIUBA|PEPPER|PIECE|DOVE|PLUCK|POUND TO FLATTEN|PREGNANT|PRETEND|PULL OUT|RED|RESIN|RIVER|RUBBER TREE|ANT (SPECIES)|SMOOTH|SON|SHIT (DEFECATE)|STRETCH OUT LEGS|SWELL|THAT|THICK|THIN|THROAT|THUNDER|EAT|FALL|GIVE|STAND|VOMIT|TOAD|TONGUE|TONKA BEAN|TROGON|WHITE|YELLOW|VISIBLE|URUCURI|ROSE-COLORED BANANA|SHAKE|JUMP|GRATE (SOMETHING)|GRANDCHILD|BACK|INSECT|BUTTERFLY|ARMADILLO|SPILL (SOMETHING)|LIGHT|HOUSE GIRDER|SQUIRREL MONKEY|SEAT|LEAF BUNDLE|GROWL|FLY (INSECT)|WITH|RUN|INDIGENOUS PEOPLES OF THE AMERICAS|AWAKE|DISAPPEAR|ALLIGATOR|APUNÃ|CRAB|PACU|PIAU|SMALL TURTLE|STIR|PULL OFF (SKIN)|SWEET MANIOC|TUCUNARÉ|PALM SPECIES WITH THORNS|GARDEN|BANANA|ALL|ANIMAL|BIRD|BONE|CHILD|CLOUD|DOG|DULL|DUST|FOG|FULL|HE|I|ICE|IF|MANY|SALT|HAPPY|SEA|SEED|SHARP|SKIN|SKY|THERE|THEY|SAY|SCRATCH|SPLIT|WE (EXCLUSIVE)|WE (INCLUSIVE)|WET|YOU TWO|YOU|CANGATI|STRONG TASTE|LIGHT (IGNITE)|ABIU|CATERPILLAR|ASH|BECAUSE|BELOW OR UNDER|EGG|EYE|FINGERNAIL|FOREST|GRASS|HORN (ANATOMY)|HUSBAND|UTERUS|LONG|MOUTH|NOW|RAIN (PRECIPITATION)|ROPE|SMOKE (EXHAUST)|SONG|SOUR|MIX|DIE|KILL|BE ALIVE|PLAY|RUB|SING|SIT|SLEEP|SWIM|TURN|WARM|WE|WIND|WING|YEAR|WINDOW|LARGE CATFISH|STICK|BED|FAST|GOURD|FEATHER|SIDE OF FOREST|TEACH|NERVE|PAU-MULATO|MESSAGE|CICADA|FRAGRANT|SPREAD OUT|WALK BENT OVER|BLOW (OF WIND)|SCARED|PURPLE BANANA|MARK|CLOTHES|FLY|THIRST|ARROW|PLACE (POSITION)|MACAW|JACKFRUIT|IMITATE|PIED-CRESTED OROPENDOLA|PAPAYA|TASTY|BENCH|ROUND|URUCU (BIXA ORELLANA)|SIEVE OR STRAIN|HUNGER|SPIRIT|CURASSOW|MUD|COCKROACH|CAPYBARA|SQUIRREL|BEAUTIFUL|DAUGHTER|PECCARY|FISHHOOK|HAVE SEX|EARTH (SOIL)|INGA|PIRANHA|PESTLE|CAIMAN|COMB|BROTHER-IN-LAW (OF MAN)|DREAM|COTTON|OAR|ARACUÃ|TREE SP. WITH SOFT WOOD|KAPOK CEIBE TREE|LUNG|THROW WATER|BRIGHT|SHRIMP|LIANA|LARGE-BULLET-ANT (subfamily paraponerinae)|OWNER|WOUND|LEECH|FIREFLY|FLAT|NET|PACA|CANOE|PAN|PENIS|CRICKET|SWEAT (SUBSTANCE)|VULTURE|PYTHON|VAGINA|MIRROR|SEAGULL|STING|HOPLIAS (GENUS)|FIREWOOD|VEIN|ISLAND|TOMB|LOW|PRECIOUS|SHORT|ANUS|SAP|HOLD OR TAKE|BRING|MIDDLE|TROWEL|PROCREATE|UNTIE|CHOKE|ABOVE|MOAN|CHICKEN|FINISH|DARK|SAD|SHINY|POLISH (SOMETHING)|SMILE|DEEP|RAINBOW|YOUNGER BROTHER|EDGE|HOT|HICCOUGH|CALM|SPIDER MONKEY|COME|HOOK|TREE TRUNK|DROWN|TASTE (SOMETHING)|FEAR (BE AFRAID)|FORGET|EYEBROW|SEW|LET GO OR SET FREE|DRY UP|PISS|ROLL|CHAMELEON|HAWK|FINGER|BLUE
 #@display=filedisplay
 #@missing_marker=Ø
 #@separator=	
