@@ -47,4 +47,4 @@ Name | Affiliation | GitHub user | Description | Role
 --- | --- | --- | --- | ---
 Fabrício Ferraz Gerardi | Universität Tübingen | @LanguageStructure | Data Collector, cognacy assignment, co-lexifications, notes | Author
 Carolina Aragon | UFPB | @carolinaaragon | Data Collector, cognacy assignment, co-lexifications, notes | Author
-Stanislav Reichert | Universität Tübingen |@StasReichert | Data Collector CLDF conversion | Author
+Stanislav Reichert | Universität Tübingen |@StasReichert | Data Collector, CLDF conversion | Author
