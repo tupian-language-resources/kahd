@@ -1,16 +1,16 @@
-#  Arawa Lexical Database (ALeD)
+#  Katukinan-Arawan-Harakmbut Database (KAHD)
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Arawa Lexical Database (ALeD) [Dataset]. Pre-release
+  > Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
 
-Lexical Database of the Arawa language family
+Lexical Database of the Katukinan, Arawan, and Harakmbut language families. The pre-release versin only contains Arawan data.
 
 This dataset is licensed under a MIT License license
 
@@ -40,3 +40,11 @@ This dataset is licensed under a MIT License license
 The following CLDF datasets are available in [cldf](cldf):
 
 - CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+
+# Contributors
+
+Name | Affiliation | GitHub user | Description | Role
+--- | --- | --- | --- | ---
+Fabrício Ferraz Gerardi | Universität Tübingen | @LanguageStructure | Data Collector, cognacy assignment, co-lexifications, notes | Author
+Carolina Aragon | UFPB | @carolinaaragon | Data Collector, cognacy assignment, co-lexifications, notes | Author
+Stanislav Reichert | Universität Tübingen |@StasReichert | Data Collector CLDF conversion | Author
