@@ -9,12 +9,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": " Arawa Lexical Database (ALeD)",
-    "dcat:accessURL": "https://github.com/LanguageStructure/arawa_pre_release",
+    "dcat:accessURL": "https://github.com/LanguageStructure/KAHD_pre_release",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/LanguageStructure/arawa_pre_release",
+            "rdf:about": "https://github.com/LanguageStructure/KAHD_pre_release",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-6-g7c34ee0",
+            "dc:created": "v0.1-8-g0648e51",
             "dc:title": "Repository"
         },
         {
