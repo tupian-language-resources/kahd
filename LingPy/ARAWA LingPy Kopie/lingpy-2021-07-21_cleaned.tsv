@@ -1,0 +1,2049 @@
+# Wordlist
+
+# DATA
+ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	MORPHEMES	COGID	COGIDS
+#
+44435	Kulina	(Indian) Person	madiha	madiha	m a d i h a	(INDIAN).PERSON	125	125
+44436	Deni	(Indian) Person	madi	madi	m a d i	(INDIAN).PERSON	125	125
+44437	Jarawara	(Indian) Person	mati	mati	m a t i	(INDIAN).PERSON	125	125
+44438	Jamamadi	(Indian) Person	madi	madi	m a d i	(INDIAN).PERSON	125	125
+#
+44573	Kulina	(bitter) manioc	poʔo	poʔo	p o ʔ o	(BITTER).MANIOC	156	156
+44574	Deni	(bitter) manioc	poʔo	poʔo	p o ʔ o	(BITTER).MANIOC	156	156
+44575	Jarawara	(bitter) manioc	fowa	fowa	f o w a	(BITTER).MANIOC	156	156
+44576	Banawa	(bitter) manioc	fowa	fowa	f o w a	(BITTER).MANIOC	156	156
+44577	Jamamadi	(bitter) manioc	fowa	fowa	f o w a	(BITTER).MANIOC	156	156
+#
+44566	Deni	(his) wife	panadi	panadi	p a n a d i	(HIS).WIFE	154	154
+44567	Jarawara	(his) wife	fati	fati	f a t i	(HIS).WIFE	154	154
+44568	Banawa	(his) wife	fadi	fadi	f a d i	(HIS).WIFE	154	154
+44569	Jamamadi	(his) wife	fadi	fadi	f a d i	(HIS).WIFE	154	154
+#
+1566	Kulina	(shoot with) blow-gun	karibehe	karibehe	k a r i b e h e	BLOW-GUN	104	104
+1567	Deni	(shoot with) blow-gun	karibaha	karibaha	k a r i b a h a	BLOW-GUN	104	104
+1568	Jarawara	(shoot with) blow-gun	karabowa	karabowa	k a r a b o w a	BLOW-GUN	104	104
+1569	Banawa	(shoot with) blow-gun	karabowa	karabowa	k a r a b o w a	BLOW-GUN	104	104
+1570	Jamamadi	(shoot with) blow-gun	karabowa	karabowa	k a r a b o w a	BLOW-GUN	104	104
+#
+477	Jarawara	I	owa	owa	o w a	I	340	340
+478	Kulina	I	owa	owa	o w a	I	340	340
+#
+538	Banawa	Leaf	afe	afe	a f e	LEAF	11	11
+539	Jamamadi	Leaf	afe	afe	a f e	LEAF	11	11
+540	Jarawara	Leaf	afe	afe	a f e	LEAF	11	11
+542	Deni	Leaf	apha	apha	a p h a	LEAF	11	11
+543	Kulina	Leaf	apha	apha	a p h a	LEAF	11	11
+#
+497	Deni	abdomen	jehe	jehe	j e h e	ABDOMEN	0	0
+#
+1668	Kulina	accompaniment to food	tasha	tasha	t a s h a	unknown6	0	409
+#
+44637	Kulina	agouti (cutia)	shinama	shinama	s h i n a m a	AGOUTI.(CUTIA)	170	170
+44638	Deni	agouti (cutia)	shinama	shinama	s h i n a m a	AGOUTI.(CUTIA)	170	170
+44639	Jarawara	agouti (cutia)	sinama	sinama	s i n a m a	AGOUTI.(CUTIA)	170	170
+44640	Banawa	agouti (cutia)	sinama	sinama	s i n a m a	AGOUTI.(CUTIA)	170	170
+44641	Jamamadi	agouti (cutia)	sinama	sinama	s i n a m a	AGOUTI.(CUTIA)	170	170
+#
+1	Jarawara	all	nafi	nafi	n a f i	ALL	0	0
+#
+2	Jamamadi	alligator	ona	ona	o n a	ALLIGATOR	308	308
+3	Jarawara	alligator	ona	ona	o n a	ALLIGATOR	308	308
+#
+5	Jamamadi	angry	hamini	hamini	h a m i n i	ANGRY	0	0
+#
+6	Jarawara	animal	bani	bani	b a n i	ANIMAL	318	318
+7	Kulina	animal	bani	bani	b a n i	ANIMAL	318	318
+8	Kulina	animal	banisiri	banisiri	b a n i s i r i	ANIMAL	318	318
+#
+16	Kulina	ant	dasha	dasha	d a s h a	ANT	227	227
+17	Banawa	ant	jimo	jimo	j i m o	ANT	227	227
+18	Jarawara	ant	jimo	jimo	j i m o	ANT	227	227
+19	Deni	ant	jomo	jomo	j o m o	ANT	227	227
+20	Kulina	ant	jomo	jomo	j o m o	ANT	227	227
+21	Banawa	ant	mafo	mafo	m a f o	ANT	227	227
+22	Jamamadi	ant	mafo	mafo	m a f o	ANT	227	227
+23	Jarawara	ant	mafo	mafo	m a f o	ANT	227	227
+25	Deni	ant	mapo	mapo	m a p o	ANT	227	227
+26	Kulina	ant	mapo	mapo	m a p o	ANT	227	227
+#
+1560	Deni	ant sp.	kaposhiri	karakara	k a p o s h i r i	ANT.SP.	102	102
+44477	Kulina	ant sp.	meʔi	meʔi	m e ʔ i	ANT.SP.	134	134
+44478	Deni	ant sp.	meʔi	meʔi	m e ʔ i	ANT.SP.	134	134
+44479	Jarawara	ant sp.	mai	mai	m a i	ANT.SP.	134	134
+44480	Jamamadi	ant sp.	meme	meme	m e m e	ANT.SP.	134	134
+#
+27	Banawa	anteater	modo	modo	m o d o	ANTEATER	294	294
+28	Deni	anteater	modo	modo	m o d o	ANTEATER	294	294
+29	Jamamadi	anteater	modo	modo	m o d o	ANTEATER	294	294
+30	Kulina	anteater	modo	modo	m o d o	ANTEATER	294	294
+31	Jarawara	anteater	moto	moto	m o t o	ANTEATER	294	294
+#
+32	Jarawara	apunã	baro	baro	b a r o	APUNÃ	320	320
+33	Jamamadi	apunã	baro	baro	b a r o	APUNÃ	320	320
+#
+35	Banawa	araunã	abajaro	abajaro	a b a j a r o	ARAUNÃ	321	321
+37	Jarawara	araunã	bajaro	bajaro	b a j a r o	ARAUNÃ	321	321
+38	Jamamadi	araunã	bajaro	bajaro	b a j a r o	ARAUNÃ	321	321
+#
+39	Deni	arm	bihi	bihi	b i h i	ARM	322	322
+40	Kulina	arm	bihi	bihi	b i h i	ARM	322	322
+#
+1582	Deni	armadillo	ishiʔi	ishiʔi	i s h i ʔ i	ARMADILLO	107	107
+1583	Jarawara	armadillo	isi	isi	i s i	ARMADILLO	107	107
+#
+41	Kulina	ash	okone	okone	o k o n e	ASH	0	0
+#
+42	Banawa	assai palm	fare	fare	f a r e	ASSAI.PALM	311	311
+43	Jamamadi	assai palm	fare	fare	f a r e	ASSAI.PALM	311	311
+44	Jarawara	assai palm	fare	fare	f a r e	ASSAI.PALM	311	311
+47	Kulina	assai palm	paraʔi	paraʔi	p a r a ʔ i	ASSAI.PALM	311	311
+#
+48	Banawa	axe	bari	bari	b a r i	AXE	217	217
+49	Deni	axe	bari	bari	b a r i	AXE	217	217
+50	Jamamadi	axe	bari	bari	b a r i	AXE	217	217
+51	Jarawara	axe	bari	bari	b a r i	AXE	217	217
+#
+55	Kulina	back	nathi	nathi	n a t h i	BACK	323	323
+1414	Kulina	back	ide	ide	i d e	BACK	71	71
+1415	Deni	back	ide	ide	i d e	BACK	71	71
+#
+57	Deni	bacuri	boti	boti	b o t i	BACURI	29	29
+#
+58	Kulina	bad	bisha	bisha	b i s h a	BAD	324	324
+59	Deni	bad	hirade	hirade	h i r a d e	BAD	324	324
+60	Kulina	bad	tabakhora	tabakhora	t a b a k h o r a	BAD	324	324
+#
+61	Deni	bamboo	hado	hado	h a d o	BAMBOO	237	237
+62	Jamamadi	bamboo	hado	hado	h a d o	BAMBOO	237	237
+64	Banawa	bamboo	hado	hado / toto	h a d o	BAMBOO	237	237
+65	Kulina	bamboo	hado	hado / totore	h a d o	BAMBOO	237	237
+66	Jarawara	bamboo	hato	hado / toto	h a t o	BAMBOO	237	237
+67	Banawa	bamboo	toto	hado / toto	t o t o	BAMBOO	237	237
+68	Jarawara	bamboo	toto	hado / toto	t o t o	BAMBOO	237	237
+69	Kulina	bamboo	totore	hado / totore	t o t o r e	BAMBOO	237	237
+#
+44603	Jamamadi	banana sp.	satowi	satowi	s a t o w i	BANANA.SP.	162	162
+#
+70	Banawa	bark (of a tree)	atari	atari	a t a r i	SKIN	208	208
+71	Jarawara	bark (of a tree)	atari	atari	a t a r i	SKIN	208	208
+72	Jamamadi	bark (of a tree)	atori	atori	a t o r i	SKIN	208	208
+73	Deni	bark (of a tree)	etero	etero	e t e r o	SKIN	208	208
+74	Kulina	bark (of a tree)	etero	etero	e t e r o	SKIN	208	208
+#
+44462	Jarawara	bat	masebiri	masebiri	m a s e b i r i	BAT	130	130
+44463	Banawa	bat	mesebiri	mesebiri	m e s e b i r i	BAT	130	130
+44464	Jamamadi	bat	masi	masi	m a s i	BAT	130	130
+#
+75	Kulina	bathe	kona	kona	k o n a	BATHE	276	276
+77	Deni	bathe	konaha	konaha	k o n a h a	BATHE	276	276
+#
+1331	Kulina	be	ha	ha	h a	BE	54	54
+1332	Deni	be	ha	ha	h a	BE	54	54
+1333	Jarawara	be	ha	ha	h a	BE	54	54
+1334	Banawa	be	ha	ha	h a	BE	54	54
+#
+78	Jarawara	be angry	hama	hama	h a m a	BE.ANGRY	325	325
+79	Banawa	be angry	hama	hama	h a m a	BE.ANGRY	325	325
+1482	Jarawara	be angry	jawa	jawa	j a w a	BE.ANGRY	86	86
+1483	Banawa	be angry	jawa	jawa	j a w a	BE.ANGRY	86	86
+1484	Jamamadi	be angry	jawa	jawa	j a w a	BE.ANGRY	86	86
+#
+81	Jarawara	be burnt	hati	hati	h a t i	BE.BURNT	326	326
+82	Banawa	be burnt	hati	hati	h a t i	BE.BURNT	326	326
+#
+44655	Kulina	be cold	siri	siri	s i r i	BE.COLD	173	173
+44656	Deni	be cold	shirini	shirini	s h i r i n i	BE.COLD	173	173
+44657	Jarawara	be cold	siri	siri	s i r i	BE.COLD	173	173
+44658	Banawa	be cold	siri	siri	s i r i	BE.COLD	173	173
+44659	Jamamadi	be cold	siri	siri	s i r i	BE.COLD	173	173
+#
+83	Banawa	be good	amosa	amosa	a m o s a	BE.GOOD	8	8
+84	Jamamadi	be good	amosa	amosa	a m o s a	BE.GOOD	8	8
+85	Jarawara	be good	amosa	amosa	a m o s a	BE.GOOD	8	8
+86	Deni	be good	amoshi	amoshi	a m o s h i	BE.GOOD	8	8
+#
+88	Jarawara	be hungry	fimiha	fimiha	f i m i h a	BE.HUNGRY	327	327
+89	Banawa	be hungry	fimiha	fimiha	f i m i h a	BE.HUNGRY	327	327
+90	Jamamadi	be hungry	fimiha	fimiha	f i m i h a	BE.HUNGRY	327	327
+91	Kulina	be hungry	pemi	pemi	p e m i	BE.HUNGRY	327	327
+92	Deni	be hungry	pemi	pemi	p e m i	BE.HUNGRY	327	327
+#
+917	Kulina	be ill	kija	kija	k i j a	BE.ILL	5	1212
+919	Jarawara	be ill	kija	kija	k i j a	BE.ILL	5	1212
+920	Banawa	be ill	kija	kija	k i j a	BE.ILL	5	1212
+921	Jamamadi	be ill	kija	kija	k i j a	BE.ILL	5	1212
+#
+1645	Kulina	be one	ohari	ohari	o h a r i	BE.ONE	684	684
+1646	Deni	be one	ohari	ohari	o h a r i	BE.ONE	684	684
+1647	Jarawara	be one	ohari	ohari	o h a r i	BE.ONE	684	684
+1648	Banawa	be one	ohari	ohari	o h a r i	BE.ONE	684	684
+1649	Jamamadi	be one	ohari	ohari	o h a r i	BE.ONE	684	684
+#
+1349	Kulina	be ripe	hada	hada	h a d a	BE.RIPE	57	57
+1350	Deni	be ripe	hada	hada	h a d a	BE.RIPE	57	57
+1351	Jarawara	be ripe	hata	hata	h a t a	BE.RIPE	57	57
+1352	Banawa	be ripe	hada	hada	h a d a	BE.RIPE	57	57
+1353	Jamamadi	be ripe	hada	hada	h a d a	BE.RIPE	57	57
+#
+95	Deni	beak	bono	bono	b o n o	BEAK	33	33
+96	Kulina	beak	bono	bono	b o n o	BEAK	33	33
+#
+991	Banawa	beat	waka	waka	w a k a	BEAT	223	223
+992	Jamamadi	beat	waka	waka	w a k a	BEAT	223	223
+993	Jarawara	beat	waka	waka	w a k a	BEAT	223	223
+994	Deni	beat	wakha	wakha	w a k h a	BEAT	223	223
+995	Kulina	beat	wakha	wakha	w a k h a	BEAT	223	223
+996	Deni	beat	baa	baa	b a a	BEAT	212	212
+997	Jarawara	beat	baa	baa	b a a	BEAT	212	212
+998	Banawa	beat	baa	baa	b a a	BEAT	212	212
+999	Jamamadi	beat	baa	baa	b a a	BEAT	212	212
+#
+98	Kulina	because	hini	hini	h i n i	BECAUSE	179	122
+#
+1662	Kulina	bed	taboro	taboro	t a b o r o	unknown5	180	408
+#
+99	Banawa	bee	hiji	hiji	h i j i	BEE	245	245
+100	Deni	bee	hiji	hiji	h i j i	BEE	245	245
+101	Jamamadi	bee	hiji	hiji	h i j i	BEE	245	245
+102	Jarawara	bee	hiji	hiji	h i j i	BEE	245	245
+103	Kulina	bee	hiji	hiji	h i j i	BEE	245	245
+#
+104	Deni	beetle	hijabo	hijabo	h i j a b o	BEETLE	242	242
+105	Jamamadi	beetle	hijabo	hijabo	h i j a b o	BEETLE	242	242
+106	Jarawara	beetle	hijabo	hijabo	h i j a b o	BEETLE	242	242
+107	Kulina	beetle	hijabo	hijabo	h i j a b o	BEETLE	242	242
+#
+108	Kulina	belch	derere	derere	d e r e r e	BELCH	0	0
+109	Deni	belch	de	de	d e	BELCH	0	0
+110	Jarawara	belch	tee	tee	t e e	BELCH	0	0
+111	Banawa	belch	dee	dee	d e e	BELCH	0	0
+#
+112	Deni	belly	dzaha	dzaha	d z a h a	BELLY	287	287
+113	Kulina	belly	izoni	izoni	i z o n i	BELLY	287	287
+114	Jarawara	belly	nabati	nabati	n a b a t i	BELLY	287	287
+#
+116	Kulina	below	nami	nami	n a m i	GROUND	298	298
+#
+117	Kulina	big	imei	imei	i m e i	BIG	0	0
+118	Deni	big	putahari	putahari	p u t a h a r i	BIG	0	0
+44500	Kulina	big	napi	napi	n a p i	BIG	138	138
+44501	Deni	big	napi	napi	n a p i	BIG	138	138
+44502	Jarawara	big	nafi	nafi	n a f i	BIG	138	138
+44503	Banawa	big	nafi	nafi	n a f i	BIG	138	138
+44504	Jamamadi	big	nafi	nafi	n a f i	BIG	138	138
+#
+119	Deni	big leaf calathea	dawi	dawi	d a w i	BIG.LEAF.CALATHEA	328	328
+120	Jarawara	big leaf calathea	tawi	tawi	t a w i	BIG.LEAF.CALATHEA	328	328
+121	Jamamadi	big leaf calathea	dawi	dawi	d a w i	BIG.LEAF.CALATHEA	328	328
+#
+123	Jarawara	bird	bani	bani	b a n i	BIRD	0	0
+#
+1002	Kulina	bite	kha	kha	k h a	BITE	0	0
+1003	Jarawara	bite	wai	wai	w a i	BITE	0	0
+1004	Deni	bite	waji	waji	w a j i	BITE	0	0
+1005	Banawa	bite	waji	waji	w a j i	BITE	0	0
+1006	Jamamadi	bite	waji	waji	w a j i	BITE	0	0
+#
+1561	Deni	biting fly	karajati	karajati	k a r a j a t i	BITING.FLY	103	103
+1562	Jarawara	biting fly	karajati	karajati	k a r a j a t i	BITING.FLY	103	103
+1563	Banawa	biting fly	karajati	karajati	k a r a j a t i	BITING.FLY	103	103
+1564	Jamamadi	biting fly	kariti	kariti	k a r i t i	BITING.FLY	103	103
+#
+124	Deni	biting gnat	bitha	bitha	b i t h a	BITING.GNAT	0	343
+#
+125	Banawa	bitter	bida	bida	b i d a	BITTER	219	219
+126	Kulina	bitter	bida	bida	b i d a	BITTER	219	219
+127	Deni	bitter	bidaro	bidaro	b i d a r o	BITTER	219	219
+128	Jamamadi	bitter	bidaro	bidaro	b i d a r o	BITTER	219	219
+129	Jarawara	bitter	bita	bita	b i t a	BITTER	219	219
+#
+130	Deni	black	kiride	kiride	k i r i d e	BLACK	0	0
+131	Kulina	black	sowe	sowe	s o w e	BLACK	0	0
+#
+132	Banawa	black-fronted nunbird	taakoro	taakoro	t a a k o r o	BLACK-FRONTED.NUNBIRD	329	329
+133	Kulina	black-fronted nunbird	taikhoro	taikhoro	t a i k h o r o	BLACK-FRONTED.NUNBIRD	329	329
+134	Jarawara	black-fronted nunbird	taokoro	taokoro	t a o k o r o	BLACK-FRONTED.NUNBIRD	329	329
+135	Jamamadi	black-fronted nunbird	tawakoro	tawakoro	t a w a k o r o	BLACK-FRONTED.NUNBIRD	329	329
+137	Deni	black-fronted nunbird	tawikoro	tawikoro	t a w i k o r o	BLACK-FRONTED.NUNBIRD	329	329
+#
+139	Deni	blood	ama	ama	a m a	BLOOD	206	206
+140	Kulina	blood	ama	ama	a m a	BLOOD	206	206
+143	Banawa	blood	ame	ame	a m e	BLOOD	206	206
+144	Jamamadi	blood	ame	ame	a m e	BLOOD	206	206
+145	Jarawara	blood	ame	ame	a m e	BLOOD	206	206
+#
+1007	Kulina	blow	tomi	tomi	t o m i	BLOW	0	0
+1372	Kulina	blow	hapho	hapho	h a p h o	BLOW	61	61
+1373	Deni	blow	hapho	hapho	h a p h o	BLOW	61	61
+1374	Jarawara	blow	afo	afo	a f o	BLOW	61	61
+1375	Banawa	blow	afo	afo	a f o	BLOW	61	61
+1376	Jamamadi	blow	afo	afo	a f o	BLOW	61	61
+#
+1732	Deni	blowfly	khorora	khorora	k h o r o r a	BLOWFLY	124	0
+1733	Jarawara	blowfly	korowiri	korowiri	k o r o w i r i	BLOWFLY	124	0
+1734	Jamamadi	blowfly	korowi	korowi	k o r o w i	BLOWFLY	124	0
+#
+146	Jarawara	bone	tone	tone	t o n e	BONE	0	0
+#
+147	Banawa	branch	ini	ini	i n i	BRANCH	251	251
+148	Deni	branch	ini	ini	i n i	BRANCH	251	251
+149	Jamamadi	branch	ini	ini	i n i	BRANCH	251	251
+150	Jarawara	branch	ini	ini	i n i	BRANCH	251	251
+151	Kulina	branch	ini	ini	i n i	BRANCH	251	251
+#
+153	Banawa	break	baka	baka	b a k a	BREAK	20	20
+154	Deni	break	baka	baka	b a k a	BREAK	20	20
+155	Jamamadi	break	baka	baka	b a k a	BREAK	20	20
+156	Jarawara	break	baka	baka	b a k a	BREAK	20	20
+#
+157	Kulina	breast	bakho	bakho / johori	b a k h o	BREAST	262	262
+158	Banawa	breast	johari	johari	j o h a r i	BREAST	262	262
+159	Jamamadi	breast	johari	johari	j o h a r i	BREAST	262	262
+160	Jarawara	breast	johari	johari	j o h a r i	BREAST	262	262
+163	Kulina	breast	johori	bakho / johori	j o h o r i	BREAST	262	262
+164	Deni	breast	johori	johori	j o h o r i	BREAST	262	262
+#
+1378	Kulina	breathe	hashi	hashi	h a s h i	BREATHE	62	62
+1379	Deni	breathe	hashi	hashi	h a s h i	BREATHE	62	62
+1380	Jarawara	breathe	hasi	hasi	h a s i	BREATHE	62	62
+1381	Banawa	breathe	hasi	hasi	h a s i	BREATHE	62	62
+1382	Jamamadi	breathe	hasi	hasi	h a s i	BREATHE	62	62
+#
+1009	Jarawara	burn	sari	sari	s a r i	BURN	0	0
+1010	Banawa	burn	sari	sari	s a r i	BURN	0	0
+1011	Jamamadi	burn	sari	sari	s a r i	BURN	0	0
+1012	Deni	burn	saro	saro	s a r o	BURN	0	0
+1013	Kulina	burn	botha	botha	b o t h a	BURN	0	0
+#
+1545	Kulina	butterfly	makoko	makoko	m a k o k o	BUTTTERFLY	99	99
+1546	Deni	butterfly	makoko	makoko	m a k o k o	BUTTTERFLY	99	99
+#
+1526	Kulina	buttocks	joto	joto	j o t o	BUTTOCKS	95	95
+1527	Deni	buttocks	joto	joto	j o t o	BUTTOCKS	95	95
+1528	Jarawara	buttocks	joti	joti	j o t i	BUTTOCKS	95	95
+1529	Banawa	buttocks	joti	joti	j o t i	BUTTOCKS	95	95
+1530	Jamamadi	buttocks	joti	joti	j o t i	BUTTOCKS	95	95
+44471	Kulina	buttocks	mata	mata	m a t a	BUTTOCKS	133	133
+44472	Deni	buttocks	mata	mata	m a t a	BUTTOCKS	133	133
+44473	Jarawara	buttocks	mate	mate	m a t e	BUTTOCKS	133	133
+44474	Banawa	buttocks	mate	mate	m a t e	BUTTOCKS	133	133
+44475	Jamamadi	buttocks	mate	mate	m a t e	BUTTOCKS	133	133
+#
+1598	Jarawara	cangati	moro	moro	m o r o	FISH	0	689
+#
+165	Banawa	capuchin monkey	jowi	jowi	j o w i	CAPUCHIN.MONKEY	263	263
+166	Jarawara	capuchin monkey	jowi	jowi	j o w i	CAPUCHIN.MONKEY	263	263
+168	Deni	capuchin monkey	jowihi	jowihi	j o w i h i	CAPUCHIN.MONKEY	263	263
+169	Jamamadi	capuchin monkey	jowihi	jowihi	j o w i h i	CAPUCHIN.MONKEY	263	263
+170	Kulina	capuchin monkey	jowihi	jowihi	j o w i h i	CAPUCHIN.MONKEY	263	263
+1585	Jarawara	capuchin monkey	kiso	kiso	k i s o	CAPUCHIN.MONKEY	108	108
+1586	Banawa	capuchin monkey	kiso	kiso	k i s o	CAPUCHIN.MONKEY	108	108
+1587	Jamamadi	capuchin monkey	kiso	kiso	k i s o	CAPUCHIN.MONKEY	108	108
+#
+171	Kulina	cará	biha	biha	b i h a	CARÁ	330	330
+172	Deni	cará	biha	biha	b i h a	CARÁ	330	330
+173	Jarawara	cará	biha	biha	b i h a	CARÁ	330	330
+174	Banawa	cará	biha	biha	b i h a	CARÁ	330	330
+175	Jamamadi	cará	biha	biha	b i h a	CARÁ	330	330
+#
+44548	Deni	cará (fish sp.)	otawi	otawi	o t a w i	CARÁ.(FISH.SP.)	149	149
+44549	Jarawara	cará (fish sp.)	ote	ote	o t e	CARÁ.(FISH.SP.)	149	149
+44550	Banawa	cará (fish sp.)	ote	ote	o t e	CARÁ.(FISH.SP.)	149	149
+44551	Jamamadi	cará (fish sp.)	ote	ote	o t e	CARÁ.(FISH.SP.)	149	149
+#
+176	Banawa	cashew	ajawa	ajawa	a j a w a	CASHEW	205	205
+177	Jarawara	cashew	ajawa	ajawa / winika	a j a w a	CASHEW	205	205
+180	Jarawara	cashew	winika	ajawa / winika	w i n i k a	CASHEW	205	205
+181	Jamamadi	cashew	winika	winika	w i n i k a	CASHEW	205	205
+#
+184	Banawa	catch	wata	wata	w a t a	CATCH	235	235
+185	Jamamadi	catch	wata	wata	w a t a	CATCH	235	235
+186	Jarawara	catch	wata	wata	w a t a	CATCH	235	235
+#
+187	Jarawara	cheek	ebete	ebete	e b e t e	CHEEK	331	331
+188	Banawa	cheek	ebete	ebete	e b e t e	CHEEK	331	331
+189	Jamamadi	cheek	ebete	ebete	e b e t e	CHEEK	331	331
+190	Kulina	cheek	ebethe	ebethe	e b e t h e	CHEEK	331	331
+#
+191	Deni	chest	bakho	bakho	b a k h o	CHEST	21	21
+192	Kulina	chest	bakho	bakho	b a k h o	CHEST	21	21
+193	Banawa	chest	baki	baki	b a k i	CHEST	21	21
+194	Jamamadi	chest	baki	baki	b a k i	CHEST	21	21
+195	Jarawara	chest	baki	baki	b a k i	CHEST	21	21
+#
+197	Kulina	child	ehedeni	ehedeni	e h e d e n i	CHILD	0	0
+198	Jarawara	child	inamatewe	inamatewe	i n a m a t e w e	CHILD	0	0
+#
+1548	Kulina	chin	anada	anada	a n a d a	CHIN	100	100
+1549	Deni	chin	anada	anada	a n a d a	CHIN	100	100
+1550	Jarawara	chin	anate	anate	a n a t e	CHIN	100	100
+1551	Banawa	chin	anade	anade	a n a d e	CHIN	100	100
+1552	Jamamadi	chin	anade	anade	a n a d e	CHIN	100	100
+#
+199	Banawa	close	boko	boko	b o k o	CLOSE	32	32
+200	Deni	close	boko	boko	b o k o	CLOSE	32	32
+201	Jarawara	close	boko	boko	b o k o	CLOSE	32	32
+202	Kulina	close	boko	boko	b o k o	CLOSE	32	32
+#
+203	Kulina	cloud	meme eshe	meme eshe	m e m e + e s h e	CLOUD	0	1001 1002
+204	Jarawara	cloud	sabi	sabi	s a b i	CLOUD	0	0
+#
+1531	Kulina	coati	jotomi	jotomi	j o t o m i	COATI	96	96
+1532	Deni	coati	jotomi	jotomi	j o t o m i	COATI	96	96
+1533	Jarawara	coati	jotomi	jotomi	j o t o m i	COATI	96	96
+1534	Banawa	coati	jotomi	jotomi	j o t o m i	COATI	96	96
+1535	Jamamadi	coati	jotomi	jotomi	j o t o m i	COATI	96	96
+#
+205	Deni	cold	mimide	mimide	m i m i d e	COLD	0	0
+206	Kulina	cold	shiri	shiri	s h i r i	COLD	0	0
+#
+207	Jarawara	companion	tase	tase	t a s e	COMPANION	332	332
+208	Banawa	companion	tase	tase	t a s e	COMPANION	332	332
+209	Jamamadi	companion	tese	tese	t e s e	COMPANION	332	332
+210	Kulina	companion	teshe	teshe	t e s h e	COMPANION	332	332
+#
+3334	Jarawara	container for	wije	wije	w i j e	unknown10	0	500
+3335	Banawa	container for	wije	wije	w i j e	unknown10	0	500
+3336	Jamamadi	container for	wije	wije	w i j e	unknown10	0	500
+#
+1300	Kulina	cook	kaari	kaari	k a a r i	COOK	0	0
+1301	Deni	cook	kaʔa	kaʔa	k a ʔ a	COOK	0	0
+#
+211	Deni	corpse	abapo	abapo	a b a p o	CORPSE	0	0
+#
+212	Deni	correct	naniarini	naniarini	n a n i a r i n i	CORRECT	0	0
+#
+214	Kulina	cough	thoho	thoho	t h o h o	COUGH	333	333
+215	Deni	cough	thoho	thoho	t h o h o	COUGH	333	333
+216	Jarawara	cough	toho	toho	t o h o	COUGH	333	333
+217	Banawa	cough	toho	toho	t o h o	COUGH	333	333
+218	Jamamadi	cough	toho	toho	t o h o	COUGH	333	333
+#
+220	Jamamadi	crab	amo	amo	a m o	CRAB	7	7
+221	Kulina	crab	amo	amo	a m o	CRAB	7	7
+#
+1014	Banawa	cry	ohi	ohi	o h i	CRY	304	304
+1015	Deni	cry	ohi	ohi	o h i	CRY	304	304
+1016	Jamamadi	cry	ohi	ohi	o h i	CRY	304	304
+1017	Jarawara	cry	ohi	ohi	o h i	CRY	304	304
+1018	Kulina	cry	ohi	ohi	o h i	CRY	304	304
+#
+1019	Deni	cut	ka	ka	k a	CUT	265	265
+1020	Kulina	cut	ka	ka	k a	CUT	265	265
+1021	Banawa	cut	kaa	kaa	k a a	CUT	265	265
+1022	Jamamadi	cut	kaa	kaa	k a a	CUT	265	265
+1023	Jarawara	cut	kaa	kaa	k a a	CUT	265	265
+1024	Kulina	cut	wishi	wishi	w i s h i	CUT	265	265
+#
+223	Jarawara	day	jia	jia	j i a	DAY	0	0
+224	Deni	day	vada	vada	v a d a	DAY	0	0
+#
+225	Deni	deer	bado	bado	b a d o	DEER	214	214
+226	Kulina	deer	bado	bado	b a d o	DEER	214	214
+227	Banawa	deer	badoe	badoe	b a d o e	DEER	214	214
+228	Jamamadi	deer	bato	bato	b a t o	DEER	214	214
+229	Jarawara	deer	bato	bato	b a t o	DEER	214	214
+#
+918	Deni	defecate	kija	kija	k i j a	DEFECATE	0	1212
+#
+231	Deni	demolish	dobe	dobe	d o b e	DEMOLISH	0	0
+#
+233	Kulina	design	hano	hano	h a n o	DESIGN	334	334
+234	Deni	design	hano	hano	h a n o	DESIGN	334	334
+235	Jarawara	design	hano	hano	h a n o	DESIGN	334	334
+236	Banawa	design	hano	hano	h a n o	DESIGN	334	334
+#
+1025	Kulina	die	zokhe	zokhe	z o k h e	DIE	0	0
+#
+1026	Deni	dig	wi	wi	w i	DIG	1133	1133
+1027	Kulina	dig	wi	wi	w i	DIG	1133	1133
+1028	Jarawara	dig	wii	wii	w i i	DIG	1133	1133
+1029	Banawa	dig	wii	wii	w i i	DIG	1133	1133
+1030	Jamamadi	dig	wii	wii	w i i	DIG	1133	1133
+#
+237	Jarawara	dirty	bisa	bisa / tohya	b i s a	DIRTY	14	14
+238	Jarawara	dirty	tohya	bisa / tohya	t o h y a	DIRTY	14	14
+239	Jarawara	dirty	bisa	bisa	b i s a	DIRTY	14	14
+240	Deni	dirty	kiri	kiri	k i r i	DIRTY	0	0
+241	Kulina	dirty	oba	oba	o b a	DIRTY	0	0
+#
+1676	Deni	disappear	phira	phira	p h i r a	unknown3	0	403
+#
+44590	Deni	disappear from view	phiri	phiri	p h i r i	DISAPPEAR.FROM.VIEW	159	159
+#
+243	Kulina	dog	ethe	ethe	e t h e	DOG	0	0
+244	Jarawara	dog	jomee	jomee	j o m e e	DOG	0	0
+#
+44533	Kulina	door	nokhobihi	nokhobihi	n o k h o b i h i	DOOR	146	146
+44534	Deni	door	nokho	nokho	n o k h o	DOOR	146	146
+44535	Jarawara	door	nokho	nokho	n o k h o	DOOR	146	146
+44536	Banawa	door	nokho	nokho	n o k h o	DOOR	146	146
+44537	Jamamadi	door	nokobi	nokobi	n o k o b i	DOOR	146	146
+#
+245	Jamamadi	dove	okoko	okoko	o k o k o	PIGEON	307	307
+246	Jarawara	dove	okoko	okoko	o k o k o	PIGEON	307	307
+#
+1543	Deni	dove sp.	kamowa	kamowa	k a m o w a	DOVE.SP.	98	98
+#
+1031	Banawa	drink	fawa	fawa	f a w a	DRINK	315	315
+1032	Jamamadi	drink	fawa	fawa	f a w a	DRINK	315	315
+1034	Deni	drink	powa	powa	p o w a	DRINK	315	315
+1035	Kulina	drink	ze	ze	z e	DRINK	315	315
+#
+248	Banawa	dry	hoko	hoko	h o k o	DRY	234	234
+249	Jarawara	dry	hoko	hoko	h o k o	DRY	234	234
+250	Kulina	dry	hoko	hoko	h o k o	DRY	234	234
+251	Deni	dry	hoko	hoko / kukutunade	h o k o	DRY	234	234
+252	Jamamadi	dry	hokori	hokori	h o k o r i	DRY	234	234
+253	Deni	dry	kukutunade	hoko / kukutunade	k u k u t u n a d e	DRY	234	234
+#
+254	Jarawara	dull (as a knife)	toboro	toboro	t o b o r o	DULL.(AS.A.KNIFE)	0	0
+#
+255	Jarawara	dust	hobokori	hobokori	h o b o k o r i	DUST	0	0
+#
+44626	Kulina	eagle-hawk (Harpia harpia)	sibiri	sibiri	s i b i r i	EAGLE-HAWK.(HARPIA.HARPIA)	168	168
+44627	Deni	eagle-hawk (Harpia harpia)	shibiri	shibiri	s h i b i r i	EAGLE-HAWK.(HARPIA.HARPIA)	168	168
+44628	Jarawara	eagle-hawk (Harpia harpia)	sibiri	sibiri	s i b i r i	EAGLE-HAWK.(HARPIA.HARPIA)	168	168
+44629	Jamamadi	eagle-hawk (Harpia harpia)	sibiri	sibiri	s i b i r i	EAGLE-HAWK.(HARPIA.HARPIA)	168	168
+44630	Banawa	eagle-hawk (Harpia harpia)	sibiria	sibiria	s i b i r i a	EAGLE-HAWK.(HARPIA.HARPIA)	168	168
+#
+256	Kulina	ear	aribo	aribo	a r i b o	EAR	300	300
+259	Jarawara	ear	narabi	narabi/warabi	n a r a b i	EAR	300	300
+260	Jarawara	ear	warabi	narabi/warabi	w a r a b i	EAR	300	300
+261	Banawa	ear	warabi	warabi	w a r a b i	EAR	300	300
+262	Deni	ear	waribo	waribo	w a r i b o	EAR	300	300
+#
+264	Kulina	earthworm	shomi	shomi	s h o m i	EARTHWORM	335	335
+265	Deni	earthworm	shomi	shomi	s h o m i	EARTHWORM	335	335
+266	Jarawara	earthworm	somi	somi	s o m i	EARTHWORM	335	335
+267	Banawa	earthworm	somi	somi	s o m i	EARTHWORM	335	335
+268	Jamamadi	earthworm	somi	somi	s o m i	EARTHWORM	335	335
+#
+1037	Kulina	eat	hipa	hipa	h i p a	EAT	0	0
+1038	Deni	eat	kadapi	kadapi	k a d a p i	EAT	0	0
+1328	Deni	eat	hao	hao	h a o	EAT	53	53
+1677	Deni	eat	komi	komi	k o m i	unknown15	0	683
+#
+270	Kulina	egg	nephe	nephe	n e p h e	EGG	0	0
+#
+271	Banawa	electric eel	imati	imati	i m a t i	ELECTRIC.EEL	291	291
+272	Jarawara	electric eel	imati	imati	i m a t i	ELECTRIC.EEL	291	291
+273	Deni	electric eel	minati	minati	m i n a t i	ELECTRIC.EEL	291	291
+274	Kulina	electric eel	minati	minati	m i n a t i	ELECTRIC.EEL	291	291
+#
+276	Banawa	exchange	manako	manako	m a n a k o	EXCHANGE	290	290
+277	Deni	exchange	manako	manako	m a n a k o	EXCHANGE	290	290
+278	Jamamadi	exchange	manako	manako	m a n a k o	EXCHANGE	290	290
+279	Kulina	exchange	manako	manako	m a n a k o	EXCHANGE	290	290
+280	Jarawara	exchange	manakone	manakone	m a n a k o n e	EXCHANGE	290	290
+#
+281	Kulina	eye	nokho	nokho	n o k h o	EYE	0	0
+#
+1039	Kulina	fall	shona	shona	s h o n a	FALL	0	0
+1040	Deni	fall	sona	sona	s o n a	FALL	0	0
+1041	Kulina	fall	katoha	katoha	k a t o h a	FALL	0	0
+#
+282	Jarawara	fan	bihi	bihi	b i h i	FAN	0	0
+283	Banawa	fan	bihi	bihi	b i h i	FAN	0	0
+#
+284	Jarawara	far	jabo	jabo	j a b o	FAR	0	0
+285	Deni	far	vahini	vahini	v a h i n i	FAR	0	0
+286	Kulina	far	wahi	wahi	w a h i	FAR	0	0
+#
+44669	Kulina	fasten	shoke	shoke	s h o k e	FASTEN	177	177
+44670	Deni	fasten	shoki	shoki	s h o k i	FASTEN	177	177
+44671	Jarawara	fasten	soki	soki	s o k i	FASTEN	177	177
+44672	Banawa	fasten	soki	soki	s o k i	FASTEN	177	177
+44673	Jamamadi	fasten	soki	soki	s o k i	FASTEN	177	177
+#
+498	Jarawara	fat	jaha	jaha	j a h a	FAT	0	0
+499	Banawa	fat	jahi	jahi	j a h i	FAT	0	0
+500	Jamamadi	fat	jahi	jahi	j a h i	FAT	0	0
+#
+287	Kulina	fat (noun)	okine	okine	o k i n e	FAT.(NOUN)	0	0
+#
+288	Banawa	father	abi	abi	a b i	FATHER	1	1
+289	Jamamadi	father	abi	abi	a b i	FATHER	1	1
+290	Jarawara	father	abi	abi	a b i	FATHER	1	1
+291	Kulina	father	abi	abi	a b i	FATHER	1	1
+#
+295	Banawa	father's brother	badise	badise	b a d i s e	FATHER'S.BROTHER	336	336
+296	Jamamadi	father's brother	badise	badise	b a d i s e	FATHER'S.BROTHER	336	336
+297	Jarawara	father's brother	batise	batise	b a t i s e	FATHER'S.BROTHER	336	336
+#
+298	Deni	father's sister	asho	asho	a s h o	FATHER'S.SISTER	17	17
+299	Kulina	father's sister	asho	asho	a s h o	FATHER'S.SISTER	17	17
+300	Banawa	father's sister	aso	aso	a s o	FATHER'S.SISTER	17	17
+301	Jamamadi	father's sister	aso	aso	a s o	FATHER'S.SISTER	17	17
+302	Jarawara	father's sister	aso	aso	a s o	FATHER'S.SISTER	17	17
+44466	Kulina	father's sister	mashodini	mashodini	m a s h o d i n i	FATHER'S.SISTER	131	131
+44467	Deni	father's sister	mashodini	mashodini	m a s h o d i n i	FATHER'S.SISTER	131	131
+#
+306	Banawa	feces	ijo	ijo	i j o	FECES	248	248
+307	Deni	feces	ijo	ijo	i j o	FECES	248	248
+308	Jamamadi	feces	ijo	ijo	i j o	FECES	248	248
+309	Jarawara	feces	ijo	ijo	i j o	FECES	248	248
+310	Kulina	feces	ijo	ijo	i j o	FECES	248	248
+#
+313	Kulina	fingernail	nokoshi	nokoshi	n o k o s h i	FINGERNAIL	0	685
+#
+314	Banawa	fire	jifo	jifo	j i f o	FIRE	259	259
+315	Jamamadi	fire	jifo	jifo	j i f o	FIRE	259	259
+316	Jarawara	fire	jifo	jifo	j i f o	FIRE	259	259
+317	Deni	fire	jipho	jipho	j i p h o	FIRE	259	259
+318	Kulina	fire	jipho	jipho	j i p h o	FIRE	259	259
+#
+1599	Kulina	first	taʔide	taʔide	t a ʔ i d e	unknown7	0	0
+1600	Deni	first	tatide	tatide	t a t i d e	unknown7	0	0
+#
+321	Banawa	fish	aba	aba	a b a	FISH	201	201
+322	Deni	fish	aba	aba	a b a	FISH	201	201
+323	Jamamadi	fish	aba	aba	a b a	FISH	201	201
+324	Jarawara	fish	aba	aba	a b a	FISH	201	201
+326	Kulina	fish	aba	aba	a b a	FISH	201	201
+#
+1725	Kulina	fish sp.	khorobo	khorobo	k h o r o b o	FISH.SP.	122	0
+1726	Deni	fish sp.	korobo	korobo	k o r o b o	FISH.SP.	122	0
+1727	Jarawara	fish sp.	korobo	korobo	k o r o b o	FISH.SP.	122	0
+1728	Banawa	fish sp.	korobo	korobo	k o r o b o	FISH.SP.	122	0
+1729	Jamamadi	fish sp.	korobo	korobo	k o r o b o	FISH.SP.	122	0
+44610	Jarawara	fish sp.	siraba	siraba	s i r a b a	FISH.SP.	164	164
+44611	Banawa	fish sp.	siraba	siraba	s i r a b a	FISH.SP.	164	164
+44612	Jamamadi	fish sp.	siraba	siraba	s i r a b a	FISH.SP.	164	164
+#
+330	Deni	fix	ta	ta	t a	FIX	45	45
+#
+332	Jarawara	flower	mowe	mowe	m o w e	FLOWER	337	337
+333	Kulina	flower	mowe	mowe	m o w e	FLOWER	337	337
+44486	Kulina	flower	mowe	mowe	m o w e	FLOWER	136	136
+44487	Jarawara	flower	mowe	mowe	m o w e	FLOWER	136	136
+44488	Banawa	flower	mowe	mowe	m o w e	FLOWER	136	136
+44489	Jamamadi	flower	mowe	mowe	m o w e	FLOWER	136	136
+#
+334	Jarawara	fog	hote	hote	h o t e	FOG	0	0
+#
+335	Banawa	food	jamata	jamata	j a m a t a	FOOD	255	255
+336	Jamamadi	food	jamata	jamata	j a m a t a	FOOD	255	255
+337	Jarawara	food	jamata	jamata	j a m a t a	FOOD	255	255
+338	Kulina	food	jamatapa	jamatapa	j a m a t a p a	FOOD	255	255
+#
+339	Kulina	foot	amori	amori	a m o r i	FOOT	0	0
+340	Jarawara	foot	tame	tame	t a m e	FOOT	0	0
+1310	Jarawara	foot	teme	teme	t e m e	FOOT	47	47
+1311	Banawa	foot	teme	teme	t e m e	FOOT	47	47
+1312	Jamamadi	foot	teme	teme	t e m e	FOOT	47	47
+#
+342	Jarawara	forehead	ate	ate	a t e	FOREHEAD	210	210
+343	Deni	forehead	atha	atha	a t h a	FOREHEAD	210	210
+#
+345	Kulina	forest	zama	zama	z a m a	FOREST	0	0
+502	Kulina	forest	jama	jama	j a m a	FOREST	341	341
+#
+347	Jamamadi	frog	boka	boka	b o k a	FROG	31	31
+348	Deni	frog	boko	boko	b o k o	FROG	31	31
+349	Deni	frog	joiwa	joiwa	j o i w a	FROG	264	264
+350	Jarawara	frog	jowi	jowi	j o w i	FROG	264	264
+#
+1473	Kulina	frog sp.	japhaʔi	japhaʔi	j a p h a ʔ i	FROG.SP.	84	84
+44552	Deni	frog sp.	owawa	owawa	o w a w a	FROG.SP.	150	150
+44553	Jamamadi	frog sp.	owawa	owawa	o w a w a	FROG.SP.	150	150
+#
+351	Deni	fruit	bono	bono	b o n o	FRUIT	34	34
+352	Kulina	fruit	bono	bono	b o n o	FRUIT	34	34
+355	Jarawara	fruit	mawa	mawa	m a w a	FRUIT	0	0
+#
+356	Banawa	fruit tree	joha	joha	j o h a	FRUIT.TREE	261	261
+357	Deni	fruit tree	joha	joha	j o h a	FRUIT.TREE	261	261
+358	Kulina	fruit tree	joha	joha	j o h a	FRUIT.TREE	261	261
+359	Jamamadi	fruit tree	joha	joha/watama	j o h a	FRUIT.TREE	261	261
+360	Jarawara	fruit tree	joha	joha/watama	j o h a	FRUIT.TREE	261	261
+361	Jamamadi	fruit tree	watama	joha/watama	w a t a m a	FRUIT.TREE	261	261
+362	Jarawara	fruit tree	watama	joha/watama	w a t a m a	FRUIT.TREE	261	261
+#
+364	Kulina	fruit vine	sabono	sabono	s a b o n o	FRUIT.VINE	338	338
+365	Deni	fruit vine	sabono	sabono	s a b o n o	FRUIT.VINE	338	338
+366	Jarawara	fruit vine	sabono	sabono	s a b o n o	FRUIT.VINE	338	338
+367	Banawa	fruit vine	sabono	sabono	s a b o n o	FRUIT.VINE	338	338
+368	Jamamadi	fruit vine	sabono	sabono	s a b o n o	FRUIT.VINE	338	338
+#
+369	Jarawara	full	moo	moo	m o o	FULL	0	0
+#
+370	Banawa	game animal	bani	bani	b a n i	GAME.ANIMAL	24	24
+371	Deni	game animal	bani	bani	b a n i	GAME.ANIMAL	24	24
+372	Jamamadi	game animal	bani	bani	b a n i	GAME.ANIMAL	24	24
+373	Jarawara	game animal	bani	bani	b a n i	GAME.ANIMAL	24	24
+374	Kulina	game animal	bani	bani	b a n i	GAME.ANIMAL	24	24
+#
+44554	Jarawara	garden	fatara	fatara	f a t a r a	GARDEN	151	151
+44555	Jamamadi	garden	fadara	fadara	f a d a r a	GARDEN	151	151
+#
+44538	Kulina	genipap	ora	ora	o r a	GENIPAP	147	147
+44539	Deni	genipap	ora	ora	o r a	GENIPAP	147	147
+44540	Jarawara	genipap	ora	ora	o r a	GENIPAP	147	147
+44541	Banawa	genipap	ora	ora	o r a	GENIPAP	147	147
+44542	Jamamadi	genipap	ora	ora	o r a	GENIPAP	147	147
+#
+375	Kulina	give	da	da	d a	GIVE	37	37
+377	Kulina	give	daka	daka	d a k a	GIVE	37	37
+1043	Deni	give	da	da	d a	GIVE	37	37
+#
+1625	Jarawara	give off light	oja	oja	o j a	GIVE.OFF.LIGHT	687	687
+#
+1047	Banawa	go	ka	ka	k a	GO	236	236
+1048	Jamamadi	go	ka	ka	k a	GO	236	236
+1049	Jarawara	go	ka	ka	k a	GO	236	236
+1050	Deni	go	kha	kha	k h a	GO	236	236
+1052	Kulina	go	khani	khani	k h a n i	GO	236	236
+1053	Deni	go	wahi	wahi	w a h i	GO	236	236
+#
+1601	Jarawara	go first	tai	tai	t a i	unknown7	0	688
+1602	Banawa	go first	dai	dai	d a i	unknown7	0	688
+1603	Jamamadi	go first	dai	dai	d a i	unknown7	0	688
+#
+44558	Kulina	gourd	paho	paho	p a h o	GOURD	152	152
+#
+378	Deni	grab	dama	dama	d a m a	GRAB	39	39
+379	Jamamadi	grab	dama	dama	d a m a	GRAB	39	39
+380	Jarawara	grab	dama	dama	d a m a	GRAB	39	39
+381	Banawa	grab	tama	tama	t a m a	GRAB	39	39
+#
+1362	Kulina	grandchild	hinodi	hinodi	h i n o d i	GRANDCHILD	59	59
+1363	Deni	grandchild	hinodini	hinodini	h i n o d i n i	GRANDCHILD	59	59
+1364	Jarawara	grandchild	noti	noti	n o t i	GRANDCHILD	59	59
+1365	Jamamadi	grandchild	nodi	nodi	n o d i	GRANDCHILD	59	59
+#
+1416	Kulina	grandfather	idi	idi	i d i	GRANDFATHER	72	72
+1417	Jarawara	grandfather	iti	iti	i t i	GRANDFATHER	72	72
+1418	Banawa	grandfather	idi	idi	i d i	GRANDFATHER	72	72
+1419	Jamamadi	grandfather	idi	idi	i d i	GRANDFATHER	72	72
+#
+382	Kulina	grass	zero makha	zero makha	z e r o + m a k h a	GRASS	0	155 288
+383	Kulina	grass	zero taapi	zero taapi	z e r o + t a a p i	GRASS	0	123 124
+#
+1337	Kulina	grasshopper sp.	abisha	abisha	a b i s h a	GRASSHOPPER.SP.	55	55
+1338	Deni	grasshopper sp.	abisha	abisha	a b i s h a	GRASSHOPPER.SP.	55	55
+1339	Jarawara	grasshopper sp.	abise	abise	a b i s e	GRASSHOPPER.SP.	55	55
+1340	Banawa	grasshopper sp.	abise	abise	a b i s e	GRASSHOPPER.SP.	55	55
+1341	Jamamadi	grasshopper sp.	habise	habise	h a b i s e	GRASSHOPPER.SP.	55	55
+#
+1325	Kulina	grate	heki	heki	h e k i	GRATE	52	52
+1326	Deni	grate	heki	heki	h e k i	GRATE	52	52
+#
+1395	Kulina	great anteater	hojawa	hojawa	h o j a w a	GREAT.ANTEATER	65	65
+#
+384	Deni	green	derepede	derepede	d e r e p e d e	GREEN	0	0
+#
+385	Banawa	ground	nami	nami	n a m i	GROUND	297	297
+386	Deni	ground	nami	nami	n a m i	GROUND	297	297
+387	Kulina	ground	nami	nami	n a m i	GROUND	297	297
+389	Jarawara	ground	wami	wami	w a m i	GROUND	297	297
+#
+1731	Deni	growl	koro	koro	k o r o	GROWL	123	0
+#
+390	Banawa	guan	dafo	dafo	d a f o	GUAN	42	42
+391	Jamamadi	guan	dafo	dafo	d a f o	GUAN	42	42
+393	Deni	guan	dapo	dapo	d a p o	GUAN	42	42
+394	Kulina	guan	dapo	dapo	d a p o	GUAN	42	42
+395	Jarawara	guan	tafo	tafo	t a f o	GUAN	42	42
+#
+396	Jarawara	hair	kona	kona	k o n a	HAIR	275	275
+397	Kulina	hair	kona	kona	k o n a	HAIR	275	275
+399	Banawa	hair	kone	kone	k o n e	HAIR	275	275
+400	Deni	hair	kone	kone	k o n e	HAIR	275	275
+401	Jamamadi	hair	kone	kone	k o n e	HAIR	275	275
+402	Jarawara	hair	kone	kone	k o n e	HAIR	275	275
+#
+404	Banawa	hammock	jifo	jifo	j i f o	HAMMOCK	260	260
+405	Jamamadi	hammock	jifo	jifo	j i f o	HAMMOCK	260	260
+406	Jarawara	hammock	jifo	jifo	j i f o	HAMMOCK	260	260
+407	Deni	hammock	phoʔi	phoʔi	p h o ʔ i	HAMMOCK	260	260
+408	Kulina	hammock	phoʔi	phoʔi	p h o ʔ i	HAMMOCK	260	260
+#
+410	Jarawara	hand	jehe	jehe	j e h e	HAND	0	0
+411	Kulina	hand	zepe	zepe	z e p e	HAND	0	0
+1464	Kulina	hand	japa	japa	j a p a	HAND	83	83
+1465	Deni	hand	japa	japa	j a p a	HAND	83	83
+1467	Jarawara	hand	jee	jehe / jee	j e e	HAND	83	83
+1468	Banawa	hand	jahi	jahi	j a h i	HAND	83	83
+1469	Jamamadi	hand	jahi	jahi / jefe	j a h i	HAND	83	83
+1470	Jamamadi	hand	jefe	jahi / jefe	j e f e	HAND	83	83
+#
+413	Deni	hard	khara	khara	k h a r a	HARD	278	278
+414	Kulina	hard	khara	khara	k h a r a	HARD	278	278
+#
+415	Jarawara	he	he	he	h e	HE	0	0
+416	Kulina	he	powa	powa	p o w a	HE	0	0
+#
+417	Banawa	head	tati	tati	t a t i	HEAD	44	44
+418	Deni	head	tati	tati	t a t i	HEAD	44	44
+419	Jamamadi	head	tati	tati	t a t i	HEAD	44	44
+420	Jarawara	head	tati	tati	t a t i	HEAD	44	44
+421	Kulina	head	tati	tati	t a t i	HEAD	44	44
+#
+1054	Banawa	hear	mita	mita	m i t a	HEAR	293	293
+1055	Jamamadi	hear	mita	mita	m i t a	HEAR	293	293
+1056	Jarawara	hear	mita	mita	m i t a	HEAR	293	293
+1058	Deni	hear	mitha	mitha	m i t h a	HEAR	293	293
+1059	Kulina	hear	mitha	mitha	m i t h a	HEAR	293	293
+#
+425	Kulina	heart	bonokhori	bonokhori	b o n o k h o r i	HEART	285	285
+426	Banawa	heart	wakamari	wakamari	w a k a m a r i	HEART	285	285
+#
+427	Banawa	heavy	kanaha	kanaha	k a n a h a	HEAVY	279	279
+428	Deni	heavy	kanaha	kanaha	k a n a h a	HEAVY	279	279
+430	Kulina	heavy	khanaha	khanaha	k h a n a h a	HEAVY	279	279
+#
+431	Banawa	here	ahi	ahi	a h i	HERE	204	204
+432	Deni	here	ahi	ahi	a h i	HERE	204	204
+433	Jamamadi	here	ahi	ahi	a h i	HERE	204	204
+434	Jarawara	here	ahi	ahi	a h i	HERE	204	204
+435	Kulina	here	ahi	ahi	a h i	HERE	204	204
+#
+439	Banawa	heron	jawiro	jawiro	j a w i r o	HERON	257	257
+440	Jamamadi	heron	jawiro	jawiro	j a w i r o	HERON	257	257
+441	Jarawara	heron	jawiro	jawiro	j a w i r o	HERON	257	257
+#
+1367	Kulina	heron sp.	anopi	anopi	a n o p i	HERON.SP.	60	60
+1368	Jarawara	heron sp.	anafi	anafi	a n a f i	HERON.SP.	60	60
+1369	Banawa	heron sp.	anafi	anafi	a n a f i	HERON.SP.	60	60
+1370	Jamamadi	heron sp.	anafi	anafi	a n a f i	HERON.SP.	60	60
+1397	Kulina	heron sp.	honore	honore	h o n o r e	HERON.SP.	66	66
+1398	Deni	heron sp.	honore	honore	h o n o r e	HERON.SP.	66	66
+#
+442	Banawa	high	fota	fota	f o t a	HIGH	314	314
+443	Jarawara	high	fota	fota	f o t a	HIGH	314	314
+444	Kulina	high	pota	pota	p o t a	HIGH	314	314
+445	Deni	high	potaha	potaha	p o t a h a	HIGH	314	314
+#
+446	Banawa	hill	adami	adami	a d a m i	HILL	3	3
+447	Deni	hill	adami	adami	a d a m i	HILL	3	3
+448	Jamamadi	hill	adami	adami	a d a m i	HILL	3	3
+449	Kulina	hill	adami	adami	a d a m i	HILL	3	3
+452	Jarawara	hill	atami	atami	a t a m i	HILL	3	3
+#
+457	Kulina	hit	da	da	d a	HIT	38	38
+459	Deni	hit	daka	daka	d a k a	HIT	38	38
+1061	Banawa	hit	baa	baa	b a a	BEAT	0	212
+1062	Deni	hit	baa	baa	b a a	BEAT	0	212
+1063	Jamamadi	hit	baa	baa	b a a	BEAT	0	212
+1064	Jarawara	hit	baa	baa	b a a	BEAT	0	212
+1067	Kulina	hit	ida	ida	i d a	TO.HIT	212	212
+1068	Kulina	hit	pha	pha	p h a	TO.HIT	212	212
+1593	Kulina	hit	koba	koba	k o b a	HIT	110	110
+1594	Deni	hit	koba	koba	k o b a	HIT	110	110
+#
+460	Banawa	hole	hodi	hodi	h o d i	HOLE	246	246
+461	Jamamadi	hole	hodi	hodi	h o d i	HOLE	246	246
+463	Jarawara	hole	hoti	hoti	h o t i	HOLE	246	246
+464	Deni	hole	odi	odi	o d i	HOLE	246	246
+465	Kulina	hole	odi	odi	o d i	HOLE	246	246
+#
+1664	Jarawara	home	tabora	tabora	t a b o r a	unknown5	0	408
+1665	Banawa	home	tabora	tabora	t a b o r a	unknown5	0	408
+1666	Jamamadi	home	tabora	tabora	t a b o r a	unknown5	0	408
+#
+466	Kulina	horn	ori	ori	o r i	HORN	0	0
+#
+467	Deni	house	jamari	jamari	j a m a r i	HOUSE	254	254
+#
+1627	Deni	house girder	pinine	pinine	p i n i n e	unknown1	0	400
+#
+469	Kulina	howler monkey	jajio	jajio	j a j i o	HOWLER.MONKEY	252	252
+470	Deni	howler monkey	jajiʔo	jajiʔo	j a j i ʔ o	HOWLER.MONKEY	252	252
+471	Banawa	howler monkey	jiko	jiko	j i k o	HOWLER.MONKEY	252	252
+472	Jamamadi	howler monkey	jiko	jiko	j i k o	HOWLER.MONKEY	252	252
+473	Jarawara	howler monkey	jiko	jiko	j i k o	HOWLER.MONKEY	252	252
+#
+476	Kulina	husband	makhi	makhi	m a k h i	HUSBAND	0	289
+#
+479	Jarawara	ice	selo	selo	s e l o	ICE	0	0
+#
+480	Jarawara	if	ya	ya	y a	IF	0	0
+#
+481	Banawa	illuminate	firi	firi	f i r i	ILLUMINATE	312	312
+482	Jamamadi	illuminate	firi	firi	f i r i	ILLUMINATE	312	312
+483	Jarawara	illuminate	firi	firi	f i r i	ILLUMINATE	312	312
+484	Deni	illuminate	piri	piri	p i r i	ILLUMINATE	312	312
+485	Kulina	illuminate	piri	piri	p i r i	ILLUMINATE	312	312
+#
+486	Banawa	imbauba	boko	boko	b o k o	IMBAUBA	35	35
+487	Jarawara	imbauba	boko	boko	b o k o	IMBAUBA	35	35
+488	Jamamadi	imbauba	bokosara	bokosara	b o k o s a r a	IMBAUBA	35	35
+#
+3333	Deni	in company with	wijehe	wijehe	w i j e h e	unknown10	0	500
+#
+1643	Jarawara	in front of	nokosi	nokosi	n o k o s i	FINGERNAIL	0	685
+1644	Banawa	in front of	nokosi	nokosi	n o k o s i	FINGERNAIL	0	685
+#
+490	Banawa	inside	bodi	bodi	b o d i	INSIDE	30	30
+491	Deni	inside	bodi	bodi	b o d i	INSIDE	30	30
+492	Kulina	inside	bodi	bodi	b o d i	INSIDE	30	30
+494	Jarawara	inside	boti	boti	b o t i	INSIDE	30	30
+#
+508	Kulina	inside part	doro	doro	d o r o	INSIDE.PART	342	342
+509	Deni	inside part	doro	doro	d o r o	INSIDE.PART	342	342
+510	Jarawara	inside part	toro	toro	t o r o	INSIDE.PART	342	342
+511	Banawa	inside part	doro	doro	d o r o	INSIDE.PART	342	342
+512	Jamamadi	inside part	doro	doro	d o r o	INSIDE.PART	342	342
+#
+1502	Kulina	jaguar	jomahi	jomahi	j o m a h i	JAQUAR	90	90
+1503	Deni	jaguar	jomahi	jomahi	j o m a h i	JAQUAR	90	90
+1504	Jarawara	jaguar	jomahi	jomahi	j o m a h i	JAQUAR	90	90
+1505	Banawa	jaguar	jomahi	jomahi	j o m a h i	JAQUAR	90	90
+1506	Jamamadi	jaguar	jomahi	jomahi	j o m a h i	JAQUAR	90	90
+#
+1320	Deni	jump	ti	ti	t i	JUMP	50	50
+1321	Jamamadi	jump	ti	ti	t i	JUMP	50	50
+#
+1069	Kulina	kill	nanahika	nanazokhe / napamahona / nanahika	n a n a h i k a	KILL	0	0
+1070	Kulina	kill	nanazokhe	nanazokhe / napamahona / nanahika	n a n a z o k h e	KILL	0	0
+1071	Kulina	kill	napamahona	nanazokhe / napamahona / nanahika	n a p a m a h o n a	KILL	0	0
+#
+513	Kulina	kingfisher	dirodiro	dirodiro	d i r o d i r o	KINGFISHER	43	43
+515	Banawa	kingfisher	kere	kere	k e r e	KINGFISHER	280	280
+516	Jamamadi	kingfisher	kere	kere	k e r e	KINGFISHER	280	280
+517	Deni	kingfisher	khere	khere	k h e r e	KINGFISHER	280	280
+518	Kulina	kingfisher	khere	khere	k h e r e	KINGFISHER	280	280
+#
+1703	Deni	kinkajou	kosikosi	kosikosi	k o s i k o s i	KINKAJOU	117	0
+1704	Jarawara	kinkajou	kokosi	kokosi	k o k o s i	KINKAJOU	117	117
+1705	Banawa	kinkajou	kokosi	kokosi	k o k o s i	KINKAJOU	117	117
+1706	Jamamadi	kinkajou	kokosi	kokosi	k o k o s i	KINKAJOU	117	117
+#
+519	Jarawara	knee	jobati	jobati	j o b a t i	KNEE	283	283
+520	Deni	knee	khobori	khobori	k h o b o r i	KNEE	283	283
+521	Kulina	knee	khobori	khobori / pito / tizori	k h o b o r i	KNEE	283	283
+522	Jarawara	knee	kobabari	kobabari	k o b a b a r i	KNEE	283	283
+523	Kulina	knee	pito	khobori / pito / tizori	p i t o	KNEE	283	283
+524	Kulina	knee	tizori	khobori / pito / tizori	t i z o r i	KNEE	283	283
+#
+1072	Deni	know	nawato	nawato	n a w a t o	KNOW	302	302
+1073	Kulina	know	naʔato	naʔato	n a ʔ a t o	KNOW	302	302
+1074	Banawa	know	wato	wato	w a t o	KNOW	302	302
+1075	Jamamadi	know	wato	wato	w a t o	KNOW	302	302
+1076	Jarawara	know	wato	wato	w a t o	KNOW	302	302
+#
+525	Deni	lake	korija	korija	k o r i j a	LAKE	46	46
+526	Kulina	lake	korija	korija	k o r i j a	LAKE	46	46
+529	Kulina	lake	koriza	koriza	k o r i z a	LAKE	0	0
+530	Jarawara	lake	rako	rako	r a k o	LAKE	0	0
+#
+1597	Kulina	large catfish	moro	moro	m o r o	FISH	0	689
+#
+1456	Deni	large insect	jaʔo	jaʔo	j a ʔ o	LARGE.INSECT	81	81
+1457	Jarawara	large insect	jao	jao	j a o	LARGE.INSECT	81	81
+#
+531	Jarawara	large mosquito	bita	bita	b i t a	LARGE.MOSQUITO	343	343
+532	Banawa	large mosquito	bita	bita	b i t a	LARGE.MOSQUITO	343	343
+533	Jamamadi	large mosquito	bita	bita	b i t a	LARGE.MOSQUITO	343	343
+#
+1302	Kulina	larva of fly	moho	moho	m o h o	LARVA.OF.FLY	691	691
+1303	Deni	larva of fly	moho	moho	m o h o	LARVA.OF.FLY	691	691
+1304	Jarawara	larva of fly	moho	moho	m o h o	LARVA.OF.FLY	691	691
+1305	Banawa	larva of fly	moho	moho	m o h o	LARVA.OF.FLY	691	691
+#
+535	Deni	later	naho	naho	n a h o	LATER	296	296
+#
+1077	Jarawara	laugh	haahaa	haahaa	h a a h a a	LAUGH	239	239
+1078	Banawa	laugh	haha	haha	h a h a	LAUGH	239	239
+1079	Deni	laugh	haha	haha	h a h a	LAUGH	239	239
+1080	Jamamadi	laugh	haha	haha	h a h a	LAUGH	239	239
+1081	Kulina	laugh	haha	haha	h a h a	LAUGH	239	239
+#
+1673	Deni	leaf bundle	taphowe	taphowe	t a p h o w e	LEAF.BUNDLE	409	409
+1674	Jarawara	leaf bundle	tafowe	tafowe	t a f o w e	LEAF.BUNDLE	409	409
+#
+544	Deni	leafstalk	behe	behe	b e h e	LEAFSTALK	0	1111
+#
+1437	Kulina	leg	isho	isho	i s h o	LEG	77	77
+1438	Deni	leg	isho	isho	i s h o	LEG	77	77
+1439	Jarawara	leg	isi	isi	i s i	LEG	77	77
+1440	Banawa	leg	isi	isi	i s i	LEG	77	77
+1441	Jamamadi	leg	isi	isi	i s i	LEG	77	77
+#
+547	Kulina	let's go	hina	hina	h i n a	LET'S.GO	345	345
+548	Deni	let's go	hina	hina	h i n a	LET'S.GO	345	345
+549	Jarawara	let's go	hima	hima	h i m a	LET'S.GO	345	345
+550	Jamamadi	let's go	hima	hima	h i m a	LET'S.GO	345	345
+551	Banawa	let's go	homa	homa	h o m a	LET'S.GO	345	345
+#
+1084	Kulina	lie (as in a bed)	domopona	domopona	d o m o p o n a	LIE	313	313
+1085	Banawa	lie (as in a bed)	homa	homa	h o m a	LIE	313	313
+1086	Jamamadi	lie (as in a bed)	homa	homa	h o m a	LIE	313	313
+1087	Jarawara	lie (as in a bed)	homa	homa	h o m a	LIE	313	313
+1088	Kulina	lie (as in a bed)	koda	koda	k o d a	LIE	313	313
+1089	Deni	lie (as in a bed)	poma	poma	p o m a	LIE	313	313
+1090	Kulina	lie (as in a bed)	pona	pona	p o n a	LIE	313	313
+1091	Jarawara	lie (as in a bed)	wina	wina	w i n a	LIE	313	313
+#
+1621	Deni	light	thaja	thaja	t h a j a	LIGHT	410	410
+#
+1623	Jarawara	light emitted from source	oje	oje	o j e	GIVE.OFF.LIGHT	687	687
+1624	Banawa	light emitted from source	oje	oje	o j e	GIVE.OFF.LIGHT	687	687
+#
+1093	Banawa	like	nofa	nofa	n o f a	LIKE	303	303
+1094	Jamamadi	like	nofa	nofa	n o f a	LIKE	303	303
+1095	Jarawara	like	nofa	nofa	n o f a	LIKE	303	303
+#
+556	Deni	limp	doki	doki	d o k i	LIMP	229	229
+#
+1432	Kulina	lip	ipo	ipo	i p o	LIP	76	76
+1433	Deni	lip	ipo	ipo	i p o	LIP	76	76
+1434	Jarawara	lip	ifi	ifi	i f i	LIP	76	76
+1435	Banawa	lip	ifi	ifi	i f i	LIP	76	76
+1436	Jamamadi	lip	ifi	ifi	i f i	LIP	76	76
+#
+1098	Kulina	live	madi	madi	m a d i	LIVE	0	0
+#
+559	Deni	liver	ati	ati	a t i	LIVER	346	346
+560	Jarawara	liver	wahati	wahati	w a h a t i	LIVER	346	346
+561	Kulina	liver	wati	wati	w a t i	LIVER	346	346
+562	Banawa	liver	wati	wati	w a t i	LIVER	346	346
+563	Jamamadi	liver	wati	wati	w a t i	LIVER	346	346
+#
+565	Kulina	long	withahira	withahira	w i t h a h i r a	LONG	0	0
+#
+1537	Kulina	louse	kamati	kamati	k a m a t i	LOUSE	97	97
+1538	Deni	louse	kamati	kamati	k a m a t i	LOUSE	97	97
+1539	Jarawara	louse	kamati	kamati	k a m a t i	LOUSE	97	97
+1540	Banawa	louse	kamati	kamati	k a m a t i	LOUSE	97	97
+1541	Jamamadi	louse	kamati	kamati	k a m a t i	LOUSE	97	97
+#
+914	Jarawara	lubricate	kete	kete	k e t e	LUBRICATE	0	0
+915	Banawa	lubricate	kete	kete	k e t e	LUBRICATE	0	0
+#
+567	Deni	lung fish	sako	sako	s a k o	LUNG.FISH	347	347
+568	Jarawara	lung fish	sako	sako	s a k o	LUNG.FISH	347	347
+569	Banawa	lung fish	sako	sako	s a k o	LUNG.FISH	347	347
+570	Jamamadi	lung fish	sako	sako	s a k o	LUNG.FISH	347	347
+572	Kulina	lung fish	shako	shako	s h a k o	LUNG.FISH	347	347
+#
+1572	Deni	maize	kimi	kimi	k i m i	MAIZE	105	105
+1573	Jarawara	maize	kimi	kimi	k i m i	MAIZE	105	105
+1574	Banawa	maize	kimi	kimi	k i m i	MAIZE	105	105
+1575	Jamamadi	maize	kimi	kimi	k i m i	MAIZE	105	105
+#
+573	Deni	man (adult male)	dzabitsu	makhi / dzabitsu	d z a b i t s u	MAN.(ADULT.MALE)	289	289
+575	Kulina	man (adult male)	makhi	makhi	m a k h i	MAN.(ADULT.MALE)	289	289
+576	Deni	man (adult male)	makhi	makhi / dzabitsu	m a k h i	MAN.(ADULT.MALE)	289	289
+578	Banawa	man (adult male)	makiti	maki	m a k i t i	MAN.(ADULT.MALE)	289	289
+579	Jamamadi	man (adult male)	makiti	maki	m a k i t i	MAN.(ADULT.MALE)	289	289
+580	Jarawara	man (adult male)	makiti	maki	m a k i t i	MAN.(ADULT.MALE)	289	289
+#
+582	Kulina	mandi	bidama	bidama	b i d a m a	MANDI	348	348
+583	Deni	mandi	bidama	bidama	b i d a m a	MANDI	348	348
+584	Banawa	mandi	bidama	bidama	b i d a m a	MANDI	348	348
+585	Jamamadi	mandi	bidama	bidama	b i d a m a	MANDI	348	348
+586	Jarawara	mandi	bitama	bitama	b i t a m a	MANDI	348	348
+#
+587	Jarawara	many	tamabote	tamabote	t a m a b o t e	MANY	0	0
+588	Kulina	many	bazima	bazima/wapima/sibema	b a z i m a	MANY	0	0
+589	Kulina	many	wapima	bazima/wapima/sibema	w a p i m a	MANY	0	0
+590	Kulina	many	sibema	bazima/wapima/sibema	s i b e m a	MANY	0	0
+#
+1633	Jarawara	marmoset	wisi	wisi	w i s i	unknown2	0	401
+1634	Banawa	marmoset	fisi	fisi	f i s i	unknown2	0	401
+1635	Jamamadi	marmoset	fisi	fisi	f i s i	unknown2	0	401
+#
+591	Deni	measure	nathome	nathome	n a t h o m e	MEASURE	301	301
+592	Kulina	measure	nathome	nathome	n a t h o m e	MEASURE	301	301
+593	Banawa	measure	tomi	tomi	t o m i	MEASURE	301	301
+594	Jamamadi	measure	tomi	tomi	t o m i	MEASURE	301	301
+595	Jarawara	measure	tomi	tomi	t o m i	MEASURE	301	301
+#
+596	Kulina	meat	bani mekhe	bani mekhe	b a n i + m e k h e	MEAT	250	250 0
+597	Deni	meat	ima	ima	i m a	MEAT	250	250
+598	Kulina	meat	ima	ima	i m a	MEAT	250	250
+600	Banawa	meat	ime	ime	i m e	MEAT	250	250
+601	Jamamadi	meat	ime	ime	i m e	MEAT	250	250
+602	Jarawara	meat	ime	ime	i m e	MEAT	250	250
+#
+1669	Jarawara	medicine	tehe	tehe	t e h e	unknown6	0	409
+1670	Banawa	medicine	tehe	tehe	t e h e	unknown6	0	409
+#
+1671	Jamamadi	medicine of	tahi	tahi	t a h i	unknown6	0	409
+#
+913	Kulina	mixed	keʔema	keʔema	k e ʔ e m a	MIXED	0	0
+#
+604	Deni	month	abajiko	abajiko	a b a j i k o	MOON	203	203
+605	Kulina	month	abajiko	abajiko	a b a j i k o	MOON	203	203
+606	Banawa	month	abariko	abariko	a b a r i k o	MOON	203	203
+607	Jamamadi	month	abariko	abariko	a b a r i k o	MOON	203	203
+608	Jarawara	month	abariko	abariko	a b a r i k o	MOON	203	203
+#
+609	Deni	moon	abajiko	abajiko	a b a j i k o	MOON	202	202
+610	Kulina	moon	abajiko	abajiko	a b a j i k o	MOON	202	202
+611	Banawa	moon	abariko	abariko	a b a r i k o	MOON	202	202
+612	Jamamadi	moon	abariko	abariko	a b a r i k o	MOON	202	202
+613	Jarawara	moon	abariko	abariko	a b a r i k o	MOON	202	202
+#
+44596	Kulina	mortar (for grinding)	phowa	phowa	p h o w a	MORTAR.(FOR.GRINDING)	161	161
+44597	Deni	mortar (for grinding)	phowa	phowa	p h o w a	MORTAR.(FOR.GRINDING)	161	161
+44598	Jarawara	mortar (for grinding)	fowa	fowa	f o w a	MORTAR.(FOR.GRINDING)	161	161
+44599	Banawa	mortar (for grinding)	fowa	fowa	f o w a	MORTAR.(FOR.GRINDING)	161	161
+44600	Jamamadi	mortar (for grinding)	fowa	fowa	f o w a	MORTAR.(FOR.GRINDING)	161	161
+#
+615	Deni	mot-mot bird	hiriti	hiriti	h i r i t i	MOT-MOT.BIRD	0	1115
+616	Jarawara	mot-mot bird	hihiriti	hihiriti	h i h i r i t i	MOT-MOT.BIRD	0	0
+617	Jamamadi	mot-mot bird	hiriti	hiriti	h i r i t i	MOT-MOT.BIRD	0	1115
+#
+619	Deni	moth	daphopho	daphopho	d a p h o p h o	MOTH	41	41
+620	Kulina	moth	daphopho	daphopho	d a p h o p h o	MOTH	41	41
+#
+621	Banawa	mother	ami	ami	a m i	MOTHER	6	6
+622	Deni	mother	ami	ami	a m i	MOTHER	6	6
+623	Jamamadi	mother	ami	ami	a m i	MOTHER	6	6
+624	Jarawara	mother	ami	ami	a m i	MOTHER	6	6
+625	Kulina	mother	ami	ami	a m i	MOTHER	6	6
+#
+1637	Kulina	mother's brother	koko	koko	k o k o	MOTHER'S.BROTHER	686	686
+1638	Deni	mother's brother	koko	koko	k o k o	MOTHER'S.BROTHER	686	686
+1639	Jarawara	mother's brother	koko	koko	k o k o	MOTHER'S.BROTHER	686	686
+1640	Banawa	mother's brother	koko	koko	k o k o	MOTHER'S.BROTHER	686	686
+1641	Jamamadi	mother's brother	koko	koko	k o k o	MOTHER'S.BROTHER	686	686
+#
+628	Kulina	mouth	ahari	ahari	a h a r i	MOUTH	0	0
+#
+629	Kulina	mud hole	ata	ata	a t a	MUD.HOLE	349	349
+630	Deni	mud hole	ata	ata	a t a	MUD.HOLE	349	349
+631	Jarawara	mud hole	ata	ata	a t a	MUD.HOLE	349	349
+632	Banawa	mud hole	ata	ata	a t a	MUD.HOLE	349	349
+633	Jamamadi	mud hole	ata	ata	a t a	MUD.HOLE	349	349
+#
+634	Deni	nakedness	khorohi	khorohi	k h o r o h i	NAKEDNESS	284	284
+635	Banawa	nakedness	kori	kori	k o r i	NAKEDNESS	284	284
+636	Jarawara	nakedness	kori	kori	k o r i	NAKEDNESS	284	284
+637	Kulina	nakedness	koroha	koroha	k o r o h a	NAKEDNESS	284	284
+#
+638	Jarawara	name	ini	ini	i n i	NAME	309	309
+639	Deni	name	oni	oni	o n i	NAME	309	309
+640	Jamamadi	name	oni	oni	o n i	NAME	309	309
+641	Kulina	name	oni	oni	o n i	NAME	309	309
+#
+44660	Deni	navel	shobori	shobori	s h o b o r i	NAVEL	175	175
+44661	Jarawara	navel	sobori	sobori	s o b o r i	NAVEL	175	175
+44662	Banawa	navel	sobori	sobori	s o b o r i	NAVEL	175	175
+#
+643	Jarawara	near	ajata	ajata	a j a t a	NEAR	0	0
+644	Deni	near	vahirade	vahirade	v a h i r a d e	NEAR	0	0
+#
+645	Kulina	neck	matho	matho	m a t h o	NECK	0	0
+646	Banawa	neck	namidi	namidi	n a m i d i	unknown4	0	405
+647	Jamamadi	neck	namidi	namidi	n a m i d i	unknown4	0	405
+648	Jarawara	neck	namiti	namiti	n a m i t i	unknown4	0	405
+#
+649	Banawa	necklace	kasaro	kasaro	k a s a r o	NECKLACE	269	269
+650	Jamamadi	necklace	kasaro	kasaro	k a s a r o	NECKLACE	269	269
+651	Jarawara	necklace	kasaro	kasaro	k a s a r o	NECKLACE	269	269
+#
+654	Deni	new	dzati	dzati	d z a t i	NEW	0	0
+656	Kulina	new	zati	zati	z a t i	NEW	0	0
+1447	Kulina	new	jati	jati	j a t i	NEW	79	79
+1448	Deni	new	jati	jati	j a t i	NEW	79	79
+1449	Jarawara	new	jati	jati	j a t i	NEW	79	79
+1450	Banawa	new	jati	jati	j a t i	NEW	79	79
+1451	Jamamadi	new	jati	jati	j a t i	NEW	79	79
+#
+657	Banawa	new leaf	bahi	bahi	b a h i	NEW.LEAF	1102	0
+658	Jamamadi	new leaf	bahi	bahi	b a h i	NEW.LEAF	1102	0
+659	Jarawara	new leaf	behe	behe	b e h e	NEW.LEAF	0	1111
+#
+660	Deni	night	dzume	dzume	d z u m e	NIGHT	0	0
+661	Jarawara	night	jama	jama	j a m a	NIGHT	0	0
+#
+44491	Kulina	night monkey	mowi	mowi	m o w i	NIGHT.MONKEY	137	137
+44492	Deni	night monkey	mowi	mowi	m o w i	NIGHT.MONKEY	137	137
+44493	Banawa	night monkey	mowi	mowi	m o w i	NIGHT.MONKEY	137	137
+#
+1308	Jarawara	noise	moni	moni	m o n i	MESSAGE	0	690
+#
+662	Deni	nose	ene	ene	e n e	NOSE	1112	1112
+663	Kulina	nose	ene	ene	e n e	NOSE	1112	1112
+#
+666	Kulina	now	hidapana	hidapana	h i d a p a n a	NOW	241	241
+#
+667	Banawa	old	bote	bote	b o t e	OLD	226	226
+668	Deni	old	bote	bote	b o t e	OLD	226	226
+669	Jamamadi	old	bote	bote	b o t e	OLD	226	226
+670	Jarawara	old	bote	bote	b o t e	OLD	226	226
+671	Kulina	old	bote	bote	b o t e	OLD	226	226
+673	Kulina	old	hadai	hadai	h a d a i	OLD	226	226
+674	Deni	old	huratsa	kharavi / huratsa	h u r a t s a	OLD	226	226
+675	Deni	old	kharavi	kharavi / huratsa	k h a r a v i	OLD	226	226
+1399	Deni	old	horasa	horasa	h o r a s a	OLD	67	67
+#
+676	Banawa	older sister	adi	adi	a d i	OLDER.SISTER	18	18
+677	Jamamadi	older sister	adi	adi	a d i	OLDER.SISTER	18	18
+678	Deni	older sister	asi	asi	a s i	OLDER.SISTER	18	18
+679	Jarawara	older sister	ati	ati	a t i	OLDER.SISTER	18	18
+681	Kulina	older sister	asi	asi	a s i	OLDER.SISTER	18	18
+#
+682	Kulina	one	ohari	ohari	o h a r i	ONE	0	0
+#
+1520	Kulina	order	josheʔe	josheʔe	j o s h e ʔ e	ORDER	94	94
+1521	Deni	order	joshe	joshe	j o s h e	ORDER	94	94
+1522	Jarawara	order	jose	jose	j o s e	ORDER	94	94
+1523	Banawa	order	jose	jose	j o s e	ORDER	94	94
+1524	Jamamadi	order	jose	jose	j o s e	ORDER	94	94
+#
+683	Kulina	oriole	kaasiro	kaasiro	k a a s i r o	ORIOLE	271	271
+684	Deni	oriole	kawashiro	kawashiro	k a w a s h i r o	ORIOLE	271	271
+685	Banawa	oriole	kawasiro	kawasiro	k a w a s i r o	ORIOLE	271	271
+686	Jamamadi	oriole	kawasiro	kawasiro	k a w a s i r o	ORIOLE	271	271
+687	Jarawara	oriole	kawasiro	kawasiro	k a w a s i r o	ORIOLE	271	271
+#
+44620	Kulina	otter	shabira	shabira	s h a b i r a	OTTER	167	167
+44621	Deni	otter	shabira	shabira	s h a b i r a	OTTER	167	167
+44622	Jarawara	otter	sabira	sabira	s a b i r a	OTTER	167	167
+44623	Banawa	otter	sabira	sabira	s a b i r a	OTTER	167	167
+44624	Jamamadi	otter	sabira	sabira	s a b i r a	OTTER	167	167
+#
+689	Banawa	owl sp.	bobo	bobo	b o b o	OWL.SP.	28	28
+690	Deni	owl sp.	bobo	bobo	b o b o	OWL.SP.	28	28
+691	Jamamadi	owl sp.	bobo	bobo	b o b o	OWL.SP.	28	28
+692	Jarawara	owl sp.	bobo	bobo	b o b o	OWL.SP.	28	28
+693	Kulina	owl sp.	bobo	bobo	b o b o	OWL.SP.	28	28
+#
+695	Jamamadi	pacu	base	base	b a s e	PACU	218	218
+696	Jarawara	pacu	base	base	b a s e	PACU	218	218
+#
+44543	Kulina	paddle	ori	ori	o r i	PADDLE	148	148
+44544	Deni	paddle	ori	ori	o r i	PADDLE	148	148
+44545	Jarawara	paddle	ori	ori	o r i	PADDLE	148	148
+44546	Banawa	paddle	ori	ori	o r i	PADDLE	148	148
+44547	Jamamadi	paddle	ori	ori	o r i	PADDLE	148	148
+#
+697	Deni	pain	koma	koma	k o m a	PAIN	273	273
+698	Kulina	pain	koma	koma	k o m a	PAIN	273	273
+699	Banawa	pain	kome	kome	k o m e	PAIN	273	273
+700	Jarawara	pain	kome	kome	k o m e	PAIN	273	273
+#
+702	Jarawara	palm	ere	ere	e r e	PALM	231	231
+704	Banawa	palm	jani	jani	j a n i	PALM	256	256
+705	Deni	palm	jani	jani	j a n i	PALM	256	256
+706	Jamamadi	palm	jani	jani	j a n i	PALM	256	256
+707	Jarawara	palm	jani	jani	j a n i	PALM	256	256
+708	Kulina	palm	jani	jani	j a n i	PALM	256	256
+#
+1486	Kulina	palm sp.	jawana	jawana	j a w a n a	PALM.SP.	87	87
+1487	Deni	palm sp.	jawana	jawana	j a w a n a	PALM.SP.	87	87
+1488	Jarawara	palm sp.	jawana	jawana	j a w a n a	PALM.SP.	87	87
+1489	Banawa	palm sp.	jawana	jawana	j a w a n a	PALM.SP.	87	87
+1490	Jamamadi	palm sp.	jawana	jawana	j a w a n a	PALM.SP.	87	87
+1719	Jarawara	palm sp.	kowasaki	kowasaki	k o w a s a k i	PALM.SP.	120	0
+#
+1690	Jarawara	palm sp. with thorns	korekore	korekore	k o r e k o r e	PALM.SP.WITH.THORNS	114	114
+1691	Jamamadi	palm sp. with thorns	korekore	korekore	k o r e k o r e	PALM.SP.WITH.THORNS	114	114
+#
+709	Deni	passion fruit	sanaro	sanaro	s a n a r o	PASSION.FRUIT	1222	1222
+710	Jamamadi	passion fruit	sanaro	sanaro	s a n a r o	PASSION.FRUIT	1222	1222
+#
+1384	Kulina	patauá palm	hawa	hawa	h a w a	PATAUÁ.PALM	63	63
+1385	Deni	patauá palm	hawa	hawa	h a w a	PATAUÁ.PALM	63	63
+1386	Jarawara	patauá palm	hawa	hawa	h a w a	PATAUÁ.PALM	63	63
+1387	Banawa	patauá palm	hawa	hawa	h a w a	PATAUÁ.PALM	63	63
+1388	Jamamadi	patauá palm	hawa	hawa	h a w a	PATAUÁ.PALM	63	63
+#
+714	Banawa	path	hawi	hawi	h a w i	PATH	238	238
+715	Deni	path	hawi	hawi	h a w i	PATH	238	238
+716	Jamamadi	path	hawi	hawi	h a w i	PATH	238	238
+717	Jarawara	path	hawi	hawi	h a w i	PATH	238	238
+718	Kulina	path	hawi	hawi	h a w i	PATH	238	238
+#
+720	Deni	paxiuba	boba	boba	b o b a	PAXIUBA	26	26
+#
+44494	Kulina	paxiúba-barriguda (palm sp.)	wabowi	wabowi	w a b o w i	PAXIÚBA-BARRIGUDA.(PALM SP.)	139	139
+44495	Deni	paxiúba-barriguda (palm sp.)	wabohi	wabohi	w a b o h i	PAXIÚBA-BARRIGUDA.(PALM SP.)	139	139
+44496	Jarawara	paxiúba-barriguda (palm sp.)	nabohi	nabohi	n a b o h i	PAXIÚBA-BARRIGUDA.(PALM SP.)	139	139
+44497	Banawa	paxiúba-barriguda (palm sp.)	maboi	maboi	m a b o i	PAXIÚBA-BARRIGUDA.(PALM SP.)	139	139
+44498	Jamamadi	paxiúba-barriguda (palm sp.)	nabohi	nabohi	n a b o h i	PAXIÚBA-BARRIGUDA.(PALM SP.)	139	139
+#
+1491	Kulina	peach palm	jaʔida	jaʔida	j a ʔ i d a	PEACH.PALM	88	88
+1492	Deni	peach palm	jawida	jawida	j a w i d a	PEACH.PALM	88	88
+1493	Jarawara	peach palm	jawita	jawita	j a w i t a	PEACH.PALM	88	88
+1494	Banawa	peach palm	jawida	jawida	j a w i d a	PEACH.PALM	88	88
+1495	Jamamadi	peach palm	jawida	jawida	j a w i d a	PEACH.PALM	88	88
+#
+1318	Deni	peel	tero	tero	t e r o	PEEL	49	49
+44615	Kulina	peel	ʃa	ʃa	ʃ a	PEEL	166	166
+44616	Deni	peel	ʃa	ʃa / sa	ʃ a	PEEL	166	166
+44617	Deni	peel	sa	sa / ʃa	s a	PEEL	166	166
+44618	Jarawara	peel	saa	saa	s a a	PEEL	166	166
+44619	Banawa	peel	saa	saa	s a a	PEEL	166	166
+#
+722	Kulina	pepper	kashi	kashi	k a s h i	PEPPER	270	270
+723	Deni	pepper	kashiʔi	kashiʔi	k a s h i ʔ i	PEPPER	270	270
+#
+725	Jamamadi	piau	awida	awida	a w i d a	PIAU	1100	1100
+726	Jarawara	piau	awita	awita	a w i t a	PIAU	1100	1100
+#
+728	Deni	piece	bobi	bobi	b o b i	PIECE	27	27
+729	Kulina	piece	bobi	bobi	b o b i	PIECE	27	27
+#
+732	Kulina	pierce	saka	saka	s a k a	PIERCE	350	350
+733	Deni	pierce	saka	saka	s a k a	PIERCE	350	350
+734	Jarawara	pierce	saka	saka	s a k a	PIERCE	350	350
+735	Banawa	pierce	saka	saka	s a k a	PIERCE	350	350
+736	Jamamadi	pierce	saka	saka	s a k a	PIERCE	350	350
+1409	Jarawara	pierce	ita	ita	i t a	PIERCE	70	70
+1410	Banawa	pierce	ida	ida	i d a	PIERCE	70	70
+1411	Jamamadi	pierce	ida	ida	i d a	PIERCE	70	70
+#
+737	Deni	pigeon	okoko	okoko	o k o k o	PIGEON	306	306
+738	Kulina	pigeon	okoko	okoko	o k o k o	PIGEON	306	306
+#
+739	Jarawara	pineapple	sami	sami	s a m i	PINEAPPLE	351	351
+740	Banawa	pineapple	sami	sami	s a m i	PINEAPPLE	351	351
+741	Jamamadi	pineapple	sami	sami	s a m i	PINEAPPLE	351	351
+743	Deni	pineapple	shami	shami	s h a m i	PINEAPPLE	351	351
+#
+1099	Kulina	play	ithome	ithome	i t h o m e	PLAY	0	0
+#
+744	Deni	pluck	ba	ba	b a	PLUCK	213	213
+746	Jarawara	pluck	bata	bata	b a t a	PLUCK	213	213
+#
+454	Deni	poison	iha	iha	i h a	POISON	339	339
+455	Jarawara	poison	iha	iha	i h a	POISON	339	339
+456	Banawa	poison	iha	iha	i h a	POISON	339	339
+#
+747	Banawa	porcupine	misa	misa	m i s a	PORCUPINE	292	292
+748	Jamamadi	porcupine	misa	misa	m i s a	PORCUPINE	292	292
+749	Jarawara	porcupine	misa	misa	m i s a	PORCUPINE	292	292
+750	Deni	porcupine	mishe	mishe	m i s h e	PORCUPINE	292	292
+751	Kulina	porcupine	mishe	mishe	m i s h e	PORCUPINE	292	292
+#
+754	Banawa	pot	jia	jia	j i a	POT	258	258
+755	Deni	pot	jipa	jipa	j i p a	POT	258	258
+756	Kulina	pot	jipa	jipa	j i p a	POT	258	258
+757	Jamamadi	pot	jiwaha	jiwaha	j i w a h a	POT	258	258
+758	Jarawara	pot	jiwaha	jiwaha	j i w a h a	POT	258	258
+#
+760	Kulina	pound to flatten	baro	baro	b a r o	POUND.TO.FLATTEN	352	352
+761	Deni	pound to flatten	baro	baro	b a r o	POUND.TO.FLATTEN	352	352
+762	Jarawara	pound to flatten	baro	baro	b a r o	POUND.TO.FLATTEN	352	352
+763	Jamamadi	pound to flatten	baro	baro	b a r o	POUND.TO.FLATTEN	352	352
+#
+766	Deni	pregnant	jahani	jahani	j a h a n i	PREGNANT	247	247
+#
+767	Deni	pretend	wadawada	wadawada	w a d a w a d a	PRETEND	0	0
+#
+1100	Banawa	pull	bore	bore	b o r e	PULL	221	221
+1101	Jamamadi	pull	bore	bore	b o r e	PULL	221	221
+1102	Jarawara	pull	bore	bore	b o r e	PULL	221	221
+1103	Kulina	pull	hoka	hoka	h o k a	PULL	221	221
+1104	Deni	pull	pore	pore	p o r e	PULL	221	221
+1105	Kulina	pull	pore	pore	p o r e	PULL	221	221
+#
+768	Deni	pull out	jopha	jopha	j o p h a	PULL.OUT	315	315
+769	Kulina	pull out	jopha	jopha	j o p h a	PULL.OUT	315	315
+#
+1107	Kulina	push	jo	jo	j o	PUSH	230	230
+1108	Banawa	push	joko	joko	j o k o	PUSH	230	230
+1109	Deni	push	joko	joko	j o k o	PUSH	230	230
+1110	Jamamadi	push	joko	joko	j o k o	PUSH	230	230
+1111	Jarawara	push	joko	joko	j o k o	PUSH	230	230
+#
+771	Kulina	put	atha	atha	a t h a	PUT	0	0
+1402	Kulina	put	iba	iba	i b a	PUT	68	68
+1403	Deni	put	iba	iba	i b a	PUT	68	68
+1404	Jarawara	put	iba	iba	i b a	PUT	68	68
+1405	Banawa	put	iba	iba	i b a	PUT	68	68
+1406	Jamamadi	put	iba	iba	i b a	PUT	68	68
+#
+772	Deni	rage	hamiʔe	hamiʔe	h a m i ʔ e	RAGE	0	0
+#
+773	Kulina	rain	pasho	pasho	p a s h o	RAIN	0	0
+#
+3338	Kulina	rapid	washi	washi	w a s h i	unknown11	0	501
+#
+1475	Kulina	rat sp.	japi	japi	j a p i	RAT.SP.	85	85
+1476	Deni	rat sp.	japi	japi	j a p i	RAT.SP.	85	85
+1477	Jarawara	rat sp.	jafi	jafi	j a f i	RAT.SP.	85	85
+1478	Banawa	rat sp.	jafi	jafi	j a f i	RAT.SP.	85	85
+1479	Jamamadi	rat sp.	jafi	jafi	j a f i	RAT.SP.	85	85
+#
+774	Kulina	red	makho	makho / maphara	m a k h o	RED	0	0
+775	Deni	red	makude	makude	m a k u d e	RED	0	0
+776	Kulina	red	maphara	makho / maphara	m a p h a r a	RED	0	0
+#
+777	Deni	resin	moja	moja	m o j a	RESIN	295	295
+778	Kulina	resin	moja	moja	m o j a	RESIN	295	295
+#
+780	Deni	river	patsu	patsu	p a t s u	RIVER	0	0
+782	Kulina	river	weni	weni	w e n i	RIVER	0	0
+#
+783	Banawa	roast on coals	ba	ba	b a	ROAST.ON.COALS	23	23
+784	Jarawara	roast on coals	bana	bana	b a n a	ROAST.ON.COALS	23	23
+785	Deni	roast on coals	bana	bana	b a n a	ROAST.ON.COALS	23	23
+786	Kulina	roast on coals	bana	bana	b a n a	ROAST.ON.COALS	23	23
+#
+1651	Kulina	roast over fire	tabishe	tabishe	t a b i s h e	ROAST.OVER.FIRE	407	407
+1652	Deni	roast over fire	tabishi	tabishi	t a b i s h i	ROAST.OVER.FIRE	407	407
+1653	Jarawara	roast over fire	tabasi	tabasi	t a b a s i	ROAST.OVER.FIRE	407	407
+1654	Banawa	roast over fire	tabasi	tabasi	t a b a s i	ROAST.OVER.FIRE	407	407
+1655	Jamamadi	roast over fire	tabasi	tabasi	t a b a s i	ROAST.OVER.FIRE	407	407
+#
+787	Deni	roof of mouth	ebethe	ebethe	e b e t h e	ROOF.OF.MOUTH	0	0
+#
+1342	Kulina	root	habo	habo	h a b o	ROOT	56	56
+1343	Deni	root	habo	habo	h a b o	ROOT	56	56
+1344	Jarawara	root	habo	habo	h a b o	ROOT	56	56
+1345	Banawa	root	habo	habo	h a b o	ROOT	56	56
+1346	Jamamadi	root	habo	habo	h a b o	ROOT	56	56
+#
+789	Kulina	rope	mado	mado	m a d o	ROPE	0	0
+#
+790	Jarawara	rotten	abohi	abohi/bate	a b o h i	ROTTEN	224	224
+791	Jarawara	rotten	bata	abohi/bata	b a t a	ROTTEN	224	224
+792	Banawa	rotten	bata	bata	b a t a	ROTTEN	224	224
+793	Jamamadi	rotten	bata	bata	b a t a	ROTTEN	224	224
+794	Deni	rotten	batha	batha	b a t h a	ROTTEN	224	224
+795	Kulina	rotten	batha	batha	b a t h a	ROTTEN	224	224
+#
+1114	Kulina	rub	piko	piko	p i k o	RUB	0	0
+#
+798	Jamamadi	rubber tree	weke	weke	w e k e	RUBBER.TREE	1134	1134
+799	Kulina	rubber tree	wekheʔi	wekheʔi	w e k h e ʔ i	RUBBER.TREE	1134	1134
+800	Deni	rubber tree	wekheʔi	wekheʔi	w e k h e ʔ i	RUBBER.TREE	1134	1134
+#
+3339	Deni	run fast	washi	washi	w a s h i	unknown11	0	501
+#
+801	Jarawara	salt	saha	saha	s a h a	SALT	0	0
+802	Kulina	salt	sao	sao	s a o	SALT	0	0
+#
+805	Kulina	sand	shiki weshe	shiki weshe	s h i k i + w e s h e	SAND	266	266 0
+806	Jarawara	sand	siki	siki	s i k i	SAND	266	266
+807	Deni	sand	tsiki	tsiki	t s i k i	SAND	266	266
+808	Kulina	sand	shiki	shiki	s h i k i	SAND	266	266
+809	Deni	sand	shiki	shiki	s h i k i	SAND	266	266
+811	Banawa	sand	siki	siki	s i k i	SAND	266	266
+812	Jamamadi	sand	siki	siki	s i k i	SAND	266	266
+#
+813	Jarawara	satisfied	akara	akara	a k a r a	SATISFIED	1005	1005
+814	Kulina	satisfied	akhara	akhara	a k h a r a	SATISFIED	1005	1005
+#
+1115	Jarawara	say	ati	ati	a t i	SAY	0	211
+1116	Kulina	say	na	na	n a	SAY	0	0
+#
+1508	Kulina	scorpion	jomowasha	jomowasha	j o m o w a s h a	SCORPION	91	91
+1509	Deni	scorpion	jomasha	jomasha	j o m a s h a	SCORPION	91	91
+1510	Jarawara	scorpion	jomasa	jomasa	j o m a s a	SCORPION	91	91
+1511	Banawa	scorpion	jomasa	jomasa	j o m a s a	SCORPION	91	91
+1512	Jamamadi	scorpion	jomasa	jomasa	j o m a s a	SCORPION	91	91
+#
+1117	Jarawara	scratch	bisi	bisi	b i s i	SCRATCH	282	282
+1119	Kulina	scratch	khiri	khiri	k h i r i	SCRATCH	282	282
+#
+817	Banawa	scrotum	dane	dane	d a n e	SCROTUM	40	40
+818	Jamamadi	scrotum	dane	dane	d a n e	SCROTUM	40	40
+819	Deni	scrotum	denephe	denephe	d e n e p h e	SCROTUM	40	40
+820	Kulina	scrotum	denephe	denephe	d e n e p h e	SCROTUM	40	40
+821	Jarawara	scrotum	tanehe	tanehe	t a n e h e	SCROTUM	40	40
+1657	Kulina	scrotum	nephe	nephe	n e p h e	SCROTUM	0	0
+1658	Deni	scrotum	nephe	nephe	n e p h e	SCROTUM	0	0
+1659	Banawa	scrotum	nafe	nafe	n a f e	SCROTUM	0	0
+#
+822	Jarawara	sea	maa	maa	m a a	SEA	0	0
+#
+1663	Deni	seat	taboro	taboro	t a b o r o	unknown5	0	408
+#
+1121	Jarawara	see	awa	awa	a w a	SEE	281	281
+1122	Deni	see	khi	khi	k h i	SEE	281	281
+1123	Kulina	see	khi	khi	k h i	SEE	281	281
+1124	Banawa	see	kii	kii	k i i	SEE	281	281
+1125	Jamamadi	see	kii	kii	k i i	SEE	281	281
+1126	Jarawara	see	kii	kii	k i i	SEE	281	281
+#
+824	Kulina	shake	doko	doko	d o k o	SHAKE	0	0
+1316	Deni	shake	jara	jara	j a r a	SHAKE	48	48
+#
+1428	Jarawara	shaman	inawa	inawa	i n a w a	SHAMAN	75	75
+1429	Banawa	shaman	inawa	inawa	i n a w a	SHAMAN	75	75
+1430	Jamamadi	shaman	inawa	inawa	i n a w a	SHAMAN	75	75
+#
+826	Jarawara	sharp (as a knife)	ino	ino	i n o	SHARP.(AS.A.KNIFE)	0	0
+#
+44605	Deni	sharpen	jo	jo	j o	SHARPEN	163	163
+44606	Jarawara	sharpen	seo	seo	s e o	SHARPEN	163	163
+44607	Banawa	sharpen	seo	seo	s e o	SHARPEN	163	163
+44608	Jamamadi	sharpen	seo	seo	s e o	SHARPEN	163	163
+#
+827	Kulina	shellfish	daro	daro	d a r o	SHELLFISH	0	0
+828	Deni	shellfish	taro	taro	t a r o	SHELLFISH	0	0
+829	Jarawara	shellfish	taro	taro	t a r o	SHELLFISH	0	0
+830	Banawa	shellfish	taro	taro	t a r o	SHELLFISH	0	0
+#
+1127	Banawa	show	jofi	jofi	j o f i	SHOW	299	299
+1128	Jamamadi	show	jofi	jofi	j o f i	SHOW	299	299
+1129	Jarawara	show	jofi	jofi	j o f i	SHOW	299	299
+1130	Deni	show	jopi	jopi	j o p i	SHOW	299	299
+1131	Kulina	show	jopi	jopi	j o p i	SHOW	299	299
+1133	Banawa	show	namo	namo	n a m o	SHOW	299	299
+1134	Jarawara	show	namo	namo	n a m o	SHOW	299	299
+44525	Kulina	show	nowe	nowe	n o w e	SHOW	143	143
+#
+1136	Kulina	sing	hiri	hiri	h i r i	SING	0	0
+#
+1137	Kulina	sit	witha	witha	w i t h a	SIT	0	0
+#
+834	Jarawara	skin	atari	atari	a t a r i	SKIN	207	207
+835	Kulina	skin	wapi	wapi	w a p i	SKIN	207	207
+#
+1443	Jarawara	skin(v)	ite	ite	i t e	SKIN	78	78
+1444	Jamamadi	skin(v)	ite	ite	i t e	SKIN	78	78
+#
+836	Kulina	sky	meme	meme	m e m e	SKY	1001	1001
+837	Jarawara	sky	neme	neme	n e m e	SKY	1001	1001
+#
+1138	Kulina	sleep	wada	wada	w a d a	SLEEP	0	0
+#
+1458	Kulina	sloth sp.	jaʔo	jaʔo	j a ʔ o	SLOTH.SP.	82	82
+1459	Deni	sloth sp.	jaʔo	jaʔo	j a ʔ o	SLOTH.SP.	82	82
+1460	Jarawara	sloth sp.	jao	jao	j a o	SLOTH.SP.	82	82
+1461	Banawa	sloth sp.	jao	jao	j a o	SLOTH.SP.	82	82
+1462	Jamamadi	sloth sp.	jao	jao	j a o	SLOTH.SP.	82	82
+#
+838	Deni	small	bedeni	bedeni	b e d e n i	SMALL	220	220
+839	Kulina	small	bedi	bedi	b e d i	SMALL	220	220
+840	Banawa	small	biri	biri	b i r i	SMALL	220	220
+841	Jarawara	small	biri	biri	b i r i	SMALL	220	220
+842	Deni	small	biriha	biriha	b i r i h a	SMALL	220	220
+843	Kulina	small	biriha	biriha	b i r i h a	SMALL	220	220
+844	Jarawara	small	bite	bite	b i t e	SMALL	220	220
+845	Deni	small	hiraride	hiraride	h i r a r i d e	SMALL	220	220
+#
+846	Jamamadi	small ant with painful bite	awita	awita	a w i t a	SMALL.ANT.WITH.PAINFUL.BITE	15	15
+847	Deni	small ant with painful bite	awitha	awitha	a w i t h a	SMALL.ANT.WITH.PAINFUL.BITE	15	15
+848	Kulina	small ant with painful bite	awitha	awitha	a w i t h a	SMALL.ANT.WITH.PAINFUL.BITE	15	15
+#
+849	Banawa	small bamboo sp.	afi	afi	a f i	SMALL.BAMBOO.SP.	10	10
+850	Jamamadi	small bamboo sp.	afi	afi	a f i	SMALL.BAMBOO.SP.	10	10
+851	Jarawara	small bamboo sp.	afi	afi	a f i	SMALL.BAMBOO.SP.	10	10
+852	Deni	small bamboo sp.	api	api	a p i	SMALL.BAMBOO.SP.	10	10
+853	Kulina	small bamboo sp.	api	api	a p i	SMALL.BAMBOO.SP.	10	10
+#
+44591	Kulina	small bird sp.	phiriri	phiriri	p h i r i r i	SMALL.BIRD.SP.	160	160
+44592	Deni	small bird sp.	phiriri	phiriri	p h i r i r i	SMALL.BIRD.SP.	160	160
+44593	Jarawara	small bird sp.	biriri	biriri	b i r i r i	SMALL.BIRD.SP.	160	160
+44594	Banawa	small bird sp.	biriri	biriri	b i r i r i	SMALL.BIRD.SP.	160	160
+44595	Jamamadi	small bird sp.	bi	bi	b i	SMALL.BIRD.SP.	160	160
+#
+855	Banawa	small eagle	kokowi	kokowi	k o k o w i	SMALL.EAGLE	272	272
+856	Jarawara	small eagle	kokowi	kokowi	k o k o w i	SMALL.EAGLE	272	272
+#
+1407	Jarawara	small piece	ibisiri	ibisiri	i b i s i r i	SMALL.PIECE	69	69
+#
+1554	Kulina	small toad sp.	kawa	kawa	k a w a	SMALL.TAOD.SP.	101	101
+1555	Deni	small toad sp.	kawa	kawa	k a w a	SMALL.TAOD.SP.	101	101
+1556	Jarawara	small toad sp.	kawa	kawa	k a w a	SMALL.TAOD.SP.	101	101
+1557	Banawa	small toad sp.	kawa	kawa	k a w a	SMALL.TAOD.SP.	101	101
+1558	Jamamadi	small toad sp.	kawa	kawa	k a w a	SMALL.TAOD.SP.	101	101
+#
+857	Jamamadi	small turtle	bai	bai	b a i	SMALL.TURTLE	19	19
+858	Kulina	small turtle	baishi	baishi	b a i s h i	SMALL.TURTLE	19	19
+#
+1139	Kulina	smell	hishi	hishi	h i s h i	SMELL	1004	1004
+1140	Deni	smell	hishi	hishi	h i s h i	SMELL	1004	1004
+1141	Deni	smell	vad	vad	v a d	SMELL	0	0
+1142	Jarawara	smell	hisi	hisi	h i s i	SMELL	1004	1004
+1143	Banawa	smell	hisi	hisi	h i s i	SMELL	1004	1004
+1144	Jamamadi	smell	hisi	hisi	h i s i	SMELL	1004	1004
+44455	Kulina	smell	maho	maho	m a h o	SMELL	129	129
+44456	Deni	smell	maho	maho	m a h o	SMELL	129	129
+44457	Jarawara	smell	mahi	mahi	m a h i	SMELL	129	129
+44458	Banawa	smell	mahi	mahi	m a h i	SMELL	129	129
+44459	Jamamadi	smell	mahi	mahi	m a h i	SMELL	129	129
+#
+859	Kulina	smoke	eshe	eshe	e s h e	SMOKE	1002	1002
+#
+860	Deni	smooth	merude	merude	m e r u d e	SMOOTH	288	288
+861	Jarawara	smooth	bono kana	bono kana	b o n o + k a n a	SMOOTH	0	174 178
+#
+863	Banawa	snail	waho	waho	w a h o	SNAIL	233	233
+864	Jamamadi	snail	waho	waho	w a h o	SNAIL	233	233
+865	Jarawara	snail	waho	waho	w a h o	SNAIL	233	233
+#
+866	Banawa	snake	maka	maka	m a k a	SNAKE	288	288
+867	Jamamadi	snake	maka	maka	m a k a	SNAKE	288	288
+868	Jarawara	snake	maka	maka	m a k a	SNAKE	288	288
+869	Deni	snake	makha	makha	m a k h a	SNAKE	288	288
+870	Kulina	snake	makha	makha	m a k h a	SNAKE	288	288
+#
+1514	Kulina	snake sp.	joni	joni	j o n i	SNAKE.SP.	92	92
+#
+1356	Kulina	sneeze	hedishi	hedishi	h e d i s h i	SNEEZE	58	58
+1357	Deni	sneeze	hadisha	hadisha	h a d i s h a	SNEEZE	58	58
+1358	Jarawara	sneeze	hatisa	hatisa	h a t i s a	SNEEZE	58	58
+1359	Banawa	sneeze	hadisa	hadisa	h a d i s a	SNEEZE	58	58
+#
+872	Jarawara	socó heron	maha	maha	m a h a	SOCÓ.HERON	692	692
+873	Banawa	socó heron	maha	maha	m a h a	SOCÓ.HERON	692	692
+874	Jamamadi	socó heron	maha	maha	m a h a	SOCÓ.HERON	692	692
+#
+877	Banawa	soft material inside something	afo	afo	a f o	SOFT.MATERIAL.INSIDE.SOMETHING	12	12
+878	Jamamadi	soft material inside something	afo	afo	a f o	SOFT.MATERIAL.INSIDE.SOMETHING	12	12
+879	Jarawara	soft material inside something	afo	afo	a f o	SOFT.MATERIAL.INSIDE.SOMETHING	12	12
+880	Kulina	soft material inside something	aphona	aphona	a p h o n a	SOFT.MATERIAL.INSIDE.SOMETHING	12	12
+881	Deni	soft material inside something	aphone	aphone	a p h o n e	SOFT.MATERIAL.INSIDE.SOMETHING	12	12
+#
+882	Jamamadi	son	dao	dao	d a o	SON	36	36
+883	Deni	son	daʔo	daʔo	d a ʔ o	SON	36	36
+884	Jarawara	son	tao	tao	t a o	SON	36	36
+#
+885	Kulina	song	ahie	ahie	a h i e	SONG	0	0
+#
+887	Kulina	sour	sikata	sikata	s i k a t a	SOUR	693	693
+#
+1590	Kulina	spill	kisha	kisha	k i s h a	SPILL	109	109
+1591	Deni	spill	kisha	kisha	k i s h a	SPILL	109	109
+#
+44585	Kulina	spit	phito	phito	p h i t o	SPIT	158	158
+44586	Jarawara	spit	firo	firo	f i r o	SPIT	158	158
+44587	Banawa	spit	firo	firo	f i r o	SPIT	158	158
+44588	Jamamadi	spit	firo	firo	f i r o	SPIT	158	158
+#
+1146	Jarawara	split	jara	jara / sibi	j a r a	SPLIT	0	0
+1147	Jarawara	split	sibi	jara / sibi	s i b i	SPLIT	0	0
+#
+1148	Jarawara	squeeze	niki	niki	n i k i	SQUEEZE	0	0
+1149	Kulina	squeeze	shipo	shipo	s h i p o	SQUEEZE	0	0
+44519	Kulina	squeeze	niki	niki	n i k i	SQUEEZE	142	142
+44520	Deni	squeeze	niki	niki	n i k i	SQUEEZE	142	142
+44521	Jarawara	squeeze	niki	niki	n i k i	SQUEEZE	142	142
+44522	Banawa	squeeze	niki	niki	n i k i	SQUEEZE	142	142
+44523	Jamamadi	squeeze	niki	niki	n i k i	SQUEEZE	142	142
+#
+1631	Kulina	squirrel monkey	pishi	pishi	p i s h i	unknown2	0	401
+1632	Deni	squirrel monkey	pishi	pishi	p i s h i	unknown2	0	401
+#
+1152	Deni	stand	wa	wa	w a	STAND	232	232
+1153	Jamamadi	stand	wa	wa	w a	STAND	232	232
+1154	Jarawara	stand	wa	wa	w a	STAND	232	232
+1155	Kulina	stand	wa	wa	w a	STAND	232	232
+#
+890	Banawa	star	amowa	amowa	a m o w a	STAR	9	9
+891	Deni	star	amowa	amowa	a m o w a	STAR	9	9
+892	Jamamadi	star	amowa	amowa	a m o w a	STAR	9	9
+893	Jarawara	star	amowa	amowa	a m o w a	STAR	9	9
+894	Kulina	star	amowa	amowa	a m o w a	STAR	9	9
+#
+896	Banawa	steal	boti	boti	b o t i	STEAL	25	25
+897	Deni	steal	boti	boti	b o t i	STEAL	25	25
+898	Jamamadi	steal	boti	boti	b o t i	STEAL	25	25
+899	Jarawara	steal	boti	boti	b o t i	STEAL	25	25
+900	Kulina	steal	boti	boti	b o t i	STEAL	25	25
+#
+1626	Kulina	stick	pini	pini	p i n i	unknown1	0	400
+#
+903	Deni	stingray	botani	botani	b o t a n i	STINGRAY	225	225
+904	Kulina	stingray	botani	botani	b o t a n i	STINGRAY	225	225
+905	Banawa	stingray	bote	bote	b o t e	STINGRAY	225	225
+906	Jamamadi	stingray	bote	bote	b o t e	STINGRAY	225	225
+907	Jarawara	stingray	bote	bote	b o t e	STINGRAY	225	225
+#
+910	Jarawara	stir	tabo	tabo	t a b o	STIR	694	694
+911	Jamamadi	stir	tabo	tabo	t a b o	STIR	694	694
+#
+923	Kulina	stone	siba	siba	s i b a	STONE	0	0
+1453	Jarawara	stone	jati	jati	j a t i	STONE	80	80
+1454	Banawa	stone	jati	jati	j a t i	STONE	80	80
+1455	Jamamadi	stone	jati	jati	j a t i	STONE	80	80
+#
+553	Kulina	story	ima	ima	i m a	STORY	695	695
+554	Deni	story	ima	ima	i m a	STORY	695	695
+#
+1628	Jarawara	straighten	fini	fini	f i n i	unknown1	0	400
+1629	Banawa	straighten	fini	fini	f i n i	unknown1	0	400
+1630	Jamamadi	straighten	fini	fini	f i n i	unknown1	0	400
+#
+925	Kulina	stretch out legs	bisho	bisho	b i s h o	STRETCH.OUT.LEGS	696	696
+926	Deni	stretch out legs	bisho	bisho	b i s h o	STRETCH.OUT.LEGS	696	696
+#
+1617	Jarawara	strong tasting	sina	sina	s i n a	unknown8	0	412
+#
+1156	Kulina	suck	tomi	tomi	t o m i	SUCK	0	0
+1157	Kulina	suck	hisi	hisi	h i s i	SUCK	0	0
+1678	Jarawara	suck	komi	komi	k o m i	unknown15	0	683
+1679	Banawa	suck	komi	komi	k o m i	unknown15	0	683
+1680	Jamamadi	suck	komi	komi	k o m i	unknown15	0	683
+44614	Deni	suck	soso	soso	s o s o	SUCK	165	165
+#
+927	Jarawara	sun	bahi	bahi	b a h i	SUN	216	216
+928	Deni	sun	mahi	mahi	m a h i	SUN	216	216
+929	Kulina	sun	mahi	mahi	m a h i	SUN	216	216
+44449	Kulina	sun	mahi	mahi	m a h i	SUN	128	128
+44450	Deni	sun	mahi	mahi	m a h i	SUN	128	128
+44451	Banawa	sun	mai	mai	m a i	SUN	128	128
+44452	Jamamadi	sun	mahi	mahi	m a h i	SUN	128	128
+#
+931	Banawa	surubim	bahama	bahama	b a h a m a	SURUBIM	215	215
+932	Jamamadi	surubim	bahama	bahama	b a h a m a	SURUBIM	215	215
+933	Jarawara	surubim	bahama	bahama	b a h a m a	SURUBIM	215	215
+#
+1618	Banawa	sweet	sina	sina	s i n a	unknown8	0	412
+#
+1595	Jamamadi	sweet manioc	kojo	kojo	k o j o	SWEET.MANIOC	111	111
+#
+935	Jarawara	swell	fowa	fowa	f o w a	SWELL	316	316
+936	Deni	swell	hapho	hapho	h a p h o	SWELL	316	316
+1158	Kulina	swell	hite	hite	h i t e	SWELL	0	0
+#
+1159	Kulina	swim	kona	kona	k o n a	SWIM	0	0
+#
+938	Kulina	tail	zopori	zopori	z o p o r i	TAIL	0	0
+1515	Kulina	tail	jopori	jopori	j o p o r i	TAIL	93	93
+1516	Deni	tail	jifori	jifori	j i f o r i	TAIL	93	93
+1517	Jarawara	tail	jofori	jofori	j o f o r i	TAIL	93	93
+1518	Banawa	tail	jofori	jofori	j o f o r i	TAIL	93	93
+1519	Jamamadi	tail	jofari	jofari	j o f a r i	TAIL	93	93
+#
+940	Banawa	tapir	awi	awi	a w i	TAPIR	14	14
+941	Deni	tapir	awi	awi	a w i	TAPIR	14	14
+942	Jamamadi	tapir	awi	awi	a w i	TAPIR	14	14
+943	Jarawara	tapir	awi	awi	a w i	TAPIR	14	14
+944	Kulina	tapir	awi	awi	a w i	TAPIR	14	14
+#
+1160	Banawa	tell	hijara	hijara	h i j a r a	TELL	244	244
+1161	Jarawara	tell	hijara	hijara	h i j a r a	TELL	244	244
+1163	Jamamadi	tell	hijari	hijari	h i j a r i	TELL	244	244
+#
+44481	Jarawara	termite	mototo	mototo	m o t o t o	TERMITE	135	135
+44482	Banawa	termite	mototo	mototo	m o t o t o	TERMITE	135	135
+44483	Jamamadi	termite	mototo	mototo	m o t o t o	TERMITE	135	135
+#
+945	Kulina	termite nest	hijabo	hijabo / hibo	h i j a b o	TERMITE.NEST	777	777
+946	Kulina	termite nest	hibo	hijabo / hibo	h i b o	TERMITE.NEST	777	777
+947	Deni	termite nest	hibo	hibo	h i b o	TERMITE.NEST	777	777
+948	Jarawara	termite nest	hijabo	hijabo	h i j a b o	TERMITE.NEST	777	777
+949	Banawa	termite nest	hijabo	hijabo	h i j a b o	TERMITE.NEST	777	777
+950	Jamamadi	termite nest	hijabo	hijabo	h i j a b o	TERMITE.NEST	777	777
+#
+951	Deni	that	a	a	a	THAT	0	0
+952	Jarawara	that	fa	fa	f a	THAT	0	0
+#
+953	Jarawara	there	fa	fa	f a	THERE	0	0
+#
+954	Jarawara	they	me	me	m e	THEY	0	0
+955	Kulina	they	powa	powa	p o w a	THEY	0	0
+#
+956	Deni	thick	napide	napide	n a p i d e	THICK	0	0
+#
+957	Banawa	thigh	fanako	fanako	f a n a k o	THIGH	310	310
+958	Jamamadi	thigh	fanako	fanako	f a n a k o	THIGH	310	310
+959	Jarawara	thigh	fanako	fanako	f a n a k o	THIGH	310	310
+960	Deni	thigh	panakho	panakho	p a n a k h o	THIGH	310	310
+961	Kulina	thigh	panakho	panakho	p a n a k h o	THIGH	310	310
+#
+962	Deni	thin	sheperi	sheperi	s h e p e r i	THIN	0	0
+964	Kulina	thin	weri	weri	w e r i	THIN	0	0
+#
+503	Deni	thing	jama	jama	j a m a	THING	341	341
+504	Jarawara	thing	jama	jama	j a m a	THING	341	341
+505	Banawa	thing	jama	jama	j a m a	THING	341	341
+506	Jamamadi	thing	jama	jama	j a m a	THING	341	341
+#
+966	Kulina	thorn	ati	ati	a t i	THORN	209	209
+967	Banawa	thorn	atia	atia	a t i a	THORN	209	209
+968	Jarawara	thorn	atine	atine	a t i n e	THORN	209	209
+969	Deni	thorn	atiwa	atiwa	a t i w a	THORN	209	209
+970	Jamamadi	thorn	atiwa	atiwa	a t i w a	THORN	209	209
+#
+1577	Deni	three-toed sloth	kiriwe	kiriwe	k i r i w e	THREE-TOED.SLOTH	106	106
+1578	Jarawara	three-toed sloth	kerewe	kerewe	k e r e w e	THREE-TOED.SLOTH	106	106
+1579	Banawa	three-toed sloth	kerewe	kerewe	k e r e w e	THREE-TOED.SLOTH	106	106
+1580	Jamamadi	three-toed sloth	kerewe	kerewe	k e r e w e	THREE-TOED.SLOTH	106	106
+#
+972	Kulina	throat	tamidi	tamidi	t a m i d i	unknown4	0	405
+973	Deni	throat	tamidi	tamidi	t a m i d i	unknown4	0	405
+#
+1164	Kulina	throw	koro	koro	k o r o	THROW	115	115
+1693	Kulina	throw	koro	koro	k o r o	THROW	115	115
+1694	Deni	throw	koro	koro	k o r o	THROW	115	115
+1695	Jarawara	throw	koro	koro	k o r o	THROW	115	115
+1696	Banawa	throw	koro	koro	k o r o	THROW	115	115
+1697	Jamamadi	throw	koro	koro	k o r o	THROW	115	115
+#
+974	Jarawara	thunder	bahi	bahi	b a h i	SUN	216	216
+975	Deni	thunder	bahi	bahi	b a h i	THUNDER	216	216
+976	Jamamadi	thunder	bahi	bahi	b a h i	THUNDER	216	216
+#
+979	Deni	tick	babo	babo	b a b o	TICK	222	222
+980	Kulina	tick	babo	babo	b a b o	TICK	222	222
+982	Banawa	tick	wabo	wabo	w a b o	TICK	222	222
+983	Jamamadi	tick	wabo	wabo	w a b o	TICK	222	222
+984	Jarawara	tick	wabo	wabo	w a b o	TICK	222	222
+#
+1166	Banawa	tie	kaho	kaho	k a h o	TIE	268	268
+1167	Jarawara	tie	kaho	kaho	k a h o	TIE	268	268
+1169	Kulina	tie	shoke	shoke	s h o k e	TIE	268	268
+1170	Jarawara	tie	soki	soki	s o k i	TIE	268	268
+44445	Deni	tie	mado	mado	m a d o	TIE	127	127
+44446	Jarawara	tie	mato	mato	m a t o	TIE	127	127
+44447	Banawa	tie	mado	mado	m a d o	TIE	127	127
+#
+985	Jarawara	tinguí	kona	kona	k o n a	TINGUÍ	666	666
+986	Banawa	tinguí	kona	kona	k o n a	TINGUÍ	666	666
+987	Jamamadi	tinguí	kona	kona	k o n a	TINGUÍ	666	666
+#
+1178	Jarawara	toad	korakaka	korakaka	k o r a k a k a	TOAD	277	277
+1179	Deni	toad	korekore	korekore	k o r e k o r e	TOAD	277	277
+#
+44642	Kulina	toast	shira	shira	s h i r a	TOAST	171	171
+44643	Jarawara	toast	sira	sira	s i r a	TOAST	171	171
+44644	Banawa	toast	sira	sira	s i r a	TOAST	171	171
+44645	Jamamadi	toast	sira	sira	s i r a	TOAST	171	171
+#
+44632	Kulina	tobacco	shina	shina	s h i n a	TOBACCO	169	169
+44633	Deni	tobacco	shina	shina	s h i n a	TOBACCO	169	169
+44634	Jarawara	tobacco	sina	sina	s i n a	TOBACCO	169	169
+44635	Banawa	tobacco	sina	sina	s i n a	TOBACCO	169	169
+44636	Jamamadi	tobacco	sina	sina	s i n a	TOBACCO	169	169
+#
+1181	Jamamadi	tongue	abane	abane	a b a n e	TONGUE	16	16
+1183	Deni	tongue	ebeno	ebeno	e b e n o	TONGUE	16	16
+1184	Kulina	tongue	ebeno	ebeno	e b e n o	TONGUE	16	16
+#
+1185	Kulina	tonka bean	doni	doni	d o n i	TONKA.BEAN	667	667
+1186	Deni	tonka bean	doni	doni	d o n i	TONKA.BEAN	667	667
+1187	Jarawara	tonka bean	toni	toni	t o n i	TONKA.BEAN	667	667
+1188	Jamamadi	tonka bean	doni	doni	d o n i	TONKA.BEAN	667	667
+#
+1423	Kulina	tooth	ino	ino	i n o	TOOTH	74	74
+1424	Deni	tooth	ino	ino	i n o	TOOTH	74	74
+1425	Jarawara	tooth	ini	ini	i n i	TOOTH	74	74
+1426	Banawa	tooth	ini	ini	i n i	TOOTH	74	74
+1427	Jamamadi	tooth	ini	ini	i n i	TOOTH	74	74
+#
+1707	Kulina	tortoise	janikoa	janikoa	j a n i k o a	TORTOISE	118	118
+1708	Deni	tortoise	janikowa	janikowa	j a n i k o w a	TORTOISE	118	118
+1709	Jarawara	tortoise	kowa	kowa	k o w a	TORTOISE	118	118
+1710	Banawa	tortoise	kowa	kowa	k o w a	TORTOISE	118	118
+1711	Jamamadi	tortoise	kowa	kowa	k o w a	TORTOISE	118	118
+#
+1191	Deni	toucan	jakhi	jakhi	j a k h i	TOUCAN	253	253
+1192	Kulina	toucan	jakhi	jakhi	j a k h i	TOUCAN	253	253
+1193	Banawa	toucan	jaki	jaki	j a k i	TOUCAN	253	253
+1194	Jamamadi	toucan	jaki	jaki	j a k i	TOUCAN	253	253
+1195	Jarawara	toucan	jaki	jaki	j a k i	TOUCAN	253	253
+#
+1604	Kulina	tread on	thai	thai	t h a i	TREAD.ON	0	0
+1605	Deni	tread on	the	the	t h e	TREAD.ON	0	0
+1606	Jarawara	tread on	tahi	tahi	t a h i	TREAD.ON	0	0
+1607	Banawa	tread on	tai	tai	t a i	TREAD.ON	0	0
+1608	Jamamadi	tread on	tai	tai	t a i	TREAD.ON	0	0
+#
+1199	Deni	tree	awa	awa	a w a	TREE	4	4
+1200	Kulina	tree	awa	awa	a w a	TREE	4	4
+1202	Jamamadi	tree	awa	awa / wakana	a w a	TREE	4	4
+1204	Jamamadi	tree	wakana	awa / wakana	w a k a n a	TREE	4	4
+1205	Jarawara	tree	wakana	wakana	w a k a n a	TREE	4	4
+1206	Banawa	tree	wakana	wakana	w a k a n a	TREE	4	4
+#
+9	Kulina	tree and edible fruit	imi	imi	i m i	TREE.AND.EDIBLE.FRUIT	319	319
+10	Deni	tree and edible fruit	imi	imi	i m i	TREE.AND.EDIBLE.FRUIT	319	319
+11	Jarawara	tree and edible fruit	omi	omi	o m i	TREE.AND.EDIBLE.FRUIT	319	319
+12	Banawa	tree and edible fruit	imi	imi	i m i	TREE.AND.EDIBLE.FRUIT	319	319
+13	Jamamadi	tree and edible fruit	imi	imi	i m i	TREE.AND.EDIBLE.FRUIT	319	319
+#
+1207	Deni	trogon	komi	komi	k o m i	TROGON	274	274
+1208	Jamamadi	trogon	komi	komi	k o m i	TROGON	274	274
+1209	Jarawara	trogon	komi	komi	k o m i	TROGON	274	274
+#
+1681	Jarawara	tucunaré	kojofa	kojofa	k o j o f a	TUCUNARÉ	112	0
+1682	Jamamadi	tucunaré	kosofa	kosofa	k o s o f a	TUCUNARÉ	112	0
+#
+1171	Kulina	turn (intransitive)	piko	piko	p i k o	TURN(intr.)	0	0
+#
+44647	Kulina	turtle (tartaruga)	shiri	shiri	s h i r i	TURTLE.(TARTARUGA)	172	172
+44648	Deni	turtle (tartaruga)	shiri	shiri	s h i r i	TURTLE.(TARTARUGA)	172	172
+44649	Jarawara	turtle (tartaruga)	sire	sire	s i r e	TURTLE.(TARTARUGA)	172	172
+44650	Banawa	turtle (tartaruga)	sire	sire	s i r e	TURTLE.(TARTARUGA)	172	172
+44651	Jamamadi	turtle (tartaruga)	sire	sire	s i r e	TURTLE.(TARTARUGA)	172	172
+#
+1210	Kulina	two	pama	pama	p a m a	TWO	0	0
+44559	Kulina	two	pama	pama	p a m a	TWO	153	153
+44560	Deni	two	pama	pama	p a m a	TWO	153	153
+44561	Jarawara	two	fama	fama	f a m a	TWO	153	153
+44562	Banawa	two	fama	fama	f a m a	TWO	153	153
+44563	Jamamadi	two	fama	fama	f a m a	TWO	153	153
+#
+44507	Deni	underside	bopa	bopa	b o p a	UNDERSIED	140	140
+44508	Jarawara	underside	bofe	bofe	b o f e	UNDERSIED	140	140
+44509	Banawa	underside	bofe	bofe	b o f e	UNDERSIED	140	140
+44510	Jamamadi	underside	bofe	bofe	b o f e	UNDERSIED	140	140
+#
+1211	Deni	unfasten	disha	disha	d i s h a	UNFASTEN	778	778
+1212	Jarawara	unfasten	tisa	tisa	t i s a	UNFASTEN	778	778
+1213	Banawa	unfasten	disa	disa	d i s a	UNFASTEN	778	778
+1214	Jamamadi	unfasten	disa	disa	d i s a	UNFASTEN	778	778
+#
+44513	Kulina	upper part of	meme	meme	m e m e	UPPER.PART.OF	141	141
+44514	Deni	upper part of	neme	neme	n e m e	UPPER.PART.OF	141	141
+44515	Jarawara	upper part of	neme	neme	n e m e	UPPER.PART.OF	141	141
+44516	Banawa	upper part of	neme	neme	n e m e	UPPER.PART.OF	141	141
+44517	Jamamadi	upper part of	neme	neme	n e m e	UPPER.PART.OF	141	141
+#
+1610	Kulina	upstream	thima	thima	t h i m a	UPSTREAM	409	409
+1611	Deni	upstream	thima	thima	t h i m a	UPSTREAM	409	409
+1612	Jarawara	upstream	tima	tima	t i m a	UPSTREAM	409	409
+1613	Banawa	upstream	tima	tima	t i m a	UPSTREAM	409	409
+1614	Jamamadi	upstream	tima	tima	t i m a	UPSTREAM	409	409
+#
+1497	Kulina	urine	jokheri	jokheri	j o k h e r i	URINE	89	89
+1498	Deni	urine	jokhari	jokhari	j o k h a r i	URINE	89	89
+1499	Jarawara	urine	jokari	jokari	j o k a r i	URINE	89	89
+1500	Banawa	urine	jokari	jokari	j o k a r i	URINE	89	89
+#
+496	Kulina	uterus	jaʔa	jaʔa	j a ʔ a	UTERUS	0	0
+#
+1216	Jamamadi	vine	hamaha	hamaha	h a m a h a	VINE	240	240
+1218	Jarawara	vine	sai	sai	s a i	VINE	0	0
+1219	Kulina	vine	shahi	shahi	s h a h i	VINE	0	0
+1220	Jarawara	vine	tofi	tofi	t o f i	VINE	0	0
+1221	Banawa	vine	tofi	tofi	t o f i	VINE	0	0
+1222	Jamamadi	vine	tofi	tofi	t o f i	VINE	0	0
+1223	Deni	vine	topi	topi	t o p i	VINE	0	0
+44440	Kulina	vine	mado	mado	m a d o	VINE	126	126
+44441	Deni	vine	mado	mado	m a d o	VINE	126	126
+44442	Jarawara	vine	mati	mati	m a t i	VINE	126	126
+44443	Banawa	vine	madi	madi	m a d i	VINE	126	126
+44444	Jamamadi	vine	madi	madi	m a d i	VINE	126	126
+#
+1224	Kulina	voice	athi	athi	a t h i	VOICE	211	211
+1226	Banawa	voice	ati	ati	a t i	VOICE	211	211
+1227	Jamamadi	voice	ati	ati	a t i	VOICE	211	211
+1228	Jarawara	voice	ati	ati	a t i	VOICE	211	211
+#
+1173	Deni	vomit	kapi	kapi	k a p i	VOMIT	267	267
+1174	Kulina	vomit	kapi	kapi	k a p i	VOMIT	267	267
+#
+44527	Jarawara	wait for	noki	noki	n o k i	WAIT.FOR	144	144
+44528	Banawa	wait for	noki	noki	n o k i	WAIT.FOR	144	144
+#
+44530	Kulina	wake	nokho	nokho	n o k h o	WAKE	145	145
+44531	Deni	wake	nokho	nokho	n o k h o	WAKE	145	145
+44532	Jarawara	wake	noko	noko	n o k o	WAKE	145	145
+#
+1230	Kulina	warm	phoko	phoko	p h o k o	WARM	0	0
+#
+1175	Kulina	wash	shawa	shawa	s h a w a	WASH	0	0
+1176	Deni	wash	vahirade	vahirade	v a h i r a d e	WASH	0	0
+44665	Deni	wash	shoko	shoko	s h o k o	WASH	176	176
+44666	Jarawara	wash	soko	soko	s o k o	WASH	176	176
+44667	Banawa	wash	soko	soko	s o k o	WASH	176	176
+44668	Jamamadi	wash	soko	soko	s o k o	WASH	176	176
+#
+1231	Banawa	wasp	awani	awani	a w a n i	WASP	13	13
+1232	Deni	wasp	awani	awani	a w a n i	WASP	13	13
+1233	Jamamadi	wasp	awani	awani	a w a n i	WASP	13	13
+1234	Jarawara	wasp	awani	awani	a w a n i	WASP	13	13
+1235	Kulina	wasp	awani	awani	a w a n i	WASP	13	13
+1237	Kulina	wasp	dashishi	dashishi	d a s h i s h i	WASP	228	228
+1238	Deni	wasp	deshisi	deshisi	d e s h i s i	WASP	228	228
+1239	Jamamadi	wasp	disi	disi	d i s i	WASP	228	228
+#
+1240	Jarawara	water	faha	faha	f a h a	WATER	0	0
+1241	Kulina	water	pasho	pasho	p a s h o	WATER	0	0
+1242	Deni	water	patsu	patsu	p a t s u	WATER	0	0
+44579	Kulina	water	phaha	phaha	p h a h a	WATER	157	157
+44580	Deni	water	pha	pha	p h a	WATER	157	157
+44581	Jarawara	water	faha	faha	f a h a	WATER	157	157
+44582	Banawa	water	faha	faha	f a h a	WATER	157	157
+44583	Jamamadi	water	faha	faha	f a h a	WATER	157	157
+#
+1243	Kulina	we	ia	ia	i a	WE	0	0
+#
+1244	Jarawara	we excl	ota	ota	o t a	WE.EXCL	0	0
+#
+1245	Jarawara	we incl	e	e	e	WE.INCL	0	0
+#
+1246	Jarawara	weasel	sawa	sawa	s a w a	WEASEL	669	669
+1247	Banawa	weasel	sawa	sawa	s a w a	WEASEL	669	669
+1248	Jamamadi	weasel	sawa	sawa	s a w a	WEASEL	669	669
+1250	Kulina	weasel	shawa	shawa	s h a w a	WEASEL	669	669
+1251	Deni	weasel	shawa	shawa	s h a w a	WEASEL	669	669
+#
+1713	Kulina	weave	kowa	kowa	k o w a	WEAVE	119	119
+1714	Deni	weave	kowa	kowa	k o w a	WEAVE	119	119
+1715	Jarawara	weave	kowa	kowa	k o w a	WEAVE	119	119
+1716	Banawa	weave	kowa	kowa	k o w a	WEAVE	119	119
+1717	Jamamadi	weave	kowa	kowa	k o w a	WEAVE	119	119
+#
+1252	Kulina	web-spinning spider	hako	hako	h a k o	WEB-SPINNING.SPIDER	670	670
+1253	Deni	web-spinning spider	hako	hako	h a k o	WEB-SPINNING.SPIDER	670	670
+1254	Jarawara	web-spinning spider	hako	hako	h a k o	WEB-SPINNING.SPIDER	670	670
+1255	Banawa	web-spinning spider	hako	hako	h a k o	WEB-SPINNING.SPIDER	670	670
+1256	Jamamadi	web-spinning spider	hako	hako	h a k o	WEB-SPINNING.SPIDER	670	670
+#
+1258	Jarawara	wet	afi	afi	a f i	WET	2	2
+#
+1698	Kulina	whip	kosi	kosi	k o s i	WHIP	116	116
+1699	Deni	whip	koshi	koshi	k o s h i	WHIP	116	116
+1700	Jarawara	whip	kosi	kosi	k o s i	WHIP	116	116
+1701	Banawa	whip	kosi	kosi	k o s i	WHIP	116	116
+1702	Jamamadi	whip	kosi	kosi	k o s i	WHIP	116	116
+#
+1721	Jarawara	whistle	kowa	kowa	k o w a	WHISTLE	121	121
+1722	Banawa	whistle	kowa	kowa	k o w a	WHISTLE	121	121
+1723	Jamamadi	whistle	kowa	kowa	k o w a	WHISTLE	121	121
+#
+1261	Deni	white	pako	pako	p a k o	WHITE	22	22
+1262	Kulina	white	pako	pako	p a k o	WHITE	22	22
+#
+1263	Banawa	white-lipped peccary	hijama	hijama	h i j a m a	WHITE-LIPPED.PECCARY	243	243
+1264	Deni	white-lipped peccary	hijama	hijama	h i j a m a	WHITE-LIPPED.PECCARY	243	243
+1265	Jamamadi	white-lipped peccary	hijama	hijama	h i j a m a	WHITE-LIPPED.PECCARY	243	243
+1266	Jarawara	white-lipped peccary	hijama	hijama	h i j a m a	WHITE-LIPPED.PECCARY	243	243
+1267	Kulina	white-lipped peccary	hijama	hijama	h i j a m a	WHITE-LIPPED.PECCARY	243	243
+#
+1271	Kulina	wife	amonehe	amonehe	a m o n e h e	WOMAN	0	1006
+1272	Deni	wife	panadi	panadi	p a n a d i	WIFE	0	0
+#
+1273	Kulina	wind	hohode	hohode	h o h o d e	WIND	0	0
+#
+1298	Kulina	window	kathena	kathena	k a t h e n a	WINDOW	0	0
+#
+1274	Kulina	wing	ephe	ephe	e p h e	WING	0	0
+#
+1275	Kulina	woman	amonehe	amonehe	a m o n e h e	WOMAN	0	1006
+1276	Deni	woman	amunehe	amunehe	a m u n e h e	WOMAN	0	1006
+1277	Deni	woman	dzuvatu	dzuvatu	d z u v a t u	WOMAN	0	0
+44570	Jarawara	woman	fana	fana	f a n a	WOMAN	155	154
+44571	Banawa	woman	fana	fana	f a n a	WOMAN	155	154
+44572	Jamamadi	woman	fana	fana	f a n a	WOMAN	155	154
+#
+1685	Kulina	woodpecker sp.	koka	koka	k o k a	WOODPECKER.SP.	113	113
+1686	Deni	woodpecker sp.	koka	koka	k o k a	WOODPECKER.SP.	113	113
+1687	Jarawara	woodpecker sp.	koka	koka	k o k a	WOODPECKER.SP.	113	113
+1688	Banawa	woodpecker sp.	koka	koka	k o k a	WOODPECKER.SP.	113	113
+1689	Jamamadi	woodpecker sp.	koka	koka	k o k a	WOODPECKER.SP.	113	113
+#
+1278	Kulina	woolly monkey	wapha	wapha	w a p h a	WOOLLY.MONKEY	0	0
+1279	Jarawara	woolly monkey	wafa	wafa	w a f a	WOOLLY.MONKEY	0	0
+1280	Banawa	woolly monkey	wafa	wafa	w a f a	WOOLLY.MONKEY	0	0
+1281	Jamamadi	woolly monkey	wafa	wafa	w a f a	WOOLLY.MONKEY	0	0
+#
+1284	Deni	yawn	awa	awa	a w a	YAWN	671	671
+1285	Jarawara	yawn	awa	awa	a w a	YAWN	671	671
+1286	Banawa	yawn	awa	awa	a w a	YAWN	671	671
+#
+1287	Kulina	year	wahano	wahano	w a h a n o	YEAR	0	0
+#
+1288	Deni	yellow	derepede	derepede	d e r e p e d e	YELLOW	0	0
+1289	Kulina	yellow	weshe	weshe	w e s h e	YELLOW	0	0
+#
+1390	Kulina	yes	heʔe	heʔe	h e ʔ e	YES	64	64
+1391	Deni	yes	heʔe	heʔe	h e ʔ e	YES	64	64
+1392	Jarawara	yes	ee	ee	e e	YES	64	64
+1393	Banawa	yes	ee	ee	e e	YES	64	64
+#
+1290	Jarawara	you (plural)	te	te	t e	YOU.(PLURAL)	0	0
+1291	Kulina	you (plural)	tia	tia	t i a	YOU.(PLURAL)	0	0
+#
+1292	Kulina	you (singular)	tia	tia	t i a	YOU.(SINGULAR)	0	0
+1293	Jarawara	you (singular)	tiwa	tiwa	t i w a	YOU.(SINGULAR)	0	0
+#
+1294	Jarawara	younger sister	asima	asima	a s i m a	YOUNGER.SISTER	681	681
+1295	Banawa	younger sister	asima	asima	a s i m a	YOUNGER.SISTER	681	681
+1296	Jamamadi	younger sister	asima	asima	a s i m a	YOUNGER.SISTER	681	681
+# Created using the LexStat class of LingPy-2.6.7
