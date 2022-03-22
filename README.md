@@ -1,7 +1,7 @@
 #  Katukinan-Arawan-Harakmbut Database (KAHD)
 
 <p align="center">
- <img src="https://github.com/LanguageStructure/KAHD_pre_release/blob/main/mapKAHD.png" width="360" height="320">
+ <img src="https://github.com/LanguageStructure/KAHD_pre_release/blob/main/mapKAHD.png" width="380" height="320">
  </p>
  <br>
 
@@ -56,3 +56,5 @@ Name | Affiliation | GitHub user | Description | Role
 Fabrício Ferraz Gerardi | Universität Tübingen | @LanguageStructure | Data Collector, cognacy assignment, co-lexifications, notes | Author
 Carolina Aragon | UFPB | @carolinaaragon | Data Collector, cognacy assignment, co-lexifications, notes | Author
 Stanislav Reichert | Universität Tübingen |@StasReichert | Data Collector, CLDF conversion | Author
+Johann-Mattis List | Max-Planck-Institute for Evolutionary Anthropology | @lingulist | CLDF conversion | Author
+Robert Forkel | Max-Planck-Institute for Evolutionary Anthropology | @xrotwang | CLDF conversion | Author
