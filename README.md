@@ -1,7 +1,7 @@
 #  Katukinan-Arawan-Harakmbut Database (KAHD)
 
 <p align="center">
- <img src="https://github.com/LanguageStructure/KAHD_pre_release/blob/main/mapKAHD.png" width="380" height="320">
+ <img src="https://github.com/LanguageStructure/KAHD_pre_release/blob/main/mapKAHD.png" width="390" height="320">
  </p>
  <br>
 
