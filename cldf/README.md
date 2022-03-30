@@ -1,20 +1,20 @@
 <a name="ds-cldfmetadatajson"> </a>
 
-# Wordlist  Arawan Lexical Dataset
+# Wordlist Katukinan-Arawan-Harakmbut Database (KAHD)
 
 **CLDF Metadata**: [cldf-metadata.json](./cldf-metadata.json)
 
 **Sources**: [sources.bib](./sources.bib)
 
-Lexical Dataset of the Arawan language family
+Lexical Database of the Arawan language family
 
 property | value
  --- | ---
-[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release (Arawan)
+[dc:bibliographicCitation](http://purl.org/dc/terms/bibliographicCitation) | Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF Wordlist](http://cldf.clld.org/v1.0/terms.rdf#Wordlist)
 [dc:license](http://purl.org/dc/terms/license) | http://www.opensource.org/licenses/MIT
 [dcat:accessURL](http://www.w3.org/ns/dcat#accessURL) | https://github.com/LanguageStructure/KAHD_pre_release
-[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/LanguageStructure/KAHD_pre_release/tree/2fb6943">LanguageStructure/KAHD_pre_release v0.1-15-g2fb6943</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.5">Glottolog v4.5</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.5.0">Concepticon v2.5.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.1.0">CLTS v2.1.0</a></li></ol>
+[prov:wasDerivedFrom](http://www.w3.org/ns/prov#wasDerivedFrom) | <ol><li><a href="https://github.com/LanguageStructure/KAHD_pre_release/tree/372708b">LanguageStructure/KAHD_pre_release 0.1-23-g372708b</a></li><li><a href="https://github.com/glottolog/glottolog/tree/v4.5">Glottolog v4.5</a></li><li><a href="https://github.com/concepticon/concepticon-data/tree/v2.5.0">Concepticon v2.5.0</a></li><li><a href="https://github.com/cldf-clts/clts/tree/v2.1.0">CLTS v2.1.0</a></li></ol>
 [prov:wasGeneratedBy](http://www.w3.org/ns/prov#wasGeneratedBy) | <ol><li><strong>lingpy-rcParams</strong>: <a href="./lingpy-rcParams.json">lingpy-rcParams.json</a></li><li><strong>python</strong>: 3.8.10</li><li><strong>python-packages</strong>: <a href="./requirements.txt">requirements.txt</a></li></ol>
 [rdf:ID](http://www.w3.org/1999/02/22-rdf-syntax-ns#ID) | tuled
 [rdf:type](http://www.w3.org/1999/02/22-rdf-syntax-ns#type) | http://www.w3.org/ns/dcat#Distribution
@@ -25,7 +25,7 @@ property | value
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF FormTable](http://cldf.clld.org/v1.0/terms.rdf#FormTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 2503
+[dc:extent](http://purl.org/dc/terms/extent) | 2651
 
 
 ### Columns
@@ -54,7 +54,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF LanguageTable](http://cldf.clld.org/v1.0/terms.rdf#LanguageTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 8
+[dc:extent](http://purl.org/dc/terms/extent) | 12
 
 
 ### Columns
@@ -77,7 +77,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF ParameterTable](http://cldf.clld.org/v1.0/terms.rdf#ParameterTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 556
+[dc:extent](http://purl.org/dc/terms/extent) | 557
 
 
 ### Columns
@@ -96,7 +96,7 @@ Name/Property | Datatype | Description
 property | value
  --- | ---
 [dc:conformsTo](http://purl.org/dc/terms/conformsTo) | [CLDF CognateTable](http://cldf.clld.org/v1.0/terms.rdf#CognateTable)
-[dc:extent](http://purl.org/dc/terms/extent) | 2555
+[dc:extent](http://purl.org/dc/terms/extent) | 2708
 
 
 ### Columns

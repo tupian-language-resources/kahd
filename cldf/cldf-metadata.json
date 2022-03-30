@@ -3,7 +3,7 @@
     "aboutUrl": null,
     "dc:bibliographicCitation": "Ferraz Gerardi, Fabr\u00edcio & Aragon, Carolina & Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": "Lexical Dataset of the Arawan language family",
+    "dc:description": "Lexical Database of the Arawan language family",
     "dc:isVersionOf": null,
     "dc:license": "http://www.opensource.org/licenses/MIT",
     "dc:related": null,
@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/LanguageStructure/KAHD_pre_release",
             "rdf:type": "prov:Entity",
-            "dc:created": "v0.1-15-g2fb6943",
+            "dc:created": "0.1-23-g372708b",
             "dc:title": "Repository"
         },
         {
@@ -58,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 2503,
+            "dc:extent": 2651,
             "tableSchema": {
                 "columns": [
                     {
@@ -178,7 +178,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 8,
+            "dc:extent": 12,
             "tableSchema": {
                 "columns": [
                     {
@@ -248,7 +248,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 556,
+            "dc:extent": 557,
             "tableSchema": {
                 "columns": [
                     {
@@ -288,7 +288,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 2555,
+            "dc:extent": 2708,
             "tableSchema": {
                 "columns": [
                     {

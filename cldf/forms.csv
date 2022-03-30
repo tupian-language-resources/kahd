@@ -7,6 +7,7 @@ Jarawara-22_axe-1,,Jarawara,22_axe,bari,bari,b a r i,,dixon2004proto;dixon1995fu
 Kulina-22_axe-1,,Kulina,22_axe,dzami / baɾi,dzami,dz a m i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,AXE,180,5
 Kulina-22_axe-2,,Kulina,22_axe,dzami / baɾi,baɾi,b a ɾ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,AXE,217,217
 Sorowaha-22_axe-1,,Sorowaha,22_axe,baaɾi,baaɾi,b aː ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,AXE,217,217
+Katawishi-22_axe-1,,Katawishi,22_axe,toɲhi,toɲhi,t o ɲ h i,,adelaar2007katawixi;tastevin1920notes,,,,,AXE,853,810
 Arawa-182_good-1,,Arawa,182_good,amoza,amoza,a m o z a,,ehrenreich1897materialien,,,,,BE.GOOD,8,8
 Banawa-182_good-1,,Banawa,182_good,amosa,amosa,a m o s a,,ladefoged1997phonetic,,,,,BE.GOOD,8,8
 Deni-182_good-1,,Deni,182_good,amotsʰi,amotsʰi,a m o tsʰ i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,BE.GOOD,8,8
@@ -14,6 +15,9 @@ Jamamadi-182_good-1,,Jamamadi,182_good,amosa,amosa,a m o s a,,dixon2004proto;dix
 Jarawara-182_good-1,,Jarawara,182_good,amosa,amosa,a m o s a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,BE.GOOD,8,8
 Paumari-182_good-1,,Paumari,182_good,dʒaha / makʰani,dʒaha,dʒ a h a,,dixon2004proto;chapman1998dicionario,,,,,BE.GOOD,806,763
 Paumari-182_good-2,,Paumari,182_good,dʒaha / makʰani,makʰani,m a kʰ a n i,,dixon2004proto;chapman1998dicionario,,,,,BE.GOOD,805,762
+Amarakaeri-182_good-1,,Amarakaeri,182_good,ndak,ndak,n/d a k,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,BE.GOOD,914,874
+Kanamari-182_good-1,,Kanamari,182_good,nuk,nuk,n u k,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,BE.GOOD,914,874
+KatukinaBia-182_good-1,,KatukinaBia,182_good,nuk,nuk,n u k,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,BE.GOOD,914,874
 Arawa-152_fire-1,,Arawa,152_fire,ʃihú,ʃihú,ʃ i h ú,,ehrenreich1897materialien,,,,,FIRE,259,259
 Banawa-152_fire-1,,Banawa,152_fire,jiɸo,jifo,j i f o,,ladefoged1997phonetic,,,,,FIRE,259,259
 Deni-152_fire-1,,Deni,152_fire,jipho,jipho,j i pʰ o,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,FIRE,259,259
@@ -22,6 +26,7 @@ Jarawara-152_fire-1,,Jarawara,152_fire,jiɸo,jiɸo,j i ɸ o,,dixon2004proto;dixo
 Kulina-152_fire-1,,Kulina,152_fire,jipʰo,jipʰo,j i pʰ o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,FIRE,259,259
 Paumari-152_fire-1,,Paumari,152_fire,siho,siho,s i h o,,dixon2004proto;chapman1998dicionario,,,,,FIRE,259,259
 Sorowaha-152_fire-1,,Sorowaha,152_fire,abi,abi,a b i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,FIRE,1251,1251
+Katawishi-152_fire-1,,Katawishi,152_fire,nanhi,nanhi,n a n h i,,adelaar2007katawixi;tastevin1920notes,,,,,FIRE,860,817
 Arawa-156_fish-1,,Arawa,156_fish,abaigaua,abaigaua,a b a i g a u a,,ehrenreich1897materialien,,,,,FISH,201,201
 Banawa-156_fish-1,,Banawa,156_fish,aba,aba,a b a,,ladefoged1997phonetic,,,,,FISH,201,201
 Banawa-156_fish-2,,Banawa,156_fish,korobo / siraba,korobo,k o r o b o,,ladefoged1997phonetic,,,,,FISH,122,122
@@ -40,18 +45,21 @@ Paumari-156_fish-1,,Paumari,156_fish,abaisana,abaisana,a b a i s a n a,,dixon200
 Paumari-156_fish-2,,Paumari,156_fish,siraba,siraba,s i r a b a,,dixon2004proto;chapman1998dicionario,,,,,FISH,164,164
 Sorowaha-156_fish-1,,Sorowaha,156_fish,aba,aba,a b a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,FISH,201,201
 Sorowaha-156_fish-2,,Sorowaha,156_fish,aaba,aaba,aː b a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,FISH,201,201
+Amarakaeri-156_fish-1,,Amarakaeri,156_fish,mbiʔigŋ,mbiʔigŋ,m/b i ʔ i g ŋ,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,FISH,912,872
 Arawa-217_house-1,,Arawa,217_house,zami,zami,z a m i,,ehrenreich1897materialien,,,,,HOUSE,254,254
 Deni-217_house-1,,Deni,217_house,jamari,jamari,j a m a r i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,HOUSE,254,254
 Sorowaha-217_house-1,,Sorowaha,217_house,uuda,uuda,uː d a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,HOUSE,1272,1272
-Arawa-242_lake-1,,Arawa,242_lake,daku,daku,d a k u,,ehrenreich1897materialien,,,,,LAKE,47,47
+Katawishi-217_house-1,,Katawishi,217_house,kah,kah,k a h,,adelaar2007katawixi;tastevin1920notes,,,,,HOUSE,863,821
+Amarakaeri-217_house-1,,Amarakaeri,217_house,hak,hak,h a k,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,HOUSE,922,881
+Arawa-242_lake-1,,Arawa,242_lake,daku,daku,d a k u,,ehrenreich1897materialien,,,,,LAKE,355,174
 Deni-242_lake-1,,Deni,242_lake,korija,korija,k o r i j a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,LAKE,46,46
-Jarawara-242_lake-1,,Jarawara,242_lake,rako,rako,r a k o,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,LAKE,47,47
+Jarawara-242_lake-1,,Jarawara,242_lake,rako,rako,r a k o,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,LAKE,355,174
 Kulina-242_lake-1,,Kulina,242_lake,koɾija / koɾidza,koɾija,k o ɾ i j a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,LAKE,46,46
 Kulina-242_lake-2,,Kulina,242_lake,koɾija / koɾidza,koɾidza,k o ɾ i dz a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,LAKE,46,46
-Paumari-242_lake-1,,Paumari,242_lake,ɗako,ɗako,ɗ a k o,,dixon2004proto;chapman1998dicionario,,,,,LAKE,47,47
-Sorowaha-242_lake-1,,Sorowaha,242_lake,taki,taki,t a k i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,LAKE,47,47
+Paumari-242_lake-1,,Paumari,242_lake,ɗako,ɗako,ɗ a k o,,dixon2004proto;chapman1998dicionario,,,,,LAKE,355,174
+Sorowaha-242_lake-1,,Sorowaha,242_lake,taki,taki,t a k i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,LAKE,355,174
 Arawa-271_man-1,,Arawa,271_man,makuidá,makuidá,m a k u i d á,,ehrenreich1897materialien,,,,,MAN.(ADULT.MALE),289,289
-Banawa-271_man-1,,Banawa,271_man,makiti,maki,m a k i t i,,ladefoged1997phonetic,,,,,MAN.(ADULT.MALE),289,289
+Banawa-271_man-1,,Banawa,271_man,maki,maki,m a k i,,ladefoged1997phonetic,,,,,MAN.(ADULT.MALE),289,289
 Deni-271_man-1,,Deni,271_man,makhi / dzabitsu,dzabitsu,dz a b i ts u,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,MAN.(ADULT.MALE),384,365
 Deni-271_man-2,,Deni,271_man,makhi / dzabitsu,makhi,m a kʰ i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,MAN.(ADULT.MALE),289,289
 Jamamadi-271_man-1,,Jamamadi,271_man,makiti,maki,m a k i t i,,dixon2004proto;dixon2004adjective,,,,,MAN.(ADULT.MALE),289,289
@@ -59,6 +67,7 @@ Jarawara-271_man-1,,Jarawara,271_man,makiti,maki,m a k i t i,,dixon2004proto;dix
 Kulina-271_man-1,,Kulina,271_man,makʰi,makʰi,m a kʰ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,MAN.(ADULT.MALE),289,289
 Paumari-271_man-1,,Paumari,271_man,makhira,makhira,m a kʰ i r a,,dixon2004proto;chapman1998dicionario,,,,,MAN.(ADULT.MALE),289,289
 Sorowaha-271_man-1,,Sorowaha,271_man,imeki,imeki,i m e k i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,MAN.(ADULT.MALE),289,289
+Katawishi-271_man-1,,Katawishi,271_man,bøtso,bøtso,b ø ts o,,adelaar2007katawixi;tastevin1920notes,,,,,MAN.(ADULT.MALE),384,365
 Arawa-287_moon-1,,Arawa,287_moon,masiko,masiko,m a s i k o,,ehrenreich1897materialien,,,,,MOON,202,202
 Banawa-287_moon-1,,Banawa,287_moon,abariko,abariko,a b a r i k o,,ladefoged1997phonetic,,,,,MOON,202,202
 Deni-287_moon-1,,Deni,287_moon,abajiko,abajiko,a b a j i k o,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,MOON,202,202
@@ -67,6 +76,9 @@ Jarawara-287_moon-1,,Jarawara,287_moon,abariko,abariko,a b a r i k o,,dixon2004p
 Kulina-287_moon-1,,Kulina,287_moon,abajiko,abajiko,a b a j i k o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,MOON,202,202
 Paumari-287_moon-1,,Paumari,287_moon,masiko,masiko,m a s i k o,,dixon2004proto;chapman1998dicionario,,,,,MOON,202,202
 Sorowaha-287_moon-1,,Sorowaha,287_moon,masiki,masiki,m a s i k i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,MOON,202,202
+Katawishi-287_moon-1,,Katawishi,287_moon,kweji,kweji,kw e j i,,adelaar2007katawixi;tastevin1920notes,,,,,MOON,866,824
+Kanamari-287_moon-1,,Kanamari,287_moon,wadʒa,wadʒa,w a dʒ a,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,MOON,931,891
+Amarakaeri-287_moon-1,,Amarakaeri,287_moon,pugn,pugn,p u g n,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,MOON,932,892
 Arawa-450_star-1,,Arawa,450_star,amoa,amoa,a m o a,,ehrenreich1897materialien,,,,,STAR,9,9
 Banawa-450_star-1,,Banawa,450_star,amowa,amowa,a m o w a,,ladefoged1997phonetic,,,,,STAR,9,9
 Deni-450_star-1,,Deni,450_star,amowa,amowa,a m o w a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,STAR,9,9
@@ -74,6 +86,7 @@ Jamamadi-450_star-1,,Jamamadi,450_star,amowa,amowa,a m o w a,,dixon2004proto;dix
 Jarawara-450_star-1,,Jarawara,450_star,amowa,amowa,a m o w a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,STAR,9,9
 Kulina-450_star-1,,Kulina,450_star,amowa,amowa,a m o w a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,STAR,9,9
 Sorowaha-450_star-1,,Sorowaha,450_star,amuwa,amuwa,a m u w a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,STAR,9,9
+Katawishi-450_star-1,,Katawishi,450_star,korombiru,korombiru,k o r o m/b i r u,,adelaar2007katawixi;tastevin1920notes,,,,,STAR,852,809
 Arawa-471_tapir-1,,Arawa,471_tapir,awi,awi,a w i,,ehrenreich1897materialien,,,,,TAPIR,14,14
 Banawa-471_tapir-1,,Banawa,471_tapir,awi,awi,a w i,,ladefoged1997phonetic,,,,,TAPIR,14,14
 Deni-471_tapir-1,,Deni,471_tapir,awi,awi,a w i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,TAPIR,14,14
@@ -81,6 +94,7 @@ Jamamadi-471_tapir-1,,Jamamadi,471_tapir,awi,awi,a w i,,dixon2004proto;dixon2004
 Jarawara-471_tapir-1,,Jarawara,471_tapir,awi,awi,a w i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,TAPIR,14,14
 Kulina-471_tapir-1,,Kulina,471_tapir,awi,awi,a w i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,TAPIR,14,14
 Sorowaha-471_tapir-1,,Sorowaha,471_tapir,maahunɨ,maahunɨ,m aː h u n ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,TAPIR,510,494
+Amarakaeri-471_tapir-1,,Amarakaeri,471_tapir,keme,keme,k e m e,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,TAPIR,921,880
 Arawa-549_whitelippedpeccary-1,,Arawa,549_whitelippedpeccary,isamá,isamá,i s a m á,,ehrenreich1897materialien,,,,,WHITE-LIPPED.PECCARY,243,243
 Banawa-549_whitelippedpeccary-1,,Banawa,549_whitelippedpeccary,hijama,hijama,h i j a m a,,ladefoged1997phonetic,,,,,WHITE-LIPPED.PECCARY,243,243
 Deni-549_whitelippedpeccary-1,,Deni,549_whitelippedpeccary,hijama,hijama,h i j a m a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,WHITE-LIPPED.PECCARY,243,243
@@ -101,6 +115,10 @@ Paumari-166_foot-1,,Paumari,166_foot,ɗama,ɗama,ɗ a m a,,dixon2004proto;chapma
 Sorowaha-166_foot-1,,Sorowaha,166_foot,dama,dama,d a m a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,FOOT,47,47
 Sorowaha-166_foot-2,,Sorowaha,166_foot,ud̥ɨ,ud̥ɨ,u d̥ ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,FOOT,717,660
 Deni-166_foot-1,,Deni,166_foot,amuri,amuri,a m u r i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,FOOT,1260,1260
+Katawishi-166_foot-1,,Katawishi,166_foot,høkora,høkora,h ø k o r a,,adelaar2007katawixi;tastevin1920notes,,,,,FOOT,848,805
+Amarakaeri-166_foot-1,,Amarakaeri,166_foot,ʔi,ʔi,ʔ i,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,FOOT,337,337
+KatukinaBia-166_foot-1,,KatukinaBia,166_foot,i,i,iː,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,FOOT,337,337
+Kanamari-166_foot-1,,Kanamari,166_foot,i,i,iː,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,FOOT,337,337
 Arawa-195_hand-1,,Arawa,195_hand,usaɸá,usaɸá,u s a ɸ á,,ehrenreich1897materialien,,,,,HAND,83,83
 Banawa-195_hand-1,,Banawa,195_hand,jahi,jahi,j a h i,,ladefoged1997phonetic,,,,,HAND,83,83
 Deni-195_hand-1,,Deni,195_hand,japa,japa,j a p a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,HAND,83,83
@@ -113,7 +131,9 @@ Kulina-195_hand-2,,Kulina,195_hand,japa,japa,j a p a,,dixon2004proto;monserrat19
 Paumari-195_hand-1,,Paumari,195_hand,saʔa,saʔa,s a ʔ a,,dixon2004proto;chapman1998dicionario,,,,,HAND,83,83
 Sorowaha-195_hand-1,,Sorowaha,195_hand,bihi / sahani,bihi,b i h i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,HAND,383,322
 Sorowaha-195_hand-2,,Sorowaha,195_hand,bihi / sahani,sahani,s a h a n i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,HAND,83,83
-Arawa-234_jaguar-1,,Arawa,234_jaguar,jumayhí,jumayhí,j u m a y h í,,ehrenreich1897materialien,,,,,JAGUAR,90,90
+Katawishi-195_hand-1,,Katawishi,195_hand,bakøra,bakøra,b a k ø r a,,adelaar2007katawixi;tastevin1920notes,,,,,HAND,858,815
+Amarakaeri-195_hand-1,,Amarakaeri,195_hand,mbaʔ,mbaʔ,m/b a ʔ,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,HAND,896,855
+Arawa-234_jaguar-1,,Arawa,234_jaguar,jumaihí,jumaihí,j u m a i h í,,ehrenreich1897materialien,,,,,JAGUAR,90,90
 Banawa-234_jaguar-1,,Banawa,234_jaguar,jomahi,jomahi,j o m a h i,,ladefoged1997phonetic,,,,,JAGUAR,90,90
 Deni-234_jaguar-1,,Deni,234_jaguar,jomahi,jomahi,j o m a h i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,JAGUAR,90,90
 Jamamadi-234_jaguar-1,,Jamamadi,234_jaguar,jomahi,jomahi,j o m a h i,,dixon2004proto;dixon2004adjective,,,,,JAGUAR,90,90
@@ -121,6 +141,7 @@ Jarawara-234_jaguar-1,,Jarawara,234_jaguar,jomahi,jomahi,j o m a h i,,dixon2004p
 Kulina-234_jaguar-1,,Kulina,234_jaguar,jomahi,jomahi,j o m a h i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,JAGUAR,90,90
 Paumari-234_jaguar-1,,Paumari,234_jaguar,jomahi,jomahi,j o m a h i,,dixon2004proto;chapman1998dicionario,,,,,JAGUAR,90,90
 Sorowaha-234_jaguar-1,,Sorowaha,234_jaguar,maɾihi,maɾihi,m a ɾ i h i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,JAGUAR,1276,1276
+Katawishi-234_jaguar-1,,Katawishi,234_jaguar,waŋka,waŋka,w a ŋ k a,,adelaar2007katawixi;tastevin1920notes,,,,,JAGUAR,870,828
 Arawa-313_one-1,,Arawa,313_one,warihí,warihí,w a r i h í,,ehrenreich1897materialien,,,,,ONE,684,684
 Banawa-313_one-1,,Banawa,313_one,ohari,ohari,o h a r i,,ladefoged1997phonetic,,,,,ONE,684,684
 Deni-313_one-1,,Deni,313_one,ohari,ohari,o h a r i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,ONE,684,684
@@ -128,6 +149,8 @@ Jamamadi-313_one-1,,Jamamadi,313_one,ohari,ohari,o h a r i,,dixon2004proto;dixon
 Jarawara-313_one-1,,Jarawara,313_one,ohari,ohari,o h a r i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,ONE,684,684
 Kulina-313_one-1,,Kulina,313_one,ohaɾi,ohaɾi,o h a ɾ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,ONE,476,461
 Kulina-313_one-2,,Kulina,313_one,ohaɾi,ohaɾi,o h a ɾ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,ONE,684,684
+Katawishi-313_one-1,,Katawishi,313_one,wakata,wakata,w a k a t a,,adelaar2007katawixi;tastevin1920notes,,,,,ONE,872,830
+Amarakaeri-313_one-1,,Amarakaeri,313_one,noŋtinda,noŋtinda,n o ŋ + t i + n/d a,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,OTHER SPATIAL ?,905,863 864 865
 Arawa-394_scrotum-1,,Arawa,394_scrotum,naɸariná,naɸariná,n a ɸ a r i n á,,ehrenreich1897materialien,,,,,SCROTUM,375,360
 Banawa-394_scrotum-1,,Banawa,394_scrotum,dane / naɸe,dane,d a n e,,ladefoged1997phonetic,,,,,SCROTUM,40,40
 Banawa-394_scrotum-2,,Banawa,394_scrotum,dane / naɸe,naɸe,n a ɸ e,,ladefoged1997phonetic,,,,,SCROTUM,375,360
@@ -148,6 +171,7 @@ Jarawara-463_sun-1,,Jarawara,463_sun,bahi,bahi,b a h i,,dixon2004proto;dixon1995
 Kulina-463_sun-1,,Kulina,463_sun,mahi,mahi,m a h i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,SUN,216,216
 Paumari-463_sun-1,,Paumari,463_sun,mahi,mahi,m a h i,,dixon2004proto;chapman1998dicionario,,,,,SUN,216,216
 Sorowaha-463_sun-1,,Sorowaha,463_sun,masici,masici,m a s i c i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,SUN,512,495
+Kanamari-463_sun-1,,Kanamari,463_sun,tʃaŋ,tʃaŋ,tʃ a ŋ,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,SUN,930,890
 Arawa-516_two-1,,Arawa,516_two,ɸamihí,ɸamihí,ɸ a m i h í,,ehrenreich1897materialien,,,,,TWO,153,153
 Banawa-516_two-1,,Banawa,516_two,ɸama,ɸama,ɸ a m a,,ladefoged1997phonetic,,,,,TWO,153,153
 Deni-516_two-1,,Deni,516_two,pama,pama,p a m a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,TWO,153,153
@@ -155,9 +179,11 @@ Jamamadi-516_two-1,,Jamamadi,516_two,ɸama,ɸama,ɸ a m a,,dixon2004proto;dixon2
 Jarawara-516_two-1,,Jarawara,516_two,ɸama,ɸama,ɸ a m a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,TWO,153,153
 Kulina-516_two-1,,Kulina,516_two,pama,pama,p a m a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,TWO,153,153
 Sorowaha-516_two-1,,Sorowaha,516_two,ohama,ohama,o h a m a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,TWO,153,153
+Katawishi-516_two-1,,Katawishi,516_two,sahe,sahe,s a h e,,adelaar2007katawixi;tastevin1920notes,,,,,TWO,873,831
+Amarakaeri-516_two-1,,Amarakaeri,516_two,mbottaʔ,mbottaʔ,m/b o t t a ʔ,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,TWO,906,866
 Arawa-539_water-1,,Arawa,539_water,pahá,pahá,p a h á,,ehrenreich1897materialien,,,,,WATER,157,157
 Banawa-539_water-1,,Banawa,539_water,ɸaha,ɸaha,ɸ a h a,,ladefoged1997phonetic,,,,,WATER,157,157
-Deni-539_water-1,,Deni,539_water,patsu / pha,patsu,p a t s u,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,WATER,513,497
+Deni-539_water-1,,Deni,539_water,patsu / pha,patsu,p a ts u,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,WATER,513,497
 Deni-539_water-2,,Deni,539_water,patsu / pha,pha,pʰ a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,WATER,157,157
 Jamamadi-539_water-1,,Jamamadi,539_water,ɸaha,ɸaha,ɸ a h a,,dixon2004proto;dixon2004adjective,,,,,WATER,157,157
 Jarawara-539_water-1,,Jarawara,539_water,ɸaha,ɸaha,ɸ a h a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,WATER,157,157
@@ -165,6 +191,8 @@ Kulina-539_water-1,,Kulina,539_water,patsʰo / pʰaha,patsʰo,p a tsʰ o,,dixon2
 Kulina-539_water-2,,Kulina,539_water,patsʰo / pʰaha,pʰaha,pʰ a h a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,WATER,157,157
 Paumari-539_water-1,,Paumari,539_water,paha,paha,p a h a,,dixon2004proto;chapman1998dicionario,,,,,WATER,157,157
 Sorowaha-539_water-1,,Sorowaha,539_water,bami,bami,b a m i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,WATER,514,498
+Katawishi-539_water-1,,Katawishi,539_water,wa,wa,w a,,adelaar2007katawixi;tastevin1920notes,,,,,WATER,157,157
+Amarakaeri-539_water-1,,Amarakaeri,539_water,wẽʔẽj̃,wẽʔẽj̃,w ẽ ʔ ẽ j̃,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,WATER,928,887
 Arawa-515_turtle-1,,Arawa,515_turtle,chirí,chirí,c h i r í,,ehrenreich1897materialien,,,,,TURTLE,172,172
 Banawa-515_turtle-1,,Banawa,515_turtle,sire,sire,s i r e,,ladefoged1997phonetic,,,,,TURTLE,172,172
 Deni-515_turtle-1,,Deni,515_turtle,tsʰiri,tsʰiri,tsʰ i r i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,TURTLE,172,172
@@ -208,11 +236,11 @@ Kulina-12_anteater-1,,Kulina,12_anteater,modo,modo,m o d o,,dixon2004proto;monse
 Kulina-12_anteater-2,,Kulina,12_anteater,hojawa,hojawa,h o j a w a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,ANTEATER,65,65
 Paumari-12_anteater-1,,Paumari,12_anteater,hiβa,hiβa,h i β a,,dixon2004proto;chapman1998dicionario,,,,,ANTEATER,65,65
 Sorowaha-12_anteater-1,,Sorowaha,12_anteater,dʒukitɛɾidʒa,dʒukitɛɾidʒa,dʒ u k i t ɛ ɾ i dʒ a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,ANTEATER,1227,1227
-Banawa-16_arauna-1,,Banawa,16_arauna,abajaro,abajaro,a b a + j a r o,,ladefoged1997phonetic,,,,,? ARAUNÃ,321,6000 321
+Banawa-16_arauna-1,,Banawa,16_arauna,abajaro,abajaro,a b a + j a r o,,ladefoged1997phonetic,,,,,FISH ARAUNÃ,321,201 321
 Jamamadi-16_arauna-1,,Jamamadi,16_arauna,bajaro,bajaro,b a j a r o,,dixon2004proto;dixon2004adjective,,,,,ARAUNÃ,321,321
 Jarawara-16_arauna-1,,Jarawara,16_arauna,bajaro,bajaro,b a j a r o,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,ARAUNÃ,321,321
 Paumari-16_arauna-1,,Paumari,16_arauna,bajara,bajara,b a j a r a,,dixon2004proto;chapman1998dicionario,,,,,ARAUNÃ,321,321
-Sorowaha-16_arauna-1,,Sorowaha,16_arauna,aba majaɾo,aba majaɾo,a b a + m a j a ɾ o,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,? ARAUNÃ,321,6000 321
+Sorowaha-16_arauna-1,,Sorowaha,16_arauna,aba majaɾo,aba majaɾo,a b a + m a j a ɾ o,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,FISH ARAUNÃ,321,201 321
 Banawa-3_acaipalm-1,,Banawa,3_acaipalm,ɸare,ɸare,ɸ a r e,,ladefoged1997phonetic,,,,,AÇAÍ,311,311
 Jamamadi-3_acaipalm-1,,Jamamadi,3_acaipalm,ɸare,ɸare,ɸ a r e,,dixon2004proto;dixon2004adjective,,,,,AÇAÍ,311,311
 Jarawara-3_acaipalm-1,,Jarawara,3_acaipalm,ɸare,ɸare,ɸ a r e,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,AÇAÍ,311,311
@@ -258,16 +286,16 @@ Deni-34_behungry-1,,Deni,34_behungry,pemi,pemi,p e m i,,dixon2004proto;carvalho2
 Jamamadi-34_behungry-1,,Jamamadi,34_behungry,ɸimiha,ɸimiha,ɸ i m i h a,,dixon2004proto;dixon2004adjective,,,,,BE.HUNGRY,327,327
 Jarawara-34_behungry-1,,Jarawara,34_behungry,ɸimiha,ɸimiha,ɸ i m i h a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,BE.HUNGRY,327,327
 Kulina-34_behungry-1,,Kulina,34_behungry,pɛmi,pɛmi,p ɛ m i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,BE.HUNGRY,327,327
-Paumari-34_behungry-1,,Paumari,34_behungry,βaiʔami,βaiʔami,β a i ʔ a m i,,dixon2004proto;chapman1998dicionario,,,,,BE.HUNGRY,355,174
+Paumari-34_behungry-1,,Paumari,34_behungry,βaiʔami,βaiʔami,β a i ʔ a m i,,dixon2004proto;chapman1998dicionario,,,,,BE.HUNGRY,327,327
 Banawa-39_bee-1,,Banawa,39_bee,hiji,hiji,h i j i,,ladefoged1997phonetic,,,,,BEE,245,245
 Deni-39_bee-1,,Deni,39_bee,hiji,hiji,h i j i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,BEE,245,245
 Jamamadi-39_bee-1,,Jamamadi,39_bee,hiji,hiji,h i j i,,dixon2004proto;dixon2004adjective,,,,,BEE,245,245
 Jarawara-39_bee-1,,Jarawara,39_bee,hiji,hiji,h i j i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,BEE,245,245
 Kulina-39_bee-1,,Kulina,39_bee,hiji,hiji,h i j i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,BEE,245,245
 Sorowaha-39_bee-1,,Sorowaha,39_bee,mukukʷa,mukukʷa,m u k u kʷ a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,BEE,385,132
-Banawa-41_belch-1,,Banawa,41_belch,dee,dee,d e e,,ladefoged1997phonetic,,,,,BELCH,364,358
+Banawa-41_belch-1,,Banawa,41_belch,dee,dee,d e e,,ladefoged1997phonetic,,,,,BELCH,364,364
 Deni-41_belch-1,,Deni,41_belch,de,de,d e,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,BELCH,364,364
-Jarawara-41_belch-1,,Jarawara,41_belch,tee,tee,t e e,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,BELCH,364,358
+Jarawara-41_belch-1,,Jarawara,41_belch,tee,tee,t e e,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,BELCH,364,364
 Kulina-41_belch-1,,Kulina,41_belch,dɛɾɛɾɛ,dɛɾɛɾɛ,d ɛ ɾ ɛ ɾ ɛ,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,BELCH,364,364
 Banawa-50_bitter-1,,Banawa,50_bitter,bida,bida,b i d a,,ladefoged1997phonetic,,,,,BITTER,219,219
 Deni-50_bitter-1,,Deni,50_bitter,bidaro,bidaro,b i d a r o,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,BITTER,219,219
@@ -288,6 +316,9 @@ Jarawara-54_blood-1,,Jarawara,54_blood,ame,ame,a m e,,dixon2004proto;dixon1995fu
 Kulina-54_blood-1,,Kulina,54_blood,ama,ama,a m a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,BLOOD,206,206
 Paumari-54_blood-1,,Paumari,54_blood,ama,ama,a m a,,dixon2004proto;chapman1998dicionario,,,,,BLOOD,206,206
 Sorowaha-54_blood-1,,Sorowaha,54_blood,amɨ,amɨ,a m aː,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,BLOOD,206,206
+Katawishi-54_blood-1,,Katawishi,54_blood,mimi,mimi,m i m i,,adelaar2007katawixi;tastevin1920notes,,,,,BLOOD,869,827
+KatukinaBia-54_blood-1,,KatukinaBia,54_blood,mimi,mimi,m i m i,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,BLOOD,869,827
+Kanamari-54_blood-1,,Kanamari,54_blood,mimi,mimi,m i m i,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,BLOOD,869,827
 Banawa-61_branch-1,,Banawa,61_branch,ini,ini,i n i,,ladefoged1997phonetic,,,,,BRANCH,251,251
 Deni-61_branch-1,,Deni,61_branch,ini,ini,i n i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,BRANCH,251,251
 Jamamadi-61_branch-1,,Jamamadi,61_branch,ini,ini,i n i,,dixon2004proto;dixon2004adjective,,,,,BRANCH,251,251
@@ -303,6 +334,7 @@ Paumari-62_breakdestroyorgetdestroyed-1,,Paumari,62_breakdestroyorgetdestroyed,o
 Sorowaha-62_breakdestroyorgetdestroyed-1,,Sorowaha,62_breakdestroyorgetdestroyed,obo / kawaɾu / kawa,obo,o b o,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,DEMOLISH,578,565
 Sorowaha-62_breakdestroyorgetdestroyed-2,,Sorowaha,62_breakdestroyorgetdestroyed,obo / kawaɾu / kawa,kawaɾu,k a w a ɾ u,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,BREAK,732,682
 Sorowaha-62_breakdestroyorgetdestroyed-3,,Sorowaha,62_breakdestroyorgetdestroyed,obo / kawaɾu / kawa,kawa,k a w a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,BREAK,732,682
+Amarakaeri-62_breakdestroyorgetdestroyed-1,,Amarakaeri,62_breakdestroyorgetdestroyed,sak,sak,s a k,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,BREAK,892,851
 Banawa-63_breast-1,,Banawa,63_breast,johari,johari,j o h a r i,,ladefoged1997phonetic,,,,,BREAST,262,262
 Deni-63_breast-1,,Deni,63_breast,johori,johori,j o h o r i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,BREAST,262,262
 Jamamadi-63_breast-1,,Jamamadi,63_breast,johari,johari,j o h a r i,,dixon2004proto;dixon2004adjective,,,,,BREAST,262,262
@@ -328,6 +360,8 @@ Jarawara-558_yam-1,,Jarawara,558_yam,biha,biha,b i h a,,dixon2004proto;dixon1995
 Kulina-558_yam-1,,Kulina,558_yam,biha,biha,b i h a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,CARÁ,330,330
 Sorowaha-558_yam-1,,Sorowaha,558_yam,uusə / ahazubi,uusə,uː s ə,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CARÁ,1297,1297
 Sorowaha-558_yam-2,,Sorowaha,558_yam,uusə / ahazubi,ahazubi,a h a z u b i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,YAM,657,616
+KatukinaBia-558_yam-1,,KatukinaBia,558_yam,makuna,makuna,m a k u n a,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,CARÁ,945,904
+Kanamari-558_yam-1,,Kanamari,558_yam,makuna,makuna,m a k u n a,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,CARÁ,0,904
 Banawa-79_cashew-1,,Banawa,79_cashew,ajawa,ajawa,a j a w a,,ladefoged1997phonetic,,,,,CASHEW,205,205
 Jamamadi-79_cashew-1,,Jamamadi,79_cashew,winika,winika,w i n i k a,,dixon2004proto;dixon2004adjective,,,,,CASHEW,516,502
 Jarawara-79_cashew-1,,Jarawara,79_cashew,ajawa / winika,ajawa,a j a w a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,CASHEW,205,205
@@ -335,6 +369,7 @@ Jarawara-79_cashew-2,,Jarawara,79_cashew,ajawa / winika,winika,w i n i k a,,dixo
 Sorowaha-79_cashew-1,,Sorowaha,79_cashew,ajowa / inika / azuwa,ajowa,a j o w a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CASHEW,205,205
 Sorowaha-79_cashew-2,,Sorowaha,79_cashew,ajowa / inika / azuwa,inika,i n i k a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CASHEW,516,502
 Sorowaha-79_cashew-3,,Sorowaha,79_cashew,ajowa / inika / azuwa,azuwa,a z u w a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CASHEW,205,205
+Deni-79_cashew-1,,Deni,79_cashew,zupati,zupati,z u p a t i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,CASHEW,876,834
 Banawa-80_catch-1,,Banawa,80_catch,wata,wata,w a t a,,ladefoged1997phonetic,,,,,CATCH,235,235
 Jamamadi-80_catch-1,,Jamamadi,80_catch,wata,wata,w a t a,,dixon2004proto;dixon2004adjective,,,,,CATCH,235,235
 Jarawara-80_catch-1,,Jarawara,80_catch,wata,wata,w a t a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,CATCH,235,235
@@ -377,6 +412,9 @@ Jamamadi-113_deer-1,,Jamamadi,113_deer,bato,bato,b a t o,,dixon2004proto;dixon20
 Jarawara-113_deer-1,,Jarawara,113_deer,bato,bato,b a t o,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,DEER,214,214
 Kulina-113_deer-1,,Kulina,113_deer,bado,bado,b a d o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,DEER,214,214
 Sorowaha-113_deer-1,,Sorowaha,113_deer,zuumi,zuumi,z uː m i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,DEER,517,504
+Katawishi-113_deer-1,,Katawishi,113_deer,batja,batja,b a t j a,,adelaar2007katawixi;tastevin1920notes,,,,,DEER,214,214
+Kanamari-113_deer-1,,Kanamari,113_deer,batʃi,batʃi,b a tʃ i,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,DEER,214,214
+KatukinaBia-113_deer-1,,KatukinaBia,113_deer,batʃi,batʃi,b a tʃ i,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,DEER,214,214
 Banawa-332_pattern-1,,Banawa,332_pattern,hano,hano,h a n o,,ladefoged1997phonetic,,,,,PATTERN,334,334
 Deni-332_pattern-1,,Deni,332_pattern,hano,hano,h a n o,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,PATTERN,334,334
 Jarawara-332_pattern-1,,Jarawara,332_pattern,hano,hano,h a n o,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,PATTERN,334,334
@@ -398,6 +436,7 @@ Kulina-129_ear-1,,Kulina,129_ear,aɾibo,aɾibo,a ɾ i b o,,dixon2004proto;monser
 Paumari-129_ear-1,,Paumari,129_ear,morobo / narabi,morobo,m o r o b o,,dixon2004proto;chapman1998dicionario,,,,,EAR,300,300
 Paumari-129_ear-2,,Paumari,129_ear,morobo / narabi,narabi,n a r a b i,,dixon2004proto;chapman1998dicionario,,,,,EAR,300,300
 Sorowaha-129_ear-1,,Sorowaha,129_ear,waɾoba,waɾoba,w a ɾ o b a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,EAR,300,300
+Katawishi-129_ear-1,,Katawishi,129_ear,kiraba,kiraba,k i r a b a,,adelaar2007katawixi;tastevin1920notes,,,,,EAR,846,803
 Banawa-131_earthworm-1,,Banawa,131_earthworm,somi,somi,s o m i,,ladefoged1997phonetic,,,,,EARTHWORM,335,335
 Deni-131_earthworm-1,,Deni,131_earthworm,tsʰomi,tsʰomi,tsʰ o m i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,EARTHWORM,335,335
 Jamamadi-131_earthworm-1,,Jamamadi,131_earthworm,somi,somi,s o m i,,dixon2004proto;dixon2004adjective,,,,,EARTHWORM,335,335
@@ -428,6 +467,9 @@ Sorowaha-146_father-1,,Sorowaha,146_father,abi / ahadi,abi,a b i,,dixon2004proto
 Sorowaha-146_father-2,,Sorowaha,146_father,abi / ahadi,ahadi,a h a d i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,FATHER,656,615
 Deni-146_father-1,,Deni,146_father,abi,abi,a b i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,FATHER,1,1
 Arawa-146_father-1,,Arawa,146_father,abi,abi,a b i,,ehrenreich1897materialien,,,,,FATHER,1,1
+Amarakaeri-146_father-1,,Amarakaeri,146_father,pagŋ,pagŋ,p a g ŋ,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,FATHER,884,843
+Kanamari-146_father-1,,Kanamari,146_father,pama,pama,p a m a,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,FATHER,884,843
+KatukinaBia-146_father-1,,KatukinaBia,146_father,paju,paju,p a j u,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,FATHER,884,843
 Banawa-330_paternalunclefathersbrother-1,,Banawa,330_paternalunclefathersbrother,badise,badise,b a d i s e,,ladefoged1997phonetic,,,,,FATHER'S.BROTHER,336,336
 Jamamadi-330_paternalunclefathersbrother-1,,Jamamadi,330_paternalunclefathersbrother,badise,badise,b a d i s e,,dixon2004proto;dixon2004adjective,,,,,FATHER'S.BROTHER,336,336
 Jarawara-330_paternalunclefathersbrother-1,,Jarawara,330_paternalunclefathersbrother,batise,batise,b a t i s e,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,FATHER'S.BROTHER,336,336
@@ -460,6 +502,7 @@ Jamamadi-165_food-2,,Jamamadi,165_food,jamata / taɸe,taɸe,t a ɸ e,,dixon2004p
 Jarawara-165_food-2,,Jarawara,165_food,jamata / taɸe,taɸe,t a ɸ e,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,FOOD,185,185
 Kulina-165_food-2,,Kulina,165_food,jamatapa / tapaɾi,tapaɾi,t a p a ɾ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,FOOD,185,185
 Sorowaha-165_food-2,,Sorowaha,165_food,zaama hawaɾu,zaama hawaɾu,z aː m a + h a w aː ɾ u,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,THING ?,729,341 594
+Amarakaeri-165_food-1,,Amarakaeri,165_food,ajpo,ajpo,a j p o,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,FOOD,893,852
 Banawa-174_fruittree-1,,Banawa,174_fruittree,joha,joha,j o h a,,ladefoged1997phonetic,,,,,FRUIT.TREE,261,261
 Deni-174_fruittree-1,,Deni,174_fruittree,joha,joha,j o h a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,FRUIT.TREE,261,261
 Jamamadi-174_fruittree-1,,Jamamadi,174_fruittree,joha,joha/watama,j o h a,,dixon2004proto;dixon2004adjective,,,,,FRUIT.TREE,261,261
@@ -509,6 +552,7 @@ Jamamadi-194_hammock-1,,Jamamadi,194_hammock,jiɸo,jiɸo,j i ɸ o,,dixon2004prot
 Jarawara-194_hammock-1,,Jarawara,194_hammock,jiɸo,jiɸo,j i ɸ o,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,HAMMOCK,260,260
 Kulina-194_hammock-1,,Kulina,194_hammock,pʰoʔi,pʰoʔi,pʰ o ʔ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,HAMMOCK,260,260
 Sorowaha-194_hammock-1,,Sorowaha,194_hammock,howi,howi,h o w i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,HAMMOCK,260,260
+Katawishi-194_hammock-1,,Katawishi,194_hammock,itahi,itahi,i t a h i,,adelaar2007katawixi;tastevin1920notes,,,,,HAMMOCK,850,807
 Banawa-201_head-1,,Banawa,201_head,tati,tati,t a t i,,ladefoged1997phonetic,,,,,HEAD,44,44
 Deni-201_head-1,,Deni,201_head,tati,tati,t a t i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,HEAD,44,44
 Jamamadi-201_head-1,,Jamamadi,201_head,tati,tati,t a t i,,dixon2004proto;dixon2004adjective,,,,,HEAD,44,44
@@ -517,6 +561,8 @@ Kulina-201_head-1,,Kulina,201_head,tati,tati,t a t i,,dixon2004proto;monserrat19
 Paumari-201_head-1,,Paumari,201_head,ɗaɗi,ɗaɗi,ɗ a ɗ i,,dixon2004proto;chapman1998dicionario,,,,,HEAD,44,44
 Paumari-201_head-2,,Paumari,201_head,inakɨ / atɨ,atɨ,a t ɨ,,dixon2004proto;chapman1998dicionario,,,,,HEAD,44,44
 Paumari-201_head-3,,Paumari,201_head,inakɨ / atɨ,inakɨ,i n a k ɨ,,dixon2004proto;chapman1998dicionario,,,,,HEAD,814,770
+Katawishi-201_head-1,,Katawishi,201_head,tukae,tukae,k aːe,,adelaar2007katawixi;tastevin1920notes,,,,,HEAD,843,800
+Amarakaeri-201_head-1,,Amarakaeri,201_head,ku,ku,k u,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,HEAD,916,875
 Banawa-203_heart-1,,Banawa,203_heart,wakamari,wakamari,w a k a m a r i,,ladefoged1997phonetic,,,,,HEART,285,285
 Kulina-203_heart-1,,Kulina,203_heart,bonokʰoɾi,bonokʰoɾi,b o n o kʰ o ɾ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,HEART,521,510
 Sorowaha-203_heart-1,,Sorowaha,203_heart,gʲazubuni / gʲãzubuni,gʲazubuni,gʲ a z u b u n i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,HEART,1270,1270
@@ -641,6 +687,9 @@ Kulina-247_leaf-1,,Kulina,247_leaf,apʰa,apʰa,a pʰ a,,dixon2004proto;monserrat
 Paumari-247_leaf-1,,Paumari,247_leaf,aɸa,aɸa,a ɸ a,,dixon2004proto;chapman1998dicionario,,,,,LEAF,11,11
 Sorowaha-247_leaf-1,,Sorowaha,247_leaf,ahaba /ahɨ,ahaba,a h a b a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,LEAF,11,11
 Sorowaha-247_leaf-2,,Sorowaha,247_leaf,ahaba /ahɨ,ahɨ,a h ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,LEAF,11,11
+Amarakaeri-247_leaf-1,,Amarakaeri,247_leaf,mbaʔ,mbaʔ,m/b a ʔ,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,LEAF,897,855
+KatukinaBia-247_leaf-1,,KatukinaBia,247_leaf,ba,ba,b a,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,LEAF,897,855
+Kanamari-247_leaf-1,,Kanamari,247_leaf,ba,ba,b a,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,LEAF,897,855
 Banawa-253_letsgo-1,,Banawa,253_letsgo,homa,homa,h o m a,,ladefoged1997phonetic,,,,,LET'S.GO,345,345
 Deni-253_letsgo-1,,Deni,253_letsgo,hina,hina,h i n a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,LET'S.GO,345,345
 Jamamadi-253_letsgo-1,,Jamamadi,253_letsgo,hima,hima,h i m a,,dixon2004proto;dixon2004adjective,,,,,LET'S.GO,345,345
@@ -678,6 +727,7 @@ Kulina-160_fleshormeat-2,,Kulina,160_fleshormeat,ima / bani mɛkʰɛ,ima,i m a,,
 Paumari-160_fleshormeat-1,,Paumari,160_fleshormeat,ima,ima,i m a,,dixon2004proto;chapman1998dicionario,,,,,MEAT,250,250
 Sorowaha-160_fleshormeat-1,,Sorowaha,160_fleshormeat,ime /ɨmɨ,ime,i m e,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,MEAT,250,250
 Sorowaha-160_fleshormeat-2,,Sorowaha,160_fleshormeat,ime /ɨmɨ,ɨmɨ,ɨ m ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,MEAT,250,250
+Katawishi-160_fleshormeat-1,,Katawishi,160_fleshormeat,han,han,h a n,,adelaar2007katawixi;tastevin1920notes,,,,,MEAT,862,820
 Banawa-286_month-1,,Banawa,286_month,abariko,abariko,a b a r i k o,,ladefoged1997phonetic,,,,,MOON,203,203
 Deni-286_month-1,,Deni,286_month,abajiko,abajiko,a b a j i k o,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,MOON,203,203
 Jamamadi-286_month-1,,Jamamadi,286_month,abariko,abariko,a b a r i k o,,dixon2004proto;dixon2004adjective,,,,,MOON,203,203
@@ -692,6 +742,10 @@ Paumari-291_mother-1,,Paumari,291_mother,mia,mia,m i a,,dixon2004proto;chapman19
 Sorowaha-291_mother-1,,Sorowaha,291_mother,amiji / amadɪni,amiji,a m i j i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,MOTHER,6,6
 Sorowaha-291_mother-2,,Sorowaha,291_mother,amiji / amadini,amadini,a m a d i n i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,MOTHER,6,6
 Arawa-291_mother-1,,Arawa,291_mother,ami,ami,a m i,,ehrenreich1897materialien,,,,,MOTHER,6,6
+Katawishi-291_mother-1,,Katawishi,291_mother,jamai,jamai,j a m aː i,,adelaar2007katawixi;tastevin1920notes,,,,,MOTHER,6,6
+Amarakaeri-291_mother-1,,Amarakaeri,291_mother,nãŋ,nãŋ,n ã ŋ,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,MOTHER,849,806
+Kanamari-291_mother-1,,Kanamari,291_mother,ɲama,ɲama,ɲ a m a,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,MOTHER,6,6
+KatukinaBia-291_mother-1,,KatukinaBia,291_mother,naju,naju,n a j u,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,MOTHER,6,6
 Banawa-296_mudhole-1,,Banawa,296_mudhole,ata,ata,a t a,,ladefoged1997phonetic,,,,,MUD.HOLE,349,349
 Deni-296_mudhole-1,,Deni,296_mudhole,ata,ata,a t a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,MUD.HOLE,349,349
 Jamamadi-296_mudhole-1,,Jamamadi,296_mudhole,ata,ata,a t a,,dixon2004proto;dixon2004adjective,,,,,MUD.HOLE,349,349
@@ -799,6 +853,8 @@ Sorowaha-347_pineapple-1,,Sorowaha,347_pineapple,tsami / aɾaguna,tsami,ts a m i
 Kulina-347_pineapple-1,,Kulina,347_pineapple,nana / tsʰami,tsʰami,tsʰ a m i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,PINEAPPLE,351,351
 Kulina-347_pineapple-2,,Kulina,347_pineapple,nana / tsʰami,nana,n a n a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,PINEAPPLE,524,513
 Sorowaha-347_pineapple-2,,Sorowaha,347_pineapple,tsami / aɾaguna,aɾaguna,a ɾ a g u n a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,PINEAPPLE,673,625
+KatukinaBia-347_pineapple-1,,KatukinaBia,347_pineapple,wakak,wakak,w a k a k,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,PINEAPPLE,944,903
+Kanamari-347_pineapple-1,,Kanamari,347_pineapple,wakak,wakak,w a k a k,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,PINEAPPLE,944,903
 Banawa-355_porcupine-1,,Banawa,355_porcupine,misa,misa,m i s a,,ladefoged1997phonetic,,,,,PORCUPINE,292,292
 Deni-355_porcupine-1,,Deni,355_porcupine,mitsʰe,mitsʰe,m i tsʰ e,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,PORCUPINE,292,292
 Jamamadi-355_porcupine-1,,Jamamadi,355_porcupine,misa,misa,m i s a,,dixon2004proto;dixon2004adjective,,,,,PORCUPINE,292,292
@@ -840,6 +896,7 @@ Kulina-388_sand-1,,Kulina,388_sand,tsʰiki wɛtsʰɛ / tsʰiki,tsʰiki wɛtsʰɛ
 Kulina-388_sand-2,,Kulina,388_sand,tsʰiki wɛtsʰɛ / tsʰiki,tsʰiki,tsʰ i k i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,SAND,266,266
 Paumari-388_sand-1,,Paumari,388_sand,kaasi,kaasi,k aː s i,,dixon2004proto;chapman1998dicionario,,,,,SAND,527,516
 Sorowaha-388_sand-1,,Sorowaha,388_sand,asidʒu,asidʒu,a s i dʒ u,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,SAND,527,516
+Katawishi-388_sand-1,,Katawishi,388_sand,tikihi,tikihi,t i k i h i,,adelaar2007katawixi;tastevin1920notes,,,,,SAND,266,266
 Banawa-405_shellfish-1,,Banawa,405_shellfish,taro,taro,t a r o,,ladefoged1997phonetic,,,,,SHELLFISH,376,361
 Deni-405_shellfish-1,,Deni,405_shellfish,taro,taro,t a r o,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,SHELLFISH,376,361
 Jarawara-405_shellfish-1,,Jarawara,405_shellfish,taro,taro,t a r o,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,SHELLFISH,376,361
@@ -884,6 +941,7 @@ Kulina-431_snake-2,,Kulina,431_snake,joni,joni,j o n i,,dixon2004proto;monserrat
 Paumari-431_snake-1,,Paumari,431_snake,makha,makha,m a kʰ a,,dixon2004proto;chapman1998dicionario,,,,,SNAKE,288,288
 Paumari-431_snake-2,,Paumari,431_snake,jonirara,jonirara,j o n i + r a r a,,dixon2004proto;chapman1998dicionario,,,,,SNAKE.SP. ?,92,92 411
 Sorowaha-431_snake-1,,Sorowaha,431_snake,kuwiɾi,kuwiɾi,k u w i ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,SNAKE,698,641
+Katawishi-431_snake-1,,Katawishi,431_snake,pag,pag,p a g,,adelaar2007katawixi;tastevin1920notes,,,,,SNAKE,288,288
 Banawa-433_socoheron-1,,Banawa,433_socoheron,maha,maha,m a h a,,ladefoged1997phonetic,,,,,SOCÓ.HERON,692,692
 Jamamadi-433_socoheron-1,,Jamamadi,433_socoheron,maha,maha,m a h a,,dixon2004proto;dixon2004adjective,,,,,SOCÓ.HERON,692,692
 Jarawara-433_socoheron-1,,Jarawara,433_socoheron,maha,maha,m a h a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,SOCÓ.HERON,692,692
@@ -907,6 +965,7 @@ Jarawara-454_stingray-1,,Jarawara,454_stingray,bote,bote,b o t e,,dixon2004proto
 Kulina-454_stingray-1,,Kulina,454_stingray,botani,botani,b o t a n i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,STINGRAY,225,225
 Paumari-454_stingray-1,,Paumari,454_stingray,boɗani,boɗani,b o ɗ a n i,,dixon2004proto;chapman1998dicionario,,,,,STINGRAY,225,225
 Sorowaha-454_stingray-1,,Sorowaha,454_stingray,miʃʲa,miʃʲa,m i ʃʲ a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,STINGRAY,530,520
+Katawishi-454_stingray-1,,Katawishi,454_stingray,mitsa,mitsa,m i t s a,,adelaar2007katawixi;tastevin1920notes,,,,,STINGRAY,530,520
 Banawa-266_lubricate-1,,Banawa,266_lubricate,kete,kete,k e t e,,ladefoged1997phonetic,,,,,LUBRICATE,1281,1281
 Jarawara-266_lubricate-1,,Jarawara,266_lubricate,kete,kete,k e t e,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,LUBRICATE,1281,1281
 Banawa-411_sick-1,,Banawa,411_sick,kija,kija,k i j a,,ladefoged1997phonetic,,,,,BE.ILL,1212,1212
@@ -992,26 +1051,6 @@ Jamamadi-106_cry-1,,Jamamadi,106_cry,ohi,ohi,o h i,,dixon2004proto;dixon2004adje
 Jarawara-106_cry-1,,Jarawara,106_cry,ohi,ohi,o h i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,CRY,304,304
 Kulina-106_cry-1,,Kulina,106_cry,ohi,ohi,o h i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,CRY,304,304
 Sorowaha-106_cry-1,,Sorowaha,106_cry,azana,azana,a z a n a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CRY,754,717
-Banawa-108_cut-1,,Banawa,108_cut,kaa / wisi,kaa,k aː,,ladefoged1997phonetic,,,,,CUT,265,265
-Deni-108_cut-1,,Deni,108_cut,ka / witsʰi,ka,k a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,CUT,265,265
-Jamamadi-108_cut-1,,Jamamadi,108_cut,kaa / wisi,kaa,k aː,,dixon2004proto;dixon2004adjective,,,,,CUT,265,265
-Jarawara-108_cut-1,,Jarawara,108_cut,kaa / wisi,kaa,k aː,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,CUT,265,265
-Kulina-108_cut-1,,Kulina,108_cut,ka / witsʰi / wishi,ka,k a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,CUT,265,265
-Kulina-108_cut-2,,Kulina,108_cut,ka / witsʰi / wishi,witsʰi,w i tsʰ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,CUT,206,206
-Sorowaha-108_cut-1,,Sorowaha,108_cut,tija / wisi / wisikijaɾi,tija,t i j a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CUT,186,186
-Kulina-108_cut-3,,Kulina,108_cut,ti,ti,t i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,CUT,186,186
-Paumari-108_cut-1,,Paumari,108_cut,sii,sii,s iː,,dixon2004proto;chapman1998dicionario,,,,,CUT,206,206
-Kulina-108_cut-4,,Kulina,108_cut,ka / witsʰi / wishi,wishi,w i s h i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,CUT,206,206
-Deni-108_cut-2,,Deni,108_cut,ka / witsʰi,witsʰi,w i tsʰ i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,CUT,206,206
-Jarawara-108_cut-2,,Jarawara,108_cut,kaa / wisi,wisi,w i s i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,CUT,206,206
-Banawa-108_cut-2,,Banawa,108_cut,kaa / wisi,wisi,w i s i,,ladefoged1997phonetic,,,,,CUT,206,206
-Jamamadi-108_cut-2,,Jamamadi,108_cut,kaa / wisi,wisi,w i s i,,dixon2004proto;dixon2004adjective,,,,,CUT,206,206
-Sorowaha-108_cut-2,,Sorowaha,108_cut,tija / wisi / wisikijaɾi,wisi,w i s i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CUT,206,206
-Banawa-108_cut-3,,Banawa,108_cut,tii,tii,t i i,,ladefoged1997phonetic,,,,,CUT,186,186
-Deni-108_cut-3,,Deni,108_cut,tiri,tiri,t i r i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,CUT,186,186
-Jamamadi-108_cut-3,,Jamamadi,108_cut,tii,tii,t i i,,dixon2004proto;dixon2004adjective,,,,,CUT,186,186
-Jarawara-108_cut-3,,Jarawara,108_cut,tii,tii,t i i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,CUT,186,186
-Sorowaha-108_cut-3,,Sorowaha,108_cut,tija / wisi / wisikijaɾi,wisikijaɾi,w i s i k i j a ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CUT,206,206
 Banawa-115_dig-1,,Banawa,115_dig,wii,wii,w i i,,ladefoged1997phonetic,,,,,DIG,1133,1133
 Deni-115_dig-1,,Deni,115_dig,wi,wi,w i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,DIG,1133,1133
 Jamamadi-115_dig-1,,Jamamadi,115_dig,wii,wii,w i i,,dixon2004proto;dixon2004adjective,,,,,DIG,1133,1133
@@ -1023,6 +1062,7 @@ Jamamadi-122_drink-1,,Jamamadi,122_drink,ɸawa,ɸawa,ɸ a w a,,dixon2004proto;di
 Kulina-122_drink-1,,Kulina,122_drink,dzɛ,dzɛ,dz ɛ,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,DRINK,533,523
 Paumari-122_drink-1,,Paumari,122_drink,ʔaβi,ʔaβi,ʔ a β i,,dixon2004proto;chapman1998dicionario,,,,,DRINK,534,524
 Sorowaha-122_drink-1,,Sorowaha,122_drink,hawɨ,hawɨ,h a w ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,DRINK,534,524
+Amarakaeri-122_drink-1,,Amarakaeri,122_drink,maj,maj,m a j,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,DRINK,925,884
 Banawa-181_go-1,,Banawa,181_go,ka,ka,k a,,ladefoged1997phonetic,,,,,GO,236,236
 Deni-181_go-1,,Deni,181_go,kha / wahi,kha,kʰ a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,GO,236,236
 Deni-181_go-2,,Deni,181_go,kha / wahi,wahi,w a h i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,GO,236,236
@@ -1032,6 +1072,7 @@ Kulina-181_go-1,,Kulina,181_go,kʰani,kʰani,kʰ a n i,,dixon2004proto;monserrat
 Paumari-181_go-1,,Paumari,181_go,aβa / kha,aβa,a β a,,dixon2004proto;chapman1998dicionario,,,,,GO,535,525
 Paumari-181_go-2,,Paumari,181_go,aβa / kha,kha,kʰ a,,dixon2004proto;chapman1998dicionario,,,,,GO,236,236
 Sorowaha-181_go-1,,Sorowaha,181_go,gawa,gawa,g a w a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,GO,535,525
+Amarakaeri-181_go-1,,Amarakaeri,181_go,waʔ,waʔ,w a ʔ,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,GO,236,236
 Banawa-202_hear-1,,Banawa,202_hear,mita,mita,m i t a,,ladefoged1997phonetic,,,,,HEAR,293,293
 Deni-202_hear-1,,Deni,202_hear,mitha,mitha,m i t h a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,HEAR,293,293
 Jamamadi-202_hear-1,,Jamamadi,202_hear,mita,mita,m i t a,,dixon2004proto;dixon2004adjective,,,,,HEAR,293,293
@@ -1089,6 +1130,7 @@ Jamamadi-398_see-2,,Jamamadi,398_see,kii / awa,awa,a w a,,dixon2004proto;dixon20
 Jarawara-398_see-1,,Jarawara,398_see,kii / awa,awa,a w a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,SEE,540,531
 Jarawara-398_see-2,,Jarawara,398_see,kii / awa,kii,k iː,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,SEE,281,281
 Kulina-398_see-1,,Kulina,398_see,kʰi,kʰi,kʰ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,SEE,281,281
+Amarakaeri-398_see-1,,Amarakaeri,398_see,tiawaj,tiawaj,t ia w a j,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,SEE,903,861
 Banawa-409_show-1,,Banawa,409_show,joɸi / namo,joɸi,j o ɸ i,,ladefoged1997phonetic,,,,,SHOW,299,299
 Banawa-409_show-2,,Banawa,409_show,joɸi / namo,namo,n a m o,,ladefoged1997phonetic,,,,,SHOW,542,533
 Deni-409_show-1,,Deni,409_show,jopi,jopi,j o p i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,SHOW,299,299
@@ -1143,6 +1185,9 @@ Kulina-506_tree-1,,Kulina,506_tree,awa,awa,a w a,,dixon2004proto;monserrat1986gr
 Paumari-506_tree-1,,Paumari,506_tree,aβa,aβa,a β a,,dixon2004proto;chapman1998dicionario,,,,,TREE,546,537
 Sorowaha-506_tree-1,,Sorowaha,506_tree,aga / wakana,aga,a g a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,TREE,546,537
 Sorowaha-506_tree-2,,Sorowaha,506_tree,aga / wakana,wakana,w a k a n a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,TREE,4,4
+Katawishi-506_tree-1,,Katawishi,506_tree,hihi,hihi,h i h i,,adelaar2007katawixi;tastevin1920notes,,,,,TREE,871,829
+Amarakaeri-506_tree-1,,Amarakaeri,506_tree,wẽj̃,wẽj̃,w ẽ j̃,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,TREE,923,882
+Banawa-506_tree-2,,Banawa,506_tree,awa,awa,a w a,,ladefoged1997phonetic,,,,,TREE,546,537
 Banawa-518_unfasten-1,,Banawa,518_unfasten,disa,disa,d i s a,,ladefoged1997phonetic,,,,,UNFASTEN,778,778
 Deni-518_unfasten-1,,Deni,518_unfasten,ditsʰa,ditsʰa,d i tsʰ a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,UNFASTEN,778,778
 Jamamadi-518_unfasten-1,,Jamamadi,518_unfasten,disa,disa,d i s a,,dixon2004proto;dixon2004adjective,,,,,UNFASTEN,778,778
@@ -1197,7 +1242,7 @@ Banawa-285_monkey-1,,Banawa,285_monkey,waɸa,waɸa,w a ɸ a,,ladefoged1997phonet
 Jamamadi-285_monkey-1,,Jamamadi,285_monkey,waɸa,waɸa,w a ɸ a,,dixon2004proto;dixon2004adjective,,,,,WOOLLY.MONKEY,1223,1223
 Jarawara-285_monkey-1,,Jarawara,285_monkey,waɸa,waɸa,w a ɸ a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,WOOLLY.MONKEY,1223,1223
 Kulina-285_monkey-1,,Kulina,285_monkey,wapʰa,wapʰa,w a pʰ a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,WOOLLY.MONKEY,1223,1223
-Sorowaha-285_monkey-1,,Sorowaha,285_monkey,gaha,gaha,g a h a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,WOOLLY.MONKEY,548,539
+Sorowaha-285_monkey-1,,Sorowaha,285_monkey,gaha,gaha,g a h a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,WOOLLY.MONKEY,1223,1223
 Sorowaha-285_monkey-2,,Sorowaha,285_monkey,kanʲa,kanʲa,k a nʲ a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,MONKEY,435,418
 Banawa-559_yawn-1,,Banawa,559_yawn,awa,awa,a w a,,ladefoged1997phonetic,,,,,YAWN,671,671
 Deni-559_yawn-1,,Deni,559_yawn,awa,awa,a w a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,YAWN,671,671
@@ -1215,6 +1260,8 @@ Jamamadi-98_cooksomething-1,,Jamamadi,98_cooksomething,kaha,kaha,k a h a,,dixon2
 Jarawara-98_cooksomething-1,,Jarawara,98_cooksomething,kaha,kaha,k a h a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,COOK,367,1117
 Kulina-98_cooksomething-1,,Kulina,98_cooksomething,kaaɾi,kaaɾi,k aː ɾ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,COOK,549,540
 Paumari-98_cooksomething-1,,Paumari,98_cooksomething,kai,kai,k a i,,dixon2004proto;chapman1998dicionario,,,,,COOK,549,540
+Amarakaeri-98_cooksomething-1,,Amarakaeri,98_cooksomething,wẽj̃ã,wẽj̃ã,w ẽ j̃ ã,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,COOK,908,868
+Sorowaha-98_cooksomething-1,,Sorowaha,98_cooksomething,bɨha,bɨha,b ɨ h a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,COOK,909,869
 Banawa-244_larva-1,,Banawa,244_larva,moho,moho,m o h o,,ladefoged1997phonetic,,,,,MAGGOT,691,691
 Deni-244_larva-1,,Deni,244_larva,moho,moho,m o h o,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,MAGGOT,691,691
 Deni-244_larva-2,,Deni,244_larva,wakari,wakari,w a k a r i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,unknown16,626,700
@@ -1304,6 +1351,8 @@ Jarawara-502_tooth-1,,Jarawara,502_tooth,ini,ini,i n i,,dixon2004proto;dixon1995
 Kulina-502_tooth-1,,Kulina,502_tooth,ino,ino,i n o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,TOOTH,74,74
 Paumari-502_tooth-1,,Paumari,502_tooth,ino,ino,i n o,,dixon2004proto;chapman1998dicionario,,,,,TOOTH,74,74
 Sorowaha-502_tooth-1,,Sorowaha,502_tooth,zuumɨ,zuumɨ,z uː m ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,TOOTH,552,543
+Katawishi-502_tooth-1,,Katawishi,502_tooth,hihi,hihi,h i h i,,adelaar2007katawixi;tastevin1920notes,,,,,TOOTH,844,801
+Amarakaeri-502_tooth-1,,Amarakaeri,502_tooth,ʔidn,ʔidn,ʔ i d n,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,TOOTH,911,871
 Banawa-402_shamanfolkhealer-1,,Banawa,402_shamanfolkhealer,inawa,inawa,i n a w a,,ladefoged1997phonetic,,,,,SHAMAN,75,75
 Jamamadi-402_shamanfolkhealer-1,,Jamamadi,402_shamanfolkhealer,inawa,inawa,i n a w a,,dixon2004proto;dixon2004adjective,,,,,SHAMAN,75,75
 Jarawara-402_shamanfolkhealer-1,,Jarawara,402_shamanfolkhealer,inawa,inawa,i n a w a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,SHAMAN,75,75
@@ -1337,6 +1386,8 @@ Jarawara-456_stone-1,,Jarawara,456_stone,jati,jati,j a t i,,dixon2004proto;dixon
 Kulina-456_stone-1,,Kulina,456_stone,tsiba,tsiba,ts i b a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,STONE,554,546
 Paumari-456_stone-1,,Paumari,456_stone,jaɗi,jaɗi,j a ɗ i,,dixon2004proto;chapman1998dicionario,,,,,STONE,80,80
 Sorowaha-456_stone-1,,Sorowaha,456_stone,zasi,zasi,z a s i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,STONE,723,665
+Katawishi-456_stone-1,,Katawishi,456_stone,kareruhã,kareruhã,k a r e h u h ã,,adelaar2007katawixi;tastevin1920notes,,,,,STONE,856,813
+Amarakaeri-456_stone-1,,Amarakaeri,456_stone,widn,widn,w i d n,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,STONE,917,876
 Banawa-420_sloth-1,,Banawa,420_sloth,jao,jao,j a o,,ladefoged1997phonetic,,,,,SLOTH.SP.,82,82
 Deni-420_sloth-1,,Deni,420_sloth,jaʔo,jaʔo,j a ʔ o,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,SLOTH.SP.,82,82
 Jamamadi-420_sloth-1,,Jamamadi,420_sloth,jao,jao,j a o,,dixon2004proto;dixon2004adjective,,,,,SLOTH.SP.,82,82
@@ -1526,6 +1577,7 @@ Banawa-29_bat-1,,Banawa,29_bat,mesebiri,mesebiri,m e s e + b i r i,,ladefoged199
 Jamamadi-29_bat-1,,Jamamadi,29_bat,masi,masi,m a s i,,dixon2004proto;dixon2004adjective,,,,,BAT,130,130
 Jarawara-29_bat-1,,Jarawara,29_bat,masebiri,masebiri,m a s e + b i r i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,BAT SMALL,130,130 220
 Paumari-29_bat-1,,Paumari,29_bat,masi,masi,m a s i,,dixon2004proto;chapman1998dicionario,,,,,BAT,130,130
+Katawishi-29_bat-1,,Katawishi,29_bat,murihi,murihi,m u r i,,adelaar2007katawixi;tastevin1920notes,,,,,BAT,868,826
 Banawa-476_termite-1,,Banawa,476_termite,mototo,mototo,m o t o t o,,ladefoged1997phonetic,,,,,TERMITE,135,135
 Jamamadi-476_termite-1,,Jamamadi,476_termite,mototo,mototo,m o t o t o,,dixon2004proto;dixon2004adjective,,,,,TERMITE,135,135
 Jarawara-476_termite-1,,Jarawara,476_termite,mototo,mototo,m o t o t o,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,TERMITE,135,135
@@ -1552,8 +1604,9 @@ Jamamadi-45_big-1,,Jamamadi,45_big,naɸi,naɸi,n a ɸ i,,dixon2004proto;dixon200
 Jarawara-45_big-1,,Jarawara,45_big,naɸi,naɸi,n a ɸ i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,BIG,138,138
 Kulina-45_big-1,,Kulina,45_big,imɛi / napi,imɛi,i m ɛ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,BIG,391,371
 Kulina-45_big-2,,Kulina,45_big,imɛi / napi,napi,n a p i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,BIG,138,138
-Paumari-45_big-1,,Paumari,45_big,naɓaha,naɓaha,n a ɓ a h a,,dixon2004proto;chapman1998dicionario,,,,,BIG,337,337
-Sorowaha-45_big-1,,Sorowaha,45_big,nahi,nahi,n a h i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,BIG,337,337
+Paumari-45_big-1,,Paumari,45_big,naɓaha,naɓaha,n a ɓ a h a,,dixon2004proto;chapman1998dicionario,,,,,BIG,138,138
+Sorowaha-45_big-1,,Sorowaha,45_big,nahi,nahi,n a h i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,BIG,138,138
+Amarakaeri-45_big-1,,Amarakaeri,45_big,mboroʔ,mboroʔ,m/b o r o ʔ,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,BIG,913,873
 Banawa-517_underside-1,,Banawa,517_underside,boɸe,boɸe,b o ɸ e,,ladefoged1997phonetic,,,,,UNDERSIED,140,140
 Deni-517_underside-1,,Deni,517_underside,bopa,bopa,b o p a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,UNDERSIED,140,140
 Jamamadi-517_underside-1,,Jamamadi,517_underside,boɸe,boɸe,b o ɸ e,,dixon2004proto;dixon2004adjective,,,,,UNDERSIED,140,140
@@ -1595,11 +1648,13 @@ Banawa-78_carafish-1,,Banawa,78_carafish,ote,ote,o t e,,ladefoged1997phonetic,,,
 Deni-78_carafish-1,,Deni,78_carafish,otawi,otawi,o t a w i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,CARÁ.(FISH.SP.),149,149
 Jamamadi-78_carafish-1,,Jamamadi,78_carafish,ote,ote,o t e,,dixon2004proto;dixon2004adjective,,,,,CARÁ.(FISH.SP.),149,149
 Jarawara-78_carafish-1,,Jarawara,78_carafish,ote,ote,o t e,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,CARÁ.(FISH.SP.),149,149
-Banawa-550_wife-1,,Banawa,550_wife,ɸadi,fadi,ɸ o w a,,ladefoged1997phonetic,,,,,(HIS).WIFE,154,154
-Deni-550_wife-1,,Deni,550_wife,panadi,panadi,p a n a d i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,(HIS).WIFE,154,154
-Jamamadi-550_wife-1,,Jamamadi,550_wife,ɸadi,ɸadi,ɸ a d i,,dixon2004proto;dixon2004adjective,,,,,(HIS).WIFE,154,154
-Jarawara-550_wife-1,,Jarawara,550_wife,ɸati,ɸati,ɸ a t i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,(HIS).WIFE,154,154
+Banawa-550_wife-1,,Banawa,550_wife,ɸadi,fadi,ɸ o w a,,ladefoged1997phonetic,,,,,WIFE,154,154
+Deni-550_wife-1,,Deni,550_wife,panadi,panadi,p a n a d i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,WIFE,154,154
+Jamamadi-550_wife-1,,Jamamadi,550_wife,ɸadi,ɸadi,ɸ a d i,,dixon2004proto;dixon2004adjective,,,,,WIFE,154,154
+Jarawara-550_wife-1,,Jarawara,550_wife,ɸati,ɸati,ɸ a t i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,WIFE,154,154
 Sorowaha-550_wife-1,,Sorowaha,550_wife,hazawa,hazawa,h a z a w a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,WIFE,612,595
+Kanamari-550_wife-1,,Kanamari,550_wife,ubatʃawa,ubatʃawa,u b a tʃ a w a,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,WIFE,612,595
+KatukinaBia-550_wife-1,,KatukinaBia,550_wife,uwamok,uwamok,u w a m o k,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,WIFE,612,595
 Banawa-555_woman-1,,Banawa,555_woman,ɸana,ɸana,ɸ a n a,,ladefoged1997phonetic,,,,,WOMAN,155,154
 Deni-555_woman-1,,Deni,555_woman,amunehe / dzuvatu,amunehe,a m u n e h e,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,WOMAN,401,1006
 Deni-555_woman-2,,Deni,555_woman,amunehe / dzuvatu,dzuvatu,d z u v a t u,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,WOMAN,402,380
@@ -1608,6 +1663,7 @@ Jarawara-555_woman-1,,Jarawara,555_woman,ɸana,ɸana,ɸ a n a,,dixon2004proto;di
 Kulina-555_woman-1,,Kulina,555_woman,amonɛhɛ,amonɛhɛ,a m o n ɛ h ɛ,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,WOMAN,401,1006
 Sorowaha-555_woman-1,,Sorowaha,555_woman,hadʒini,hadʒini,h a dʒ i n i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,WOMAN,403,381
 Arawa-555_woman-1,,Arawa,555_woman,waidawa,waidawa,w ai d a w a,,ehrenreich1897materialien,,,,,WOMAN,841,798
+Amarakaeri-555_woman-1,,Amarakaeri,555_woman,wettone,wettone,w e t t o n e,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,WOMAN,901,859
 Banawa-51_bittermanioc-1,,Banawa,51_bittermanioc,ɸowa,ɸowa,ɸ o w a,,ladefoged1997phonetic,,,,,BITTER.MANIOC,156,156
 Deni-51_bittermanioc-1,,Deni,51_bittermanioc,poʔo,poʔo,p o ʔ o,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,BITTER.MANIOC,156,156
 Jamamadi-51_bittermanioc-1,,Jamamadi,51_bittermanioc,ɸowa,ɸowa,ɸ o w a,,dixon2004proto;dixon2004adjective,,,,,BITTER.MANIOC,156,156
@@ -1643,6 +1699,7 @@ Deni-338_peel-3,,Deni,338_peel,tero / ʃa / sa,sa,s a,,dixon2004proto;carvalho20
 Jarawara-338_peel-1,,Jarawara,338_peel,saa,saa,s aː,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,PEEL,166,166
 Kulina-338_peel-1,,Kulina,338_peel,ʃa,ʃa,ʃ a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,PEEL,166,166
 Paumari-338_peel-1,,Paumari,338_peel,ɗaro,ɗaro,ɗ a r o,,dixon2004proto;chapman1998dicionario,,,,,PEEL,49,49
+Amarakaeri-338_peel-1,,Amarakaeri,338_peel,siʔ,siʔ,s i ʔ,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,PEEL,924,883
 Banawa-316_otter-1,,Banawa,316_otter,sabira,sabira,s a b i r a,,ladefoged1997phonetic,,,,,OTTER,167,167
 Deni-316_otter-1,,Deni,316_otter,tsʰabira,tsʰabira,tsʰ a b i r a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,OTTER,167,167
 Jamamadi-316_otter-1,,Jamamadi,316_otter,sabira,sabira,s a b i r a,,dixon2004proto;dixon2004adjective,,,,,OTTER,167,167
@@ -1692,6 +1749,10 @@ Jarawara-144_fasten-1,,Jarawara,144_fasten,soki,soki,s o k i,,dixon2004proto;dix
 Kulina-144_fasten-1,,Kulina,144_fasten,tsʰokɛ,tsʰokɛ,tsʰ o k ɛ,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,FASTEN,177,177
 Deni-17_arm-1,,Deni,17_arm,bihi,bihi,b i h i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,ARM,322,322
 Kulina-17_arm-1,,Kulina,17_arm,bihi,bihi,b i h i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,ARM,322,322
+Katawishi-17_arm-1,,Katawishi,17_arm,upa / upahe,upa,u p a,,adelaar2007katawixi;tastevin1920notes,,,,,ARM,861,818
+Katawishi-17_arm-2,,Katawishi,17_arm,upa / upahe,upahe,u p a + h e,,adelaar2007katawixi;tastevin1920notes,,,,,ARM ?,861,818 819
+Kanamari-17_arm-1,,Kanamari,17_arm,paŋ,paŋ,p a ŋ,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,ARM,940,899
+KatukinaBia-17_arm-1,,KatukinaBia,17_arm,paŋ,paŋ,p a ŋ,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,ARM,940,899
 Deni-24_bacuri-1,,Deni,24_bacuri,boti,boti,b o t i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,BACURI,29,29
 Paumari-24_bacuri-1,,Paumari,24_bacuri,bodi,bodi,b o d i,,dixon2004proto;chapman1998dicionario,,,,,BACURI,29,29
 Deni-25_bad-1,,Deni,25_bad,hirade,hirade,h i r a d e,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,BAD,324,324
@@ -1728,6 +1789,7 @@ Sorowaha-52_black-1,,Sorowaha,52_black,asa,asa,a s a,,dixon2004proto;suzuki2000o
 Paumari-52_black-1,,Paumari,52_black,bara,bara,b a r a,,dixon2004proto;chapman1998dicionario,,,,,BLACK,769,732
 Jarawara-52_black-1,,Jarawara,52_black,soki / hahasa na,hahasa na,h a h a s a + n a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,? CAUSATIVE,771,735 734
 Jarawara-52_black-2,,Jarawara,52_black,soki / hahasa na,soki,s o k i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,BLACK,770,733
+Amarakaeri-52_black-1,,Amarakaeri,52_black,sik,sik,s k,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,BLACK,934,894
 Deni-100_corpse-1,,Deni,100_corpse,abapo,abapo,a b a p o,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,CORPSE,574,561
 Deni-101_correctright-1,,Deni,101_correctright,naniarini,naniarini,n a n i a r i n i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,CORRECT,575,562
 Deni-111_daynotnight-1,,Deni,111_daynotnight,vada,vada,v a d a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,DAY,576,563
@@ -1759,7 +1821,7 @@ Jarawara-172_frog-1,,Jarawara,172_frog,jowi,jowi,j o w i,,dixon2004proto;dixon19
 Kulina-172_frog-1,,Kulina,172_frog,japʰaʔi,japʰaʔi,j a pʰ a ʔ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,FROG.SP.,84,84
 Sorowaha-172_frog-1,,Sorowaha,172_frog,buwabuwa,buwabuwa,b u w a b u w a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,FROG,581,568
 Sorowaha-172_frog-2,,Sorowaha,172_frog,jahowa,jahowa,j a h o w a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,FROG.SP.,84,84
-Deni-173_fruit-1,,Deni,173_fruit,bono,bono,b o n o,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,FRUIT,34,34
+Deni-173_fruit-1,,Deni,173_fruit,bunu,bunu,b u n u,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,FRUIT,34,34
 Jarawara-173_fruit-1,,Jarawara,173_fruit,mawa,mawa,m a w a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,FLOWER,1262,136
 Kulina-173_fruit-1,,Kulina,173_fruit,bono,bono,b o n o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,FRUIT,34,34
 Paumari-173_fruit-1,,Paumari,173_fruit,bono,bono,b o n o,,dixon2004proto;chapman1998dicionario,,,,,FRUIT,34,34
@@ -1796,6 +1858,7 @@ Jamamadi-298_name-1,,Jamamadi,298_name,oni,oni,o n i,,dixon2004proto;dixon2004ad
 Jarawara-298_name-1,,Jarawara,298_name,ini,ini,i n i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,NAME,309,309
 Kulina-298_name-1,,Kulina,298_name,oni,oni,o n i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,NAME,309,309
 Paumari-298_name-1,,Paumari,298_name,oni,oni,o n i,,dixon2004proto;chapman1998dicionario,,,,,NAME,309,309
+Amarakaeri-298_name-1,,Amarakaeri,298_name,ndik,ndik,n/d i k,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,NAME,898,856
 Deni-306_night-1,,Deni,306_night,dzume,dzume,dz u m e,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,NIGHT,589,575
 Jarawara-306_night-1,,Jarawara,306_night,jama,jama,j a m a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,NIGHT,589,575
 Paumari-306_night-1,,Paumari,306_night,dʒoma,dʒoma,dʒ o m a,,dixon2004proto;chapman1998dicionario,,,,,NIGHT,589,575
@@ -1804,6 +1867,8 @@ Deni-308_nose-1,,Deni,308_nose,ene,ene,e n e,,dixon2004proto;carvalho2013analise
 Kulina-308_nose-1,,Kulina,308_nose,ɛnɛ,ɛnɛ,ɛ n ɛ,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,NOSE,1112,1112
 Paumari-308_nose-1,,Paumari,308_nose,βiridi,βiridi,β i r i d i,,dixon2004proto;chapman1998dicionario,,,,,NOSE,590,576
 Jarawara-308_nose-1,,Jarawara,308_nose,witi,witi,w i t i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,NOSE,588,574
+Kanamari-308_nose-1,,Kanamari,308_nose,upak,upak,u p a k,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,NOSE,943,902
+KatukinaBia-308_nose-1,,KatukinaBia,308_nose,upak,upak,u p a k,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,NOSE,943,902
 Deni-327_passionfruit-1,,Deni,327_passionfruit,sanaro,sanaro,s a n a r o,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,PASSION.FRUIT,1222,1222
 Jamamadi-327_passionfruit-1,,Jamamadi,327_passionfruit,sanaro,sanaro,s a n a r o,,dixon2004proto;dixon2004adjective,,,,,PASSION.FRUIT,1222,1222
 Sorowaha-327_passionfruit-1,,Sorowaha,327_passionfruit,sanaɾo / sanaɾu,sanaɾo,s a n a ɾ o,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,PASSION.FRUIT,1222,1222
@@ -1818,6 +1883,7 @@ Jarawara-344_piece-1,,Jarawara,344_piece,ibisiri,ibisiri,i b i s i r i,,dixon200
 Kulina-344_piece-1,,Kulina,344_piece,bobi,bobi,b o b i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,PIECE,27,27
 Paumari-344_piece-1,,Paumari,344_piece,bobi,bobi,b o b i,,dixon2004proto;chapman1998dicionario,,,,,PIECE,27,27
 Sorowaha-344_piece-1,,Sorowaha,344_piece,ibisini,ibisini,i b i s i n i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,PIECE,69,69
+Banawa-344_piece-1,,Banawa,344_piece,kotee,kotee,k o t ee,,ladefoged1997phonetic,,,,,PIECE,952,910
 Deni-120_dove-1,,Deni,120_dove,okoko,okoko,o k o k o,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,PIGEON,306,306
 Deni-120_dove-2,,Deni,120_dove,kamowa,kamowa,k a m o w a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,DOVE.SP.,98,98
 Jamamadi-120_dove-1,,Jamamadi,120_dove,okoko,okoko,o k o k o,,dixon2004proto;dixon2004adjective,,,,,PIGEON,307,307
@@ -1848,10 +1914,11 @@ Jarawara-372_red-2,,Jarawara,372_red,mawa,mawa,m a w a,,dixon2004proto;dixon1995
 Deni-373_resin-1,,Deni,373_resin,moja,moja,m o j a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,RESIN,295,295
 Kulina-373_resin-1,,Kulina,373_resin,moja,moja,m o j a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,RESIN,295,295
 Sorowaha-373_resin-1,,Sorowaha,373_resin,moja,moja,m o j a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,RESIN,295,295
-Deni-375_river-1,,Deni,375_river,patsu,patsu,p a t s u,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,WATER,597,583
+Deni-375_river-1,,Deni,375_river,patsu,patsu,p a t s u,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,WATER,597,157
 Kulina-375_river-1,,Kulina,375_river,wɛni,wɛni,w ɛ n i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,RIVER,430,417
 Paumari-375_river-1,,Paumari,375_river,βaini,βaini,β ai n i,,dixon2004proto;chapman1998dicionario,,,,,RIVER,430,417
 Arawa-375_river-1,,Arawa,375_river,paha,paha,p a h a,,ehrenreich1897materialien,,,,,WATER,597,157
+Katawishi-375_river-1,,Katawishi,375_river,waha,waha,w a + h aː,,adelaar2007katawixi;tastevin1920notes,,,,,WATER ?,597,157 583
 Deni-384_rubbertree-1,,Deni,384_rubbertree,wekheʔi,wekheʔi,w e kʰ e ʔ i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,RUBBER.TREE,1134,1134
 Jamamadi-384_rubbertree-1,,Jamamadi,384_rubbertree,weke,weke,w e k e,,dixon2004proto;dixon2004adjective,,,,,RUBBER.TREE,1134,1134
 Kulina-384_rubbertree-1,,Kulina,384_rubbertree,wɛkʰɛʔi,wɛkʰɛʔi,w ɛ kʰ ɛ ʔ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,RUBBER.TREE,1134,1134
@@ -1897,20 +1964,24 @@ Sorowaha-132_eat-1,,Sorowaha,132_eat,hawa,hawa,h a w a,,dixon2004proto;suzuki200
 Banawa-132_eat-1,,Banawa,132_eat,taɸa,taɸa,t a ɸ a,,ladefoged1997phonetic,,,,,EAT,184,184
 Jarawara-132_eat-1,,Jarawara,132_eat,taɸa,taɸa,t a ɸ a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,EAT,184,184
 Jamamadi-132_eat-1,,Jamamadi,132_eat,taɸa,taɸa,t a ɸ a,,dixon2004proto;dixon2004adjective,,,,,EAT,184,184
+Amarakaeri-132_eat-1,,Amarakaeri,132_eat,pe,pe,p e,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,EAT,882,841
 Deni-140_fall-1,,Deni,140_fall,sona,sona,s o n a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,FALL,1240,1240
 Kulina-140_fall-1,,Kulina,140_fall,tsʰona / katoha,tsʰona,tsʰ o n a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,FALL,1240,1240
 Kulina-140_fall-2,,Kulina,140_fall,tsʰona / katoha,katoha,k a t o h a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,FALL,1241,1241
 Sorowaha-140_fall-1,,Sorowaha,140_fall,ubuɾi,ubuɾi,u b u ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,FALL,715,658
+Amarakaeri-140_fall-1,,Amarakaeri,140_fall,kat,kat,k a t,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,FALL,1241,1241
 Deni-180_give-1,,Deni,180_give,da,da,d a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,GIVE,37,37
 Kulina-180_give-1,,Kulina,180_give,da / daka,da,d a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,GIVE,37,37
 Kulina-180_give-2,,Kulina,180_give,da / daka,daka,d a k a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,GIVE,37,37
 Paumari-180_give-1,,Paumari,180_give,da,da,d a,,dixon2004proto;chapman1998dicionario,,,,,GIVE,37,37
+Amarakaeri-180_give-1,,Amarakaeri,180_give,jok,jok,j o k,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,GIVE,910,870
 Deni-449_stand-1,,Deni,449_stand,wa,wa,w a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,STAND,232,232
 Jamamadi-449_stand-1,,Jamamadi,449_stand,wa,wa,w a,,dixon2004proto;dixon2004adjective,,,,,STAND,232,232
 Jarawara-449_stand-1,,Jarawara,449_stand,wa,wa,w a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,STAND,232,232
 Kulina-449_stand-1,,Kulina,449_stand,wa,wa,w a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,STAND,232,232
 Paumari-449_stand-1,,Paumari,449_stand,gaa,gaa,g aː,,dixon2004proto;chapman1998dicionario,,,,,STAND,232,232
 Sorowaha-449_stand-1,,Sorowaha,449_stand,gawɨja,gawɨja,g a w ɨ j a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,STAND,232,232
+Banawa-449_stand-1,,Banawa,449_stand,wa,wa,w a,,ladefoged1997phonetic,,,,,STAND,232,232
 Deni-532_vomit-1,,Deni,532_vomit,kapi,kapi,k a p i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,VOMIT,267,267
 Kulina-532_vomit-1,,Kulina,532_vomit,kapi,kapi,k a p i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,VOMIT,267,267
 Paumari-532_vomit-1,,Paumari,532_vomit,aʔbi,aʔbi,a ɓ i,,dixon2004proto;chapman1998dicionario,,,,,VOMIT,267,267
@@ -1922,6 +1993,7 @@ Jamamadi-500_tongue-1,,Jamamadi,500_tongue,abane,abane,a b a n e,,dixon2004proto
 Kulina-500_tongue-1,,Kulina,500_tongue,ɛbɛno,ɛbɛno,ɛ b ɛ n o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,TONGUE,16,16
 Paumari-500_tongue-1,,Paumari,500_tongue,abani,abani,a b a n i,,dixon2004proto;chapman1998dicionario,,,,,TONGUE,16,16
 Sorowaha-500_tongue-1,,Sorowaha,500_tongue,abɨ,abɨ,a b ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,TONGUE,16,16
+Katawishi-500_tongue-1,,Katawishi,500_tongue,no,no,n o,,adelaar2007katawixi;tastevin1920notes,,,,,TONGUE,859,816
 Deni-501_tonkabean-1,,Deni,501_tonkabean,doni,doni,d o n i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,TONKA.BEAN,667,667
 Jamamadi-501_tonkabean-1,,Jamamadi,501_tonkabean,doni,doni,d o n i,,dixon2004proto;dixon2004adjective,,,,,TONKA.BEAN,667,667
 Jarawara-501_tonkabean-1,,Jarawara,501_tonkabean,toni,toni,t o n i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,TONKA.BEAN,667,667
@@ -1939,7 +2011,7 @@ Deni-530_visible-1,,Deni,530_visible,awato,awato,a w a t o,,dixon2004proto;carva
 Kulina-530_visible-1,,Kulina,530_visible,awato,awato,a w a t o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,VISIBLE,1009,1009
 Deni-525_urucuri-1,,Deni,525_urucuri,kahami,kahami,k a h a m i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,URUCURI,668,668
 Paumari-525_urucuri-1,,Paumari,525_urucuri,kahami,kahami,k a h a m i,,dixon2004proto;chapman1998dicionario,,,,,URUCURI,668,668
-Deni-380_rosecoloredbanana-1,,Deni,380_rosecoloredbanana,katomi,katomi,k a t o m i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,ROSE-COLORED.BANANA,613,596
+Deni-380_rosecoloredbanana-1,,Deni,380_rosecoloredbanana,katomi,katomi,k a t o m i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,PURPLE.BANANA,613,439
 Deni-401_shake-1,,Deni,401_shake,jara,jara,j a r a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,SHAKE,48,48
 Kulina-401_shake-1,,Kulina,401_shake,doko,doko,d o k o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,SHAKE,614,597
 Paumari-401_shake-1,,Paumari,401_shake,ɗara / rokoroko,rokoroko,r o k o + r o k o,,dixon2004proto;chapman1998dicionario,,,,,SHAKE SHAKE,614,597 597
@@ -2046,6 +2118,13 @@ Sorowaha-178_garden-1,,Sorowaha,178_garden,hadaɾa,hadaɾa,h a d a ɾ a,,dixon20
 Jamamadi-27_banana-1,,Jamamadi,27_banana,satowi,satowi,s a t o w i,,dixon2004proto;dixon2004adjective,,,,,BANANA.SP.,162,162
 Paumari-27_banana-1,,Paumari,27_banana,satomi,satomi,s a t o m i,,dixon2004proto;chapman1998dicionario,,,,,BANANA.SP.,162,162
 Arawa-27_banana-1,,Arawa,27_banana,fanara,fanara,f a n a r a,,ehrenreich1897materialien,,,,,BANANA.SP.,836,794
+Katawishi-27_banana-1,,Katawishi,27_banana,tʃipari,tʃipari,tʃ i p a r i,,adelaar2007katawixi;tastevin1920notes,,,,,BANANA,432,415
+Deni-27_banana-1,,Deni,27_banana,dzipari,dzipari,dz i p a r i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,BANANA,432,415
+Jarawara-27_banana-1,,Jarawara,27_banana,dɟɸari,dɟɸari,d ɟ ɸ a r i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,BANANA,432,415
+Banawa-27_banana-1,,Banawa,27_banana,dɟɸari,dɟɸari,d ɟ ɸ a r i,,ladefoged1997phonetic,,,,,BANANA,432,415
+Jamamadi-27_banana-2,,Jamamadi,27_banana,sibati,sibati,s i b a t i,,dixon2004proto;dixon2004adjective,,,,,BANANA,432,415
+Sorowaha-27_banana-1,,Sorowaha,27_banana,siari,siari,s ia r i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,BANANA,432,415
+Paumari-27_banana-2,,Paumari,27_banana,sipatihi,sipatihi,s i p a t i h i,,dixon2004proto;chapman1998dicionario,,,,,BANANA,432,415
 Jarawara-5_all-1,,Jarawara,5_all,naɸi,naɸi,n a ɸ i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,ALL,1231,1231
 Sorowaha-5_all-1,,Sorowaha,5_all,tumimaɾɨ,tumimaɾɨ,t u m i m a ɾ ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,ALL,712,655
 Deni-5_all-1,,Deni,5_all,tuχirariʔa / hika,tuχirariʔa,t u χ i r a r i ʔ a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,ALL,712,655
@@ -2085,6 +2164,9 @@ Kulina-118_dog-1,,Kulina,118_dog,ɛt̪ʰɛ,ɛt̪ʰɛ,ɛ t̪ʰ ɛ,,dixon2004proto
 Paumari-118_dog-1,,Paumari,118_dog,jomahi vaovaoha,jomahi vaovaoha,j o m a h i + v ao v ao h a,,dixon2004proto;chapman1998dicionario,,,,,JAGUAR onomatopoeic,504,90 742
 Deni-118_dog-1,,Deni,118_dog,meze,meze,m e z e,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,DOG,781,489
 Arawa-118_dog-1,,Arawa,118_dog,dʒumajhi,dʒumajhi,dʒ u m a j h i,,ehrenreich1897materialien,,,,,JAGUAR,504,90
+Amarakaeri-118_dog-1,,Amarakaeri,118_dog,kuwa,kuwa,k u w a,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,DOG,900,858
+Kanamari-118_dog-1,,Kanamari,118_dog,wapa,wapa,w aː p a,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,DOG,942,901
+KatukinaBia-118_dog-1,,KatukinaBia,118_dog,wapa,wapa,w aː p a,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,DOG,942,901
 Jarawara-126_dull-1,,Jarawara,126_dull,toboro,toboro,t o b o r o,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,DULL,1236,1236
 Jarawara-127_dust-1,,Jarawara,127_dust,hobokori,hobokori,h o b o k o r i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,DUST,1237,1237
 Paumari-127_dust-1,,Paumari,127_dust,χoma,χoma,χ o m a,,dixon2004proto;chapman1998dicionario,,,,,DUST,780,743
@@ -2103,6 +2185,7 @@ Kulina-200_he-1,,Kulina,200_he,powa,powa,p o w a,,dixon2004proto;monserrat1986gr
 Jarawara-222_i-1,,Jarawara,222_i,owa,owa,o w a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,I,340,340
 Kulina-222_i-1,,Kulina,222_i,owa,owa,o w a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,I,340,340
 Sorowaha-222_i-1,,Sorowaha,222_i,aɾu,aɾu,a ɾ u,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,I,501,486
+Amarakaeri-222_i-1,,Amarakaeri,222_i,ndoʔ,ndoʔ,n d o ʔ,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,I,888,847
 Jarawara-223_ice-1,,Jarawara,223_ice,selo,selo,s e l o,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,ICE,1273,1273
 Jarawara-224_if-1,,Jarawara,224_if,ya,ya,y a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,IF,497,485
 Jarawara-273_many-1,,Jarawara,273_many,tamabote,tamabote,t a m a b o t e,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,MANY,496,480
@@ -2113,6 +2196,8 @@ Sorowaha-273_many-1,,Sorowaha,273_many,aamasa,aamasa,aː m a s a,,dixon2004proto
 Deni-273_many-1,,Deni,273_many,hirahiranaɸiriʔa,hirahiranaɸiriʔa,h i r a h i r a n a ɸ i r i ʔ a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,MANY,824,782
 Jarawara-387_salt-1,,Jarawara,387_salt,saha,saha,s a h a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,SALT,494,478
 Kulina-387_salt-1,,Kulina,387_salt,tsao,tsao,ts a o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,SALT,495,479
+Paumari-387_salt-1,,Paumari,387_salt,jokira,jokira,j o k i r a,,dixon2004proto;chapman1998dicionario,,,,,SALT,935,895
+Deni-387_salt-1,,Deni,387_salt,dzokira,dzokira,dz o k i r a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,SALT,935,895
 Jarawara-196_happy-1,,Jarawara,196_happy,akara,akara,a k a r a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,SATISFIED,1005,1005
 Kulina-196_happy-1,,Kulina,196_happy,akʰaɾa,akʰaɾa,a kʰ a ɾ a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,SATISFIED,1005,1005
 Paumari-196_happy-1,,Paumari,196_happy,akhari,akhari,a kʰ a r i,,dixon2004proto;chapman1998dicionario,,,,,SATISFIED,1005,1005
@@ -2125,13 +2210,16 @@ Jarawara-416_skin-1,,Jarawara,416_skin,atari,atari,a t a r i,,dixon2004proto;dix
 Kulina-416_skin-1,,Kulina,416_skin,wapi,wapi,w a p i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,SKIN,489,473
 Paumari-416_skin-1,,Paumari,416_skin,asaɸi,asaɸi,a s a ɸ i,,dixon2004proto;chapman1998dicionario,,,,,SKIN,207,207
 Sorowaha-416_skin-1,,Sorowaha,416_skin,asihi,asihi,a s i h i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,SKIN,207,207
+Katawishi-416_skin-1,,Katawishi,416_skin,borahe,borahe,b o r a,,adelaar2007katawixi;tastevin1920notes,,,,,SKIN,864,822
 Jarawara-418_sky-1,,Jarawara,418_sky,neme,neme,n e m e,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,SKY,1001,1001
 Kulina-418_sky-1,,Kulina,418_sky,mɛmɛ,mɛmɛ,m ɛ m ɛ,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,SKY,1001,1001
 Jarawara-479_there-1,,Jarawara,479_there,ɸa,ɸa,ɸ a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,THERE,488,472
 Jarawara-480_they-1,,Jarawara,480_they,me,me,m e,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,THEY,486,471
 Kulina-480_they-1,,Kulina,480_they,powa,powa,p o w a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,THEY,487,470
+Amarakaeri-480_they-1,,Amarakaeri,480_they,ken,ken,k e n,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,THEY,891,850
 Jarawara-390_say-1,,Jarawara,390_say,ati,ati,a t i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,VOICE,484,211
 Kulina-390_say-1,,Kulina,390_say,na,na,n a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,SAY,485,469
+Amarakaeri-390_say-1,,Amarakaeri,390_say,aʔ,aʔ,a ʔ,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,SAY,918,877
 Jarawara-393_scratch-1,,Jarawara,393_scratch,bisi,bisi,b i s i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,SCRATCH,483,468
 Kulina-393_scratch-1,,Kulina,393_scratch,kʰiɾi,kʰiɾi,kʰ i ɾ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,SCRATCH,282,282
 Paumari-393_scratch-1,,Paumari,393_scratch,hirihiri,hirihiri,h i r i + h i r i,,dixon2004proto;chapman1998dicionario,,,,,SCRATCH SCRATCH,282,282 282
@@ -2141,18 +2229,21 @@ Jarawara-444_split-2,,Jarawara,444_split,jara / sibi,sibi,s i b i,,dixon2004prot
 Jarawara-541_weexclusive-1,,Jarawara,541_weexclusive,ota,ota,o t a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,WE.EXCL,482,467
 Jarawara-542_weinclusive-1,,Jarawara,542_weinclusive,e,e,e,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,WE.INCL,481,466
 Jarawara-545_wet-1,,Jarawara,545_wet,aɸi,aɸi,a ɸ i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,WET,2,2
-Paumari-545_wet-1,,Paumari,545_wet,aʔba,aʔba,a ɓ a,,dixon2004proto;chapman1998dicionario,,,,,WET,2,2
+Paumari-545_wet-1,,Paumari,545_wet,aʔba,aʔba,a ʔ ɓ a,,dixon2004proto;chapman1998dicionario,,,,,WET,2,2
 Jarawara-564_youtwo-1,,Jarawara,564_youtwo,te,te,t e,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,YOU.(PLURAL),480,465
 Kulina-564_youtwo-1,,Kulina,564_youtwo,tia,tia,t i a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,YOU.(PLURAL),480,465
 Jarawara-563_you-1,,Jarawara,563_you,tiwa,tiwa,t i w a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,YOU.(SINGULAR),479,464
 Kulina-563_you-1,,Kulina,563_you,tia,tia,t i a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,YOU.(SINGULAR),479,464
 Sorowaha-563_you-1,,Sorowaha,563_you,taa,taa,t aː,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,YOU.(SINGULAR),425,399
+Amarakaeri-563_you-1,,Amarakaeri,563_you,on,on,o n,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,YOU.(SINGULAR),889,848
 Jarawara-74_cangati-1,,Jarawara,74_cangati,moro,moro,m o r o,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,FISH,1252,689
 Jarawara-461_strongtaste-1,,Jarawara,461_strongtaste,sina,sina,s i n a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,unknown8,616,412
 Jarawara-257_lightignite-1,,Jarawara,257_lightignite,oja,oja,o j a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,LIGHT,687,410
 Paumari-257_lightignite-1,,Paumari,257_lightignite,oji,oji,o j i,,dixon2004proto;chapman1998dicionario,,,,,LIGHT,687,410
 Jarawara-1_abiu-1,,Jarawara,1_abiu,sowa,sowa,s o w a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,ABIU,1229,1229
 Kulina-1_abiu-1,,Kulina,1_abiu,waitso,waitso,w a i ts o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,ABIU,1230,1230
+Deni-1_abiu-1,,Deni,1_abiu,vatsuma,vatsuma,v a ts u m a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,ABIU,1230,1230
+Sorowaha-1_abiu-1,,Sorowaha,1_abiu,watama,watama,w a t a m a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,ABIU,1230,1230
 Jarawara-81_caterpillar-1,,Jarawara,81_caterpillar,wakari,wakari,w a k a r i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,unknown16,394,700
 Sorowaha-81_caterpillar-1,,Sorowaha,81_caterpillar,zaamakusa,zaamakusa,z aː m a + k u s a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,THING ?,634,341 600
 Kulina-20_ash-1,,Kulina,20_ash,okonɛ,okonɛ,o k o n ɛ,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,ASH,354,155
@@ -2167,21 +2258,28 @@ Paumari-134_egg-1,,Paumari,134_egg,χoχoro / naɸani,χoχoro,χ o χ o r o,,di
 Paumari-134_egg-2,,Paumari,134_egg,χoχoro / naɸani,naɸani,n a ɸ a n i,,dixon2004proto;chapman1998dicionario,,,,,SCROTUM,784,360
 Deni-134_egg-1,,Deni,134_egg,naɸani,naɸani,n a ɸ a n i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,SCROTUM,784,360
 Arawa-134_egg-1,,Arawa,134_egg,nafarina,nafarina,n a f a r i n a,,ehrenreich1897materialien,,,,,EGG,784,360
+Amarakaeri-134_egg-1,,Amarakaeri,134_egg,knda,knda,k n d a,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,EGG,920,879
+KatukinaBia-134_egg-1,,KatukinaBia,134_egg,pu,pu,p u,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,EGG,939,596
+Kanamari-134_egg-1,,Kanamari,134_egg,pu,pu,p u,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,EGG,939,596
 Kulina-137_eye-1,,Kulina,137_eye,nokʰo,nokʰo,n o kʰ o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,EYE,1242,1242
 Paumari-137_eye-1,,Paumari,137_eye,nokʰo,nokʰo,n o kʰ o,,dixon2004proto;chapman1998dicionario,,,,,EYE,1242,1242
 Deni-137_eye-1,,Deni,137_eye,nukʰu,nukʰu,n u kʰ u,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,EYE,1242,1242
 Jarawara-137_eye-1,,Jarawara,137_eye,noki,noki,n o k i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,EYE,1242,1242
 Sorowaha-137_eye-1,,Sorowaha,137_eye,zubi,zubi,z u b i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,EYE,785,673
+Katawishi-137_eye-1,,Katawishi,137_eye,ørada,ørada,ø r a d a,,adelaar2007katawixi;tastevin1920notes,,,,,EYE,845,802
 Kulina-150_fingernail-1,,Kulina,150_fingernail,nokotsʰi,nokotsʰi,n o k o tsʰ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,FINGERNAIL,1250,685
 Deni-150_fingernail-1,,Deni,150_fingernail,nukʰuʃini,nukʰuʃini,n u kʰ u ʃ i n i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,FINGERNAIL,1250,685
 Jarawara-150_fingernail-1,,Jarawara,150_fingernail,jehe atari,jehe atari,j e h e + a t a r i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,HAND SKIN,792,83 208
 Paumari-150_fingernail-1,,Paumari,150_fingernail,ʔdamai kanakoʔdini,ʔdamai kanakoʔdini,ʔ d a m ai + k a n a k o ʔ d i n i,,dixon2004proto;chapman1998dicionario,,,,,FINGER ?,796,752 754
 Deni-150_fingernail-2,,Deni,150_fingernail,saʔai kanakoʔdini,saʔai kanakoʔdini,s a ʔ ai + k a n a k o ʔ d i n i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,FINGER ?,796,752 753
+Amarakaeri-150_fingernail-1,,Amarakaeri,150_fingernail,mbaʔku,mbaʔku,m/b a ʔ + k u,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,HAND HEAD,915,855 875
 Kulina-168_forest-1,,Kulina,168_forest,dzama / jama,dzama,dz a m a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,THING,341,341
 Kulina-168_forest-2,,Kulina,168_forest,dzama / jama,jama,j a m a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,THING,341,341
 Sorowaha-168_forest-1,,Sorowaha,168_forest,aga hʊʊɾi,aga hʊʊɾi,a g a + h ʊː ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,TREE INSIDE,647,537 1274
 Sorowaha-168_forest-2,,Sorowaha,168_forest,zama,zama,z a m a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,THING,341,341
 Paumari-168_forest-1,,Paumari,168_forest,dʒama,dʒama,dʒ a m a,,dixon2004proto;chapman1998dicionario,,,,,THING,341,341
+Deni-168_forest-1,,Deni,168_forest,zama,zama,z a m a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,THING,341,341
+Amarakaeri-168_forest-1,,Amarakaeri,168_forest,ndumba,ndumba,n/d u m b a,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,FOREST,933,893
 Kulina-186_grass-1,,Kulina,186_grass,dzɛɾo makʰa / dzɛɾo taapi,dzɛɾo makʰa,dz ɛ ɾ o + m a kʰ a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,GRASS SNAKE,1266,4000 288
 Kulina-186_grass-2,,Kulina,186_grass,dzɛɾo makʰa / dzɛɾo taapi,dzɛɾo taapi,dz ɛ ɾ o + t aː p i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,GRASS ?,1266,4000 5001
 Jarawara-186_grass-1,,Jarawara,186_grass,masiri,masiri,m a s i r i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,GRASS,808,764
@@ -2209,6 +2307,9 @@ Jarawara-294_mouth-1,,Jarawara,294_mouth,batori / inohoti,batori,b a t o r i,,di
 Jarawara-294_mouth-2,,Jarawara,294_mouth,batori / inohoti,inohoti,i n o h o t i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,MOUTH,826,784
 Paumari-294_mouth-1,,Paumari,294_mouth,bodi,bodi,b o d i,,dixon2004proto;chapman1998dicionario,,,,,MOUTH,827,785
 Deni-294_mouth-1,,Deni,294_mouth,ahaɾi,ahaɾi,a h a ɾ i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,MOUTH,477,463
+Katawishi-294_mouth-1,,Katawishi,294_mouth,kirahe,kirahe,k i r a h e,,adelaar2007katawixi;tastevin1920notes,,,,,MOUTH,847,804
+Kanamari-294_mouth-1,,Kanamari,294_mouth,nuk,nuk,n u k,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,MOUTH,947,906
+KatukinaBia-294_mouth-1,,KatukinaBia,294_mouth,nuk,nuk,n u k,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,MOUTH,947,906
 Kulina-309_now-1,,Kulina,309_now,hidapana,hidapana,h i d a + p a n a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,NOW ?,241,241 462
 Paumari-309_now-1,,Paumari,309_now,hida,hida,h i d a,,dixon2004proto;chapman1998dicionario,,,,,NOW,241,241
 Kulina-369_rainprecipitation-1,,Kulina,369_rainprecipitation,patsʰo,patsʰo,p a tsʰ o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,RAIN,475,460
@@ -2217,6 +2318,8 @@ Deni-369_rainprecipitation-1,,Deni,369_rainprecipitation,paʃu,paʃu,p a ʃ u,,d
 Paumari-369_rainprecipitation-1,,Paumari,369_rainprecipitation,bahi,bahi,b a h i,,dixon2004proto;chapman1998dicionario,,,,,RAIN,831,789
 Jarawara-369_rainprecipitation-1,,Jarawara,369_rainprecipitation,ɸaha / isi,ɸaha,ɸ a h a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,RAIN,832,790
 Jarawara-369_rainprecipitation-2,,Jarawara,369_rainprecipitation,ɸaha / isi,isi,i s i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,RAIN,833,791
+Katawishi-369_rainprecipitation-1,,Katawishi,369_rainprecipitation,wahi,wahi,w aː h i,,adelaar2007katawixi;tastevin1920notes,,,,,RAIN,831,789
+Amarakaeri-369_rainprecipitation-1,,Amarakaeri,369_rainprecipitation,wi,wi,w i,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,RAIN,919,878
 Kulina-379_rope-1,,Kulina,379_rope,mado,mado,m a d o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,ROPE,474,459
 Sorowaha-379_rope-1,,Sorowaha,379_rope,ahu,ahu,a h u,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,ROPE,660,618
 Kulina-428_smokeexhaust-1,,Kulina,428_smokeexhaust,ɛtsʰɛ,ɛtsʰɛ,ɛ tsʰ ɛ,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,SMOKE,1002,1002
@@ -2230,10 +2333,26 @@ Paumari-438_sour-1,,Paumari,438_sour,tʃikaɗa,tʃikaɗa,tʃ i k a ɗ a,,dixon20
 Sorowaha-438_sour-1,,Sorowaha,438_sour,sihita / ʃihʲata,sihita,s i h i t a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,SOUR,693,693
 Sorowaha-438_sour-2,,Sorowaha,438_sour,sihita / ʃihʲata,ʃihʲata,ʃ i hʲ a t a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,SOUR,693,693
 Kulina-283_mix-1,,Kulina,283_mix,kɛʔɛma,kɛʔɛma,k ɛ ʔ ɛ m a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,MIX,472,457
+Kulina-108_cut-1,,Kulina,108_cut,ka / witsʰi / wishi,witsʰi,w i tsʰ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,CUT,206,206
+Sorowaha-108_cut-1,,Sorowaha,108_cut,tija / wisi / wisikijaɾi,tija,t i j a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CUT,186,186
+Kulina-108_cut-2,,Kulina,108_cut,ti,ti,t i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,CUT,186,186
+Paumari-108_cut-1,,Paumari,108_cut,sii,sii,s iː,,dixon2004proto;chapman1998dicionario,,,,,CUT,206,206
+Kulina-108_cut-3,,Kulina,108_cut,ka / witsʰi / wishi,wishi,w i s h i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,CUT,206,206
+Deni-108_cut-1,,Deni,108_cut,ka / witsʰi,witsʰi,w i tsʰ i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,CUT,206,206
+Jarawara-108_cut-1,,Jarawara,108_cut,kaa / wisi,wisi,w i s i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,CUT,206,206
+Banawa-108_cut-1,,Banawa,108_cut,kaa / wisi,wisi,w i s i,,ladefoged1997phonetic,,,,,CUT,206,206
+Jamamadi-108_cut-1,,Jamamadi,108_cut,kaa / wisi,wisi,w i s i,,dixon2004proto;dixon2004adjective,,,,,CUT,206,206
+Sorowaha-108_cut-2,,Sorowaha,108_cut,tija / wisi / wisikijaɾi,wisi,w i s i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CUT,206,206
+Banawa-108_cut-2,,Banawa,108_cut,tii,tii,t i i,,ladefoged1997phonetic,,,,,CUT,186,186
+Deni-108_cut-2,,Deni,108_cut,tiri,tiri,t i r i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,CUT,186,186
+Jamamadi-108_cut-2,,Jamamadi,108_cut,tii,tii,t i i,,dixon2004proto;dixon2004adjective,,,,,CUT,186,186
+Jarawara-108_cut-2,,Jarawara,108_cut,tii,tii,t i i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,CUT,186,186
+Sorowaha-108_cut-3,,Sorowaha,108_cut,tija / wisi / wisikijaɾi,wisikijaɾi,w i s i k i j a ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CUT,206,206
 Kulina-114_die-1,,Kulina,114_die,dzokʰɛ,dzokʰɛ,dz o kʰ ɛ,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,DIE,471,456
 Kulina-237_kill-1,,Kulina,237_kill,nanadzokʰɛ / napamahona / nanahika,nanahika,n a n a h i k a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,KILL,469,454
 Kulina-237_kill-2,,Kulina,237_kill,nanadzokʰɛ / napamahona / nanahika,nanadzokʰɛ,n a n a dz o kʰ ɛ,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,KILL,469,454
 Kulina-237_kill-3,,Kulina,237_kill,nanadzokʰɛ / napamahona / nanahika,napamahona,n a p a m a h o n a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,KILL,470,455
+Amarakaeri-237_kill-1,,Amarakaeri,237_kill,arak,arak,a r a k,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,KILL,929,889
 Kulina-32_bealive-1,,Kulina,32_bealive,madi,madi,m a d i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,LIVE,1278,1278
 Sorowaha-32_bealive-1,,Sorowaha,32_bealive,agiha,agiha,a g i h a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,LIVE,653,612
 Kulina-351_play-1,,Kulina,351_play,it̪ʰomɛ,it̪ʰomɛ,i t̪ʰ o m ɛ,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,PLAY,467,452
@@ -2250,12 +2369,17 @@ Banawa-415_sit-1,,Banawa,415_sit,ita,ita,i t a,,ladefoged1997phonetic,,,,,SIT,20
 Jamamadi-415_sit-1,,Jamamadi,415_sit,ita,ita,i t a,,dixon2004proto;dixon2004adjective,,,,,SIT,207,207
 Sorowaha-415_sit-1,,Sorowaha,415_sit,ita,ita,i t a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,SIT,207,207
 Kulina-419_sleep-1,,Kulina,419_sleep,wada,wada,w a d a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,SLEEP,465,450
+Katawishi-419_sleep-1,,Katawishi,419_sleep,taghi,taghi,t aː g,,adelaar2007katawixi;tastevin1920notes,,,,,SLEEP,867,825
+Amarakaeri-419_sleep-1,,Amarakaeri,419_sleep,taj,taj,t a j,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,SLEEP,880,839
+Sorowaha-419_sleep-1,,Sorowaha,419_sleep,gumari,gumari,g u m a r i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,SLEEP,881,840
+Kulina-419_sleep-2,,Kulina,419_sleep,wada,wada,w a d a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,SLEEP,465,450
 Kulina-468_swim-1,,Kulina,468_swim,kona,kona,k o n a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,SWIM,464,449
 Sorowaha-468_swim-1,,Sorowaha,468_swim,kaɾukʷaaɾi,kaɾukʷaaɾi,k a ɾ u kʷ aː ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,SWIM,745,707
 Kulina-514_turn-1,,Kulina,514_turn,piko,piko,p i k o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,TURN,463,448
 Kulina-536_warm-1,,Kulina,536_warm,pʰoko,pʰoko,pʰ o k o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,WARM,462,447
 Kulina-540_we-1,,Kulina,540_we,ia,ia,i a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,WE,461,446
 Sorowaha-540_we-1,,Sorowaha,540_we,aɾi,aɾi,a ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,WE,674,626
+Amarakaeri-540_we-1,,Amarakaeri,540_we,oroʔ,oroʔ,o r o ʔ,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,WE,890,849
 Kulina-551_wind-1,,Kulina,551_wind,hohodɛ,hohodɛ,h o h o d ɛ,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,WIND,429,413
 Sorowaha-551_wind-1,,Sorowaha,551_wind,zaama siukaɾu,zaama siukaɾu,z aː m a + s iu k a ɾ u,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,THING ?,727,341 677
 Kulina-553_wing-1,,Kulina,553_wing,ɛpʰɛ,ɛpʰɛ,ɛ pʰ ɛ,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,WING,404,382
@@ -2266,6 +2390,7 @@ Kulina-243_largecatfish-1,,Kulina,243_largecatfish,moɾo,moɾo,m o ɾ o,,dixon20
 Kulina-452_stick-1,,Kulina,452_stick,pini,pini,p i n i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,STICK,558,400
 Paumari-452_stick-1,,Paumari,452_stick,athana,athana,a t h a n a,,dixon2004proto;chapman1998dicionario,,,,,STICK,618,474
 Sorowaha-452_stick-1,,Sorowaha,452_stick,agadaɾu,agadaɾu,a g a + d a ɾ u,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,TREE ?,650,537 609
+Banawa-452_stick-1,,Banawa,452_stick,ini,ini,i n i,,ladefoged1997phonetic,,,,,STICK,558,400
 Kulina-38_bed-1,,Kulina,38_bed,taboɾo,taboɾo,t a b o ɾ o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,BED,132,408
 Kulina-143_fast-1,,Kulina,143_fast,watsʰi,watsʰi,w a tsʰ i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,unknown11,621,501
 Kulina-183_gourd-1,,Kulina,183_gourd,paho,paho,p a h o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,GOURD,152,152
@@ -2294,11 +2419,16 @@ Paumari-55_blowofwind-1,,Paumari,55_blowofwind,sirisiri,sirisiri,s i r i + s i r
 Sorowaha-391_scared-1,,Sorowaha,391_scared,ohi,ohi,o h i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CRY,305,305
 Sorowaha-365_purplebanana-1,,Sorowaha,365_purplebanana,katomi,katomi,k a t o m i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,PURPLE.BANANA,456,439
 Sorowaha-274_mark-1,,Sorowaha,274_mark,taboɾi,taboɾi,t a b o ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,unknown5,561,408
-Sorowaha-91_clothes-1,,Sorowaha,91_clothes,tahɨ,tahɨ,t a h ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,unknown6,620,409
+Sorowaha-91_clothes-1,,Sorowaha,91_clothes,tahɨ,tahɨ,t a h ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CLOTHES,620,409
+Paumari-91_clothes-1,,Paumari,91_clothes,makari,makari,m a k a r i,,dixon2004proto;chapman1998dicionario,,,,,CLOTHING,937,897
+Jamamadi-91_clothes-1,,Jamamadi,91_clothes,bora,bora,b o r a,,dixon2004proto;dixon2004adjective,,,,,CLOTHING,938,898
+Banawa-91_clothes-1,,Banawa,91_clothes,makari,makari,m a k a r i,,ladefoged1997phonetic,,,,,CLOTHING,937,897
 Sorowaha-162_fly-1,,Sorowaha,162_fly,bihʲawa,bihʲawa,b i hʲ a w a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,FLY,1258,1258
 Sorowaha-484_thirst-1,,Sorowaha,484_thirst,ʃʲubukʷa,ʃʲubukʷa,ʃʲ u b u kʷ a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,THIRST,455,438
 Sorowaha-19_arrow-1,,Sorowaha,19_arrow,tɨbɨ,tɨbɨ,t ɨ b ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,ARROW,353,124
 Arawa-19_arrow-1,,Arawa,19_arrow,atu,atu,a t u,,ehrenreich1897materialien,,,,,ARROW,842,799
+Katawishi-19_arrow-1,,Katawishi,19_arrow,tenkpa,tenkpa,t e n k p a,,adelaar2007katawixi;tastevin1920notes,,,,,ARROW,855,812
+Amarakaeri-19_arrow-1,,Amarakaeri,19_arrow,pĩã,pĩã,p ĩã,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,ARROW,927,886
 Sorowaha-350_placeposition-1,,Sorowaha,350_placeposition,dʋʋki / dʋci,dʋʋki,d ʋː k i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,PLACE,454,437
 Sorowaha-350_placeposition-2,,Sorowaha,350_placeposition,dʋʋki / dʋci,dʋci,d ʋ c i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,PLACE,454,437
 Sorowaha-269_macaw-1,,Sorowaha,269_macaw,kawa,kawa,k a w a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,MACAW,1282,1282
@@ -2332,6 +2462,7 @@ Sorowaha-94_cockroach-1,,Sorowaha,94_cockroach,ʃʲuɾuhʷa,ʃʲuɾuhʷa,ʃʲ u 
 Sorowaha-77_capybara-1,,Sorowaha,77_capybara,hiiɾi,hiiɾi,h iː ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CAPYBARA,1296,1296
 Sorowaha-447_squirrel-1,,Sorowaha,447_squirrel,taawi,taawi,t aː w i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,SQUIRREL,443,426
 Sorowaha-36_beautiful-1,,Sorowaha,36_beautiful,ɨmɨzɨ,ɨmɨzɨ,ɨ m ɨ z ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,BEAUTIFUL,360,354
+Amarakaeri-36_beautiful-1,,Amarakaeri,36_beautiful,uru,uru,u r u,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,BEAUTIFUL,899,857
 Sorowaha-110_daughter-1,,Sorowaha,110_daughter,ahidini / zamuuni,ahidini,a h i d i n i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,OFFSPRING,442,425
 Banawa-110_daughter-1,,Banawa,110_daughter,to,to,t o,,ladefoged1997phonetic,,,,,DAUGHTER,188,188
 Deni-110_daughter-1,,Deni,110_daughter,to,to,t o,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,DAUGHTER,188,188
@@ -2348,6 +2479,7 @@ Paumari-130_earthsoil-1,,Paumari,130_earthsoil,nami,nami,n a m i,,dixon2004proto
 Jarawara-130_earthsoil-1,,Jarawara,130_earthsoil,wami,wami,w a m i,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,EARTH,782,744
 Kulina-130_earthsoil-1,,Kulina,130_earthsoil,nami,nami,n a m i,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,EARTH,782,744
 Sorowaha-229_inga-1,,Sorowaha,229_inga,imi,imi,i m i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,INGA,439,422
+Deni-229_inga-1,,Deni,229_inga,imi,imi,i m i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,INGA,439,422
 Sorowaha-348_piranha-1,,Sorowaha,348_piranha,uma,uma,u m a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,PIRANHA,438,421
 Sorowaha-342_pestle-1,,Sorowaha,342_pestle,huwa / akubi,huwa,h u w a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,PESTLE,436,419
 Sorowaha-342_pestle-2,,Sorowaha,342_pestle,huwa / akubi,akubi,a k u b i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,PESTLE,664,622
@@ -2355,6 +2487,9 @@ Sorowaha-72_caiman-1,,Sorowaha,72_caiman,una,una,u n a,,dixon2004proto;suzuki200
 Jarawara-72_caiman-1,,Jarawara,72_caiman,ona,ona,o n a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,CAIMAN,393,373
 Kulina-72_caiman-1,,Kulina,72_caiman,wama,wama,w a m a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,CAIMAN,128,128
 Paumari-72_caiman-1,,Paumari,72_caiman,kasiʔi,kasiʔi,k a s i ʔ i,,dixon2004proto;chapman1998dicionario,,,,,CAIMAN,410,499
+Katawishi-72_caiman-1,,Katawishi,72_caiman,kadjuhe,kadjuhe,k a d j u,,adelaar2007katawixi;tastevin1920notes,,,,,CAIMAN,865,823
+Kanamari-72_caiman-1,,Kanamari,72_caiman,kadʒu,kadʒu,k aː dʒ u,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,CAIMAN,865,823
+KatukinaBia-72_caiman-1,,KatukinaBia,72_caiman,kadʒu,kadʒu,k aː dʒ u,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,CAIMAN,865,823
 Sorowaha-96_comb-1,,Sorowaha,96_comb,maʃiɾi,maʃiɾi,m a ʃ i ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,COMB,433,416
 Paumari-67_brotherinlawofman-1,,Paumari,67_brotherinlawofman,βabo,βabo,β a b o,,dixon2004proto;chapman1998dicionario,,,,,BROTHER-IN-LAW,193,193
 Kulina-67_brotherinlawofman-1,,Kulina,67_brotherinlawofman,wabo,wabo,w a b o,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,BROTHER-IN-LAW,193,193
@@ -2372,10 +2507,12 @@ Jarawara-102_cotton-1,,Jarawara,102_cotton,waɸe,waɸe,w a ɸ e,,dixon2004proto;
 Banawa-102_cotton-1,,Banawa,102_cotton,waɸe,waɸe,w a ɸ e,,ladefoged1997phonetic,,,,,COTTON,199,199
 Jamamadi-102_cotton-1,,Jamamadi,102_cotton,weɸe,weɸe,w e ɸ e,,dixon2004proto;dixon2004adjective,,,,,COTTON,199,199
 Sorowaha-102_cotton-1,,Sorowaha,102_cotton,wabɨ,wabɨ,w a b ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,COTTON,199,199
-Paumari-310_oar-1,,Paumari,310_oar,βanamo,βanamo,β a n a m o,,dixon2004proto;chapman1998dicionario,,,,,OAR,432,415
+Deni-102_cotton-1,,Deni,102_cotton,vamure,vamure,v a m u r e,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,COTTON,875,833
+Paumari-310_oar-1,,Paumari,310_oar,βanamo,βanamo,β a n a m o,,dixon2004proto;chapman1998dicionario,,,,,OAR,200,200
 Deni-310_oar-1,,Deni,310_oar,warami,warami,w a r a m i,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,OAR,200,200
 Arawa-310_oar-1,,Arawa,310_oar,waramí,waramí,w a r a m í,,ehrenreich1897materialien,,,,,OAR,200,200
 Sorowaha-310_oar-1,,Sorowaha,310_oar,zama tɨmɨnɨ,zama tɨmɨnɨ,z a m a + t ɨ m ɨ n ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,THING PADDLE,758,314 148
+Katawishi-310_oar-1,,Katawishi,310_oar,waraemi,waraemi,w a r ae m i,,adelaar2007katawixi;tastevin1920notes,,,,,OAR,200,200
 Paumari-15_aracua-1,,Paumari,15_aracua,βarataoko,βarataoko,β a r a t a o k o,,dixon2004proto;chapman1998dicionario,,,,,CHACHALACA,431,414
 Kulina-15_aracua-1,,Kulina,15_aracua,warakaja,warakaja,w a r a k a j a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,CHACHALACA,201,201
 Deni-508_treespwithsoftwood-1,,Deni,508_treespwithsoftwood,warakana,warakana,w a r a k a n a,,dixon2004proto;carvalho2013analise;carvalho2013fonologia;carvalho2013sobrefonologia;carvalho2018adjective;koop1985dicionario,,,,,TREE.SPECIES.WITH.SOFT.WOOD,202,202
@@ -2395,7 +2532,11 @@ Banawa-489_throwwater-1,,Banawa,489_throwwater,wisa,wisa,w i s a,,ladefoged1997p
 Sorowaha-65_bright-1,,Sorowaha,65_bright,kaɾaɾa / asiika,kaɾaɾa,k a ɾ a ɾ a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,BRIGHT,1294,1294
 Sorowaha-65_bright-2,,Sorowaha,65_bright,kaɾaɾa / asiika,asiika,a s iː kʲ a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,BRIGHT,680,634
 Sorowaha-410_shrimp-1,,Sorowaha,410_shrimp,haʃiciɾi,haʃiciɾi,h a ʃ i c i ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,SHRIMP,428,406
-Sorowaha-254_liana-1,,Sorowaha,254_liana,hunaha,hunaha,h u n a h a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,TIMBO,427,404
+Sorowaha-254_liana-1,,Sorowaha,254_liana,konaha,konaha,k o n a h a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,LIANA,427,404
+Jamamadi-254_liana-1,,Jamamadi,254_liana,kona,kona,k o n a,,dixon2004proto;dixon2004adjective,,,,,LIANA,427,404
+Banawa-254_liana-1,,Banawa,254_liana,kona,kona,k o n a,,ladefoged1997phonetic,,,,,LIANA,427,404
+Jarawara-254_liana-1,,Jarawara,254_liana,kona,kona,k o n a,,dixon2004proto;dixon1995fusional;vogel2021typology;dixon2004jarawara,,,,,LIANA,427,404
+Paumari-254_liana-1,,Paumari,254_liana,ʔakona(ha),ʔakona,ʔ a k o n a,,dixon2004proto;chapman1998dicionario,,,,,LIANA,427,404
 Sorowaha-498_largebulletantsubfamilyparaponerinae-1,,Sorowaha,498_largebulletantsubfamilyparaponerinae,huwatɨ,huwatɨ,h u w a t ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,TOCANDIRA,426,402
 Sorowaha-318_owner-1,,Sorowaha,318_owner,anidawa,anidawa,a n i d a w a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,OWNER,423,397
 Sorowaha-557_wound-1,,Sorowaha,557_wound,batakaɾa / kaʃidʒahu,batakaɾa,b a t a k a ɾ a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,WOUND,1224,1224
@@ -2408,7 +2549,9 @@ Sorowaha-319_paca-1,,Sorowaha,319_paca,hawɨ,hawɨ,h a w ɨ,,dixon2004proto;suzu
 Sorowaha-75_canoe-1,,Sorowaha,75_canoe,hiini,hiini,h iː n i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CANOE,1295,1295
 Arawa-75_canoe-1,,Arawa,75_canoe,safini,safini,s a f i n i,,ehrenreich1897materialien,,,,,CANOE,1295,1295
 Sorowaha-325_pan-1,,Sorowaha,325_pan,iiʃʲaha,iiʃʲaha,iː ʃʲ a h a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,PAN,417,392
+Katawishi-325_pan-1,,Katawishi,325_pan,bo,bo,b oː,,adelaar2007katawixi;tastevin1920notes,,,,,PAN,854,811
 Sorowaha-339_penis-1,,Sorowaha,339_penis,iiʃimi,iiʃimi,iː ʃ i m i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,PENIS,416,391
+Katawishi-339_penis-1,,Katawishi,339_penis,ho,ho,h o,,adelaar2007katawixi;tastevin1920notes,,,,,PENIS,857,814
 Sorowaha-105_cricket-1,,Sorowaha,105_cricket,kuubiʃʲa,kuubiʃʲa,k uː b i ʃʲ a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CRICKET,415,390
 Sorowaha-465_sweatsubstance-1,,Sorowaha,465_sweatsubstance,kuwaha,kuwaha,k u w a h a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,SWEAT,414,389
 Banawa-465_sweatsubstance-1,,Banawa,465_sweatsubstance,tanako,tanako,t a n a k o,,ladefoged1997phonetic,,,,,SWEAT,182,182
@@ -2449,6 +2592,7 @@ Sorowaha-389_sap-1,,Sorowaha,389_sap,ad̥uhɨ,ad̥uhɨ,a d̥ u h ɨ,,dixon2004pr
 Sorowaha-209_holdortake-1,,Sorowaha,209_holdortake,aga,aga,a g a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,TAKE,645,606
 Sorowaha-66_bring-1,,Sorowaha,66_bring,aga,aga,a g a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,TAKE,646,606
 Sorowaha-281_middle-1,,Sorowaha,281_middle,hʊʊɾi,hʊʊɾi,h ʊː ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,INSIDE,648,1274
+Banawa-281_middle-1,,Banawa,281_middle,einoki,einoki,ei n o k i,,ladefoged1997phonetic,,,,,MIDDLE,951,909
 Sorowaha-512_trowel-1,,Sorowaha,512_trowel,agabɨsiiɾi,agabɨsiiɾi,a g a b ɨ s i + i ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,? ?,649,607 608
 Sorowaha-361_procreate-1,,Sorowaha,361_procreate,agja,agja,a g j a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,PROCREATE,652,611
 Sorowaha-519_untie-1,,Sorowaha,519_untie,agidʒawa / tabaɾu,agidʒawa,a g i dʒ a w a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,UNTIE,654,613
@@ -2473,10 +2617,12 @@ Sorowaha-370_rainbow-2,,Sorowaha,370_rainbow,kuwiɾi agiɾi / gawiɾawa,gawiɾaw
 Sorowaha-565_youngerbrother-1,,Sorowaha,565_youngerbrother,ʃʲuɾu,ʃʲuɾu,ʃʲ u ɾ u,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,YOUNGER.BROTHER,701,644
 Sorowaha-133_edge-1,,Sorowaha,133_edge,ʃɨɾɨmi,ʃɨɾɨmi,ʃ ɨ ɾ ɨ m i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,EDGE,702,645
 Sorowaha-216_hot-1,,Sorowaha,216_hot,suku,suku,s u k u,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,ROAST,704,646
+Amarakaeri-216_hot-1,,Amarakaeri,216_hot,pak,pak,p a k,,adelaar2000propuesta;van2014argument;vanlinden2019harakmbut;van2019nominalization;van2020construction;van2016classifier,,,,,HOT,926,885
 Sorowaha-207_hiccough-1,,Sorowaha,207_hiccough,sukusuku,sukusuku,s u k u + s u k u,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,HICCOUGH HICCOUGH,705,647 647
 Sorowaha-73_calm-1,,Sorowaha,73_calm,sumawaɾi,sumawaɾi,s u m a w a ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,CALM,706,648
 Sorowaha-440_spidermonkey-1,,Sorowaha,440_spidermonkey,sɨwɨ,sɨwɨ,s ɨ w ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,SPIDER.MONKEY,709,652
 Sorowaha-97_come-1,,Sorowaha,97_come,sɨza,sɨza,s ɨ z a,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,COME,710,653
+Sorowaha-97_come-2,,Sorowaha,97_come,tiak,tiak,t ia k,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,COME,902,860
 Sorowaha-212_hook-1,,Sorowaha,212_hook,tuuɾi,tuuɾi,t uː ɾ i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,HOOK,713,656
 Sorowaha-509_treetrunk-1,,Sorowaha,509_treetrunk,udani / uḍɨ,udani,u d a n i,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,TRUNK,716,659
 Sorowaha-509_treetrunk-2,,Sorowaha,509_treetrunk,ud̥ɨ,ud̥ɨ,u d̥ ɨ,,dixon2004proto;suzuki2000ocp;suzuki1977fonetica,,,,,FOOT,718,660
@@ -2502,3 +2648,5 @@ Paumari-149_finger-1,,Paumari,149_finger,saʔa / dama,dama,d a m a,,dixon2004pro
 Paumari-149_finger-2,,Paumari,149_finger,saʔa / dama,saʔa,s a ʔ a,,dixon2004proto;chapman1998dicionario,,,,,FINGER,795,752
 Kulina-149_finger-1,,Kulina,149_finger,zepe,zepe,z e p e,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,FINGER,790,750
 Kulina-57_blue-1,,Kulina,57_blue,napana,napana,n a p a n a,,dixon2004proto;monserrat1986gramatica;dienst2014grammar,,,,,BLUE,812,769
+KatukinaBia-567_parrot-1,,KatukinaBia,567_parrot,walu,walu,w aː l u,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad,,,,,PARROT,941,900
+Kanamari-567_parrot-1,,Kanamari,567_parrot,walu,walu,w aː l u,,silva2011fonologia;adelaar2000propuesta;magalhaes2018kanamari;queixalos2007ergatividad;groth1985syntax,,,,,PARROT,941,900
