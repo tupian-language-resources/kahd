@@ -1,13 +1,13 @@
 ID	Name	Family	ISO639P3code	Glottocode	Glottolog_Name	Latitude	Longitude	Macroarea	Sources
-Arawa	Arawa	Arawan	aru	arua1263	Arua	-5.5	-67.98	South_America	ehrenreich1897materialien
-Banawa	Banawa	Arawan		bana1307	Banawa	-6.74	-64.9	South_America	ladefoged1997phonetic
-Deni	Deni	Arawan	dny	deni1241	Deni	-6.75	-67.5	South_America	dixon2004proto,carvalho2013analise,carvalho2013fonologia,carvalho2013sobrefonologia,carvalho2018adjective,koop1985dicionario
-Jamamadi	Jamamadi	Arawan	jaa	jama1261	Madi	-7.62	-66.57	South_America	dixon2004proto,dixon2004adjective
-Jarawara	Jarawara	Arawan		jara1276	Jarawara	-7	-65	South_America	dixon2004proto,dixon1995fusional,vogel2021typology,dixon2004jarawara
-Kulina	Kulina	Arawan	cul	culi1244	Culina	-8.55	-70.66	South_America	dixon2004proto,monserrat1986gramatica,dienst2014grammar
-Paumari	Paumari	Arawan	pad	paum1247	Paumari	-5.78	-64.28	South_America	dixon2004proto,chapman1998dicionario
-Sorowaha	Sorowaha	Arawan	swx	suru1263	Suruahá	-6.83	-66.31	South_America	dixon2004proto,suzuki2000ocp,suzuki1977fonetica
+Arawa	Arawa	Arawan	aru	arua1263	Arua	-5.5	-67.98	South America	ehrenreich1897materialien
+Banawa	Banawa	Arawan		bana1307	Banawa	-6.74	-64.9	South America	ladefoged1997phonetic
+Deni	Deni	Arawan	dny	deni1241	Deni	-6.75	-67.5	South America	dixon2004proto,carvalho2013analise,carvalho2013fonologia,carvalho2013sobrefonologia,carvalho2018adjective,koop1985dicionario
+Jamamadi	Jamamadi	Arawan	jaa	jama1261	Madi	-7.62	-66.57	South America	dixon2004proto,dixon2004adjective
+Jarawara	Jarawara	Arawan		jara1276	Jarawara	-7	-65	South America	dixon2004proto,dixon1995fusional,vogel2021typology,dixon2004jarawara
+Kulina	Kulina	Arawan	cul	culi1244	Culina	-8.55	-70.66	South America	dixon2004proto,monserrat1986gramatica,dienst2014grammar
+Paumari	Paumari	Arawan	pad	paum1247	Paumari	-5.78	-64.28	South America	dixon2004proto,chapman1998dicionario
+Sorowaha	Sorowaha	Arawan	swx	suru1263	Suruahá	-6.83	-66.31	South America	dixon2004proto,suzuki2000ocp,suzuki1977fonetica
 Amarakaeri	Amarakaeri	Harakmbut	amr	amar1274	Amarakaeri	-12.49	-70.55	South_America	adelaar2000propuesta,van2014argument,vanlinden2019harakmbut,van2019nominalization,van2020construction,van2016classifier
 Katawishi	Katawishi	Katukinan	xat	kata1270	Katawixi	-7.25	-64.83	South_America	adelaar2007katawixi,tastevin1920notes
-Kanamari	Kanamari	Katukinan	knm	kana1291	Katukína-Kanamarí	-6.45	68.77	South_America	silva2011fonologia,adelaar2000propuesta,magalhaes2018kanamari,queixalos2007ergatividad,groth1985syntax
-KatukinaBia	KatukinaBiá	Katukinan		katu1276	Katukína-Kanamarí	-6.45	68.77	South_America	silva2011fonologia,adelaar2000propuesta,magalhaes2018kanamari,queixalos2007ergatividad
+Kanamari	Kanamari	Katulinan	knm	kana1291	Katukína-Kanamarí	-6.45	68.77	South_America	silva2011fonologia,adelaar2000propuesta,magalhaes2018kanamari,queixalos2007ergatividad
+ProtoArawan	Proto-Arawan	Arawan						South_America	
