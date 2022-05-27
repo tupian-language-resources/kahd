@@ -9,7 +9,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5166	Sorowaha	AXE	baaɾi	baaɾi	b aː ɾ i	b aː ɾ i	217	217	AXE			
 10310	Katawishi	AXE	toɲhi	toɲhi	t o ɲ h i	t o ɲ h i	853	810	AXE			
 10458	Proto-Arawan	AXE	bari	bari	b a r i	b a r i	217	217	AXE			
-10989	Paumari	AXE	dʒori	dʒori	dʒ o r i	dʒ o r i			AXE			
+10989	Paumari	AXE	dʒori	dʒori	dʒ o r i	dʒ o r i	1053	1010	AXE			
 2	Arawa	GOOD	amoza	amoza	a m o z a	a m o z a	8	8	BE.GOOD			
 34	Banawa	GOOD	amosa	amosa	a m o s a	a m o s a	8	8	BE.GOOD			
 301	Deni	GOOD	amotsʰi	amotsʰi	a m o tsʰ i	a m o tsʰ i	8	8	BE.GOOD			
@@ -426,7 +426,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10037	Sorowaha	YAM	uusə / ahazubi	ahazubi	a h a z u b i	a h a z u b i	657	616	YAM			
 10463	Proto-Arawan	YAM	biha	biha	b i h a	b i h a	330	330	CARÁ			
 10511	KatukinaBiá	YAM	makuna	makuna	m a k u n a	m a k u n a	945	904	CARÁ			
-10512	Kanamari	YAM	makuna	makuna	m a k u n a	m a k u n a		904	CARÁ			
+10512	Kanamari	YAM	makuna	makuna	m a k u n a	m a k u n a	945	904	CARÁ			
 46	Banawa	CASHEW	ajawa	ajawa	a j a w a	a j a w a	205	205	CASHEW			
 653	Jamamadi	CASHEW	winika	winika	w i n i k a	w i n i k a	516	502	CASHEW			
 931	Jarawara	CASHEW	ajawa / winika	ajawa	a j a w a	a j a w a	205	205	CASHEW			
@@ -1240,7 +1240,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1462	Kulina	CRY	ohi	ohi	o h i	o h i	304	304	CRY			
 10147	Sorowaha	CRY	azana	azana	a z a n a	a z a n a	754	717	CRY			
 10770	Proto-Arawan	CRY	ohi	ohi	o h i	o h i	304	304	CRY			
-10976	Paumari	CRY	asara	asara	a s a r a	a s a r a			CRY			
+10976	Paumari	CRY	asara	asara	a s a r a	a s a r a	754	717	CRY			
 150	Banawa	CHOP	kaa / wisi	kaa	k aː	k aː	265	265	CHOP			
 466	Deni	CHOP	ka / witsʰi	ka	k a	k a	265	265	CHOP			
 755	Jamamadi	CHOP	kaa / wisi	kaa	k aː	k aː	265	265	CHOP			
@@ -1906,7 +1906,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10388	Amarakaeri	BIG	mboroʔ / tone	mboroʔ	m/b o r o ʔ	m/b o r o ʔ	913	873	BIG			
 10739	Proto-Arawan	BIG	naɓi	naɓi	n a ɓ i	n a ɓ i	138	138	BIG			
 10919	Amarakaeri	BIG	mboroʔ / tone	tone	t o n e	t o n e	450	560	BIG			
-10970	Paumari	BIG	naɓaha / karaho	karaho	k a r a h o	k a r a h o			BIG			
+10970	Paumari	BIG	naɓaha / karaho	karaho	k a r a h o	k a r a h o	1054	1011	BIG			
 261	Banawa	UNDERSIDE	boɸe	boɸe	b o ɸ e	b o ɸ e	140	140	UNDERSIED			
 600	Deni	UNDERSIDE	bopa	bopa	b o p a	b o p a	140	140	UNDERSIED			
 869	Jamamadi	UNDERSIDE	boɸe	boɸe	b o ɸ e	b o ɸ e	140	140	UNDERSIED			
@@ -2127,7 +2127,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10172	Jarawara	BLACK	soki / hahasa na	hahasa na	h a h a s a + n a	h a h a s a + n a	771	735 734	? CAUSATIVE			
 10173	Jarawara	BLACK	soki / hahasa na	soki	s o k i	s o k i	770	733	BLACK			
 10412	Amarakaeri	BLACK	sik	sik	s i k	s i k	934	894	BLACK			
-10981	Paumari	BLACK	bara / pororo	pororo	p o r o r o	p o r o r o			BLACK			
+10981	Paumari	BLACK	bara / pororo	pororo	p o r o r o	p o r o r o	1057	1014	BLACK			
 323	Deni	CORPSE	abapo	abapo	a b a p o	a b a p o	574	561	CORPSE			
 324	Deni	CORRECT (RIGHT)	naniarini	naniarini	n a n i a r i n i	n a n i a r i n i	575	562	CORRECT			
 326	Deni	DAY (NOT NIGHT)	vada	vada	v a d a	v a d a	576	563	DAY			
@@ -3194,8 +3194,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10945	Amarakaeri	CARRY	jʉk	jʉk	j ʉ k	j ʉ k	994	954	CARRY			
 10947	Amarakaeri	OLDER BROTHER (OF WOMAN)	pogn	pogn	p o g n	p o g n	1000	959	BROTHER			
 10953	Paumari	GUAVA	kaira	kaira	k ai r a	k ai r a	1022	978	GUAVA			
-10954	Paumari	MAKE	namonaha / maravi	maravi	m a r a v i	m a r a v i			MAKE			
-10961	Paumari	MAKE	namonaha / maravi	namonaha	n a m o n a h a	n a m o n a h a			MAKE			
+10954	Paumari	MAKE	namonaha / maravi	maravi	m a r a v i	m a r a v i	1055	1012	MAKE			
+10961	Paumari	MAKE	namonaha / maravi	namonaha	n a m o n a h a	n a m o n a h a	1056	1013	MAKE			
 10987	Paumari	BROTHER	ʔaajo	ʔaajo	ʔ a a j o	ʔ a a j o	1010	967	BROTHER			
 10995	Paumari	SHELL	topava	topava	t o p a v a	t o p a v a	1037	992	SHELL			
 10998	Paumari	OLDER BROTHER	aadʒodʒahiki	aadʒodʒahiki	aa dʒ o dʒ a h i k i	aa dʒ o dʒ a h i k i	1030	985	OLDER.BROTHER			
