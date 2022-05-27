@@ -24,16 +24,16 @@ This dataset is licensed under a MIT License license
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 13
-- **Concepts:** 582
-- **Lexemes:** 3,143
+- **Concepts:** 593
+- **Lexemes:** 3,225
 - **Sources:** 30
 - **Synonymy:** 1.11
-- **Cognacy:** 3,215 cognates in 1,036 cognate sets (503 singletons)
-- **Cognate Diversity:** 0.18
+- **Cognacy:** 3,305 cognates in 1,104 cognate sets (557 singletons)
+- **Cognate Diversity:** 0.19
 - **Invalid lexemes:** 0
-- **Tokens:** 14,816
-- **Segments:** 109 (0 BIPA errors, 0 CTLS sound class errors, 109 CLTS modified)
-- **Inventory size (avg):** 31.62
+- **Tokens:** 15,229
+- **Segments:** 110 (0 BIPA errors, 0 CTLS sound class errors, 110 CLTS modified)
+- **Inventory size (avg):** 33.00
 
 ## CLDF Datasets
 

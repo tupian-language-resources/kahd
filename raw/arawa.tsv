@@ -221,7 +221,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1824	Paumari	WATER	paha	paha	p a h a	p a h a	157	157	WATER			
 5148	Sorowaha	WATER	bami	bami	b a m i	b a m i	514	498	WATER			
 10320	Katawishi	WATER	wa	wa	w a	w a	157	157	WATER			
-10406	Amarakaeri	WATER	wẽʔẽj̃	wẽʔẽj̃	w ẽ ʔ ẽ j̃	w ẽ ʔ ẽ j̃	928	887	WATER			
+10406	Amarakaeri	WATER	wẽʔẽj̃	wẽʔẽj̃	w ẽ ʔ ẽ j̃	w ẽ ʔ ẽ j̃	928	887	WATER			
 10788	Proto-Arawan	WATER	phaha	phaha	pʰ a h a	pʰ a h a	157	157	WATER			
 21	Arawa	TURTLE	chirí	chirí	c h i r í	c h i r í	172	172	TURTLE			
 285	Banawa	TURTLE	sire	sire	s i r e	s - i r e	172	172	TURTLE			
@@ -1051,7 +1051,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1047	Jarawara	SAND	siki	siki	s i k i	s i k i - - - - -	266	266	SAND			
 1422	Kulina	SAND	tsʰiki wɛtsʰɛ / tsʰiki	tsʰiki wɛtsʰɛ	tsʰ i k i + w ɛ tsʰ ɛ	tsʰ i k i + w ɛ tsʰ ɛ	266	266 517	SAND ?			
 1423	Kulina	SAND	tsʰiki wɛtsʰɛ / tsʰiki	tsʰiki	tsʰ i k i	tsʰ i k i - - - - -	266	266	SAND			
-1712	Paumari	SAND	kaasi	kaasi	k aː s i	k aː s i - -	527	516	SAND			Also 'beach'
+1712	Paumari	SAND	kaasi	kaasi	k aː s i	k aː s i - -	527	516	SAND			Also "beach"
 1893	Sorowaha	SAND	asidʒu	asidʒu	a s i dʒ u	a s i dʒ u	527	516	SAND			
 10309	Katawishi	SAND	tikihi	tikihi	t i k i h i	t i k i h i	266	266	SAND			
 10657	Proto-Arawan	SAND	kaaxijo / shiki	kaaxijo	k aː x i j o	k aː x i j o	527	516	SAND			
@@ -1405,7 +1405,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1920	Sorowaha	TREE	aga / wakana	aga	a g a	a g a	546	537	TREE			
 1921	Sorowaha	TREE	aga / wakana	wakana	w a k a n a	w a k a n a	4	4	TREE			
 10338	Katawishi	TREE	hihi	hihi	h i h i	h i h i	871	829	TREE			
-10400	Amarakaeri	TREE	wẽj̃	wẽj̃	w ẽ j̃	w ẽ j̃	923	882	TREE			
+10400	Amarakaeri	TREE	wẽj̃	wẽj̃	w ẽ j̃	w ẽ j̃	923	882	TREE			
 10417	Proto-Arawan	TREE	aga / mahowa / wakana	aga	a g a	a g a	546	537	TREE			
 10718	Proto-Arawan	TREE	aga / mahowa / wakana	mahowa	m a h o w a	m a h o w a	849	806	TREE			
 10756	Banawa	TREE	awa	awa	a w a	a w a	546	537	TREE			
@@ -2010,7 +2010,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 616	Deni	SHARPEN (SOMETHING)	jo	jo	j o	- - j o	163	163	SHARPEN			
 887	Jamamadi	SHARPEN (SOMETHING)	seo	seo	s e o	s e - o	163	163	SHARPEN			
 1249	Jarawara	SHARPEN (SOMETHING)	seo	seo	s e o	s e - o	163	163	SHARPEN			
-1827	Paumari	SHARPEN (SOMETHING)	sajo	sajo	s a j o	s a j o	163	163	SHARPEN			Also 'be sharp'
+1827	Paumari	SHARPEN (SOMETHING)	sajo	sajo	s a j o	s a j o	163	163	SHARPEN			Also "be sharp"
 10104	Sorowaha	SHARPEN (SOMETHING)	kazumaɾi	kazumaɾi	k a + z u m a ɾ i	k a + z u m a ɾ i	731	680 679	CAUSATIVE SHARPEN			
 10829	Proto-Arawan	SHARPEN (SOMETHING)	sejo	sejo	s e j o	s e j o	163	163	SHARPEN			
 279	Banawa	PEEL	saa	saa	s aː	s aː	166	166	PEEL			
@@ -2900,7 +2900,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1989	Sorowaha	ARROW	tɨbɨ	tɨbɨ	t ɨ b ɨ	t ɨ b ɨ	353	124	ARROW			
 10296	Arawa	ARROW	atu	atu	a t u	a t u	842	799	ARROW			
 10312	Katawishi	ARROW	tenkpa	tenkpa	t e n k p a	t e n k p a	855	812	ARROW			
-10405	Amarakaeri	ARROW	pĩã	pĩã	p ĩã	p ĩã	927	886	ARROW			
+10405	Amarakaeri	ARROW	pĩã	pĩã	p ĩã	p ĩã	927	886	ARROW			
 10978	Paumari	ARROW	abiha	abiha	a b i h a	a b i h a	953	964	ARROW			
 1991	Sorowaha	PLACE (POSITION)	dʋʋki / dʋci	dʋʋki	d ʋː k i	d ʋː k i	454	437	PLACE			
 5033	Sorowaha	PLACE (POSITION)	dʋʋki / dʋci	dʋci	d ʋ c i	d ʋ c i	454	437	PLACE			
@@ -3200,8 +3200,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10945	Amarakaeri	CARRY	jʉk	jʉk	j ʉ k	j ʉ k	994	954	CARRY			
 10947	Amarakaeri	OLDER BROTHER (OF WOMAN)	pogn	pogn	p o g n	p o g n	1000	959	BROTHER			
 10953	Paumari	GUAVA	kaira	kaira	k ai r a	k ai r a	1022	978	GUAVA			
-10954	Paumari	MAKE	namonaha / maravi	maravi	m a r a v i	m a r a v i	1055	1012	MAKE			
-10961	Paumari	MAKE	namonaha / maravi	namonaha	n a m o n a h a	n a m o n a h a	1056	1013	MAKE			
+10954	Paumari	DO OR MAKE	namonaha / maravi	maravi	m a r a v i	m a r a v i	1055	1012	MAKE			
+10961	Paumari	DO OR MAKE	namonaha / maravi	namonaha	n a m o n a h a	n a m o n a h a	1056	1013	MAKE			
 10987	Paumari	BROTHER	ʔaajo	ʔaajo	ʔ a a j o	ʔ a a j o	1010	967	BROTHER			
 10995	Paumari	SHELL	topava	topava	t o p a v a	t o p a v a	1037	992	SHELL			
 10998	Paumari	OLDER BROTHER	aadʒodʒahiki	aadʒodʒahiki	aa dʒ o dʒ a h i k i	aa dʒ o dʒ a h i k i	1030	985	OLDER.BROTHER			
@@ -3210,9 +3210,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11015	Jarawara	AMAZON RIVER DOLPHIN	boto	boto	b o t o	b o t o	1059	1016	AMAZON.RIVER.DOLPHIN		YES	Loan from Portuguese
 11016	Jamamadi	AMAZON RIVER DOLPHIN	hasika	hasika	h a s i k a	h a s i k a	1060	1017	AMAZON.RIVER.DOLPHIN			
 11023	Sorowaha	AMAZON RIVER DOLPHIN	husuri	husuri	h u s u r i	h u s u r i	1064	1021	AMAZON.RIVER.DOLPHIN			
-11024	Jarawara	MANATEE	peixe-boi	peixe-boi	p ei ʃ e + b oi	p ei ʃ e + b oi	1066	1023 1024	FISH OX		YES	Borrowing from Portuguese
-11025	Banawa	MANATEE	bona	bona	b o n a	b o n a	1065	1022	MANATEE			
-11026	Jamamadi	MANATEE	peixe-boi	peixe-boi	p ei ʃ e + b oi	p ei ʃ e + b oi	1066	1023 1024	FISH OX			
+11024	Jarawara	AMAZON RIVER DOLPHIN	peixe-boi	peixe-boi	p ei ʃ e + b oi	p ei ʃ e + b oi	1066	1023 1024	FISH OX		YES	Borrowing from Portuguese
+11025	Banawa	AMAZON RIVER DOLPHIN	bona	bona	b o n a	b o n a	1065	1022	MANATEE			
+11026	Jamamadi	AMAZON RIVER DOLPHIN	peixe-boi	peixe-boi	p ei ʃ e + b oi	p ei ʃ e + b oi	1066	1023 1024	FISH OX			
 11027	Banawa	WILD DOG	kawara	kawara	k a w a r a	k a w a r a	1067	1025	WILD.DOG			
 11028	Sorowaha	WILD DOG	madʒirini	madʒirini	m a dʒ i r i n i	m a dʒ i r i n i	1068	1026	WILD.DOG			
 11029	Jarawara	WILD DOG	kawara	kawara	k a w a r a	k a w a r a	1067	1025	WILD.DOG			
