@@ -1,5 +1,5 @@
 ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	BORROWING	NOTE
-1	Arawa	AXE	barí	barí	b a r í	b a r í	217	217	AXE			
+1	Arawa	AXE	barí	barí	b a r i	b a r i	217	217	AXE			
 28	Banawa	AXE	bari	bari	b a r i	b a r i	217	217	AXE			
 295	Deni	AXE	bari	bari	b a r i	b a r i	217	217	AXE			
 637	Jamamadi	AXE	bari	bari	b a r i	b a r i	217	217	AXE			
@@ -22,7 +22,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10509	Kanamari	GOOD	nuk	nuk	n u k	n u k	914	874	BE.GOOD			
 10510	KatukinaBiá	GOOD	nuk	nuk	n u k	n u k	914	874	BE.GOOD			
 10810	Katawishi	GOOD	ahã	ahã	a h ã	a h ã	806	763	BE.GOOD			
-3	Arawa	FIRE	ʃihú	ʃihú	ʃ i h ú	ʃ i h ú	259	259	FIRE			
+3	Arawa	FIRE	ʃihú	ʃihú	ʃ i h u	ʃ i h u	259	259	FIRE			
 65	Banawa	FIRE	jiɸo	jifo	j i f o	j i f o	259	259	FIRE			
 340	Deni	FIRE	jipho	jipho	j i pʰ o	j i pʰ o	259	259	FIRE			
 669	Jamamadi	FIRE	jiɸo	jiɸo	j i ɸ o	j i ɸ o	259	259	FIRE			
@@ -62,6 +62,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10398	Amarakaeri	HOUSE	hak	hak	h a k	h a k	922	881	HOUSE			
 10630	Proto-Arawan	HOUSE	jamari	jamari	j a m a r i	j a m a r i	254	254	HOUSE			
 10965	Paumari	HOUSE	gora	gora	g o r a	g o r a	1023	979	HOUSE			
+11167	Jarawara	HOUSE	jobe / tabori	jobe	j o b e	j o b e	1120	1078	HOUSE			
+11168	Jarawara	HOUSE	ate	ate	a t e	a t e	254	254	HOUSE			
+11211	Banawa	HOUSE	jobe	jobe	j o b e	j o b e	1130	1087	HOUSE			
 6	Arawa	LAKE	daku	daku	d a k u	- d a k u	355	174	LAKE			
 374	Deni	LAKE	korija	korija	k o r i j a	k o r i j a	46	46	LAKE			
 1004	Jarawara	LAKE	rako	rako	r a k o	- r a k o	355	174	LAKE			
@@ -112,7 +115,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10397	Amarakaeri	TAPIR	keme	keme	k e m e	k e m e	921	880	TAPIR			
 10439	Proto-Arawan	TAPIR	awi	awi	a w i	a w i - -	14	14	TAPIR			
 10996	Paumari	TAPIR	ɗaama	ɗaama	ɗ aː m a	ɗ aː m a	1043	998	TAPIR			
-11	Arawa	WHITE-LIPPED PECCARY	isamá	isamá	i s a m á	- i s a m á	243	243	WHITE-LIPPED.PECCARY			
+11	Arawa	WHITE-LIPPED PECCARY	isamá	isamá	i s a m a	- i s a m a	243	243	WHITE-LIPPED.PECCARY			
 176	Banawa	WHITE-LIPPED PECCARY	hijama	hijama	h i j a m a	h i j a m a	243	243	WHITE-LIPPED.PECCARY			
 502	Deni	WHITE-LIPPED PECCARY	hijama	hijama	h i j a m a	h i j a m a	243	243	WHITE-LIPPED.PECCARY			
 786	Jamamadi	WHITE-LIPPED PECCARY	hijama	hijama	h i j a m a	h i j a m a	243	243	WHITE-LIPPED.PECCARY			
@@ -221,7 +224,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1824	Paumari	WATER	paha	paha	p a h a	p a h a	157	157	WATER			
 5148	Sorowaha	WATER	bami	bami	b a m i	b a m i	514	498	WATER			
 10320	Katawishi	WATER	wa	wa	w a	w a	157	157	WATER			
-10406	Amarakaeri	WATER	wẽʔẽj̃	wẽʔẽj̃	w ẽ ʔ ẽ j̃	w ẽ ʔ ẽ j̃	928	887	WATER			
+10406	Amarakaeri	WATER	wẽʔẽj̃	wẽʔẽj̃	w ẽ ʔ ẽ j̃	w ẽ ʔ ẽ j̃	928	887	WATER			
 10788	Proto-Arawan	WATER	phaha	phaha	pʰ a h a	pʰ a h a	157	157	WATER			
 21	Arawa	TURTLE	chirí	chirí	c h i r í	c h i r í	172	172	TURTLE			
 285	Banawa	TURTLE	sire	sire	s i r e	s - i r e	172	172	TURTLE			
@@ -331,7 +334,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 913	Jarawara	BURN (INJURY)	hati	hati	h a t i	h a t i	326	326	BE.BURNT			
 1640	Paumari	BURN (INJURY)	haɗi	haɗi	h a ɗ i	h a ɗ i	326	326	BE.BURNT			
 10584	Proto-Arawan	BURN (INJURY)	haɗi	haɗi	h a ɗ i	h a ɗ i	326	326	BE.BURNT			
-35	Banawa	BE HUNGRY	ɸimiha	ɸimiha	ɸ i m i h a	ɸ i - - - m i h a	327	327	BE.HUNGRY			
+35	Banawa	BE HUNGRY	ɸimi	ɸimi	ɸ i m i	ɸ i m i	327	327	BE.HUNGRY			
 302	Deni	BE HUNGRY	pemi	pemi	p e m i	p e - - - m i - -	327	327	BE.HUNGRY			
 641	Jamamadi	BE HUNGRY	ɸimiha	ɸimiha	ɸ i m i h a	ɸ i - - - m i h a	327	327	BE.HUNGRY			
 915	Jarawara	BE HUNGRY	ɸimiha	ɸimiha	ɸ i m i h a	ɸ i - - - m i h a	327	327	BE.HUNGRY			
@@ -356,6 +359,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 922	Jarawara	BITTER	bita	bita	b i t a	b i t a - -	219	219	BITTER			
 1288	Kulina	BITTER	bida	bida	b i d a	b i d a - -	219	219	BITTER			
 10461	Proto-Arawan	BITTER	bidaro	bidaro	b i d a r o	b i d a r o	219	219	BITTER			
+11171	Sorowaha	BITTER	idʒaba	idʒaba	i dʒ aː b a	i dʒ aː b a	1121	1079	BITTER			
 39	Banawa	BLACK-FRONTED NUNBIRD	taakoro	taakoro	t aː k o r o	t aː - - k o r o - -	329	329	BLACK-FRONTED.NUNBIRD			
 313	Deni	BLACK-FRONTED NUNBIRD	tawikoro	tawikoro	t a w i k o r o	t a w i k o r o - -	329	329	BLACK-FRONTED.NUNBIRD			
 646	Jamamadi	BLACK-FRONTED NUNBIRD	tawakoro	tawakoro	t a w a k o r o	t a w a k o r o - -	329	329	BLACK-FRONTED.NUNBIRD			
@@ -448,6 +452,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 655	Jamamadi	CHEEK	ebete	ebete	e b e t e	e b e t e	331	331	CHEEK			
 934	Jarawara	CHEEK	ebete	ebete	e b e t e	e b e t e	331	331	CHEEK			
 1297	Kulina	CHEEK	ɛbɛt̪ʰɛ	ɛbɛt̪ʰɛ	ɛ b ɛ t̪ʰ ɛ	ɛ b ɛ t̪ʰ ɛ	331	331	CHEEK			
+11174	Sorowaha	CHEEK	marusɨ	marusɨ	m a r u s ɨ	m a r u s ɨ	1122	1080	CHEEK			
 49	Banawa	CHEST	baki	baki	b a k i	b a k i - - - - -	21	21	CHEST			
 320	Deni	CHEST	bakho	bakho	b a kʰ o	b a kʰ o - - - - -	21	21	CHEST			
 656	Jamamadi	CHEST	baki	baki	b a k i	b a k i - - - - -	21	21	CHEST			
@@ -515,14 +520,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1856	Sorowaha	EAR	waɾoba	waɾoba	w a ɾ o b a	w a ɾ o b a	300	300	EAR			
 10302	Katawishi	EAR	kiraba	kiraba	k i r a b a	k i r a b a	846	803	EAR			
 10746	Proto-Arawan	EAR	naribo	naribo	n a r i b o	n a r i b o	300	300	EAR			
-57	Banawa	EARTHWORM	somi	somi	s o m i	s o m i	335	335	EARTHWORM			
-334	Deni	EARTHWORM	tsʰomi	tsʰomi	tsʰ o m i	tsʰ o m i	335	335	EARTHWORM			
-663	Jamamadi	EARTHWORM	somi	somi	s o m i	s o m i	335	335	EARTHWORM			
-954	Jarawara	EARTHWORM	somi	somi	s o m i	s o m i	335	335	EARTHWORM			
-1312	Kulina	EARTHWORM	tsʰomi	tsʰomi	tsʰ o m i	tsʰ o m i	335	335	EARTHWORM			
-1857	Sorowaha	EARTHWORM	somi /sʊʊmi	somi	s o m i	s o m i	335	335	EARTHWORM			
-5189	Sorowaha	EARTHWORM	somi /sʊʊmi	sʊʊmi	s ʊː m i	s ʊː m i	335	335	EARTHWORM			
-10848	Proto-Arawan	EARTHWORM	shomi	shomi	tsʰ o m i	tsʰ o m i	335	335	EARTHWORM			
+57	Banawa	EARTHWORM	somi	somi	s o m i	s o m i	335	335	EARTHWORM		YES	Of Arawak origin
+334	Deni	EARTHWORM	tsʰomi	tsʰomi	tsʰ o m i	tsʰ o m i	335	335	EARTHWORM		YES	Of Arawak origin
+663	Jamamadi	EARTHWORM	somi	somi	s o m i	s o m i	335	335	EARTHWORM		YES	Of Arawak origin
+954	Jarawara	EARTHWORM	somi	somi	s o m i	s o m i	335	335	EARTHWORM		YES	Of Arawak origin
+1312	Kulina	EARTHWORM	tsʰomi	tsʰomi	tsʰ o m i	tsʰ o m i	335	335	EARTHWORM		YES	Of Arawak origin
+1857	Sorowaha	EARTHWORM	somi /sʊʊmi	somi	s o m i	s o m i	335	335	EARTHWORM		YES	Of Arawak origin
+5189	Sorowaha	EARTHWORM	somi /sʊʊmi	sʊʊmi	s ʊː m i	s ʊː m i	335	335	EARTHWORM		YES	Of Arawak origin
+10848	Proto-Arawan	EARTHWORM	shomi	shomi	tsʰ o m i	tsʰ o m i	335	335	EARTHWORM		YES	Of Arawak origin
+11053	Paumari	EARTHWORM	doomi	doomi	d oː m i	d oː m i	335	335	EARTHWORM		YES	Of Arawak origin
 58	Banawa	ELECTRIC EEL	imati	imati	i m a t i	- i m a t i	291	291	ELECTRIC.EEL			
 335	Deni	ELECTRIC EEL	minati	minati	m i n a t i	m i n a t i	291	291	ELECTRIC.EEL			
 955	Jarawara	ELECTRIC EEL	imati	imati	i m a t i	- i m a t i	291	291	ELECTRIC.EEL			
@@ -1405,7 +1411,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1920	Sorowaha	TREE	aga / wakana	aga	a g a	a g a	546	537	TREE			
 1921	Sorowaha	TREE	aga / wakana	wakana	w a k a n a	w a k a n a	4	4	TREE			
 10338	Katawishi	TREE	hihi	hihi	h i h i	h i h i	871	829	TREE			
-10400	Amarakaeri	TREE	wẽj̃	wẽj̃	w ẽ j̃	w ẽ j̃	923	882	TREE			
+10400	Amarakaeri	TREE	wẽj̃	wẽj̃	w ẽ j̃	w ẽ j̃	923	882	TREE			
 10417	Proto-Arawan	TREE	aga / mahowa / wakana	aga	a g a	a g a	546	537	TREE			
 10718	Proto-Arawan	TREE	aga / mahowa / wakana	mahowa	m a h o w a	m a h o w a	849	806	TREE			
 10756	Banawa	TREE	awa	awa	a w a	a w a	546	537	TREE			
@@ -1746,12 +1752,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1181	Jarawara	HORSEFLY	karajati	karajati	k a r a j a t i	k a r a j a t i	103	103	HORSEFLY			
 1952	Sorowaha	HORSEFLY	kaɾiti	kaɾiti	k a ɾ i t i	k a ɾ i - - t i	103	103	HORSEFLY			
 10670	Proto-Arawan	HORSEFLY	karajati	karajati	k a r a j a t i	k a r a j a t i	103	103	HORSEFLY			
-222	Banawa	MAIZE	kimi	kimi	k i m i	k i m i	105	105	MAIZE			
-557	Deni	MAIZE	kimi	kimi	k i m i	k i m i	105	105	MAIZE			
-830	Jamamadi	MAIZE	kimi	kimi	k i m i	k i m i	105	105	MAIZE			
-1183	Jarawara	MAIZE	kimi	kimi	k i m i	k i m i	105	105	MAIZE			
-1954	Sorowaha	MAIZE	kimi	kimi	k i m i	k i m i	105	105	MAIZE			
-10677	Proto-Arawan	MAIZE	kimi	kimi	k i m i	k i m i	105	105	MAIZE			
+222	Banawa	MAIZE	kimi	kimi	k i m i	k i m i	105	105	MAIZE			Possibly of Arawak origin
+557	Deni	MAIZE	kimi	kimi	k i m i	k i m i	105	105	MAIZE			Possibly of Arawak origin
+830	Jamamadi	MAIZE	kimi	kimi	k i m i	k i m i	105	105	MAIZE			Possibly of Arawak origin
+1183	Jarawara	MAIZE	kimi	kimi	k i m i	k i m i	105	105	MAIZE			Possibly of Arawak origin
+1954	Sorowaha	MAIZE	kimi	kimi	k i m i	k i m i	105	105	MAIZE			Possibly of Arawak origin
+10677	Proto-Arawan	MAIZE	kimi	kimi	k i m i	k i m i	105	105	MAIZE			Possibly of Arawak origin
 223	Banawa	THREE-TOED SLOTH	kerewe	kerewe	k e r e w e	k e r e w e	106	106	THREE-TOED.SLOTH			
 558	Deni	THREE-TOED SLOTH	kiriwe	kiriwe	k i r i w e	k i r i w e	106	106	THREE-TOED.SLOTH			
 831	Jamamadi	THREE-TOED SLOTH	kerewe	kerewe	k e r e w e	k e r e w e	106	106	THREE-TOED.SLOTH			
@@ -1811,13 +1817,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1500	Kulina	SUCK	tomi / hitsi	hitsi	h i t s i	h i t s i	566	544	SUCK			
 1829	Paumari	SUCK	soso	soso	s o s o	s o s o	165	165	SUCK			
 10831	Proto-Arawan	SUCK	soso	soso	s o s o	s o s o	165	165	SUCK			
-240	Banawa	WOODPECKER	koka	koka	k o k a	k o k a	113	113	WOODPECKER.SP.			
-576	Deni	WOODPECKER	koka	koka	k o k a	k o k a	113	113	WOODPECKER.SP.			
-846	Jamamadi	WOODPECKER	koka	koka	k o k a	k o k a	113	113	WOODPECKER.SP.			
-1205	Jarawara	WOODPECKER	koka	koka	k o k a	k o k a	113	113	WOODPECKER.SP.			
-1591	Kulina	WOODPECKER	koka	koka	k o k a	k o k a	113	113	WOODPECKER.SP.			
-1808	Paumari	WOODPECKER	okajori	okajori	o k a j o r i	o k a j o r i	400	379	WOODPECKER.SP.			
-10684	Proto-Arawan	WOODPECKER	koka	koka	k o k a	k o k a	113	113	WOODPECKER.SP.			
+240	Banawa	WOODPECKER	koka	koka	k o k a	k o k a	113	113	WOODPECKER.SP.			Possibly of Arawak origin
+576	Deni	WOODPECKER	koka	koka	k o k a	k o k a	113	113	WOODPECKER.SP.			Possibly of Arawak origin
+846	Jamamadi	WOODPECKER	koka	koka	k o k a	k o k a	113	113	WOODPECKER.SP.			Possibly of Arawak origin
+1205	Jarawara	WOODPECKER	koka	koka	k o k a	k o k a	113	113	WOODPECKER.SP.			Possibly of Arawak origin
+1591	Kulina	WOODPECKER	koka	koka	k o k a	k o k a	113	113	WOODPECKER.SP.			Possibly of Arawak origin
+1808	Paumari	WOODPECKER	okajori	okajori	o k a j o r i	o k a j o r i	113	113	WOODPECKER.SP.			Possibly of Arawak origin
+10684	Proto-Arawan	WOODPECKER	koka	koka	k o k a	k o k a	113	113	WOODPECKER.SP.			Possibly of Arawak origin
 241	Banawa	THROW	koro	koro	k o r o	k o r o	115	115	THROW			
 577	Deni	THROW	koro	koro	k o r o	k o r o	115	115	THROW			
 848	Jamamadi	THROW	koro	koro	k o r o	k o r o	115	115	THROW			
@@ -2030,6 +2036,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1252	Jarawara	OTTER	sabira	sabira	s a b i r a	s a b i r a	167	167	OTTER			
 1625	Kulina	OTTER	tsʰabiɾa	tsʰabiɾa	tsʰ a b i ɾ a	tsʰ a b i ɾ a	167	167	OTTER			
 10833	Proto-Arawan	OTTER	shabira	shabira	tsʰ a b i r a	tsʰ a b i r a	167	167	OTTER			
+11219	Sorowaha	OTTER	mahikadɨ	mahikadɨ	m a h i k a d ɨ	m a h i k a d ɨ	623	551	OTTER			
 282	Banawa	TOBACCO	sina	sina	s i n a	s i n a	169	169	TOBACCO			
 622	Deni	TOBACCO	tsʰina	tsʰina	tsʰ i n a	tsʰ i n a	169	169	TOBACCO			
 891	Jamamadi	TOBACCO	sina	sina	s i n a	s i n a	169	169	TOBACCO			
@@ -2086,9 +2093,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10495	Kanamari	ARM	paŋ	paŋ	p a ŋ	p a ŋ	940	899	ARM			
 10496	KatukinaBiá	ARM	paŋ	paŋ	p a ŋ	p a ŋ	940	899	ARM			
 10959	Paumari	ARM	vadi	vadi	v a d i	v a d i	562	963	ARM			
+11080	Banawa	ARM	mani	mani	m a n i	m a n i	940	899	ARM			Fem.
+11180	Jarawara	ARM	mani	mani	m a n i	m a n i	940	899	ARM			
 296	Deni	BACURI	boti	boti	b o t i	b o t i	29	29	BACURI			
 1637	Paumari	BACURI	bodi	bodi	b o d i	b o d i	29	29	BACURI			
 10529	Proto-Arawan	BACURI	bodi	bodi	b o d i	b o d i	29	29	BACURI			
+11182	Jarawara	BACURI	jowa hotokoro / wanija / wasaraba / wajara	jowa hotokoro	j o w a + h o t o k o r o	j o w a + h o t o k o r o	1123	1081 1082	? ?			
+11184	Jarawara	BACURI	jowa hotokoro / wanija / wasaraba / wajara	wanija	w a n i j a	w a n i j a	1124	1083	BACURI			
+11185	Jarawara	BACURI	jowa hotokoro / wanija / wasaraba / wajara	wasaraba	w a s a r a b a	w a s a r a b a	1125	1084	BACURI			
+11186	Jarawara	BACURI	jowa hotokoro / wanija / wasaraba / wajara	wajara	w a j a r a	w a j a r a	1126	1085	BACURI			
 297	Deni	BAD	hirade	hirade	h i r a d e	h i r a d e	324	324	BAD			
 1273	Kulina	BAD	bitsʰa / waidiɾa /tabakʰoɾa	bitsʰa	b i tsʰ a	b i tsʰ a	357	286	BAD			
 1274	Kulina	BAD	bitsʰa / waidiɾa /tabakʰoɾa	tabakʰoɾa	t a b a kʰ o ɾ a	t a b a kʰ o ɾ a	571	559	BAD			
@@ -2097,19 +2110,26 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10168	Jarawara	BAD	hijara / tohe	hijara	h i j a r a	h i j a r a	768	731	BAD			
 10169	Jarawara	BAD	hijara / tohe	tohe	t o h e	t o h e	767	730	BAD			
 10290	Arawa	BAD	amozaraha	amozaraha	a m o z a r a h a	a m o z a r a h a	838	796	BAD			
+11086	Banawa	BAD	erebo / siba	erebo	e r e b o	e r e b o	1094	1054	BAD			
+11087	Banawa	BAD	erebo / siba	siba	s i b a	s i b a	1095	1055	BAD			
 300	Deni	BATHE	konaha	konaha	k o n a h a	k o n a h a	276	276	BATHE			
 1278	Kulina	BATHE	kona	kona	k o n a	k o n a - -	276	276	BATHE			
 1639	Paumari	BATHE	kona	kona	k o n a	k o n a - -	276	276	BATHE			
 10690	Proto-Arawan	BATHE	konaha	konaha	k o n a h a	k o n a h a	276	276	BATHE			
+11088	Banawa	BATHE	aɸi	aɸi	a ɸ i	a ɸ i	1096	1056	BATHE			
+11189	Jarawara	BATHE	aɸi	aɸi	a ɸ i	a ɸ i	1096	1056	BATHE			
+11191	Proto-Arawan	BATHE	inaha	inaha	i nː a h a	i nː a h a	276	276	BATHE			
 303	Deni	BEAK	bono	bono	b o n o	b o n o	33	33	BEAK			
 1280	Kulina	BEAK	bono	bono	b o n o	b o n o	33	33	BEAK			
 1642	Paumari	BEAK	bono	bono	b o n o	b o n o	33	33	BEAK			
 10533	Proto-Arawan	BEAK	bono	bono	b o n o	b o n o	33	33	BEAK			
+11198	Jarawara	BEAK	boni	boni	b o n i	b o n i	33	33	BEAK			
 305	Deni	BEETLE	hijabo	hijabo	h i j a b o	h i j a b o	242	242	BEETLE			
 643	Jamamadi	BEETLE	hijabo	hijabo	h i j a b o	h i j a b o	242	242	BEETLE			
 917	Jarawara	BEETLE	hijabo	hijabo	h i j a b o	h i j a b o	242	242	BEETLE			
 1283	Kulina	BEETLE	hijabo	hijabo	h i j a b o	h i j a b o	242	242	BEETLE			
 10598	Proto-Arawan	BEETLE	hijabo	hijabo	h i j a b o	h i j a b o	242	242	BEETLE			
+11090	Banawa	BEETLE	kakiro	kakiro	k a k i r o	k a k i r o	361	355	BEETLE			
 307	Deni	BELLY	dzaha / jehe	dzaha	dz a h a	dz a h a	287	287	BELLY			
 369	Deni	BELLY	dzaha / jehe	jehe	j e h e	j e h e	1228	1228	ABDOMEN			
 919	Jarawara	BELLY	nabati	nabati	n a b a t i	n a b a t i	388	366	BELLY			
@@ -2132,6 +2152,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10412	Amarakaeri	BLACK	sik	sik	s i k	s i k	934	894	BLACK			
 10981	Paumari	BLACK	bara / pororo	pororo	p o r o r o	p o r o r o	1057	1014	BLACK			
 323	Deni	CORPSE	abapo	abapo	a b a p o	a b a p o	574	561	CORPSE			
+11116	Banawa	CORPSE	abowi	abowi	a b o w i	a b o w i	574	561	CORPSE			
 324	Deni	CORRECT (RIGHT)	naniarini	naniarini	n a n i a r i n i	n a n i a r i n i	575	562	CORRECT			
 326	Deni	DAY (NOT NIGHT)	vada	vada	v a d a	v a d a	576	563	DAY			
 941	Jarawara	DAY (NOT NIGHT)	jia	jia	j i a	j i a	577	564	DAY			
@@ -2144,6 +2165,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10051	Sorowaha	DIRTY	asa / kasiikɨ	asa	a s a	a s a	676	627	DARK			
 10121	Sorowaha	DIRTY	asa / kasiikɨ	kasiikɨ	k a s iː k ɨ	k a s iː k ɨ	743	705	DIRTY			
 11006	Paumari	DIRTY	ʔbiiʃa / makamaka	makamaka	m a k a m a k a	m a k a m a k a	1015	971	DIRTY			
+11130	Banawa	DIRTY	bisa	bisa	b i s a	b i s a	14	14	DIRTY			
 337	Deni	FAR	vahini	vahini	v a h i n i	v a h i n i	1243	1243	FAR			
 958	Jarawara	FAR	jabo	jabo	j a b o	j a b o	1244	1244	FAR			
 1317	Kulina	FAR	wahi	wahi	w a h i	w a h i - -	1243	1243	FAR			
@@ -2176,6 +2198,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5011	Sorowaha	FRUIT	midʒiɾi	midʒiɾi	m i dʒ i ɾ i	m i dʒ i ɾ i	1263	1263	FRUIT			
 10917	Amarakaeri	FRUIT	nda	nda	n d a	n d a	973	931	FRUIT			
 10994	Paumari	FRUIT	bono / dororo	dororo	d o r o r o	d o r o r o	1020	976	FRUIT			
+11172	Banawa	FRUIT	hadi	hadi	h a d i	h a d i						
 351	Deni	BLUE OR GREEN	tereɸede	tereɸede	t e r e ɸ e d e	t e r e ɸ e d e	1267	1267	BLUE_GREEN			
 10234	Paumari	BLUE OR GREEN	kori	kori	k o r i	- - - - k o r i	810	767	BLUE_GREEN			
 10235	Sorowaha	BLUE OR GREEN	karakori	karakori	k a r a k o r i	k a r a k o r i	810	767	BLUE_GREEN			
@@ -2184,6 +2207,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1342	Kulina	HARD	kʰaɾa	kʰaɾa	kʰ a ɾ a	kʰ a ɾ a	278	278	HARD			
 1666	Paumari	HARD	kaara	kaara	k aː r a	k aː r a	278	278	HARD			
 10702	Proto-Arawan	HARD	khaara	khaara	kʰ aː r a	kʰ aː r a	278	278	HARD			
+11192	Banawa	HARD	boko	boko	b o k o	b o k o	278	278	HARD			
+11194	Jarawara	HARD	kita	kita	k i t a	k i t a	278	278	HARD			
 373	Deni	KNEE	khobori	khobori	kʰ o b o r i	kʰ o - - b o r i	283	283	KNEE			
 1002	Jarawara	KNEE	jobati / kobabari	jobati	j o b a t i	j o b a t i	584	571	KNEE			
 1003	Jarawara	KNEE	jobati / kobabari	kobabari	k o b a b a r i	k o b a b a r i	283	283	KNEE			
@@ -2193,6 +2218,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10076	Sorowaha	KNEE	suwatɨ	suwatɨ	s u w a t ɨ	s u w a t ɨ	344	651	KNEE			
 10254	Paumari	KNEE	kadʒoʔatʰa / hado	kadʒoʔatʰa	k a dʒ o ʔ a tʰ a	k a dʒ o ʔ a tʰ a	819	775	KNEE			
 10707	Proto-Arawan	KNEE	khobabari	khobabari	kʰ o b a b a r i	kʰ o b a b a r i	283	283	KNEE			
+11257	Banawa	KNEE	isi widi	isi widi	i s i + w i d i	i s i + w i d i						
 375	Deni	LATE	naho	naho	n a h o	n a h o - - -	296	296	LATE			
 1682	Paumari	LATE	naothi	naothi	n a o t h i	n a - o t h i	296	296	LATE			
 10742	Proto-Arawan	LATE	naho	naho	n a h o	n a h o	296	296	LATE			
@@ -2201,6 +2227,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 380	Deni	LIMP	doki	doki	d o k i	d o k i - -	229	229	LIMP			
 1685	Paumari	LIMP	dokhiri	dokhiri	d o kʰ i r i	d o kʰ i r i	229	229	LIMP			
 10556	Proto-Arawan	LIMP	dokhi	dokhi	d o kʰ i	d o kʰ i	229	229	LIMP			
+11262	Banawa	LIMP	nowa	nowa	n o w a	n o w a	1152	1110	LIMP			
+11264	Jarawara	LIMP	nowa	nowa	n o w a	n o w a	1152	1110	LIMP			
 390	Deni	MOT-MOT (BIRD)	hiriti	hiriti	h i r i t i	h i - - r i t i	585	1115	MOT-MOT.BIRD			
 704	Jamamadi	MOT-MOT (BIRD)	hiriti	hiriti	h i r i t i	h i - - r i t i	585	1115	MOT-MOT.BIRD			
 1017	Jarawara	MOT-MOT (BIRD)	hihiriti	hihiriti	h i h i r i t i	h i h i r i t i	585	1115	MOT-MOT.BIRD			
@@ -2285,12 +2313,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1891	Sorowaha	RESIN	moja	moja	m o j a	m o j a	295	295	RESIN			
 10734	Proto-Arawan	RESIN	moja	moja	m o j a	m o j a	295	295	RESIN			
 426	Deni	RIVER	patsu	patsu	p a ts u	p a ts u	597	157	WATER			
-1416	Kulina	RIVER	wɛni	wɛni	w ɛ n i	w ɛ n i	430	417	RIVER			
-1710	Paumari	RIVER	βaini	βaini	β ai n i	β ai n i	430	417	RIVER			
+1416	Kulina	RIVER	wɛni	wɛni	w ɛ n i	w ɛ n i	430	417	RIVER			Possibly of Arawak origin
+1710	Paumari	RIVER	βaini	βaini	β ai n i	β ai n i	430	417	RIVER			Possibly of Arawak origin
 10289	Arawa	RIVER	paha	paha	p a h a	p a h a	597	157	WATER			
 10319	Katawishi	RIVER	waha	waha	w a + h aː	w a + h aː	597	157 583	WATER ?			
-10886	Proto-Arawan	RIVER	waini	waini	w ai n i	w ai n i	430	417	RIVER			
+10886	Proto-Arawan	RIVER	waini	waini	w ai n i	w ai n i	430	417	RIVER			Possibly of Arawak origin
 10908	Amarakaeri	RIVER	wẽ	wẽ	w ẽ	w ẽ	597	157	WATER			
+11040	Sorowaha	RIVER	bami	bami	b a m i	b a m i	1074	498	WATER			
 430	Deni	RUBBER TREE	wekheʔi	wekheʔi	w e kʰ e ʔ i	w e kʰ e ʔ i	1134	1134	RUBBER.TREE			
 726	Jamamadi	RUBBER TREE	weke	weke	w e k e	w e k e - -	1134	1134	RUBBER.TREE			
 1420	Kulina	RUBBER TREE	wɛkʰɛʔi	wɛkʰɛʔi	w ɛ kʰ ɛ ʔ i	w ɛ kʰ ɛ ʔ i	1134	1134	RUBBER.TREE			
@@ -2353,6 +2382,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10083	Sorowaha	FALL	ubuɾi	ubuɾi	u b u ɾ i	u b u ɾ i	715	658	FALL			
 10399	Amarakaeri	FALL	kat	kat	k a t	k a t	1241	1241	FALL			
 10849	Proto-Arawan	FALL	tsʰona	tsʰona	tsʰ o n a	tsʰ o n a	1240	1240	FALL			
+11150	Banawa	FALL	sona / ɸoro	sona	s o n a	s o n a	1240	1240	FALL			
+11151	Jarawara	FALL	sona / tiriri / ɸoro	sona	s o n a	s o n a	1240	1240	FALL			
+11152	Jarawara	FALL	sona / tiriri / ɸoro	ɸoro	ɸ o r o	ɸ o r o	1116	1074	FALL			
+11153	Jarawara	FALL	sona / tiriri / ɸoro	tiriri	t i r i r i	t i r i r i	1117	1075	FALL			
+11154	Banawa	FALL	sona / ɸoro	ɸoro	ɸ o r o	ɸ o r o	1116	1074	FALL			
 471	Deni	GIVE	da	da	d a	d a - -	37	37	GIVE			
 1333	Kulina	GIVE	da / daka	da	d a	d a - -	37	37	GIVE			
 1334	Kulina	GIVE	da / daka	daka	d a k a	d a k a	37	37	GIVE			
@@ -2360,6 +2394,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10385	Amarakaeri	GIVE	jok	jok	j o k	j o k	910	870	GIVE			
 10544	Proto-Arawan	GIVE	da	da	d a	d a	37	37	GIVE			
 10957	Paumari	GIVE	da / noʔa	noʔa	n o ʔ a	n o ʔ a	1021	977	GIVE			
+11176	Banawa	GIVE	daa	daa	d aː	d aː	37	37	GIVE			
+11177	Jarawara	GIVE	ta	ta	t a	t a	37	37	GIVE			
 485	Deni	STAND	wa	wa	w a	w a - - - -	232	232	STAND			
 770	Jamamadi	STAND	wa	wa	w a	w a - - - -	232	232	STAND			
 1112	Jarawara	STAND	wa	wa	w a	w a - - - -	232	232	STAND			
@@ -2384,6 +2420,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10316	Katawishi	TONGUE	no	no	n o	n o	859	816	TONGUE			
 10441	Proto-Arawan	TONGUE	abeno	abeno	a b e n o	a b e n o	16	16	TONGUE			
 10931	Amarakaeri	TONGUE	nõʔ	nõʔ	n õ ʔ	n õ ʔ	859	816	TONGUE			
+11073	Banawa	TONGUE	abate	abate	a b a t e	a b a t e	16	16	TONGUE			
 490	Deni	TONKA BEAN	doni	doni	d o n i	d o n i	667	667	TONKA.BEAN			
 773	Jamamadi	TONKA BEAN	doni	doni	d o n i	d o n i	667	667	TONKA.BEAN			
 1117	Jarawara	TONKA BEAN	toni	toni	t o n i	t o n i	667	667	TONKA.BEAN			
@@ -2400,6 +2437,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10455	Proto-Arawan	WHITE	bakho	bakho	b a kʰ o	b a kʰ o	22	22	WHITE			
 507	Deni	YELLOW	derepede	derepede	d e r e p e d e	d e r e p e d e	397	376	YELLOW			
 1530	Kulina	YELLOW	wɛtsʰɛ	wɛtsʰɛ	w ɛ tsʰ ɛ	w ɛ tsʰ ɛ	398	377	YELLOW			
+11210	Jarawara	YELLOW	babato	babato	b a b a t o	b a b a t o	1131	1090	YELLOW			
+11212	Sorowaha	YELLOW	makuru / mawawini	makuru	m a k u r u	m a k u r u	1132	1091	YELLOW			
+11213	Sorowaha	YELLOW	makuru / mawawini	mawawini	m a w a w i n i	m a w a w i n i	1135	1092	YELLOW			
 508	Deni	VISIBLE	awato	awato	a w a t o	a w a t o	1009	1009	VISIBLE			
 1533	Kulina	VISIBLE	awato	awato	a w a t o	a w a t o	1009	1009	VISIBLE			
 511	Deni	URUCURI	kahami	kahami	k a h a m i	k a h a m i	668	668	URUCURI			
@@ -2417,6 +2457,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1767	Paumari	JUMP	ɗiriɗiri / raofa	ɗiriɗiri	ɗ i r i ɗ i r i	ɗ i r i ɗ i r i	564	553	?			
 10566	Proto-Arawan	JUMP	ɗi	ɗi	ɗ i	ɗ i	50	50	JUMP			
 10979	Paumari	JUMP	ɗiriɗiri / raofa	raofa	r ao f a	r ao f a	1025	981	JUMP			
+11246	Jarawara	JUMP	jora / tika	jora	j o r a	j o r a	1148	1106	JUMP			
+11247	Banawa	JUMP	jora	jora	j o r a	j o r a	1148	1106	JUMP			
+11249	Jarawara	JUMP	jora / tika	tika	t i k a	t i k a	50	50	JUMP			
 516	Deni	GRATE (SOMETHING)	heki	heki	h e k i	- - h e k i	52	52	GRATE			
 1537	Kulina	GRATE (SOMETHING)	hɛki	hɛki	h ɛ k i	- - h ɛ k i	52	52	GRATE			
 1769	Paumari	GRATE (SOMETHING)	giha	giha	g i h a	g i h a	615	598	GRATE			
@@ -2428,6 +2471,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1774	Paumari	GRANDCHILD	hanodi	hanodi	h a n o d i	h i n o d i - -	59	59	GRANDCHILD			
 1939	Sorowaha	GRANDCHILD	inidi	inidi	i n i d i	- i n i d i - -	59	59	GRANDCHILD			
 10591	Proto-Arawan	GRANDCHILD	hanodi	hanodi	h a n o d i	h a n o d i	59	59	GRANDCHILD			
+11179	Banawa	GRANDCHILD	nodi	nodi	n o d i	n o d i	59	59	GRANDCHILD			
 531	Deni	BACK	ide	ide	i d e	i d e	71	71	BACK			
 1272	Kulina	BACK	nat̪ʰi / idɛ	nat̪ʰi	n a t̪ʰ i	n a t̪ʰ i	323	323	BACK			
 1552	Kulina	BACK	nat̪ʰi / idɛ	idɛ	i d ɛ	i d ɛ	71	71	BACK			
@@ -2437,20 +2481,25 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10610	Proto-Arawan	BACK	ide	ide	i d e	i d e	71	71	BACK			
 10799	Kanamari	BACK	puli	puli	p uː l i	p uː l i	957	915	BACK			
 10800	Katawishi	BACK	kori	kori	k o r i	k o r i	958	916	BACK			
+11085	Banawa	BACK	bari	bari	b a r i	b a r i	765	728	BACK			
 536	Deni	INSECT	jaʔo	jaʔo	j a ʔ o	j a ʔ o	81	81	LARGE.INSECT			
 1164	Jarawara	INSECT	jao	jao	j a o	j a - o	81	81	LARGE.INSECT			
 10626	Proto-Arawan	INSECT	jaʔo	jaʔo	j a ʔ o	j a ʔ o	81	81	LARGE.INSECT			
 10986	Paumari	INSECT	ɗiriri	ɗiriri	ɗ i r i r i	ɗ i r i r i	1024	980	INSECT			
-551	Deni	BUTTERFLY	makoko	makoko	m a k o k o	- - m a k o k o - -	99	99	BUTTTERFLY			
-1573	Kulina	BUTTERFLY	makoko	makoko	m a k o k o	- - m a k o k o - -	99	99	BUTTTERFLY			
-1794	Paumari	BUTTERFLY	kamokokojo	kamokokojo	k a m o k o k o j o	k a m o k o k o j o	99	99	BUTTTERFLY			
+551	Deni	BUTTERFLY	makoko	makoko	m a k o k o	- - m a k o k o - -	99	99	BUTTERFLY			
+1573	Kulina	BUTTERFLY	makoko	makoko	m a k o k o	- - m a k o k o - -	99	99	BUTTERFLY			
+1794	Paumari	BUTTERFLY	kamokokojo	kamokokojo	k a m o k o k o j o	k a m o k o k o j o	99	99	BUTTERFLY			
 10665	Proto-Arawan	BUTTERFLY	kamakokojo	kamakokojo	k a m a k o k o j o	k a m a k o k o j o	99	99	BUTTERFLY			
+11078	Banawa	BUTTERFLY	ɸerena / waneko	ɸerena	ɸ e r e n a	ɸ e r e n a	1091	1050	BUTTERFLY			
+11101	Banawa	BUTTERFLY	ɸerena / waneko	waneko	w a n e k o	w a n e k o	99	99	BUTTERFLY			
+11102	Jarawara	BUTTERFLY	wanako	wanako	w a n a k o	w a n a k o	99	99	BUTTERFLY			
 559	Deni	ARMADILLO	itsiʔi	itsiʔi	i ts i ʔ i	- i ts i ʔ i	107	107	ARMADILLO			
 1185	Jarawara	ARMADILLO	isi	isi	i s i	- i s i - -	107	107	ARMADILLO			
 1956	Sorowaha	ARMADILLO	kisima / bʋʋɟu / ciʃimʲa	kisima	k i s i m a	k i s i m a	107	107	ARMADILLO			
 1995	Sorowaha	ARMADILLO	kisima / bʋʋɟu / ciʃimʲa	bʋʋɟu	b ʋː ɟ u	b ʋː ɟ u	286	112	ARMADILLO			
 5154	Sorowaha	ARMADILLO	kisima / bʋʋɟu / ciʃimʲa	ciʃimʲa	c i ʃ i mʲ a	c i ʃ i mʲ a	107	107	ARMADILLO			
 10679	Proto-Arawan	ARMADILLO	kitsʰi	kitsʰi	k i tsʰ i	k i tsʰ i	107	107	ARMADILLO			
+11081	Banawa	ARMADILLO	boki	boki	b o k i	b o k i	1092	1052	ARMADILLO			
 560	Deni	SPILL (SOMETHING)	kitsʰa	kitsʰa	k i tsʰ a	k i tsʰ a	109	109	SPILL			
 1577	Kulina	SPILL (SOMETHING)	kitsʰa	kitsʰa	k i tsʰ a	k i tsʰ a	109	109	SPILL			
 1798	Paumari	SPILL (SOMETHING)	kitʃo	kitʃo	k i tʃ o	k i tʃ o	109	109	SPILL			
@@ -2458,7 +2507,6 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1803	Paumari	LIGHT	thojathoja / vagaki	thojathoja	t h o j a + t h o j a	t h o j a + t h o j a	687	410 410	LIGHT LIGHT			
 10878	Proto-Arawan	LIGHT	thoja	thoja	tʰ o j a	tʰ o j a	687	410	LIGHT			
 10984	Paumari	LIGHT	thojathoja / vagaki	vagaki	v a g a k i	v a g a k i	1027	721	LIGHT			
-566	Deni	HOUSE GIRDER	pinine	pinine	p i n i n e	p i n i n e	623	551	unknown1			
 567	Deni	SQUIRREL MONKEY	pitsʰi	pitsʰi	p i tsʰ i	p i tsʰ i	559	401	SQUIRREL.MONKEY			
 1584	Kulina	SQUIRREL MONKEY	pitsʰi	pitsʰi	p i tsʰ i	p i tsʰ i	559	401	SQUIRREL.MONKEY			
 11020	Banawa	SQUIRREL MONKEY	sariwa	sariwa	s a r i w a	s a r i w a	1063	1020	SQUIRREL.MONKEY			
@@ -2471,6 +2519,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 583	Deni	GROWL	koro	koro	k o r o	k o r o - -	123	123	GROWL			
 1809	Paumari	GROWL	khororo	khororo	kʰ o r o r o	kʰ o r o r o	123	123	GROWL			
 10710	Proto-Arawan	GROWL	khororo	khororo	kʰ o r o r o	kʰ o r o r o	123	123	GROWL			
+11187	Banawa	GROWL	darara	darara	d a r a r a	d a r a r a	123	123	GROWL			
+11188	Jarawara	GROWL	hoo tore	hoo tore	h oː + t o r e	h oː + t o r e	1124					
 584	Deni	FLY (INSECT)	khorora	khorora	kʰ o r o r a	kʰ o r o r a	124	629	BLOWFLY			
 855	Jamamadi	FLY (INSECT)	korowi	korowi	k o r o w i	k o r o w i - -	124	629	BLOWFLY			
 1215	Jarawara	FLY (INSECT)	korowiri	korowiri	k o r o w i r i	k o r o w i r i	124	629	BLOWFLY			
@@ -2494,6 +2544,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 613	Deni	DISAPPEAR	phiri	phiri	pʰ i r i	pʰ i r i	159	159	DISAPPEAR			
 1825	Paumari	DISAPPEAR	ɓiri	ɓiri	ɓ i r i	ɓ i r i	159	159	DISAPPEAR			
 10075	Sorowaha	DISAPPEAR	suwana	suwana	s u w a n a	s u w a n a	708	650	DISAPPEAR			
+11131	Banawa	DISAPPEAR	ɸowa	ɸowa	ɸ o w a	ɸ o w a	1111	1069	DISAPPEAR			
+11132	Jarawara	DISAPPEAR	ɸawa	ɸawa	ɸ a w a	ɸ a w a	1111	1069	DISAPPEAR			
 629	Jamamadi	ALLIGATOR	ona	ona	o n a	o n a	308	308	ALLIGATOR			
 899	Jarawara	ALLIGATOR	ona	ona	o n a	o n a	308	308	ALLIGATOR			
 1835	Sorowaha	ALLIGATOR	ona	ona	o n a	o n a	308	308	ALLIGATOR			
@@ -2501,6 +2553,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10163	Kulina	ALLIGATOR	wama / tokozo	wama	w a m a	w a m a	764	727	ALLIGATOR			
 10164	Kulina	ALLIGATOR	wama / tokozo	tokozo	t o k o z o	t o k o z o	763	726	ALLIGATOR			black caiman
 10771	Proto-Arawan	ALLIGATOR	ona	ona	o n a	o n a	308	308	ALLIGATOR			
+11075	Banawa	ALLIGATOR	inowe	inowe	i n o w e	i n o w e	1104	1062	ALLIGATOR			
+11103	Jarawara	ALLIGATOR	inohowe	inohowe	i n o h o w e	i n o h o w e	1104	1062	ALLIGATOR			
 634	Jamamadi	APUNÃ	baro	baro	b a r o	b a r o	320	320	APUNÃ			
 905	Jarawara	APUNÃ	baro	baro	b a r o	b a r o	320	320	APUNÃ			
 659	Jamamadi	CRAB	amo	amo	a m o	a m o	7	7	CRAB			
@@ -2565,6 +2619,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10132	Paumari	ALL	hehaviki / hahavi	hehaviki	h e h a v i k i	h e h a v i k i	750	713	ALL			
 10133	Kulina	ALL	wapima / bazima	wapima	w a p i m a	w a p i m a	751	714	ALL			also means 'many'
 10134	Kulina	ALL	wapima / bazima	bazima	b a z i m a	b a z i m a	752	715	ALL			also means 'many'
+11083	Banawa	ALL	naɸi	naɸi	n a ɸ i	n a ɸ i	1231	1231	ALL			
 900	Jarawara	ANIMAL	bani	bani	b a n i	b a n i - - - - -	318	318	ANIMAL			
 1262	Kulina	ANIMAL	bani / banitsiɾi	bani	b a n i	b a n i - - - - -	318	318	ANIMAL			
 1263	Kulina	ANIMAL	bani / banitsiɾi	banitsiɾi	b a n i + ts i ɾ i	b a n i + ts i ɾ i	318	318 492	ANIMAL ?			
@@ -2576,6 +2631,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10140	Jamamadi	ANIMAL	bani	bani	b a n i	b a n i	318	318	ANIMAL			
 10612	Proto-Arawan	ANIMAL	igathe	igathe	i g a tʰ e	i g a tʰ e	73	73	ANIMAL			
 921	Jarawara	BIRD	bani	bani	b a n i	b a n i	508	318	ANIMAL			
+11091	Banawa	BIRD	banibidi	banibidi	b a n i b i d i	b a n i b i d i	508	318	BIRD			
 925	Jarawara	BONE	tone	tone	t o n e	- - t o n e	191	191	BONE			
 2007	Sorowaha	BONE	atona	atona	a t o n a	- a t o n a	191	191	BONE			
 8000	Banawa	BONE	tone	tone	t o n e	- - t o n e	191	191	BONE			
@@ -2591,11 +2647,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10175	Paumari	CHILD	badia / isai	isai	i s ai	i s ai	773	737	CHILD			
 10176	Deni	CHILD	eheve	eheve	e h e v e	e h e v e	774	738	CHILD			
 10949	Amarakaeri	CHILD	wasípo	wasípo	w a + s í + p o	w a + s í + p o	991	532 949 950	? ? ?			
-938	Jarawara	CLOUD	sabi	sabi	s a b i	s a b i	506	491	CLOUD			
+11108	Banawa	CHILD	enemede	enemede	e n e m e d e	e n e m e d e	774	738	CHILD			
+938	Jarawara	CLOUD	sabi	sabi	s a b i	s a b i	506	491	FOAM			
 1301	Kulina	CLOUD	mɛmɛ ɛtsʰɛ	mɛmɛ ɛtsʰɛ	m ɛ m ɛ + ɛ tsʰ ɛ	m ɛ m ɛ + ɛ tsʰ ɛ	507	1001 1002	CLOUD ?			
 10177	Paumari	CLOUD	bahi	bahi	b a h i	b a h i	775	739	CLOUD			
 10178	Deni	CLOUD	aʃivani	aʃivani	a ʃ i v a n i	a ʃ i v a n i	776	740	SMOKE			
 10942	Amarakaeri	CLOUD	kurudn	kurudn	k u r u dⁿ	k u r u dⁿ	996	955	SKY			
+11112	Banawa	CLOUD	nemesabi	nemesabi	n e m e + s a b i	n e m e + s a b i	507	1001 491	SKY FOAM			
+11113	Jarawara	CLOUD	nemesabi	nemesabi	n e m e + s a b i	n e m e + s a b i	507	1001 491	SKY FOAM			
 947	Jarawara	DOG	jomee	jomee	j o m eː	j o m eː	504	90	JAGUAR			
 1309	Kulina	DOG	ɛt̪ʰɛ	ɛt̪ʰɛ	ɛ t̪ʰ ɛ	ɛ t̪ʰ ɛ	505	490	DOG			
 10185	Paumari	DOG	jomahi vaovaoha	jomahi vaovaoha	j o m a h i + v ao v ao h a	j o m a h i + v ao v ao h a	504	90 742	JAGUAR onomatopoeic			
@@ -2604,19 +2663,23 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10375	Amarakaeri	DOG	kuwa	kuwa	k u w a	k u w a	900	858	DOG			
 10501	Kanamari	DOG	wapa	wapa	w aː p a	w aː p a	942	901	DOG			
 10502	KatukinaBiá	DOG	wapa	wapa	w aː p a	w aː p a	942	901	DOG			
+11134	Banawa	DOG	jomai	jomai	j o m ai	j o m ai	504	90	JAGUAR			
 950	Jarawara	DULL	toboro	toboro	t o b o r o	t o b o r o	1236	1236	DULL			
 951	Jarawara	DUST	hobokori	hobokori	h o b o k o r i	h o b o k o r i	1237	1237	DUST			
 10187	Paumari	DUST	χoma	χoma	χ o m a	χ o m a	780	743	DUST			
+11137	Banawa	DUST	hobokori	hobokori	h o b o k o r i	h o b o k o r i	1237	1237	DUST			
 966	Jarawara	FOG	hote	hote	h o t e	h o t e	1259	1259	FOG			
 10220	Paumari	FOG	maro	maro	m a r o	m a r o	798	756	FOG			
 10221	Paumari	FOG	magimagi	magimagi	m a g i + m a g i	m a g i + m a g i	799	757 757	FOG FOG			
 10222	Deni	FOG	aʃivani	aʃivani	a ʃ i v a n i	a ʃ i v a n i	800	740	SMOKE			
+11166	Banawa	FOG	jama asawi	jama asawi	j a m a + a s a w i	j a m a + a s a w i						
 975	Jarawara	FULL	moo	moo	m oː	m oː	1264	1264	FULL			
 10225	Sorowaha	FULL	harunaru / habuku	habuku	h a b u k u	h a b u k u	801	758	FULL			
 10226	Sorowaha	FULL	harunaru / habuku	harunaru	h a r u n a r u	h a r u n a r u	802	759	FULL			
 10227	Paumari	FULL	daiki / dʒiɓiniki	dʒiɓiniki	dʒ i ɓ i n i k i	dʒ i ɓ i n i k i	804	761	FULL			
 10229	Paumari	FULL	daiki / dʒiʔbiniki	daiki	d ai k i	d ai k i	803	760	FULL			
 10292	Arawa	FULL	tɨidi	tɨidi	t ɨi d i	t ɨi d i	840	797	FULL			
+11173	Banawa	FULL	hona	hona	h o n a	h o n a	1122	1080	FULL			
 984	Jarawara	HE	he	he	h e	h e	502	487	HE			
 1343	Kulina	HE	powa	powa	p o w a	p o w a	503	488	HE			
 993	Jarawara	I	owa	owa	o w a	o w a	340	340	I			
@@ -2639,6 +2702,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1424	Kulina	HAPPY	akʰaɾa	akʰaɾa	a kʰ a ɾ a	a kʰ a ɾ a	1005	1005	SATISFIED			
 1713	Paumari	HAPPY	akhari	akhari	a kʰ a r i	a kʰ a r i	1005	1005	SATISFIED			
 10421	Proto-Arawan	HAPPY	akʰari	akʰari	a kʰ a r i	a kʰ a r i	1005	1005	SATISFIED			
+11190	Banawa	HAPPY	jajeiri	jajeiri	j a j ei r i	j a j ei r i	1123	1081	HAPPY			
 1050	Jarawara	SEA	maa	maa	m aː	m aː	493	477	SEA			
 1051	Jarawara	SEED	noki	noki	n o k i	n o k i	492	476	SEED			
 10021	Sorowaha	SEED	ad̥uhiɾi	ad̥uhiɾi	a d̥ u h i ɾ i	a d̥ u h i ɾ i	641	604	SEED			also means sperm
@@ -2687,10 +2751,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1191	Jarawara	STRONG TASTE	sina	sina	s i n a	s i n a	616	412	STRONG.TASTE			
 1193	Jarawara	LIGHT (IGNITE)	oja	oja	o j a	o j a	687	410	LIGHT			Give off light
 1804	Paumari	LIGHT (IGNITE)	oji	oji	o j i	o j i	687	410	LIGHT			
+11260	Banawa	LIGHT (IGNITE)	oje	oje	o j e	o j e	687	410	LIGHT			
 1219	Jarawara	ABIU	sowa	sowa	s o w a	s o w a	1229	1229	ABIU			Pouteria caimito
-1600	Kulina	ABIU	waitso	waitso	w a i ts o	w a i ts o - -	1230	1230	ABIU			Pouteria caimito
-10350	Deni	ABIU	vatsuma	vatsuma	v a ts u m a	v a - ts u m a	1230	1230	ABIU			Lucuma caimito
-10351	Sorowaha	ABIU	watama	watama	w a t a m a	w a - t a m a	1230	1230	ABIU			
+1600	Kulina	ABIU	waitso	waitso	w a i ts o	w ai ts o - -	1230	1230	ABIU			Pouteria caimito
+10350	Deni	ABIU	vatsuma	vatsuma	v a ts u m a	v a ts u m a	1230	1230	ABIU			Lucuma caimito
+10351	Sorowaha	ABIU	watama	watama	w a t a m a	w a t a m a	1230	1230	ABIU			
 10888	Proto-Arawan	ABIU	waishowa	waishowa	w ai tsʰ o w a	w ai tsʰ o w a	1230	1230	ABIU			Pouteria caimito
 1222	Jarawara	CATERPILLAR	wakari	wakari	w a k a r i	w a k a r i	394	700	unknown16			
 10013	Sorowaha	CATERPILLAR	zaamakusa	zaamakusa	z aː m a + k u s a	z aː m a + k u s a	634	341 600	THING ?			
@@ -2698,7 +2763,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10136	Deni	ASH	ununi	ununi	u n u n i	u n u n i	354	155	ASH			
 10137	Jarawara	ASH	nakosiri / hobokori	nakosiri	n a k o s i r i	n a k o s i r i	752	715	ASH			
 10138	Jarawara	ASH	nakosiri / hobokori	hobokori	h o b o k o r i	h o b o k o r i	752	715	ASH			
-1281	Kulina	BECAUSE	hini	hini	h i n i	h i n i	361	355	BECAUSE			
+11084	Banawa	ASH	jiɸoja	jiɸoja	j i ɸ o j a	j i ɸ o j a	1093	1053	ASH			
 1286	Kulina	BELOW OR UNDER	nami	nami	n a m i	n a m i	298	298	GROUND			
 1313	Kulina	EGG	nɛpʰɛ	nɛpʰɛ	n ɛ pʰ ɛ	n ɛ pʰ ɛ	784	360	EGG			
 5054	Sorowaha	EGG	inʲahɨ	inʲahɨ	i nʲ a h ɨ	i nʲ a h ɨ	1255	1255	EGG			
@@ -2710,6 +2775,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10491	KatukinaBiá	EGG	pu	pu	p u	p u	939	596	EGG			
 10492	Kanamari	EGG	pu	pu	p u	p u	939	596	EGG			
 10745	Proto-Arawan	EGG	napha	napha	n a pʰ a	n a pʰ a	784	360	EGG			
+11139	Banawa	EGG	naɸe	naɸe	n a ɸ e	n a ɸ e	784	360	EGG			
+11140	Jarawara	EGG	hiɸe	hiɸe	h i ɸ e	h i ɸ e	784	360	EGG			
 1316	Kulina	EYE	nokʰo	nokʰo	n o kʰ o	n o kʰ o	1242	1242	EYE		YES	Loan of Arawak origin
 10196	Paumari	EYE	nokʰo	nokʰo	n o kʰ o	n o kʰ o	1242	1242	EYE		YES	Loan of Arawak origin
 10197	Deni	EYE	nukʰu	nukʰu	n u kʰ u	n u kʰ u	1242	1242	EYE		YES	Loan of Arawak origin
@@ -2725,6 +2792,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10216	Paumari	FINGERNAIL	ɗamai kanakoɗini	ɗamai kanakoɗini	ɗ a m ai + k a n a k o ɗ i n i	ɗ a m ai + k a n a k o ɗ i n i	796	752 754	FINGER ?			
 10217	Deni	FINGERNAIL	saʔai kanakoʔdini	saʔai kanakoʔdini	s a ʔ ai + k a n a k o ʔ d i n i	s a ʔ ai + k a n a k o ʔ d i n i	796	752 753	FINGER ?			
 10391	Amarakaeri	FINGERNAIL	mbaʔku	mbaʔku	m/b a ʔ + k u	m/b a ʔ + k u	915	855 875	HAND HEAD			
+11155	Banawa	FINGERNAIL	je atari	je atari	j e + a t a r i	j e + a t a r i	792	83 208	HAND SKIN			
 1328	Kulina	FOREST	dzama / jama	dzama	dz a m a	dz a m a	341	341	THING			
 1359	Kulina	FOREST	dzama / jama	jama	j a m a	j a m a	341	341	THING			
 10027	Sorowaha	FOREST	aga hʊʊɾi	aga hʊʊɾi	a g a + h ʊː ɾ i	a g a + h ʊː ɾ i	647	537 1274	TREE INSIDE			
@@ -2737,6 +2805,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10231	Jarawara	GRASS	masiri	masiri	m a s i r i	m a s i r i	808	764	GRASS			
 10232	Sorowaha	GRASS	natuza	natuza	n a t u z a	n a t u z a	807	765	GRASS			
 10233	Deni	GRASS	hamaʃi	hamaʃi	h a m a ʃ i	h a m a ʃ i	809	766	GRASS			
+11183	Banawa	GRASS	mosiri	mosiri	m o s i r i	m o s i r i	808	764	GRASS			
 1352	Kulina	HORN (ANATOMY)	oɾi	oɾi	o ɾ i	o ɾ i	1271	1271	HORN			
 10246	Jarawara	HORN (ANATOMY)	warabi awe / narabi	warabi awe	w a r a b i + a w e	w a r a b i + a w e	815	771 772	HORN ?			
 10247	Jarawara	HORN (ANATOMY)	warabi awe / narabi	narabi	n a r a b i	n a r a b i	815	771	HORN			
@@ -2753,6 +2822,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10257	Deni	LONG	arabude	arabude	a r a b u d e	a r a b u d e	821	779	LONG			
 10258	Paumari	LONG	ʔoadaki	ʔoadaki	ʔ oa d a k i	ʔ oa d a k i	822	780	LONG			
 10259	Jarawara	LONG	jabo	jabo	j a b o	j a b o	823	781	LONG			
+11265	Banawa	LONG	jabo	jabo	j a b o	j a b o	823	781	LONG			
 1386	Kulina	MOUTH	ahaɾi	ahaɾi	a h a ɾ i	a h a ɾ i	477	463	MOUTH			
 1875	Sorowaha	MOUTH	ijahi	ijahi	i j a h i	i j a h i	249	249	MOUTH			
 10262	Jarawara	MOUTH	batori / inohoti	batori	b a t o r i	b a t o r i	825	783	MOUTH			
@@ -2808,12 +2878,23 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10904	Proto-Arawan	CUT	ti / witsʰi	witsʰi	w i tsʰ i	w i tsʰ i	206	206	CUT			
 1465	Kulina	DIE	dzokʰɛ	dzokʰɛ	dz o kʰ ɛ	dz o kʰ ɛ	471	456	DIE			
 10966	Paumari	DIE	abini	abini	a b i n i	a b i n i	1014	970	DIE			
+11124	Banawa	DIE	aabi / abowa	sazahuwɨ	aː b i	aː b i	1014	970	ANACONDA			
+11125	Jarawara	DIE	aboha / ahaba	aboha	a b o h a	a b o h a	1110	1068	DIE			
+11126	Banawa	DIE	aabi / abowa	abowa	a b o w a	a b o w a	1110	1068	DIE			
+11127	Jarawara	DIE	aboha / ahaba	ahaba	a h a b a	a h a b a	1109	1067	DIE			
 1475	Kulina	KILL	nanadzokʰɛ / napamahona / nanahika	nanahika	n a n a h i k a	n a n a h i k a	469	454	KILL			
 1476	Kulina	KILL	nanadzokʰɛ / napamahona / nanahika	nanadzokʰɛ	n a n a dz o kʰ ɛ	n a n a dz o kʰ ɛ	469	454	KILL			
 1477	Kulina	KILL	nanadzokʰɛ / napamahona / nanahika	napamahona	n a p a m a h o n a	n a p a m a h o n a	470	455	KILL			
 10407	Amarakaeri	KILL	arak	arak	a r a k	a r a k	929	889	KILL			
+11251	Banawa	KILL	idi / koro / nabowa	idi	i d i	i d i	1149	1107	KILL			
+11252	Banawa	KILL	idi / koro / nabowa	koro	k o r o	k o r o	1150	1108	KILL			
+11254	Jarawara	KILL	naabowa	naabowa	n aː b o w a	n aː b o w a	1151	1109	KILL			
+11255	Banawa	KILL	idi / koro / nabowa	nabowa	n a b o w a	n a b o w a	1151	1109	KILL			
 1483	Kulina	BE ALIVE	madi	madi	m a d i	m a d i	1278	1278	LIVE			
 10033	Sorowaha	BE ALIVE	agiha	agiha	a g i h a	a g i h a	653	612	LIVE			
+11195	Jarawara	BE ALIVE	jati / kita /wina	jati	j a t i	j a t i	1278	1278	LIVE			
+11196	Jarawara	BE ALIVE	jati / kita /wina	kita	k i t a	k i t a	1127	1086	LIVE			
+11197	Jarawara	BE ALIVE	jati / kita /wina	wina	w i n a	w i n a	1128	1087	LIVE			
 1484	Kulina	PLAY	it̪ʰomɛ	it̪ʰomɛ	i t̪ʰ o m ɛ	i t̪ʰ o m ɛ	467	452	PLAY			
 5042	Sorowaha	PLAY	gamakɨza	gamakɨza	g a m a k ɨ z a	g a m a k ɨ z a	468	453	PLAY			
 1488	Kulina	RUB	piko	piko	p i k o	p i k o	466	451	RUB			
@@ -2857,6 +2938,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10030	Sorowaha	STICK	agadaɾu	agadaɾu	a g a + d a ɾ u	a g a + d a ɾ u	650	537 609	TREE ?			
 10750	Banawa	STICK	ini	ini	i n i	i n i	558	400	STICK			
 1589	Kulina	BED	taboɾo	taboɾo	t a b o ɾ o	t a b o ɾ o	132	408	BED			
+11199	Jarawara	BED	kama	kama	k a m a	k a m a	1129	1088	BED			Borrowing from Portuguese cama
+11200	Jarawara	BED	fofore	ɸoɸore	ɸ o ɸ o r e	ɸ o ɸ o r e	1130	1089	BED			
 1597	Kulina	FAST	watsʰi	watsʰi	w a tsʰ i	w a tsʰ i	621	501	unknown11			
 1617	Kulina	GOURD	paho	paho	p a h o	p a h o	152	152	GOURD			
 1823	Paumari	GOURD	βao	βao	β a o	β a - o	152	152	GOURD			
@@ -2894,14 +2977,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10472	Banawa	CLOTHES	makari	makari	m a k a r i	m a k a r i	937	897	CLOTHES		YES	From Apurinã
 10473	Paumari	CLOTHES	makari	makari	m a k a r i	m a k a r i	937	897	CLOTHING		YES	From Apurinã
 10474	Jamamadi	CLOTHES	bora	bora	b o r a	b o r a	938	898	CLOTHING			
-10759	Banawa	CLOTHES	makari	makari	m a k a r i	m a k a r i	937	897	CLOTHING			
 1986	Sorowaha	FLY	bihʲawa	bihʲawa	b i hʲ a w a	b i hʲ a w a	1258	1258	FLY			
+11165	Banawa	FLY	dawi	dawi	d a w i	d a w i	1120	1078	FLY			
 1988	Sorowaha	THIRST	ʃʲubukʷa	ʃʲubukʷa	ʃʲ u b u kʷ a	ʃʲ u b u kʷ a	455	438	THIRST			
 1989	Sorowaha	ARROW	tɨbɨ	tɨbɨ	t ɨ b ɨ	t ɨ b ɨ	353	124	ARROW			
 10296	Arawa	ARROW	atu	atu	a t u	a t u	842	799	ARROW			
 10312	Katawishi	ARROW	tenkpa	tenkpa	t e n k p a	t e n k p a	855	812	ARROW			
-10405	Amarakaeri	ARROW	pĩã	pĩã	p ĩã	p ĩã	927	886	ARROW			
+10405	Amarakaeri	ARROW	pĩã	pĩã	p ĩã	p ĩã	927	886	ARROW			
 10978	Paumari	ARROW	abiha	abiha	a b i h a	a b i h a	953	964	ARROW			
+11082	Banawa	ARROW	wati	wati	w a t i	w a t i	842	799	ARROW			
+11181	Jarawara	ARROW	wati	wati	w a t i	w a t i	842	799	ARROW			
 1991	Sorowaha	PLACE (POSITION)	dʋʋki / dʋci	dʋʋki	d ʋː k i	d ʋː k i	454	437	PLACE			
 5033	Sorowaha	PLACE (POSITION)	dʋʋki / dʋci	dʋci	d ʋ c i	d ʋ c i	454	437	PLACE			
 1996	Sorowaha	MACAW	kawa	kawa	k a w a	k a w a	1282	1282	MACAW			
@@ -2914,6 +2999,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 2006	Sorowaha	IMITATE	tɨmɨ	tɨmɨ	t ɨ m ɨ	t ɨ m ɨ	190	190	IMITATE			
 8022	Jarawara	IMITATE	tomi	tomi	t o m i	t o m i	190	190	IMITATE			
 10870	Proto-Arawan	IMITATE	tomi	tomi	t o m i	t o m i	190	190	IMITATE			
+11241	Banawa	IMITATE	hiri	hiri	h i r i	h i r i	1147	1105	IMITATE			
 3489	Kulina	PIED-CRESTED OROPENDOLA	tano	tano	t a n o	t a n o	183	183	PIED-CRESTED.OROPENDOLA			
 8030	Banawa	PIED-CRESTED OROPENDOLA	tano	tano	t a n o	t a n o	183	183	PIED-CRESTED.OROPENDOLA			
 8031	Deni	PIED-CRESTED OROPENDOLA	tano	tano	t a n o	t a n o	183	183	PIED-CRESTED.OROPENDOLA			
@@ -2935,17 +3021,26 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5014	Sorowaha	SIEVE OR STRAIN	wiɾʲana / ʃʲuɾudɨ	wiɾʲana	w i ɾʲ a n a	w i ɾʲ a n a	448	431	SIEVE			
 5162	Sorowaha	SIEVE OR STRAIN	wiɾʲana / ʃʲuɾudɨ	ʃʲuɾudɨ	ʃʲ u ɾ u d ɨ	ʃʲ u ɾ u d ɨ	449	432	SIEVE			
 10985	Paumari	SIEVE OR STRAIN	ɗiriri	ɗiriri	ɗ i r i r i	ɗ i r i r i	1038	993	SIEVE			
-5016	Sorowaha	HUNGER	haamɨ	haamɨ	h aː m ɨ	h aː m ɨ	447	430	HUNGER			
 5017	Sorowaha	SPIRIT	kuɾimʲa	kuɾimʲa	k u ɾ i mʲ a	k u ɾ i mʲ a	1233	1233	SPIRIT			
 5018	Sorowaha	CURASSOW	naasi	naasi	n aː s i	n aː s i	446	429	CURASSOW			
 5022	Sorowaha	MUD	ʃʲɛmʲɛni	ʃʲɛmʲɛni	ʃʲ ɛ mʲ ɛ n i	ʃʲ ɛ mʲ ɛ n i	445	428	MUD			
 5023	Sorowaha	COCKROACH	ʃʲuɾuhʷa	ʃʲuɾuhʷa	ʃʲ u ɾ u hʷ a	ʃʲ u ɾ u hʷ a	444	427	COCKROACH			
+11114	Banawa	COCKROACH	babaroro	babaroro	b a b a r o r o	b a b a r o r o	1107	1065	COCKROACH			
+11115	Jarawara	COCKROACH	baroro	baroro	b a r o r o	b a r o r o	1107	1065	COCKROACH			
 5025	Sorowaha	CAPYBARA	hiiɾi	hiiɾi	h iː ɾ i	h iː ɾ i	1296	1296	CAPYBARA			
 10803	Katawishi	CAPYBARA	wahøkøha	wahøkøha	w a h ø k ø h a	w a h ø k ø h a	959	917	CAPYBARA			
 10804	Kanamari	CAPYBARA	walikama	walikama	w a l i k a m a	w a l i k a m a	959	917	CAPYBARA			
+11064	Banawa	CAPYBARA	wakowa	wakowa	w a k o w a	w a k o w a	959	917	CAPYBARA			
+11065	Jarawara	CAPYBARA	capivara	capivara	k a p i v a r a	k a p i v a r a	1081	1041	CAPYBARA		YES	
 5027	Sorowaha	SQUIRREL	taawi	taawi	t aː w i	t aː w i	443	426	SQUIRREL			
+11059	Jarawara	SQUIRREL	jowaki / noko	jowaki	j o w a k i	j o w a k i	1078	1038	SQUIRREL			
+11060	Jarawara	SQUIRREL	jowaki / noko	noko	n o k o	n o k o	1079	1039	SQUIRREL			
+11061	Banawa	SQUIRREL	jowaki / komiso	jowaki	j o w a k i	j o w a k i	1078	1038	SQUIRREL			
+11062	Banawa	SQUIRREL	jowaki / komiso	komiso	k o m i s o	k o m i s o	1080	1040	SQUIRREL			
+11063	Jamamadi	SQUIRREL	noko	noko	n o k o	n o k o	1079	1039	SQUIRREL			
 5031	Sorowaha	BEAUTIFUL	ɨmɨzɨ	ɨmɨzɨ	ɨ m ɨ z ɨ	ɨ m ɨ z ɨ	360	354	BEAUTIFUL			
 10374	Amarakaeri	BEAUTIFUL	uru	uru	u r u	u r u	899	857	BEAUTIFUL			
+11089	Banawa	BEAUTIFUL	tamina	tamina	t a m i n a	t a m i n a	1097	1057	BEAUTIFUL			
 5034	Sorowaha	DAUGHTER	ahidini / zamuuni	ahidini	a h i d i n i	a h i d i n i	442	425	OFFSPRING			
 8010	Banawa	DAUGHTER	to	to	t o	t o	188	188	DAUGHTER			
 8011	Deni	DAUGHTER	to	to	t o	t o	188	188	DAUGHTER			
@@ -2958,6 +3053,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5037	Sorowaha	PECCARY	dʒanɨdumuɾi / dʒãdumuɾi	dʒanɨdumuɾi	dʒ a n ɨ d u m u ɾ i	dʒ a n ɨ d u m u ɾ i	441	424	PECCARY			
 5040	Sorowaha	PECCARY	dʒanɨdumuɾi / dʒãdumuɾi	dʒãdumuɾi	dʒ ã d u m u ɾ i	dʒ ã - - d u m u ɾ i	441	424	PECCARY			
 5038	Sorowaha	FISHHOOK	kabɨkana	kabɨkana	k a b ɨ k a n a	k a b ɨ k a n a	1256	1256	FISHHOOK			
+11161	Banawa	FISHHOOK	kabikana	kabikana	k a b i k a n a	k a b i k a n a	1256	1256	FISHHOOK			
+11162	Jarawara	FISHHOOK	kabikana	kabikana	k a b i k a n a	k a b i k a n a	1256	1256	FISHHOOK			
 5045	Sorowaha	HAVE SEX	sɨbɨ	sɨbɨ	s ɨ b ɨ	s ɨ b ɨ	1275	1275	INTERCOURSE			
 5047	Sorowaha	EARTH (SOIL)	ad̥aha	ad̥aha	a d̥ a h a	a d̥ a h a	1253	3	EARTH			
 10189	Deni	EARTH (SOIL)	nami	nami	n a m i	n a m i	782	744	EARTH			
@@ -2967,6 +3064,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5048	Sorowaha	INGA	imi	imi	i m i	i m i	439	422	INGA			
 10345	Deni	INGA	imi	imi	i m i	i m i	439	422	INGA			
 10617	Proto-Arawan	INGA	imi	imi	i m i	i m i	439	422	INGA			
+11243	Banawa	INGA	imi	imi	i m i	i m i	439	422	INGA			
 5049	Sorowaha	PIRANHA	uma	uma	u m a	u m a	438	421	PIRANHA			
 10977	Paumari	PIRANHA	bano	bano	b a n o	b a n o	1033	988	PIRANHA			
 5052	Sorowaha	PESTLE	huwa / akubi	huwa	h u w a	h u w a	436	419	PESTLE			
@@ -3033,6 +3131,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10484	Banawa	LIANA	kona	kona	k o n a	k o n a	427	404	LIANA		YES	Of Arawak origin
 10485	Jarawara	LIANA	kona	kona	k o n a	k o n a	427	404	LIANA		YES	Of Arawak origin
 10486	Paumari	LIANA	ʔakona(ha)	ʔakona	ʔ a k o n a	ʔ a k o n a	427	404	LIANA		YES	Of Arawak origin
+11048	Kulina	LIANA	kona	kona	k o n a	k o n a	427	404	LIANA		YES	Of Arawak origin
 5151	Sorowaha	LARGE-BULLET-ANT (subfamily paraponerinae)	huwatɨ	huwatɨ	h u w a t ɨ	h u w a t ɨ	426	402	TOCANDIRA			
 5160	Sorowaha	OWNER	anidawa	anidawa	a n i d a w a	a n i d a w a	423	397	OWNER			
 5161	Sorowaha	WOUND	batakaɾa / kaʃidʒahu	batakaɾa	b a t a k a ɾ a	b a t a k a ɾ a	1224	1224	WOUND			
@@ -3040,6 +3139,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5163	Sorowaha	LEECH	aahidu	aahidu	aː h i d u	aː h i d u	422	396	LEECH			
 5165	Sorowaha	FIREFLY	aamuwa	aamuwa	aː m u w a	aː m u w a	421	888	STAR			
 5167	Sorowaha	FLAT	baaɾʲu	baaɾʲu	b aː ɾʲ u	b aː ɾʲ u	1257	1257	FLAT			
+11163	Banawa	FLAT	baro	baro	b a r o	b a r o	1257	1257	FLAT			
 5171	Sorowaha	NET	hʊʊwi	hʊʊwi	h ʊː w i	h ʊː w i	420	395	NET			
 5173	Sorowaha	PACA	hawɨ	hawɨ	h a w ɨ	h a w ɨ	418	393	PACA			
 5174	Sorowaha	CANOE	hiini	hiini	h iː n i	- - h iː n i	1295	1295	CANOE			
@@ -3070,7 +3170,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10867	Proto-Arawan	SEAGULL	tihe	tihe	t i h e	t i h e	187	187	SEAGULL			
 10003	Kulina	STING	oɾi	oɾi	o ɾ i	o ɾ i	5	1271	HORN			
 10063	Sorowaha	STING	kuwa	kuwa	k u w a	k u w a	689	638	STING			used only for stingray (?)
-10007	Sorowaha	HOPLIAS (GENUS)	abahɨwɨ	abahɨwɨ	a b a + h ɨ w ɨ	a b a + h ɨ w ɨ	636	210 632	FISH BIG			hɨwɨ - indicates large animals
+10007	Sorowaha	HOPLIAS (sp.)	abahɨwɨ	abahɨwɨ	a b a + h ɨ w ɨ	a b a + h ɨ w ɨ	636	210 632	FISH BIG			hɨwɨ - indicates large animals
 10008	Sorowaha	FIREWOOD	abi / aga	abi	a b i	a b i	630	1251	FIRE			
 10023	Sorowaha	FIREWOOD	abi / aga	aga	a g a	a g a	643	537	TREE			
 10141	Arawa	FIREWOOD	sihu	sihu	s i h u	s i h u	753	716	FIREWOOD			
@@ -3081,15 +3181,25 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10146	Banawa	FIREWOOD	jiɸo	jiɸo	j i ɸ o	j i ɸ o	753	716	FIREWOOD			
 10941	Amarakaeri	FIREWOOD	ɨtaʔ	ɨtaʔ	ɨ t a ʔ	ɨ t a ʔ	993	953	FIREWOOD			
 10009	Sorowaha	VEIN	abu	abu	a b u	a b u	631	584	VEIN			
+11070	Paumari	VEIN	hagihi	hagihi	h a g i h i	h a g i h i	1085	238	VEIN			
 10012	Sorowaha	ISLAND	aḍaha dʒuɾunumaɾu	ad̥aha dʒuɾunumaɾu	a d̥ a h a + dʒ u ɾ u n u m a ɾ u	a d̥ a h a + dʒ u ɾ u n u m a ɾ u	633	3 633	EARTH ?			
 10014	Sorowaha	TOMB	ad̥ahɨ	ad̥ahɨ	a d̥ a + h ɨ	a d̥ a + h ɨ	635	3 630	EARTH ?			
 10015	Sorowaha	LOW	adjadjahia	adjadjahia	a d j a d j a h ia	a d j a d j a h ia	637	601	LOW			
 10016	Sorowaha	PRECIOUS	adjaɾi	adjaɾi	a d j a ɾ i	a d j a ɾ i	638	602	PRECIOUS			
 10017	Sorowaha	PRECIOUS	adjaɾu	adjaɾu	a d j a ɾ u	a d j a ɾ u	638	602	PRECIOUS			
 10019	Sorowaha	SHORT	adje	adje	a d j e	a d j e	639	220	SMALL			
-10020	Sorowaha	ANUS	ad̥ini	ad̥ini	a d̥ i n i	a d̥ i n i	640	603	ANUS			
+10020	Sorowaha	ANUS	ad̥ini	ad̥ini	a d̥ i n i	a d̥ i n i	640	603 1051	? ANUS			
+11079	Banawa	ANUS	dodi hodi	dodi hodi	d o d i + h o d i	d o d i + h o d i	640	603 1051	? ANUS			Fem.
+11178	Jarawara	ANUS	jotohoti	jotohoti	j o t o + h o t i	j o t o + h o t i	640	603 1051	? ANUS			
 10022	Sorowaha	SAP	ad̥uhɨ	ad̥uhɨ	a d̥ u h ɨ	a d̥ u h ɨ	642	605	SAP			
 10025	Sorowaha	HOLD OR TAKE	aga	aga	a g a	a g a	645	606	TAKE			
+11202	Banawa	HOLD OR TAKE	dama / ibori	dama	d a m a	d a m a	755	718	HOLD			
+11203	Banawa	HOLD OR TAKE	dama / ibori	ibori	i b o r i	i b o r i	1128	1085	HOLD			
+11204	Jarawara	HOLD OR TAKE	bokori kawaha / warari / iti / makana	bokori kawaha	b o k o r i + k a w a h a	b o k o r i + k a w a h a						
+11205	Jarawara	HOLD OR TAKE	bokori kawaha / warari / iti / makana	iti	i t i	i t i	1127	1084	HOLD			
+11206	Jarawara	HOLD OR TAKE	bokori kawaha / warari / iti / makana	makana	m a k a n a	m a k a n a	1126	1083	HOLD			
+11207	Jarawara	HOLD OR TAKE	bokori kawaha / warari / iti / makana	warari	w a r a r i	w a r a r i	1125	1082	HOLD			
+11208	Jarawara	HOLD OR TAKE	toma	toma	t o m a	t o m a	755	718	TAKE			
 10026	Sorowaha	BRING	aga	aga	a g a	a g a	646	606	TAKE			
 10028	Sorowaha	MIDDLE	hʊʊɾi	hʊʊɾi	h ʊː ɾ i	h ʊː ɾ i	648	1274	INSIDE			
 10753	Banawa	MIDDLE	einoki	einoki	ei n o k i	ei n o k i	951	909	MIDDLE			
@@ -3098,6 +3208,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10034	Sorowaha	UNTIE	agidʒawa / tabaɾu	agidʒawa	a g i dʒ a w a	a g i dʒ a w a	654	613	UNTIE			
 10079	Sorowaha	UNTIE	agidʒawa / tabaɾu	tabaɾu	t a b a ɾ u	t a b a ɾ u	711	654	UNTIE			
 10035	Sorowaha	CHOKE	aha	aha	a h a	a h a	655	614	CHOKE			
+11109	Banawa	CHOKE	bati / hara	bati	b a t i	b a t i	1106	1064	CHOKE			
+11110	Banawa	CHOKE	bati / hara	hara	h a r a	h a r a	655	614	CHOKE			
+11111	Jarawara	CHOKE	hara	hara	h a r a	h a r a	655	614	CHOKE			
 10038	Sorowaha	ABOVE	ahjadaha / tɨhɨmɨ	ahjadaha	a h j a d a h a	a h j a d a h a	658	617	ABOVE			
 10082	Sorowaha	ABOVE	ahjadaha / tɨhɨmɨ	tɨhɨmɨ	t ɨ h ɨ m ɨ	t ɨ h ɨ m ɨ	714	657	ABOVE			
 10156	Jarawara	ABOVE	neme	neme	n e m e	n e m e	761	723	ABOVE			
@@ -3107,21 +3220,36 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10284	Arawa	CHICKEN	takara	takara	t a k a r a	t a k a r a	663	621	CHICKEN			
 10805	Katawishi	CHICKEN	akara	akara	a k a r a	a k a r a	663	621	CHICKEN			
 10806	Kanamari	CHICKEN	taukala	taukala	t au k a l a	t au k a l a	663	621	CHICKEN			
+11106	Banawa	CHICKEN	arakowa	arakowa	a r a k o w a	a r a k o w a	663	621	CHICKEN			From Tupí-Guaraní arakwã
+11107	Jarawara	CHICKEN	arakawa	arakawa	a r a k a w a	a r a k a w a	663	621	CHICKEN			From Tupí-Guaraní arakwã
 10045	Sorowaha	FINISH	akuwa	akuwa	a k u w a	a k u w a	665	623	FINISH			
 10825	Kanamari	FINISH	wihaŋ	wihaŋ	w i h a ŋ	w i h a ŋ	971	928	FINISH			
+11157	Banawa	FINISH	ɸijo / ɸowa / hawa	hawa	h a w a	h a w a	1118	1076	FINISH			
+11158	Jarawara	FINISH	hawa	hawa	h a w a	h a w a	1118	1076	FINISH			
+11159	Banawa	FINISH	ɸijo / ɸowa / hawa	ɸijo	ɸ i j o	ɸ i j o	1119	1077	FINISH			
+11160	Banawa	FINISH	ɸijo / ɸowa / hawa	ɸowa	ɸ o w a	ɸ o w a	1118	1076	FINISH			
 10050	Sorowaha	DARK	asa	asa	aː sʲ a	aː sʲ a	675	627	DARK			
+11118	Banawa	DARK	soki	soki	s o k i	s o k i	1108	1066	DARK			
+11119	Jarawara	DARK	soki	soki	s o k i	s o k i	1108	1066	DARK			
 10053	Sorowaha	SAD	asasɨ	asasɨ	a s a s ɨ	a s a s ɨ	565	554	SAD			
 10057	Sorowaha	SHINY	asiikʲa	asiikʲa	a s iː kʲ a	a s iː kʲ a	682	634	BRIGHT			
 10060	Sorowaha	POLISH (SOMETHING)	kuɾuuka	kuɾuuka	k u ɾ uː k a	k u ɾ uː k a	688	637	POLISH			
 10062	Sorowaha	SMILE	kusɨ	kusɨ	k u s ɨ	k u s ɨ	689	638	SMILE			
 10064	Sorowaha	DEEP	kuwaɾu	kuwaɾu	k u w a ɾ u	k u w a ɾ u	690	639	DEEP			
+11120	Banawa	DEEP	kowi	kowi	k o w i	k o w i	690	639	DEEP			
+11121	Jarawara	DEEP	kowi / baji	baji	b a j i	b a j i	690	639	DEEP			
+11122	Jarawara	DEEP	kowi / baji	kowi	k o w i	k o w i	690	639	DEEP			
 10066	Sorowaha	RAINBOW	kuwiɾi agiɾi / gawiɾawa	kuwiɾi agiɾi	k u w i ɾ i + a g i ɾ i	k u w i ɾ i + a g i ɾ i	699	641 643	SNAKE ?			in the horizon
 10067	Sorowaha	RAINBOW	kuwiɾi agiɾi / gawiɾawa	gawiɾawa	g a w i ɾ a w a	g a w i ɾ a w a	700	642	RAINBOW			when it is above one's head
 10068	Sorowaha	YOUNGER BROTHER	ʃʲuɾu	ʃʲuɾu	ʃʲ u ɾ u	ʃʲ u ɾ u	701	636	YOUNGER.SISTER			
 10991	Paumari	YOUNGER BROTHER	ʃooni	ʃooni	ʃ oo n i	ʃ oo n i	1047	357	YOUNGER.SISTER			
+11096	Banawa	YOUNGER BROTHER	noso	noso	n o s o	n o s o	1099	1059	YOUNGER.BROTHER			
+11100	Jarawara	YOUNGER BROTHER	nisori	nisori	n i s o r i	n i s o r i	1099	1059	YOUNGER.BROTHER			
 10069	Sorowaha	EDGE	ʃɨɾɨmi	ʃɨɾɨmi	ʃ ɨ ɾ ɨ m i	ʃ ɨ ɾ ɨ m i	702	645	EDGE			
 10071	Sorowaha	HOT	suku	suku	s u k u	s u k u	704	646	ROAST			
 10404	Amarakaeri	HOT	pak	pak	p a k	p a k	926	885	HOT			
+11209	Banawa	HOT	hia	hia	h ia	h ia	1129	1086	HOT			
+11215	Jarawara	HOT	hiwa	hiwa	h i w a	h i w a	1129	1086	HOT			
 10072	Sorowaha	HICCOUGH	sukusuku	sukusuku	s u k u + s u k u	s u k u + s u k u	705	647 647	HICCOUGH HICCOUGH			
 10073	Sorowaha	CALM	sumawaɾi	sumawaɾi	s u m a w a ɾ i	s u m a w a ɾ i	706	648	CALM			
 10077	Sorowaha	SPIDER MONKEY	sɨwɨ	sɨwɨ	s ɨ w ɨ	s ɨ w ɨ	709	652	SPIDER.MONKEY			Ateles Paniscus
@@ -3135,17 +3263,22 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10088	Sorowaha	TASTE (SOMETHING)	uhu	uhu	u h u	u h u	720	662	TRY			
 10089	Sorowaha	FEAR (BE AFRAID)	uhunia	uhunia	u h u n ia	u h u n ia	721	663	FEAR			
 10091	Sorowaha	FORGET	zuzugaɾi	zuzugaɾi	z u z u g a ɾ i	z u z u g a ɾ i	722	664	FORGET			also means to turn off
+11169	Banawa	FORGET	kadamo	kadamo	k a d a m o	k a d a m o	1121	1079	FORGET			
+11170	Jarawara	FORGET	katamo	katamo	k a t a m o	k a t a m o	1121	1079	FORGET			
 10095	Sorowaha	EYEBROW	zubi sihini	zubi sihini	z u b i + s i h i n i	z u b i + s i h i n i	725	673 674	EYE ?			
+11145	Banawa	EYEBROW	noko masiri	noko masiri	n o k o + m a s i r i	n o k o + m a s i r i	1101	1060 1061	? ?			
 10101	Sorowaha	SEW	wisina / wisinaɾi	wisina	w i s i n a	w i s i n a - -	730	678	SEW			
 10102	Sorowaha	SEW	wisina / wisinaɾi	wisinaɾi	w i s i n a ɾ i	w i s i n a ɾ i	730	678	SEW			
 10111	Sorowaha	LET GO OR SET FREE	katabu	katabu	k a t a b u	k a t a b u	734	697	RELEASE			
 10113	Sorowaha	DRY UP	kasɨ	kasɨ	k a s ɨ	k a s ɨ	736	698	DRY			
+11263	Jarawara	DRY UP	botorisa	botorisa	b o t o + r i s a	b o t o + r i s a	1158	1120 1121	BE.OLD DOWNWARDS			
 10115	Sorowaha	PISS	kasukaɾi / kasuka	kasukaɾi	k a s u k a ɾ i	k a s u k a ɾ i	738	701	URINE			
 10117	Sorowaha	PISS	kasukaɾi / kasuka	kasuka	k a s u k a	k a s u k a - -	738	701	URINE			
+11261	Jarwara	PISS	so	so	s o	s o	1157	1119	URINE			
 10123	Sorowaha	ROLL	kaɾunaaɾi / kaɾuumɨ	kaɾunaaɾi	k a ɾ u n aː ɾ i	k a ɾ u n aː ɾ i	744	706	ROLL			
 10124	Sorowaha	ROLL	kaɾunaaɾi / kaɾuumɨ	kaɾuumɨ	k a ɾ uː m ɨ	k a ɾ uː m ɨ - -	744	706	ROLL			
+11259	Jarawara	ROLL	karoro	karoro	k a r o r o	k a r o r o	744	706	ROLL			
 10128	Sorowaha	CHAMELEON	zukutu	zukutu	z u k u t u	z u k u t u	748	710	CHAMELEON			
-10149	Sorowaha	HAWK	ʃibiri	ʃibiri	ʃ i b i r i	ʃ i b i r i	755	718	?			
 10209	Deni	FINGER	zepe	zepe	z e p e	z e p e	790	750	FINGER			
 10210	Jarawara	FINGER	jehe	jehe	j e h e	j e h e	791	83	HAND			
 10212	Sorowaha	FINGER	bihi	bihi	b i h i	b i h i	793	322	HAND			also means hand and forearm
@@ -3153,23 +3286,41 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10215	Paumari	FINGER	saʔa / dama	saʔa	s a ʔ a	s a ʔ a	795	752	FINGER			
 10218	Kulina	FINGER	zepe	zepe	z e p e	z e p e	790	750	FINGER			
 10237	Kulina	BLUE	napana	napana	n a p a n a	n a p a n a	812	769	BLUE			
+11256	Jarawara	BLUE	tetefo	tetefo	t e t e f o	t e t e f o	1155	1116	BLUE			Also means green
+11258	Sorowaha	BLUE	huraru	huraru	h u r a r u	h u r a r u	1156	1118	BLUE			Also means green, skin color,, shiny
 10307	Katawishi	FLOUR	ko	ko	k o	k o	851	808	FLOUR			
 10341	Katawishi	THREE	tiumpa	tiumpa	t iu m p a	t iu m p a	874	832	THREE			
 10382	Amarakaeri	THREE	mbapaʔ	mbapaʔ	m/b a p a ʔ	m/b a p a ʔ	907	867	THREE			
+11253	Jarawara	THREE	terei	terei	t e r ei	t e r ei	1154	1114	THREE		YES	From Portuguese três
 10347	Deni	CEDAR	tsiburima	tsiburima	ts i b u r i m a	ts i b u r i m a	877	835	CEDAR			
+11250	Jarawara	CEDAR	setara	setara	s e t a r a	s e t a r a	1153	1113	CEDAR		YES	From Portuguese cedro
 10348	Deni	BRAZIL NUT (Bertholletia excelsa)	karu / nami wasazu	karu	k a r u	k a r u	878	836	BRAZIL.NUT			
 10349	Deni	BRAZIL NUT (Bertholletia excelsa)	karu / nami wasazu	nami wasazu	n a m i + w a s a z u	n a m i + w a s a z u	879	837 838	? INAJÁ			
+11066	Amarakaeri	BRAZIL NUT (Bertholletia excelsa)	morikke	morikke	m o r i kk e	m o r i kk e	1082	1042	BRAZIL.NUT		YES	Cf. from Proto-Takana
+11067	Paumari	BRAZIL NUT (Bertholletia excelsa)	moiʔdi	moiʔdi	m oi ʔ d i	m oi ʔ d i	1082	1042	BRAZIL.NUT			
+11068	Jarawara	BRAZIL NUT (Bertholletia excelsa)	mowe	mowe	m o w e	m o w e	1083	1043	BRAZIL.NUT			
+11069	Kulina	BRAZIL NUT (Bertholletia excelsa)	kastaɲa	kastaɲa	k a s t a ɲ a	k a s t a ɲ a	1084	1044	BRAZIL.NUT		YES	from Portuguese 'castanha'
+11071	Sorowaha	BRAZIL NUT (Bertholletia excelsa)	ini:kʲa	ini:kʲa	i n iː kʲ a	i n iː kʲ a	1086	1045	BRAZIL.NUT			
+11093	Banawa	BRAZIL NUT (Bertholletia excelsa)	mowe	mowe	m o w e	m o w e	1083	1043	BRAZIL.NUT			
 10357	Amarakaeri	BOW	kumeh	kumeh	k u m e h	k u m e h	883	842	BOW			
+11092	Banawa	BOW	didisa	didisa	d i d i s a	d i d i s a	1098	1058	BOW			
+11094	Jarawara	BOW	titisa	titisa	t i t i s a	t i t i s a	1098	1058	BOW			
+11248	Sorowaha	BOW	harakadɨ	harakadɨ	h a r a k a d ɨ	h a r a k a d ɨ	1152	1110	BOW			
 10359	Amarakaeri	GIRL	munejo	munejo	m u n e j o	m u n e j o	885	844	GIRL			
 10360	Sorowaha	GIRL	dʒamusini	dʒamusini	dʒ a m u s i n i	dʒ a m u s i n i	886	845	GIRL			
 10361	Sorowaha	GIRL	gamɨsini	gamɨsini	g a m ɨ s i n i	g a m ɨ s i n i	886	845	GIRL			Pre-teenager that has not yet menstruated
 10362	Sorowaha	GIRL	hadʒimadi	hadʒimadi	h a dʒ i m a d i	h a dʒ i m a d i	887	846	GIRL			Between the ages of 5 and 8 (roughly)
+11245	Jarawara	GIRL	inamatewe	inamatewe	i n a m a t e w e	i n a m a t e w e	1151	1109	GIRL			
 10369	Deni	WANT	kahi	kahi	k a h i	k a h i	894	853	WANT			
 10370	Amarakaeri	WANT	pak	pak	p a k	p a k	895	854	WANT			
 10513	KatukinaBiá	WANT	wɯ	wɯ	w ɯ	w ɯ	946	905	WANT			
 10514	Kanamari	WANT	wɯ	wɯ	w ɯ	w ɯ	946	905	WANT			
 10962	Paumari	WANT	nofi	nofi	n o f i	n o f i	1048	644	WANT			
+11242	Sorowaha	WANT	kahi	kahi	k a h i	k a h i	894	853	WANT			
+11244	Jarawara	WANT	nofa	nofa	n o f a	n o f a	1048	644	WANT			
 10379	Amarakaeri	HUNT	mationka	mationka	m a t io n k a	m a t io n k a	904	862	HUNT			
+11214	Banawa	HUNT	jete	jete	j e t e	j e t e	447	430	HUNT			
+11216	Jarawara	HUNT	jete	jete	j e t e	j e t e	447	430	HUNT			
 10424	Proto-Arawan	SOCIOZINHO HERON	amasawari	amasawari	a m a s a w a r i	a m a s a w a r i	548	358	?			
 10466	Sorowaha	MASTER	jara	jara	j a r a	j a r a	936	896	MASTER		YES	From Língua Geral
 10467	Jarawara	MASTER	jara	jara	j a r a	j a r a	936	896	MASTER		YES	From Língua Geral
@@ -3177,11 +3328,23 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10469	Banawa	MASTER	jara	jara	j a r a	j a r a	936	896	MASTER		YES	From Língua Geral
 10497	KatukinaBiá	PARROT	walu	walu	w aː l u	w aː l u	941	900	PARROT			
 10498	Kanamari	PARROT	walu	walu	w aː l u	w aː l u	941	900	PARROT			
+11237	Sorowaha	PARROT	siarasiara	siarasiara	s ia r a s ia r a	s ia r a s ia r a	1147	1105	PARROT			
+11238	Jarawara	PARROT	bikawi / babakajo / kaha	bikawi	b i k a w i	b i k a w i	1148	1106	PARROT			
+11239	Jarawara	PARROT	maki	maki	b a b a k a j o	b a b a k a j o	1149	1107	PARROT			From Portuguese papagaio
+11240	Jarawara	PARROT	bikawi / babakajo / kaha	kaha	k a h a	k a h a	1150	1108	PARROT			
 10719	Proto-Arawan	PAJURÁ	majo	majo	m a j o	m a j o	988	922	PAJURA			
+11235	Jarawara	PAJURÁ	majo	majo	m a j o	m a j o	988	922	PAJURA			
+11236	Sorowaha	PAJURÁ	wariuba	wariuba	w a r iu b a	w a r iu b a	1146	1104	PAJURA			
 10749	Banawa	WOOD	awa	awa	a w a	a w a	948	539	WOOD			
 11008	Paumari	WOOD	aβa	aβa	a β a	a β a	948	539	WOOD			
+11234	Jarawara	WOOD	awa	awa	a w a	a w a	948	539	WOOD			
 10752	Banawa	SEPARATE	kosei	kosei	k o s ei	k o s ei	950	908	SEPARATE			
+11232	Sorowaha	SEPARATE	hɨkagɨːra	hɨkagɨːra	h ɨ k a g ɨː r a	h ɨ k a g ɨː r a	1144	1102	SEPARATE			
+11233	Jarawara	SEPARATE	tani	tani	t a n i	t a n i	1145	1103	SEPARATE			
 10757	Banawa	EXIST	wada	wada	w a d a	w a d a	954	912	EXIST			
+11229	Jarawara	EXIST	wata / na	wata	w a t a	w a t a	954	912	EXIST			
+11230	Jarawara	EXIST	wata / na	na	n a	n a	1142	1099	EXIST			
+11231	Sorowaha	EXIST	ha	ha	h aː	h aː	1143	1101	EXIST			
 10760	Banawa	KNIFE	ɟimowa	ɟimowa	ɟ i m o w a	ɟ i m o w a	955	913	KNIFE			
 10926	Jarawara	KNIFE	jimawa	jimawa	j i m a w a	j i m a w a	955	913	KNIFE			
 10927	Sorowaha	KNIFE	dʒumaːdu	dʒumaːdu	dʒ u m aː d u	dʒ u m aː d u	955	913	KNIFE			
@@ -3189,22 +3352,47 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10929	Deni	KNIFE	huhuka	huhuka	h u h u k a	h u h u k a	987	944	KNIFE			
 10967	Paumari	KNIFE	kadʒoʔatʰa / hado	hado	h a d o	h a d o	1026	982	KNIFE			
 10761	Banawa	KICK	taro	taro	t a r o	t a r o	956	914	KICK			
+11227	Sorowaha	KICK	dibi	dibi	d i b i	d i b i	1141	1098	KICK			
+11228	Jarawara	KICK	taro	taro	t a r o	t a r o	956	914	KICK			
 10807	Kanamari	ROOSTER	taukala paiku	taukala paiku	t au k a l a + p ai k u	t au k a l a + p ai k u	960	621 365	CHICKEN MALE			
 10808	Katawishi	ROOSTER	hakara botsø	hakara botsø	h a k a r a + b o ts ø	h a k a r a + b o ts ø	960	621 365	CHICKEN MALE			
+11149	Jarwara	ROOSTER	arakawa	arakawa	a r a k a w a	a r a k a w a	960	621	CHICKEN			
 10822	Kanamari	BEAD	diwakuŋ	diwakuŋ	d i w a k u ŋ	d i w a k u ŋ	969	926	BEAD			
+11148	Sorowaha	BEAD	kasuru	kasuru	k a s uː r u	k a s uː r u	1115	1073	BEAD			
 10826	Kanamari	STRONG	hɯhaŋ	hɯhaŋ	h ɯ h a ŋ	h ɯ h a ŋ	972	929	STRONG			
+11146	Sorowaha	STRONG	wawɨrɨ	wawɨrɨ	w a w ɨ r ɨ	w a w ɨ r ɨ	1113	1071	STRONG			
+11147	Jarawara	STRONG	kita	kita	k i t a	k i t a	1114	1072	STRONG			
 10910	Amarakaeri	MEET	ndeh	ndeh	n/d e h	n/d e h	978	936	MEET			
+11143	Jarawara	MEET	kobo	kobo	k o b o	k o b o	1110	1069	MEET			
+11144	Sorowaha	MEET	tiene	tiene	t ie n e	t ie n e	1111	1070	MEET			
 10911	Amarakaeri	MANIOC	tareʔ	tareʔ	t a r e ʔ	t a r e ʔ	977	935	MANIOC			
 11005	Paumari	MANIOC	boda	boda	b o d a	b o d a	1028	983	MANIOC			
+11141	Jarawara	MANIOC	fowa	fowa	f o w a	f o w a	1028	983	MANIOC			
+11142	Sorowaha	MANIOC	mama	mama	m a m a	m a m a	1103	1061	MANIOC			
 10935	Amarakaeri	CULTIVATED FIELD	taʔmba	taʔmba	t a ʔ + m/b a	t a ʔ + m/b a	1003	960 961	? ?			
+11223	Sorowaha	CULTIVATED FIELD	hadara	hadara	h a d a r a	h a d a r a	1138	1095	SLASH			
+11224	Jarawara	CULTIVATED FIELD	awa / fatara / tafe	awa	a w a	a w a	1139	1096	SLASH			
+11225	Jarawara	CULTIVATED FIELD	awa / fatara / tafe	fatara	ɸ a t a r a	ɸ a t a r a	1138	1095	SLASH			
+11226	Jarawara	CULTIVATED FIELD	awa / fatara / tafe	tafe	t a ɸ e	t a ɸ e	1140	1097	SLASH			
 10945	Amarakaeri	CARRY	jʉk	jʉk	j ʉ k	j ʉ k	994	954	CARRY			
+11104	Banawa	CARRY	dia	dia	d ia	d ia	1105	1063	CARRY			
+11105	Jarawara	CARRY	tiwa	tiwa	t i w a	t i w a	1105	1063	CARRY			Perhaps cognate with Sorowaha tuwaka 'take away'
+11222	Sorowaha	CARRY	aka / aga	aka	a k a	a k a	1137	1094	CARRY			
 10947	Amarakaeri	OLDER BROTHER (OF WOMAN)	pogn	pogn	p o g n	p o g n	1000	959	BROTHER			
 10953	Paumari	GUAVA	kaira	kaira	k ai r a	k ai r a	1022	978	GUAVA			
+11138	Jarawara	GUAVA	kaira	kaira	k ai r a	k ai r a	1022	978	GUAVA			
 10954	Paumari	DO OR MAKE	namonaha / maravi	maravi	m a r a v i	m a r a v i	1055	1012	MAKE			
 10961	Paumari	DO OR MAKE	namonaha / maravi	namonaha	n a m o n a h a	n a m o n a h a	1056	1013	MAKE			
+11221	Sorowaha	DO OR MAKE	higana	higana	h i g a n a	h i g a n a	1136	1093	MAKE			
 10987	Paumari	BROTHER	ʔaajo	ʔaajo	ʔ a a j o	ʔ a a j o	1010	967	BROTHER			
 10995	Paumari	SHELL	topava	topava	t o p a v a	t o p a v a	1037	992	SHELL			
+11135	Jarawara	SHELL	tafi / wasi	tafi	t a ɸ i	t a ɸ i	1037	992	SHELL			
+11136	Jarawara	SHELL	tafi / wasi	wasi	w a s i	w a s i	1101	1060	SHELL			
 10998	Paumari	OLDER BROTHER	aadʒodʒahiki	aadʒodʒahiki	aa dʒ o dʒ a h i k i	aa dʒ o dʒ a h i k i	1030	985	OLDER.BROTHER			
+11097	Banawa	OLDER BROTHER	anodi / ajo	anodi	a n o d i	a n o d i	1030	985	OLDER.BROTHER			
+11098	Banawa	OLDER BROTHER	anodi / ajo	ajo	a j o	a j o	1030	985	OLDER.BROTHER			
+11099	Jarawara	OLDER BROTHER	anoti	anoti	a n o t i	a n o t i	1030	985	OLDER.BROTHER			
+11133	Sorowaha	OLDER BROTHER	idʒa	idʒa	iː dʒ a	iː dʒ a	1030	985	OLDER.BROTHER			
 11001	Paumari	SISTER	baʔai	baʔai	b a ʔ ai	b a ʔ ai	1039	994	SISTER			
 11014	Banawa	AMAZON RIVER DOLPHIN	marija	marija	m a r i j a	m a r i j a	1058	1015	AMAZON.RIVER.DOLPHIN			
 11015	Jarawara	AMAZON RIVER DOLPHIN	boto	boto	b o t o	b o t o	1059	1016	AMAZON.RIVER.DOLPHIN		YES	Loan from Portuguese
@@ -3216,13 +3404,39 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11027	Banawa	WILD DOG	kawara	kawara	k a w a r a	k a w a r a	1067	1025	WILD.DOG			
 11028	Sorowaha	WILD DOG	madʒirini	madʒirini	m a dʒ i r i n i	m a dʒ i r i n i	1068	1026	WILD.DOG			
 11029	Jarawara	WILD DOG	kawara	kawara	k a w a r a	k a w a r a	1067	1025	WILD.DOG			
-11030	Jarawara	WILD DOG	kawara	kawara	k a w a r a	k a w a r a	1067	1025	WILD.DOG			
 11031	Banawa	WILD CAT	jomaj sokwiraba	jomaj sokwiraba	j o m a j + s o kʷ i r a b a	j o m a j + s o kʷ i r a b a	1069	1027 1028	WILD.CAT ?			
 11032	Jamamadi	WILD CAT	bosoko / wakasi	bosoko / wakasi	b o s o k o	b o s o k o	1070	1029	WILD.CAT			
 11033	Jamamadi	WILD CAT	bosoko / wakasi	bosoko / wakasi	w a k a s i	w a k a s i	1071	1030	WILD.CAT			
-11034	Banawa	PUMA	bani hadaj	bani hadaj	b a n i + h a d ai	b a n i + h a d ai	1072	1031 1032	SUÇUARANA ?			
-11035	Jarawara	PUMA	banihatã	banihatã	b a n i + h a t ã	b a n i + h a t ã	1072	1031 1032	SUÇUARANA ?			
-11036	Jamamadi	PUMA	jome mawa bani hada	jome mawa bani hada	j o m e + m a w a + b a n i + h a d a	j o m e + m a w a + b a n i + h a d a	1072	1033 1034 1031 1032	? ? SUÇUARANA ?			
+11220	Sorowaha	WILD CAT	majuwakari	majuwakari	m a j u w a k a r i	m a j u w a k a r i	1071	1030	WILD.CAT			Felis pardalis,  Felis macrura
+11034	Banawa	PUMA	bani hadaj	bani hadaj	b a n i + h a d ai	b a n i + h a d ai	1072	1031 1032	PUMA ?			Suçuarana
+11035	Jarawara	PUMA	banihatã	banihatã	b a n i + h a t ã	b a n i + h a t ã	1072	1031 1032	PUMA ?			Suçuarana
+11036	Jamamadi	PUMA	jome mawa bani hada	jome mawa bani hada	j o m e + m a w a + b a n i + h a d a	j o m e + m a w a + b a n i + h a d a	1072	1033 1034 1031 1032	? ? PUMA ?			Suçuarana
 11037	Banawa	GIANT RIVER OTTER	sabo	sabo	s a b o	s a b o	1073	1035	GIANT.OTTER			
 11038	Jarawara	GIANT RIVER OTTER	sabo	sabo	s a b o	s a b o	1073	1035	GIANT.OTTER			
 11039	Jamamadi	GIANT RIVER OTTER	saboho	saboho	s a b o h o	s a b o h o	1073	1035	GIANT.OTTER			
+11041	Sorowaha	HOPLIAS (Hoplias malabaricus)	sakusa	sakusa	s a k u s a	s a k u s a	1075	1036	HOPLIAS			Possibly of Arawak origin
+11042	Jarawara	HOPLIAS (Hoplias malabaricus)	sakoɸana	sakoɸana	s a k o ɸ a n a	s a k o ɸ a n a	1075	1036	HOPLIAS			Possibly of Arawak origin
+11043	Banawa	HOPLIAS (Hoplias malabaricus)	sakoɸana	sakoɸana	s a k o ɸ a n a	s a k o ɸ a n a	1075	1036	HOPLIAS			Possibly of Arawak origin
+11044	Jamamadi	HOPLIAS (Hoplias malabaricus)	sako	sako	s a k o	s a k o	1075	1036	HOPLIAS			Possibly of Arawak origin
+11045	Paumari	HOPLIAS (Hoplias malabaricus)	sako	sako	s a k o	s a k o	1075	1036	HOPLIAS			Possibly of Arawak origin
+11046	Kulina	HOPLIAS (Hoplias malabaricus)	sʰako	sʰako	sʰ a k o	sʰ a k o	1075	1036	HOPLIAS			Possibly of Arawak origin
+11047	Deni	HOPLIAS (Hoplias malabaricus)	sʰako	sʰako	sʰ a k o	sʰ a k o	1075	1036	HOPLIAS			Possibly of Arawak origin
+11049	Sorowaha	BRYCON (GENUS)	mamuri	mamuri	m a m uː r i	m a m uː r i	400	379	BRYCON		YES	Of Arawak origin
+11050	Deni	BRYCON (GENUS)	mamore	mamore	m a m o r e	m a m o r e	400	379	BRYCON		YES	Of Arawak origin
+11051	Kulina	BRYCON (GENUS)	mamore	mamore	m a m o r e	m a m o r e	400	379	BRYCON		YES	Of Arawak origin
+11052	Jarawara	BRYCON (GENUS)	aba	aba	a b a	a b a	1076	201	FISH			
+11054	Paumari	BRYCON (GENUS)	mamori	mamori	m a m o r i	m a m o r i	400	379	BRYCON		YES	Of Arawak origin
+11056	Jarawara	OPOSSUM	jokihiwe	jokihiwe	j o k i h i w e	j o k i h i w e	1077	1037	OPOSSUM			
+11057	Banawa	OPOSSUM	jokiwe	jokiwe	j o k i w e	j o k i w e	1077	1037	OPOSSUM			
+11058	Jamamadi	OPOSSUM	jikehe	jikehe	j i k e h e	j i k e h e	1077	1037	OPOSSUM			
+11218	Sorowaha	OPOSSUM	jukasari	jukasari	j u k a s a r i	j u k a s a r i	1077	1037	OPOSSUM			
+11072	Banawa	LIZARD	aabobo	aabobo	aː b o b o	aː b o b o	1087	1046	LIZARD			FEM. SP
+11129	Jarawara	LIZARD	kabobo	kabobo	k a b o b o	k a b o b o	1087	1046	LIZARD			
+11217	Sorowaha	LIZARD	jababa	jababa	j a b a b a	j a b a b a	1087	1046	LIZARD			sp.
+11074	Banawa	PIUM (simuliidae)	abebiri	abebiri	a b e b i r i	a b e b i r i	1088	1047	GNAT			
+11128	Jarawara	PIUM (simuliidae)	awarika biri	awarika biri	a w a r i k a + b i r i	a w a r i k a + b i r i	1088	1068 1047	? GNAT			
+11076	Banawa	ANACONDA	makawe	makawe	m a k a w e	m a k a w e	1089	1048	ANACONDA			
+11123	Jarawara	ANACONDA	makehe	makehe	m a k e h e	m a k e h e	1089	1048	ANACONDA			
+11077	Banawa	TAYRA	sawa	sawa	s a w a	s a w a	1090	1049	TAYRA			
+11156	Jarawara	TAYRA	sawa	sawa	s a w a	s a w a	1090	1049	TAYRA			
+11175	Sorowaha	TAYRA	sawari	sawari	s a w a r i	s a w a r i	1090	1049	TAYRA			
