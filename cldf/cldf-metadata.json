@@ -9,24 +9,24 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Katukinan-Arawan-Harakmbut Database (KAHD)",
-    "dcat:accessURL": "https://github.com/LanguageStructure/KAHD_pre_release",
+    "dcat:accessURL": "git@github.com:LanguageStructure/KAHD_pre_release",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "https://github.com/LanguageStructure/KAHD_pre_release",
+            "rdf:about": "git@github.com:LanguageStructure/KAHD_pre_release",
             "rdf:type": "prov:Entity",
-            "dc:created": "0.2-21-gb868bc8",
+            "dc:created": "0.2-40-g08cc497",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.5",
+            "dc:created": "v4.6",
             "dc:title": "Glottolog"
         },
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.5.0",
+            "dc:created": "v2.6.0",
             "dc:title": "Concepticon"
         },
         {
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.9.12"
+            "dc:description": "3.10.4"
         },
         {
             "dc:title": "python-packages",
@@ -52,13 +52,10 @@
     ],
     "rdf:ID": "tuled",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 3225,
+            "dc:extent": 3812,
             "tableSchema": {
                 "columns": [
                     {
@@ -178,7 +175,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 13,
+            "dc:extent": 14,
             "tableSchema": {
                 "columns": [
                     {
@@ -194,7 +191,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{glottolog_id}",
+                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
                         "name": "Glottocode"
                     },
                     {
@@ -248,7 +245,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 593,
+            "dc:extent": 592,
             "tableSchema": {
                 "columns": [
                     {
@@ -264,7 +261,7 @@
                     {
                         "datatype": "string",
                         "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
-                        "valueUrl": "http://concepticon.clld.org/parameters/{concepticon_id}",
+                        "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
                         "name": "Concepticon_ID"
                     },
                     {
@@ -288,7 +285,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 3305,
+            "dc:extent": 3933,
             "tableSchema": {
                 "columns": [
                     {
