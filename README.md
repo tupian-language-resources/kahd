@@ -23,23 +23,23 @@ This dataset is licensed under a MIT License license
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 15
-- **Concepts:** 606
-- **Lexemes:** 4,529
+- **Varieties:** 16
+- **Concepts:** 608
+- **Lexemes:** 4,580
 - **Sources:** 33
 - **Synonymy:** 1.10
-- **Cognacy:** 4,718 cognates in 1,708 cognate sets (857 singletons)
+- **Cognacy:** 4,773 cognates in 1,739 cognate sets (877 singletons)
 - **Cognate Diversity:** 0.28
 - **Invalid lexemes:** 0
-- **Tokens:** 22,131
-- **Segments:** 129 (0 BIPA errors, 0 CLTS sound class errors, 129 CLTS modified)
-- **Inventory size (avg):** 37.00
+- **Tokens:** 22,404
+- **Segments:** 131 (0 BIPA errors, 0 CLTS sound class errors, 131 CLTS modified)
+- **Inventory size (avg):** 36.50
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 79/4529 (1.74%)
+- Entries missing sources: 113/4580 (2.47%)
 
 ## CLDF Datasets
 

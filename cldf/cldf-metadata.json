@@ -14,7 +14,7 @@
         {
             "rdf:about": "git@github.com:LanguageStructure/KAHD_pre_release",
             "rdf:type": "prov:Entity",
-            "dc:created": "0.2-49-gb15ed6f",
+            "dc:created": "0.2-51-geaa8770",
             "dc:title": "Repository"
         },
         {
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 4529,
+            "dc:extent": 4580,
             "tableSchema": {
                 "columns": [
                     {
@@ -175,7 +175,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 15,
+            "dc:extent": 16,
             "tableSchema": {
                 "columns": [
                     {
@@ -245,7 +245,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 606,
+            "dc:extent": 608,
             "tableSchema": {
                 "columns": [
                     {
@@ -285,7 +285,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 4718,
+            "dc:extent": 4773,
             "tableSchema": {
                 "columns": [
                     {
