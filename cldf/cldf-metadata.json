@@ -1,365 +1,253 @@
 {
-    "@context": "http://www.w3.org/ns/csvw",
-    "aboutUrl": null,
-    "dc:bibliographicCitation": "Ferraz Gerardi, Fabr\u00edcio & Aragon, Carolina & Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release",
-    "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": "Lexical Database of the Arawan language family",
-    "dc:isVersionOf": null,
-    "dc:license": "http://www.opensource.org/licenses/MIT",
-    "dc:related": null,
-    "dc:source": "sources.bib",
-    "dc:title": "Katukinan-Arawan-Harakmbut Database (KAHD)",
-    "dcat:accessURL": "git@github.com:LanguageStructure/KAHD_pre_release",
-    "prov:wasDerivedFrom": [
-        {
-            "rdf:about": "git@github.com:LanguageStructure/KAHD_pre_release",
-            "rdf:type": "prov:Entity",
-            "dc:created": "0.2-51-geaa8770",
-            "dc:title": "Repository"
-        },
-        {
-            "rdf:about": "https://github.com/glottolog/glottolog",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v4.6",
-            "dc:title": "Glottolog"
-        },
-        {
-            "rdf:about": "https://github.com/concepticon/concepticon-data",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v2.6.0",
-            "dc:title": "Concepticon"
-        },
-        {
-            "rdf:about": "https://github.com/cldf-clts/clts",
-            "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0",
-            "dc:title": "CLTS"
-        }
-    ],
-    "prov:wasGeneratedBy": [
-        {
-            "dc:title": "lingpy-rcParams",
-            "dc:relation": "lingpy-rcParams.json"
-        },
-        {
-            "dc:title": "python",
-            "dc:description": "3.10.4"
-        },
-        {
-            "dc:title": "python-packages",
-            "dc:relation": "requirements.txt"
-        }
-    ],
-    "rdf:ID": "tuled",
-    "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "tables": [
-        {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 4580,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "required": true,
-                        "name": "ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://purl.org/dc/terms/identifier",
-                        "name": "Local_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
-                        "name": "Language_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
-                        "name": "Parameter_ID",
-                        "titles": "Concept_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
-                        "required": true,
-                        "name": "Value"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
-                        "required": true,
-                        "name": "Form"
-                    },
-                    {
-                        "datatype": {
-                            "base": "string",
-                            "format": "([\\S]+)( [\\S]+)*"
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segments",
-                        "separator": " ",
-                        "name": "Segments"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
-                        "name": "Comment"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
-                        "separator": ";",
-                        "name": "Source"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Cognacy"
-                    },
-                    {
-                        "datatype": "boolean",
-                        "name": "Loan"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Graphemes"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Profile"
-                    },
-                    {
-                        "datatype": "string",
-                        "separator": " ",
-                        "name": "Morphemes"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "SimpleCognate"
-                    },
-                    {
-                        "datatype": "string",
-                        "separator": " ",
-                        "name": "PartialCognates"
-                    }
-                ],
-                "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Language_ID"
-                        ],
-                        "reference": {
-                            "resource": "languages.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    },
-                    {
-                        "columnReference": [
-                            "Parameter_ID"
-                        ],
-                        "reference": {
-                            "resource": "parameters.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
+  "@context": "http://www.w3.org/ns/csvw",
+  "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
+  "dialect": {
+    "commentPrefix": null
+  },
+  "tables": [
+    {
+      "url": "forms.csv",
+      "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "ID",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+            "required": true,
+            "datatype": "string"
+          },
+          {
+            "name": "Local_ID",
+            "propertyUrl": "http://purl.org/dc/terms/identifier",
+            "datatype": "string"
+          },
+          {
+            "name": "Language_ID",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#languageReference",
+            "datatype": "string"
+          },
+          {
+            "name": "Parameter_ID",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#parameterReference",
+            "titles": "Concept_ID",
+            "datatype": "string"
+          },
+          {
+            "name": "Value",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#value",
+            "required": true,
+            "datatype": "string"
+          },
+          {
+            "name": "Form",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#form",
+            "required": true,
+            "datatype": "string"
+          },
+          {
+            "name": "Segments",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#segments",
+            "datatype": "string",
+            "separator": " "
+          },
+          {
+            "name": "Comment",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#comment",
+            "datatype": "string"
+          },
+          {
+            "name": "Source",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+            "datatype": {
+              "base": "string"
             },
-            "url": "forms.csv"
-        },
-        {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
-            "dc:extent": 16,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "name": "ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "name": "Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
-                        "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
-                        "name": "Glottocode"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Glottolog_Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
-                        "name": "ISO639P3code"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
-                        "name": "Macroarea"
-                    },
-                    {
-                        "datatype": {
-                            "base": "decimal",
-                            "minimum": "-90",
-                            "maximum": "90"
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
-                        "required": false,
-                        "name": "Latitude"
-                    },
-                    {
-                        "datatype": {
-                            "base": "decimal",
-                            "minimum": "-180",
-                            "maximum": "180"
-                        },
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
-                        "required": false,
-                        "name": "Longitude"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Family"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Source"
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "languages.csv"
-        },
-        {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 608,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "name": "ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
-                        "name": "Name"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
-                        "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
-                        "name": "Concepticon_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Concepticon_Gloss"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Number"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Semantic_Field"
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "parameters.csv"
-        },
-        {
-            "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 4773,
-            "tableSchema": {
-                "columns": [
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
-                        "name": "ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
-                        "name": "Form_ID"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
-                        "name": "Form"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference",
-                        "name": "Cognateset_ID"
-                    },
-                    {
-                        "datatype": "boolean",
-                        "name": "Doubt"
-                    },
-                    {
-                        "datatype": "string",
-                        "default": "expert",
-                        "name": "Cognate_Detection_Method"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
-                        "separator": ";",
-                        "name": "Source"
-                    },
-                    {
-                        "datatype": "string",
-                        "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#alignment",
-                        "separator": " ",
-                        "name": "Alignment"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Alignment_Method"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Alignment_Source"
-                    },
-                    {
-                        "datatype": "string",
-                        "name": "Segment_Slice"
-                    }
-                ],
-                "foreignKeys": [
-                    {
-                        "columnReference": [
-                            "Form_ID"
-                        ],
-                        "reference": {
-                            "resource": "forms.csv",
-                            "columnReference": [
-                                "ID"
-                            ]
-                        }
-                    }
-                ],
-                "primaryKey": [
-                    "ID"
-                ]
-            },
-            "url": "cognates.csv"
-        }
-    ]
+            "separator": ";"
+          },
+          {
+            "name": "Cognacy",
+            "datatype": "string"
+          },
+          {
+            "name": "Loan",
+            "datatype": "boolean"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "columnReference": "Language_ID",
+            "reference": {
+              "resource": "languages.csv",
+              "columnReference": "ID"
+            }
+          },
+          {
+            "columnReference": "Parameter_ID",
+            "reference": {
+              "resource": "parameters.csv",
+              "columnReference": "ID"
+            }
+          }
+        ],
+        "primaryKey": "ID"
+      }
+    },
+    {
+      "url": "languages.csv",
+      "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#LanguageTable",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "ID",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+            "datatype": "string"
+          },
+          {
+            "name": "Name",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+            "datatype": "string"
+          },
+          {
+            "name": "Glottocode",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#glottocode",
+            "valueUrl": "http://glottolog.org/resource/languoid/id/{Glottocode}",
+            "datatype": "string"
+          },
+          {
+            "name": "Glottolog_Name",
+            "datatype": "string"
+          },
+          {
+            "name": "ISO639P3code",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#iso639P3code",
+            "datatype": "string"
+          },
+          {
+            "name": "Macroarea",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#macroarea",
+            "datatype": "string"
+          },
+          {
+            "name": "Latitude",
+            "required": false,
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#latitude",
+            "datatype": {
+              "base": "decimal",
+              "minimum": -90,
+              "maximum": 90
+            }
+          },
+          {
+            "name": "Longitude",
+            "required": false,
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#longitude",
+            "datatype": {
+              "base": "decimal",
+              "minimum": -180,
+              "maximum": 180
+            }
+          },
+          {
+            "name": "Family",
+            "datatype": "string"
+          }
+        ],
+        "primaryKey": "ID"
+      }
+    },
+    {
+      "url": "parameters.csv",
+      "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "ID",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+            "datatype": "string"
+          },
+          {
+            "name": "Name",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#name",
+            "datatype": "string"
+          },
+          {
+            "name": "Concepticon_ID",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#concepticonReference",
+            "valueUrl": "http://concepticon.clld.org/parameters/{Concepticon_ID}",
+            "datatype": "string"
+          },
+          {
+            "name": "Concepticon_Gloss",
+            "datatype": "string"
+          }
+        ],
+        "primaryKey": "ID"
+      }
+    },
+    {
+      "url": "cognates.csv",
+      "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
+      "tableSchema": {
+        "columns": [
+          {
+            "name": "ID",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#id",
+            "datatype": "string"
+          },
+          {
+            "name": "Form_ID",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#formReference",
+            "datatype": "string"
+          },
+          {
+            "name": "Form",
+            "propertyUrl": "http://linguistics-ontology.org/gold/2010/FormUnit",
+            "datatype": "string"
+          },
+          {
+            "name": "Cognateset_ID",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#cognatesetReference",
+            "datatype": "string"
+          },
+          {
+            "name": "Doubt",
+            "datatype": "boolean"
+          },
+          {
+            "name": "Cognate_Detection_Method",
+            "default": "expert",
+            "datatype": "string"
+          },
+          {
+            "name": "Source",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#source",
+            "separator": ";",
+            "datatype": "string"
+          },
+          {
+            "name": "Alignment",
+            "separator": " ",
+            "propertyUrl": "http://cldf.clld.org/v1.0/terms.rdf#alignment",
+            "datatype": "string"
+          },
+          {
+            "name": "Alignment_Method",
+            "datatype": "string"
+          },
+          {
+            "name": "Alignment_Source",
+            "datatype": "string"
+          }
+        ],
+        "foreignKeys": [
+          {
+            "columnReference": "Form_ID",
+            "reference": {
+              "resource": "forms.csv",
+              "columnReference": "ID"
+            }
+          }
+        ]
+      }
+    }
+  ]
 }
