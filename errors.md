@@ -1,6 +1,7 @@
 # Error Analysis for ARAWA
 * ALIGNMENT empty 1626
 * BIBTEX MISSING 
+* BIBTEX MISSING aza1933vocabulario
 * CONCEPT APPEAR
 * CONCEPT ARMY ANT
 * CONCEPT BABAÇU (Attalea speciosa)
