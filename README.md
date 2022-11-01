@@ -25,32 +25,24 @@ This dataset is licensed under a MIT License license
 
 - **Varieties:** 18
 - **Concepts:** 679
-- **Lexemes:** 5,313
+- **Lexemes:** 5,359
 - **Sources:** 35
 - **Synonymy:** 1.10
-- **Cognacy:** 5,552 cognates in 2,034 cognate sets (975 singletons)
+- **Cognacy:** 5,628 cognates in 2,059 cognate sets (989 singletons)
 - **Cognate Diversity:** 0.29
 - **Invalid lexemes:** 0
-- **Tokens:** 26,250
+- **Tokens:** 26,597
 - **Segments:** 138 (0 BIPA errors, 0 CLTS sound class errors, 138 CLTS modified)
-- **Inventory size (avg):** 38.06
+- **Inventory size (avg):** 38.17
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 310/5313 (5.83%)
+- Entries missing sources: 325/5359 (6.06%)
 
 ## CLDF Datasets
 
 The following CLDF datasets are available in [cldf](cldf):
 
 - CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
-
-Name | Affiliation | GitHub user | Description | Role
---- | --- | --- | --- | ---
-Fabrício Ferraz Gerardi | Universität Tübingen | @LanguageStructure | Data Collector, cognacy assignment, co-lexifications, notes | Author
-Stanislav Reichert | Universität Tübingen |@StasReichert | Data Collector | Author
-Carolina Aragon | UFPB | @carolinaaragon | Data Collector,cognacy assignment, co-lexifications, notes | Author
-An Van linden | Université de Liège | | Data Collector, cognacy assignment, co-lexifications, notes | Author
-Alan Vogel | SIL | | Data Collector, cognacy assignment, co-lexifications, notes | Author
