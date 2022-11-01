@@ -46,3 +46,11 @@ This dataset is licensed under a MIT License license
 The following CLDF datasets are available in [cldf](cldf):
 
 - CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
+
+Name | Affiliation | GitHub user | Description | Role
+--- | --- | --- | --- | ---
+Fabrício Ferraz Gerardi | Universität Tübingen | @LanguageStructure | Data Collector, cognacy assignment, co-lexifications, notes | Author
+Stanislav Reichert | Universität Tübingen |@StasReichert | Data Collector | Author
+Carolina Aragon | UFPB | @carolinaaragon | Data Collector,cognacy assignment, co-lexifications, notes | Author
+An Van linden | Université de Liège | | Data Collector, cognacy assignment, co-lexifications, notes | Author
+Alan Vogel | SIL | | Data Collector, cognacy assignment, co-lexifications, notes | Author
