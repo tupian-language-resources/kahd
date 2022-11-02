@@ -7,10 +7,13 @@ If you use these data please cite
   > Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
+[pre-release](https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.80/)
+
 ## Description
 
 
-Lexical Database of the Arawan language family
+Lexical Database of the Katukinan-Arawan-Harakmbut language family. The most recent version also includes Apurinã (Arawakan)
+
 
 This dataset is licensed under a MIT License license
 
