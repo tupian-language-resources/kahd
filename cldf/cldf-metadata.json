@@ -9,12 +9,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Katukinan-Arawan-Harakmbut Database (KAHD)",
-    "dcat:accessURL": "git@github.com:LanguageStructure/KAHD_pre_release",
+    "dcat:accessURL": "https://github.com/tupian-language-resources/kahd",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "git@github.com:LanguageStructure/KAHD_pre_release",
+            "rdf:about": "https://github.com/tupian-language-resources/kahd",
             "rdf:type": "prov:Entity",
-            "dc:created": "0.2-78-gbc8dea9",
+            "dc:created": "0.2-83-gc8032b3",
             "dc:title": "Repository"
         },
         {
@@ -30,9 +30,9 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0",
+            "dc:created": "v2.2.0",
             "dc:title": "CLTS"
         }
     ],
@@ -43,7 +43,7 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.10.7"
+            "dc:description": "3.9.9"
         },
         {
             "dc:title": "python-packages",
@@ -52,6 +52,9 @@
     ],
     "rdf:ID": "tuled",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
+    "dialect": {
+        "commentPrefix": null
+    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",

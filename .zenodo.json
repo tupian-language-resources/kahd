@@ -6,7 +6,16 @@
         "linguistics"
     ],
     "creators": [],
-    "contributors": [],
+    "contributors": [
+        {
+            "name": "...",
+            "type": "Other"
+        },
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
