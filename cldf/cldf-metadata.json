@@ -9,12 +9,12 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Katukinan-Arawan-Harakmbut Database (KAHD)",
-    "dcat:accessURL": "git@github.com:LanguageStructure/KAHD_pre_release",
+    "dcat:accessURL": "git@github.com:tupian-language-resources/kahd",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "git@github.com:LanguageStructure/KAHD_pre_release",
+            "rdf:about": "git@github.com:tupian-language-resources/kahd",
             "rdf:type": "prov:Entity",
-            "dc:created": "0.2-78-gbc8dea9",
+            "dc:created": "0.2-85-g879b515",
             "dc:title": "Repository"
         },
         {
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 5359,
+            "dc:extent": 5360,
             "tableSchema": {
                 "columns": [
                     {
@@ -285,7 +285,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 5628,
+            "dc:extent": 5629,
             "tableSchema": {
                 "columns": [
                     {
