@@ -2704,6 +2704,7 @@ Toyeri-29_bad-1-1,Toyeri-29_bad-1,ⁿdakhe,874,false,expert,,ⁿd a k,SCA,,1
 Toyeri-29_bad-1-2,Toyeri-29_bad-1,ⁿdakhe,938,false,expert,,h e,SCA,,2
 Sapiteri-29_bad-1-1,Sapiteri-29_bad-1,ⁿdakhe,874,false,expert,,ⁿd a k,SCA,,1
 Sapiteri-29_bad-1-2,Sapiteri-29_bad-1,ⁿdakhe,938,false,expert,,h e,SCA,,2
+Jamamadi-29_bad-2-1,Jamamadi-29_bad-2,amosara,796,false,expert,,a m o s a r - - a,SCA,,1
 Deni-34_bathe-1-1,Deni-34_bathe-1,konaha,276,false,expert,,k o n a h a,SCA,,1
 Kulina-34_bathe-1-1,Kulina-34_bathe-1,kona,276,false,expert,,k o n - - a,SCA,,1
 Paumari-34_bathe-1-1,Paumari-34_bathe-1,kona,276,false,expert,,k o n - - a,SCA,,1
@@ -4184,14 +4185,14 @@ Sorowaha-447_scared-1-1,Sorowaha-447_scared-1,ohi,305,false,expert,,o h i,SCA,,1
 Sorowaha-564_tingui-1-1,Sorowaha-564_tingui-1,konahá,666,false,expert,,- k o n a h á,SCA,,1
 ProtoArawan-564_tingui-1-1,ProtoArawan-564_tingui-1,akonaha,666,false,expert,,a k o n a h a,SCA,,1
 Sorowaha-311_mark-1-1,Sorowaha-311_mark-1,taboɾi,408,false,expert,,t a b o ɾ i,SCA,,1
-Sorowaha-107_clothes-1-1,Sorowaha-107_clothes-1,tahɨ,409,false,expert,,t a h - - - - ɨ,SCA,,1
-Deni-107_clothes-1-1,Deni-107_clothes-1,makasi,897,false,expert,,m a k a s i,SCA,,1
-Jarawara-107_clothes-1-1,Jarawara-107_clothes-1,makari,897,false,expert,,m a k a r i,SCA,,1
-Banawa-107_clothes-1-1,Banawa-107_clothes-1,makari,897,false,expert,,m a k a r i,SCA,,1
-Paumari-107_clothes-1-1,Paumari-107_clothes-1,makari,897,false,expert,,m a k a r i,SCA,,1
-Jamamadi-107_clothes-1-1,Jamamadi-107_clothes-1,bora,898,false,expert,,b o r a,SCA,,1
-Kulina-107_clothes-1-1,Kulina-107_clothes-1,etero,1548,false,expert,,e t e r o,SCA,,1
-Arasairi-107_clothes-1-1,Arasairi-107_clothes-1,jørá,898,false,expert,,j ø r á,SCA,,1
+Sorowaha-106_clothes-1-1,Sorowaha-106_clothes-1,tahɨ,409,false,expert,,t a h - - - - ɨ,SCA,,1
+Deni-106_clothes-1-1,Deni-106_clothes-1,makasi,897,false,expert,,m a k a s i,SCA,,1
+Jarawara-106_clothes-1-1,Jarawara-106_clothes-1,makari,897,false,expert,,m a k a r i,SCA,,1
+Banawa-106_clothes-1-1,Banawa-106_clothes-1,makari,897,false,expert,,m a k a r i,SCA,,1
+Paumari-106_clothes-1-1,Paumari-106_clothes-1,makari,897,false,expert,,m a k a r i,SCA,,1
+Jamamadi-106_clothes-1-1,Jamamadi-106_clothes-1,bora,898,false,expert,,b o r a,SCA,,1
+Kulina-106_clothes-1-1,Kulina-106_clothes-1,etero,1548,false,expert,,e t e r o,SCA,,1
+Arasairi-106_clothes-1-1,Arasairi-106_clothes-1,jørá,898,false,expert,,j ø r á,SCA,,1
 Sorowaha-185_fly-1-1,Sorowaha-185_fly-1,bihʲawa,1258,false,expert,,b i hʲ a w a,SCA,,1
 Banawa-185_fly-1-1,Banawa-185_fly-1,dawi,1078,false,expert,,d a w i,SCA,,1
 Jarawara-185_fly-1-1,Jarawara-185_fly-1,tawi,1078,false,expert,,t a w i,SCA,,1
@@ -4219,18 +4220,6 @@ Deni-22_arrow-1-1,Deni-22_arrow-1,kakiba,1754,false,expert,,k a k i b a,SCA,,1
 Toyeri-22_arrow-1-1,Toyeri-22_arrow-1,mbeta,1978,false,expert,,m/b e t a,SCA,,1
 Sorowaha-403_placeposition-1-1,Sorowaha-403_placeposition-1,dʋʋki,437,false,expert,,d ʋː k i,SCA,,1
 Sorowaha-403_placeposition-2-1,Sorowaha-403_placeposition-2,dʋci,437,false,expert,,d ʋ c i,SCA,,1
-Sorowaha-426_redandgreenmacawarachloropterus-1-1,Sorowaha-426_redandgreenmacawarachloropterus-1,kawa,1282,false,expert,,k a w a,SCA,,1
-Jarawara-426_redandgreenmacawarachloropterus-1-1,Jarawara-426_redandgreenmacawarachloropterus-1,kate,1183,false,expert,,k a t - - e,SCA,,1
-Jamamadi-426_redandgreenmacawarachloropterus-1-1,Jamamadi-426_redandgreenmacawarachloropterus-1,kadahi,1183,false,expert,,k a d a h i,SCA,,1
-Banawa-426_redandgreenmacawarachloropterus-1-1,Banawa-426_redandgreenmacawarachloropterus-1,kadai,1183,false,expert,,k a d - - ai,SCA,,1
-Sorowaha-426_redandgreenmacawarachloropterus-2-1,Sorowaha-426_redandgreenmacawarachloropterus-2,kamawaku,1185,false,expert,,k a m a w a k u,SCA,,1
-Paumari_1833-426_redandgreenmacawarachloropterus-1-1,Paumari_1833-426_redandgreenmacawarachloropterus-1,aruta,1479,false,expert,,- a r u t a,SCA,,1
-Paumari-426_redandgreenmacawarachloropterus-1-1,Paumari-426_redandgreenmacawarachloropterus-1,aroda,1479,false,expert,,- a r o ɗ a,SCA,,1
-Kulina-426_redandgreenmacawarachloropterus-1-1,Kulina-426_redandgreenmacawarachloropterus-1,waha,1414,false,expert,,- w a h a,SCA,,1
-Deni-426_redandgreenmacawarachloropterus-1-1,Deni-426_redandgreenmacawarachloropterus-1,itiri,1414,false,expert,,i t i r i,SCA,,1
-Arasairi-426_redandgreenmacawarachloropterus-1-1,Arasairi-426_redandgreenmacawarachloropterus-1,uambe,1698,false,expert,,- u a m/b e -,SCA,,1
-Toyeri-426_redandgreenmacawarachloropterus-1-1,Toyeri-426_redandgreenmacawarachloropterus-1,wambedⁿ,1698,false,expert,,w a - m/b e dⁿ,SCA,,1
-Sapiteri-426_redandgreenmacawarachloropterus-1-1,Sapiteri-426_redandgreenmacawarachloropterus-1,wambedⁿ,1698,false,expert,,w a - m/b e dⁿ,SCA,,1
 Sorowaha-262_jackfruit-1-1,Sorowaha-262_jackfruit-1,tamino,181,false,expert,,t a m i n o,SCA,,1
 Banawa-262_jackfruit-1-1,Banawa-262_jackfruit-1,tamino,181,false,expert,,t a m i n o,SCA,,1
 Deni-262_jackfruit-1-1,Deni-262_jackfruit-1,tamino,181,false,expert,,t a m i n o,SCA,,1
@@ -4375,10 +4364,10 @@ Deni-179_fishhook-1-1,Deni-179_fishhook-1,kaheru,1495,false,expert,,k a h e r u,
 Arasairi-179_fishhook-1-1,Arasairi-179_fishhook-1,uakimapi,1701,false,expert,,- u a k i m a p i -,SCA,,1
 Toyeri-179_fishhook-1-1,Toyeri-179_fishhook-1,wakʉmapit,1701,false,expert,,w a - k ʉ m a p i t,SCA,,1
 Sapiteri-179_fishhook-1-1,Sapiteri-179_fishhook-1,wakʉmapit,1701,false,expert,,w a - k ʉ m a p i t,SCA,,1
-Sorowaha-224_havesex-1-1,Sorowaha-224_havesex-1,sɨbɨ,1275,false,expert,,s ɨ b ɨ,SCA,,1
-Kulina-224_havesex-1-1,Kulina-224_havesex-1,aha,1557,false,expert,,a h a,SCA,,1
-Banawa-224_havesex-1-1,Banawa-224_havesex-1,dakora,1753,false,expert,,d a k o r a,SCA,,1
-Paumari-224_havesex-1-1,Paumari-224_havesex-1,karaʔai,1899,false,expert,,k a r a ʔ ai,SCA,,1
+Sorowaha-116_copulate-1-1,Sorowaha-116_copulate-1,sɨbɨ,1275,false,expert,,s ɨ b ɨ,SCA,,1
+Kulina-116_copulate-1-1,Kulina-116_copulate-1,aha,1557,false,expert,,a h a,SCA,,1
+Banawa-116_copulate-1-1,Banawa-116_copulate-1,dakora,1753,false,expert,,d a k o r a,SCA,,1
+Paumari-116_copulate-1-1,Paumari-116_copulate-1,karaʔai,1899,false,expert,,k a r a ʔ ai,SCA,,1
 Sorowaha-149_earthsoil-1-1,Sorowaha-149_earthsoil-1,ad̥aha,3,false,expert,,a d̥ a h a,SCA,,1
 Deni-149_earthsoil-1-1,Deni-149_earthsoil-1,nami,744,false,expert,,n a m i,SCA,,1
 Paumari-149_earthsoil-1-1,Paumari-149_earthsoil-1,nami,744,false,expert,,n a m i,SCA,,1
@@ -4886,13 +4875,13 @@ Banawa-479_sleep-1-1,Banawa-479_sleep-1,amo,1150,false,expert,,a m o,SCA,,1
 Jamamadi-479_sleep-1-1,Jamamadi-479_sleep-1,amo,1150,false,expert,,a m o,SCA,,1
 Jarawara-479_sleep-1-1,Jarawara-479_sleep-1,amo,1150,false,expert,,a m o,SCA,,1
 Deni-479_sleep-1-1,Deni-479_sleep-1,vada,450,false,expert,,v a d a,SCA,,1
-Katawishi-555_three-1-1,Katawishi-555_three-1,tiumpa,832,false,expert,,t iu m p a,SCA,,1
-Amarakaeri-555_three-1-1,Amarakaeri-555_three-1,mbapaʔ,867,false,expert,,m/b a p a ʔ,SCA,,1
-Jarawara-555_three-1-1,Jarawara-555_three-1,terei,1114,false,expert,,t e r ei,SCA,,1
-Paumari-555_three-1-1,Paumari-555_three-1,hoara,1298,false,expert,,h oa r a,SCA,,1
-Arawa-555_three-1-1,Arawa-555_three-1,arisafaha,424,false,expert,,- a r i s a ɸ a h a,SCA,,1
-Toyeri-555_three-1-1,Toyeri-555_three-1,mbapa,867,false,expert,,m/b a p a -,SCA,,1
-Sapiteri-555_three-1-1,Sapiteri-555_three-1,mbapa,867,false,expert,,m/b a p a -,SCA,,1
+Katawishi-554_three-1-1,Katawishi-554_three-1,tiumpa,832,false,expert,,t iu m p a,SCA,,1
+Amarakaeri-554_three-1-1,Amarakaeri-554_three-1,mbapaʔ,867,false,expert,,m/b a p a ʔ,SCA,,1
+Jarawara-554_three-1-1,Jarawara-554_three-1,terei,1114,false,expert,,t e r ei,SCA,,1
+Paumari-554_three-1-1,Paumari-554_three-1,hoara,1298,false,expert,,h oa r a,SCA,,1
+Arawa-554_three-1-1,Arawa-554_three-1,arisafaha,424,false,expert,,- a r i s a ɸ a h a,SCA,,1
+Toyeri-554_three-1-1,Toyeri-554_three-1,mbapa,867,false,expert,,m/b a p a -,SCA,,1
+Sapiteri-554_three-1-1,Sapiteri-554_three-1,mbapa,867,false,expert,,m/b a p a -,SCA,,1
 Deni-96_cedar-1-1,Deni-96_cedar-1,tsiburima,835,false,expert,,ts i b u r i m a,SCA,,1
 Jarawara-96_cedar-1-1,Jarawara-96_cedar-1,wiɸi,1113,false,expert,,w i ɸ i,SCA,,1
 Paumari-96_cedar-1-1,Paumari-96_cedar-1,katatopi kaavani,1287,false,expert,,k a t a t o p i,SCA,,1
@@ -4978,11 +4967,11 @@ Jarawara-369_pajura-1-1,Jarawara-369_pajura-1,majo,922,false,expert,,m a j o,SCA
 Sorowaha-369_pajura-1-1,Sorowaha-369_pajura-1,wariuba,1104,false,expert,,w a r iu b a,SCA,,1
 Banawa-369_pajura-1-1,Banawa-369_pajura-1,majo,922,false,expert,,m a j o,SCA,,1
 Jamamadi-369_pajura-1-1,Jamamadi-369_pajura-1,majo,922,false,expert,,m a j o,SCA,,1
-Banawa-628_wood-1-1,Banawa-628_wood-1,awa,537,false,expert,,a w a,SCA,,1
-Paumari-628_wood-1-1,Paumari-628_wood-1,aβa,537,false,expert,,a β a,SCA,,1
-Jarawara-628_wood-1-1,Jarawara-628_wood-1,awa,537,false,expert,,a w a,SCA,,1
-Jamamadi-628_wood-1-1,Jamamadi-628_wood-1,awa,537,false,expert,,a w a,SCA,,1
-Kulina-628_wood-1-1,Kulina-628_wood-1,awa,537,false,expert,,a w a,SCA,,1
+Banawa-627_wood-1-1,Banawa-627_wood-1,awa,537,false,expert,,a w a,SCA,,1
+Paumari-627_wood-1-1,Paumari-627_wood-1,aβa,537,false,expert,,a β a,SCA,,1
+Jarawara-627_wood-1-1,Jarawara-627_wood-1,awa,537,false,expert,,a w a,SCA,,1
+Jamamadi-627_wood-1-1,Jamamadi-627_wood-1,awa,537,false,expert,,a w a,SCA,,1
+Kulina-627_wood-1-1,Kulina-627_wood-1,awa,537,false,expert,,a w a,SCA,,1
 Banawa-456_separate-1-1,Banawa-456_separate-1,kosei,908,false,expert,,k o s ei,SCA,,1
 Sorowaha-456_separate-1-1,Sorowaha-456_separate-1,hɨkagɨːra,1102,false,expert,,h ɨ k a g ɨː r a,SCA,,1
 Jarawara-456_separate-1-1,Jarawara-456_separate-1,tani,1103,false,expert,,t a n i,SCA,,1
@@ -4997,16 +4986,16 @@ Sorowaha-157_exist-1-1,Sorowaha-157_exist-1,ha,1101,false,expert,,h aː,SCA,,1
 Jamamadi-157_exist-1-1,Jamamadi-157_exist-1,wada,912,false,expert,,w a d a,SCA,,1
 Paumari-157_exist-1-1,Paumari-157_exist-1,hi,1266,false,expert,,h i,SCA,,1
 Kulina-157_exist-1-1,Kulina-157_exist-1,ani,1550,false,expert,,a n i,SCA,,1
-Banawa-272_knife-1-1,Banawa-272_knife-1,jimowa,913,false,expert,,j i m o w a,SCA,,1
-Jarawara-272_knife-1-1,Jarawara-272_knife-1,jimawa,913,false,expert,,j i m a w a,SCA,,1
-Sorowaha-272_knife-1-1,Sorowaha-272_knife-1,dʒumaːdu,913,false,expert,,dʒ u m aː d u,SCA,,1
-Kulina-272_knife-1-1,Kulina-272_knife-1,koʃiro,943,false,expert,,k o ʃ i r o,SCA,,1
-Deni-272_knife-1-1,Deni-272_knife-1,huhuka,944,false,expert,,h u h u k a,SCA,,1
-Paumari-272_knife-1-1,Paumari-272_knife-1,hado,982,false,expert,,h a ɗ o,SCA,,1
-Jamamadi-272_knife-1-1,Jamamadi-272_knife-1,jimawa,913,false,expert,,j i m a w a,SCA,,1
-Arawa-272_knife-1-1,Arawa-272_knife-1,zui mazaru,1346,false,expert,,z ui,SCA,,1
-Arawa-272_knife-1-2,Arawa-272_knife-1,zui mazaru,1347,false,expert,,m a z a r u,SCA,,2
-Paumari_1833-272_knife-1-1,Paumari_1833-272_knife-1,ado,982,false,expert,,- a d o,SCA,,1
+Banawa-271_knife-1-1,Banawa-271_knife-1,jimowa,913,false,expert,,j i m o w a,SCA,,1
+Jarawara-271_knife-1-1,Jarawara-271_knife-1,jimawa,913,false,expert,,j i m a w a,SCA,,1
+Sorowaha-271_knife-1-1,Sorowaha-271_knife-1,dʒumaːdu,913,false,expert,,dʒ u m aː d u,SCA,,1
+Kulina-271_knife-1-1,Kulina-271_knife-1,koʃiro,943,false,expert,,k o ʃ i r o,SCA,,1
+Deni-271_knife-1-1,Deni-271_knife-1,huhuka,944,false,expert,,h u h u k a,SCA,,1
+Paumari-271_knife-1-1,Paumari-271_knife-1,hado,982,false,expert,,h a ɗ o,SCA,,1
+Jamamadi-271_knife-1-1,Jamamadi-271_knife-1,jimawa,913,false,expert,,j i m a w a,SCA,,1
+Arawa-271_knife-1-1,Arawa-271_knife-1,zui mazaru,1346,false,expert,,z ui,SCA,,1
+Arawa-271_knife-1-2,Arawa-271_knife-1,zui mazaru,1347,false,expert,,m a z a r u,SCA,,2
+Paumari_1833-271_knife-1-1,Paumari_1833-271_knife-1,ado,982,false,expert,,- a d o,SCA,,1
 Banawa-266_kick-1-1,Banawa-266_kick-1,taro,914,false,expert,,t a r o,SCA,,1
 Sorowaha-266_kick-1-1,Sorowaha-266_kick-1,dibi,1098,false,expert,,d i b i,SCA,,1
 Jarawara-266_kick-1-1,Jarawara-266_kick-1,taro,914,false,expert,,t a r o,SCA,,1
@@ -5055,14 +5044,6 @@ Paumari-318_meet-1-1,Paumari-318_meet-1,jora,1219,false,expert,,dʒ o r a,SCA,,1
 Jarawara-318_meet-1-1,Jarawara-318_meet-1,kobo,1262,false,expert,,k o b o,SCA,,1
 Jamamadi-318_meet-1-1,Jamamadi-318_meet-1,kobo,1262,false,expert,,k o b o,SCA,,1
 Banawa-318_meet-1-1,Banawa-318_meet-1,kobo,1262,false,expert,,k o b o,SCA,,1
-Amarakaeri-309_manioc-1-1,Amarakaeri-309_manioc-1,tareʔ,935,false,expert,,t a r e ʔ,SCA,,1
-Paumari-309_manioc-1-1,Paumari-309_manioc-1,boda,983,false,expert,,b o ɗ - - - - a,SCA,,1
-Jarawara-309_manioc-1-1,Jarawara-309_manioc-1,ɸowa,983,false,expert,,ɸ o w - - - - a,SCA,,1
-Sorowaha-309_manioc-1-1,Sorowaha-309_manioc-1,mama,1061,false,expert,,m a m a,SCA,,1
-Banawa-309_manioc-1-1,Banawa-309_manioc-1,ɸowa,983,false,expert,,ɸ o w - - - - a,SCA,,1
-Banawa-309_manioc-2-1,Banawa-309_manioc-2,ɸowamara,983,false,expert,,ɸ o w a m a r a,SCA,,1
-Deni-309_manioc-1-1,Deni-309_manioc-1,puʔu,1431,false,expert,,p u ʔ u,SCA,,1
-Paumari_1833-309_manioc-1-1,Paumari_1833-309_manioc-1,boda,983,false,expert,,b o d - - - - a,SCA,,1
 Amarakaeri-91_carry-1-1,Amarakaeri-91_carry-1,jʉk,954,false,expert,,j ʉ k,SCA,,1
 Banawa-91_carry-1-1,Banawa-91_carry-1,dia,1063,false,expert,,- d ia - -,SCA,,1
 Jarawara-91_carry-1-1,Jarawara-91_carry-1,tiwa,1063,false,expert,,- t i w a,SCA,,1

@@ -74,21 +74,15 @@ class Dataset(BaseDataset):
 
         concepts = {}
         errors, blacklist = set(), set()
-        for concept in self.concepts:
-            idx = "{0}_{1}".format(concept["NUMBER"], slug(concept["ENGLISH"]))
-            try:
-                args.writer.add_concept(
-                        ID=idx,
-                        Name=concept["ENGLISH"],
-#                       Portuguese_Gloss=concept["PORTUGUESE"],
-                        Concepticon_ID=concept["CONCEPTICON_ID"],
-                        Concepticon_Gloss=concept["CONCEPTICON_GLOSS"],
-#                       EOL_ID=concept["EOL"],
-                        Semantic_Field=concept["SEMANTIC_FIELD"]
-                        )
-                concepts[concept["ENGLISH"]] = idx
-            except ValueError:
-                print("Error with concept {0} (ID or Gloss need to be checked with concepticon.clld.org)".format(concept["ENGLISH"]))
+        for concept in self.conceptlists[0].concepts.values():
+            idx = "{0}_{1}".format(concept.number, slug(concept.english))
+            args.writer.add_concept(
+                    ID=idx,
+                    Name=concept.english,
+                    Concepticon_ID=concept.concepticon_id,
+                    Concepticon_Gloss=concept.concepticon_gloss
+                    )
+            concepts[concept.english] = idx
 
         languages = {}
         sources = {}
@@ -102,7 +96,6 @@ class Dataset(BaseDataset):
                     args.writer.add_language(
                         ID=row['ID'],
                         Name=row['Name'],
-#                       SubGroup=row['SubGroup'],
                         Latitude=row['Latitude'],
                         Longitude=row['Longitude'],
                         Glottocode=row['Glottocode'] if row['Glottocode'] != '???' else None,

@@ -1,11 +1,14 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Ferraz Gerardi, Fabr\u00edcio & Aragon, Carolina & Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release",
+    "dc:bibliographicCitation": "Ferraz Gerardi, Fabr\u00edcio & Aragon, Carolina & Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
-    "dc:description": "Lexical Database of the Arawan language family",
+    "dc:description": "CLDF dataset accomapnying Gerardi et al.'s \"Lexical Database of the Arawan language family\" from 2022",
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Gerardi-2022-705"
+    ],
     "dc:isVersionOf": null,
-    "dc:license": "http://www.opensource.org/licenses/MIT",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Katukinan-Arawan-Harakmbut Database (KAHD)",
@@ -14,7 +17,7 @@
         {
             "rdf:about": "https://github.com/tupian-language-resources/kahd",
             "rdf:type": "prov:Entity",
-            "dc:created": "0.2-83-gc8032b3",
+            "dc:created": "0.2-85-gb7ee66e",
             "dc:title": "Repository"
         },
         {
@@ -26,7 +29,7 @@
         {
             "rdf:about": "https://github.com/concepticon/concepticon-data",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.6.0",
+            "dc:created": "v3.0.0",
             "dc:title": "Concepticon"
         },
         {
@@ -52,13 +55,10 @@
     ],
     "rdf:ID": "tuled",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
-    "dialect": {
-        "commentPrefix": null
-    },
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 5359,
+            "dc:extent": 5340,
             "tableSchema": {
                 "columns": [
                     {
@@ -248,7 +248,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 679,
+            "dc:extent": 677,
             "tableSchema": {
                 "columns": [
                     {
@@ -288,7 +288,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 5628,
+            "dc:extent": 5609,
             "tableSchema": {
                 "columns": [
                     {
