@@ -1,6 +1,7 @@
 {
-    "citation": "Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release",
-    "license": "MIT License",
+    "citation": "Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release.",
+    "license": "CC-BY-4.0",
+    "conceptlist": "Gerardi-2022-705",
     "title": "Katukinan-Arawan-Harakmbut Database (KAHD)",
-    "description": "Lexical Database of the Arawan language family"
+    "description": "CLDF dataset accomapnying Gerardi et al.'s \"Lexical Database of the Arawan language family\" from 2022"
 }

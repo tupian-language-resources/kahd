@@ -4,16 +4,19 @@
 
 If you use these data please cite
 - the original source
-  > Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release
+  > Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
 
-Lexical Database of the Arawan language family
+CLDF dataset accomapnying Gerardi et al.'s "Lexical Database of the Arawan language family" from 2022
 
-This dataset is licensed under a MIT License license
+This dataset is licensed under a CC-BY-4.0 license
 
+
+Conceptlists in Concepticon:
+- [Gerardi-2022-705](https://concepticon.clld.org/contributions/Gerardi-2022-705)
 ## Statistics
 
 
@@ -24,14 +27,14 @@ This dataset is licensed under a MIT License license
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 18
-- **Concepts:** 679
-- **Lexemes:** 5,360
+- **Concepts:** 677
+- **Lexemes:** 5,340
 - **Sources:** 35
 - **Synonymy:** 1.10
-- **Cognacy:** 5,629 cognates in 2,059 cognate sets (989 singletons)
-- **Cognate Diversity:** 0.29
+- **Cognacy:** 5,609 cognates in 2,053 cognate sets (986 singletons)
+- **Cognate Diversity:** 0.30
 - **Invalid lexemes:** 0
-- **Tokens:** 26,604
+- **Tokens:** 26,508
 - **Segments:** 138 (0 BIPA errors, 0 CLTS sound class errors, 138 CLTS modified)
 - **Inventory size (avg):** 38.17
 
@@ -39,7 +42,21 @@ This dataset is licensed under a MIT License license
 
 
 
-- Entries missing sources: 325/5360 (6.06%)
+- Entries missing sources: 322/5340 (6.03%)
+
+# Contributors
+
+Name | GitHub user | Description | Role |
+--- | --- | --- | --- |
+Fabrício Ferraz Gerardi | @LanguageStructure | Data Collector,cognacy assignment, co-lexifications, notes | Author |
+Carolina Aragon    | @carolinaaragon | Data Collector,cognacy assignment, co-lexifications, notes | Author |
+Stanislav Reichert | @StasReichert   | Data Collector | Author |
+Alan Vogel         |                 | Data Collector,cognacy assignment, co-lexifications, notes | Author |
+An Van linden      |                 | Data Collector,cognacy assignment, co-lexifications, notes   | Author |
+Johann-Mattis List | @lingulist | EDICTOR set up and final checks | Other |
+
+
+
 
 ## CLDF Datasets
 

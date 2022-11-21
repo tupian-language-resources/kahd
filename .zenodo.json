@@ -5,16 +5,37 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
-    "contributors": [],
+    "creators": [
+        {
+            "name": "Fabr\u00edcio Ferraz Gerardi"
+        },
+        {
+            "name": "Carolina Aragon"
+        },
+        {
+            "name": "Stanislav Reichert"
+        },
+        {
+            "name": "Alan Vogel"
+        },
+        {
+            "name": "An Van linden"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Johann-Mattis List",
+            "type": "Other"
+        }
+    ],
     "communities": [
         {
             "identifier": "lexibank"
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Ferraz Gerardi, Fabr\u00edcio &amp; Aragon, Carolina &amp; Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Ferraz Gerardi, Fabr\u00edcio &amp; Aragon, Carolina &amp; Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release.</p>\n</blockquote>",
     "license": {
-        "id": "MIT"
+        "id": "CC-BY-4.0"
     }
 }
