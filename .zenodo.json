@@ -5,12 +5,24 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
-    "contributors": [
+    "creators": [
         {
-            "name": "...",
-            "type": "Other"
+            "name": "Fabr\u00edcio Ferraz Gerardi"
         },
+        {
+            "name": "Carolina Aragon"
+        },
+        {
+            "name": "Stanislav Reichert"
+        },
+        {
+            "name": "Alan Vogel"
+        },
+        {
+            "name": "An Van linden"
+        }
+    ],
+    "contributors": [
         {
             "name": "Johann-Mattis List",
             "type": "Other"
