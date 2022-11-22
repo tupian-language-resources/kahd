@@ -12,7 +12,6 @@ try:
 except ImportError:
     fetch_sheet = None
 
-
 import lingpy
 from clldutils.misc import slug
 
@@ -25,7 +24,6 @@ class CustomConcept(Concept):
 class CustomLanguage(Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
-#   SubGroup = attr.ib(default=None)
     Source = attr.ib(default=None)
 
 @attr.s
@@ -42,7 +40,7 @@ class Form(Lexeme):
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
-    id = "tuled"
+    id = "kahd"
     concept_class = CustomConcept
     language_class = CustomLanguage
     cognate_class = CustomCognate
@@ -58,8 +56,6 @@ class Dataset(BaseDataset):
         subprocess.check_call(
             'git -C {} submodule update --remote'.format(self.dir.resolve()), shell=True)
         print('... sources.bib done')
-        fetch_sheet('arawa_languages', output=self.etc_dir / 'languages.tsv')
-        fetch_sheet('arawa_concepts', output=self.etc_dir / 'concepts.tsv')
 
     def cmd_makecldf(self, args):
         from pybtex import errors, database

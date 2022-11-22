@@ -17,7 +17,7 @@
         {
             "rdf:about": "https://github.com/tupian-language-resources/kahd",
             "rdf:type": "prov:Entity",
-            "dc:created": "0.2-92-gc5ecba6",
+            "dc:created": "0.2-93-g21ed6fd",
             "dc:title": "Repository"
         },
         {
@@ -53,7 +53,7 @@
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "tuled",
+    "rdf:ID": "kahd",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "tables": [
         {
