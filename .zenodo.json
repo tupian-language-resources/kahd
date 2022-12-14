@@ -34,7 +34,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Ferraz Gerardi, Fabr\u00edcio &amp; Aragon, Carolina &amp; Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release.</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Ferraz Gerardi, Fabr\u00edcio &amp; Aragon, Carolina &amp; Reichert, Stanislav &amp; Vogel, Alan &amp; Van linden, An (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

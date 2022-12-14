@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release.
+  > Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav & Vogel, Alan & Van linden, An (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -17,7 +17,6 @@ This dataset is licensed under a CC-BY-4.0 license
 
 Conceptlists in Concepticon:
 - [Gerardi-2022-705](https://concepticon.clld.org/contributions/Gerardi-2022-705)
-
 ## Statistics
 
 
@@ -32,8 +31,8 @@ Conceptlists in Concepticon:
 - **Lexemes:** 5,340
 - **Sources:** 35
 - **Synonymy:** 1.10
-- **Cognacy:** 5,609 cognates in 2,053 cognate sets (986 singletons)
-- **Cognate Diversity:** 0.30
+- **Cognacy:** 5,609 cognates in 2,052 cognate sets (985 singletons)
+- **Cognate Diversity:** 0.29
 - **Invalid lexemes:** 0
 - **Tokens:** 26,508
 - **Segments:** 138 (0 BIPA errors, 0 CLTS sound class errors, 138 CLTS modified)
