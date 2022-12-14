@@ -78,8 +78,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 6	Arawa	LAKE	daku	daku	d a k u	- d a k u	355	174	LAKE			
 374	Deni	LAKE	korija	korija	k o r i j a	k o r i j a	46	46	LAKE			
 1004	Jarawara	LAKE	wara	wara	w a r a	- w a r a	1117	539	LAKE			
-1366	Kulina	LAKE	koɾija / koɾidza	koɾija	k o ɾ i j a	k o ɾ i j a	46	46	LAKE			
-1367	Kulina	LAKE	koɾija / koɾidza	koɾidza	k o ɾ i dz a	k o ɾ i dz a	46	46	LAKE			
+1366	Kulina	LAKE	koɾija / koɾidza	koɾija	k o ɾ i j a	k o ɾ i j a	46	46	LAKE		YES	Of Arawakan origin
+1367	Kulina	LAKE	koɾija / koɾidza	koɾidza	k o ɾ i dz a	k o ɾ i dz a	46	46	LAKE		YES	Of Arawakan origin
 1680	Paumari	LAKE	ɗako	ɗako	ɗ a k o	- ɗ a k o	355	174	LAKE			
 5192	Sorowaha	LAKE	taki	taki	t a k i	- t a k i	355	174	LAKE			
 10562	Proto-Arawan	LAKE	ɗako	ɗako	ɗ a k o	- ɗ a k o	355	174	LAKE			
@@ -205,7 +205,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1172	Jarawara	JAGUAR	jomahi	jomahi	j o m a h i	j o m a - h i	90	90	JAGUAR			
 1565	Kulina	JAGUAR	jomahi	jomahi	j o m a h i	j o m a - h i	90	90	JAGUAR			
 1789	Paumari	JAGUAR	jomahi	jomahi	dʒ o m a h i	dʒ o m a - h i	90	90	JAGUAR			
-5184	Sorowaha	JAGUAR	maɾihi	maɾihi	m a ɾ i h i	m a ɾ i h i	1276	1276	JAGUAR			
+5184	Sorowaha	JAGUAR	maɾihi	maɾihi	m a ɾ i h i	m a ɾ i h i	90	90	JAGUAR			
 10336	Katawishi	JAGUAR	waŋka	waŋka	w a ŋ k a	w a ŋ k a	870	828	JAGUAR			
 10647	Proto-Arawan	JAGUAR	jomahi	jomahi	j o m a h i	j o m a - h i	90	90	JAGUAR			
 10909	Amarakaeri	JAGUAR	apetpet	apetpet	a p e t p e t	a p e t p e t	975	933	JAGUAR			
@@ -2008,14 +2008,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 203	Banawa	STONE	jati	jati	j a t i	j a t i	80	80	STONE			
 811	Jamamadi	STONE	jati	jati	j a t i	j a t i	80	80	STONE			
 1163	Jarawara	STONE	jati	jati	j a t i	j a t i	80	80	STONE			
-1445	Kulina	STONE	tsiba	tsiba	ts i b a	ts i b a	554	546	STONE			
+1445	Kulina	STONE	tsiba	tsiba	ts i b a	ts i b a	554	546	STONE		YES	Of Arawakan origin
 1785	Paumari	STONE	jaɗi	jaɗi	dʒ a ɗ i	dʒ a ɗ i	80	80	STONE			
 10093	Sorowaha	STONE	zasi	zasi	z a s i	z a s i	723	665	STONE			
 10313	Katawishi	STONE	kareruhã	kareruhã	k a r e h u h ã	k a r e h u h ã	856	813	STONE			
 10393	Amarakaeri	STONE	widⁿ	widⁿ	w i dⁿ	- - w i dⁿ	917	876	STONE			
 10625	Proto-Arawan	STONE	jaɗi	jaɗi	j a ɗ i	j a ɗ i	80	80	STONE			
 11856	Paumari_1833	STONE	ʃade	ʃade	ʃ a d e	ʃ a d e	80	80	STONE			
-11857	Deni	STONE	siba	siba	s i b a	s i b a	80	80	STONE			
+11857	Deni	STONE	siba	siba	s i b a	s i b a	80	80	STONE		YES	Of Arawakan origin
 12332	Arasairi	STONE	jihin	jihin	j i h i n	j i h i n	917	876	STONE			
 13040	Toyeri	STONE	hidⁿ	hidⁿ	h i dⁿ	- - h i dⁿ	917	876	STONE			
 13041	Sapiteri	STONE	hidⁿ	hidⁿ	h i dⁿ	- - h i dⁿ	917	876	STONE			
