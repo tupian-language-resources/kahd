@@ -12,18 +12,18 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "Katukinan-Arawan-Harakmbut Database (KAHD)",
-    "dcat:accessURL": "git@github.com:tupian-language-resources/kahd",
+    "dcat:accessURL": "https://github.com/tupian-language-resources/kahd",
     "prov:wasDerivedFrom": [
         {
-            "rdf:about": "git@github.com:tupian-language-resources/kahd",
+            "rdf:about": "https://github.com/tupian-language-resources/kahd",
             "rdf:type": "prov:Entity",
-            "dc:created": "0.2-99-g1741f31",
+            "dc:created": "0.9-1-g8ea7fae",
             "dc:title": "Repository"
         },
         {
             "rdf:about": "https://github.com/glottolog/glottolog",
             "rdf:type": "prov:Entity",
-            "dc:created": "v4.6",
+            "dc:created": "v4.7",
             "dc:title": "Glottolog"
         },
         {
@@ -33,9 +33,9 @@
             "dc:title": "Concepticon"
         },
         {
-            "rdf:about": "https://github.com/cldf-clts/clts",
+            "rdf:about": "https://github.com/cldf-clts/clts/",
             "rdf:type": "prov:Entity",
-            "dc:created": "v2.1.0",
+            "dc:created": "v2.2.0",
             "dc:title": "CLTS"
         }
     ],
@@ -46,14 +46,14 @@
         },
         {
             "dc:title": "python",
-            "dc:description": "3.10.7"
+            "dc:description": "3.9.16"
         },
         {
             "dc:title": "python-packages",
             "dc:relation": "requirements.txt"
         }
     ],
-    "rdf:ID": "tuled",
+    "rdf:ID": "kahd",
     "rdf:type": "http://www.w3.org/ns/dcat#Distribution",
     "tables": [
         {
