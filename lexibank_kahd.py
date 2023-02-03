@@ -42,7 +42,7 @@ class Form(Lexeme):
 
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
-    id = "tuled"
+    id = "kahd"
     concept_class = CustomConcept
     language_class = CustomLanguage
     cognate_class = CustomCognate
