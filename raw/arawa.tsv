@@ -10,7 +10,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10310	Katawishi	AXE	toɲhi	toɲhi	t o ɲ h i	t o ɲ h i	853	810	AXE			
 10458	Proto-Arawan	AXE	bari	bari	b a r i	b a r i	217	217	AXE			
 10989	Paumari	AXE	dʒori	dʒori	dʒ o r i	dʒ o r i	1053	1010	AXE			
-11498	Arasairi	AXE	janej	janej	j a n e j	j a n e j	1202	1168	AXE			
+11498	Arasairi	AXE	janej	janej	h a n e h	h a n e h	1202	1168	AXE			
 12141	Paumari_1833	AXE	dʒiuri	dʒiuri	dʒ i u r i	dʒ i u r i	1053	1010	AXE			
 2	Arawa	GOOD	amoza	amoza	a m o z a	a m o z a	8	8	BE.GOOD			
 34	Banawa	GOOD	amosa	amosa	a m o s a	a m o s a	8	8	BE.GOOD			
@@ -19,12 +19,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 914	Jarawara	GOOD	amosa	amosa	a m o s a	a m o s a	8	8	BE.GOOD			
 10228	Paumari	GOOD	dʒaha / makʰani	dʒaha	dʒ a h a	dʒ a h a	806	763	BE.GOOD			
 10230	Paumari	GOOD	dʒaha / makʰani	makʰani	m a kʰ a n i	m a kʰ a n i	805	762	BE.GOOD			
-10390	Amarakaeri	GOOD	ndak	ndak	n/d a k	n/d a k	914	874	GOOD			
+10390	Amarakaeri	GOOD	ndak	ndak	n/d a k	n/d a k	914	874	GOOD			bound form
 10427	Proto-Arawan	GOOD	amotsʰi	amotsʰi	a m o tsʰ i	a m o tsʰ i	8	8	BE.GOOD			
 10509	Kanamari	GOOD	nuk	nuk	n u k	n u k	914	874	BE.GOOD			
 10510	KatukinaBiá	GOOD	nuk	nuk	n u k	n u k	914	874	BE.GOOD			
 10810	Katawishi	GOOD	ahã	ahã	a h ã	a h ã	806	763	BE.GOOD			
-11499	Arasairi	GOOD	dakue	dakue	d a k + ue	d a k + w e	914	874 938	GOOD NEGATIVE			
+11499	Arasairi	GOOD	dakue	dakue	d a k + u e	d a k + u e	914	874 938	GOOD NEGATIVE			
 11984	Kulina	GOOD	bika	bika	b i k a	b i k a	1468	354	BE.GOOD			
 12452	Apurinã	GOOD	hareka	hareka	h a r e k a	h a r e k a	1712	1705	BE.GOOD			
 12881	Sapiteri	GOOD	wandak	wandak	w a + n/d a k	w a + n/d a k	914	1598 874	NOMINALIZER GOOD			
@@ -39,7 +39,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10317	Katawishi	FIRE	nanhi	nanhi	n a n h i	n a n h i	860	817	FIRE			
 10642	Proto-Arawan	FIRE	jipho	jipho	j i pʰ o	j i pʰ o	259	259	FIRE			
 11852	Paumari_1833	FIRE	tʃiho	tʃiho	tʃ i h o	tʃ i h o	259	259	FIRE			
-12012	Arasairi	FIRE	taak	taak	t aa k	t aa k	1482	1462	FIRE			
+12012	Arasairi	FIRE	taak	taak	t a a k	t a a k	1482	1462	FIRE			
 12453	Apurinã	FIRE	ʃãmɨna	ʃãmɨna	ʃ ã m ɨ n a	ʃ ã m ɨ n a	1713	1706	FIRE			
 12882	Toyeri	FIRE	tak	tak	t a k	t a k	1482	1462	FIRE			
 12883	Sapiteri	FIRE	tak	tak	t a k	t a k	1482	1462	FIRE			
@@ -53,11 +53,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1861	Sorowaha	FISH	aba	aba	a b a	a b a - - - - -	201	201	FISH			
 5030	Sorowaha	FISH	aaba	aaba	aː b a	aː b a - - - - -	201	201	FISH			
 10297	Proto-Arawan	FISH	aba	aba	a b a	a b a	201	201	FISH			
-10387	Amarakaeri	FISH	mbiʔigŋ	mbiʔigŋ	m/b i ʔ i g ŋ	m/b i ʔ i g ŋ	912	872	FISH			
+10387	Amarakaeri	FISH	mbiʔigŋ	mbiʔigŋ	m/b i ʔ i gŋ	m/b i ʔ i gŋ	912	872	FISH			
 10988	Paumari	FISH	abaisana / dʒuriru / siraba	dʒuriru	dʒ u r i r u	dʒ u r i r u	1018	974	FISH			
 12054	Paumari	FISH	abaisana / dʒuriru / siraba	siraba	s i r + a b a	s i r + a b a	1491	1471 201	? FISH			
 12055	Paumari_1833	FISH	abaisana	abaisana	a b a + i s a n a	a b a + i s a n a	201	201 1473	FISH ?			
 12454	Apurinã	FISH	ʃimakɨ	ʃimakɨ	ʃ i m a k ɨ	ʃ i m a k ɨ	1715	1707	FISH			
+13396	Katawishi	FISH	abidiha	abidiha	a b i d i h a	a b i d i h a	2096	2105	FISH			
 5	Arawa	HOUSE	zami	zami	z a m i	z a m i - -	254	254	HOUSE			
 237	Banawa	HOUSE	tabora	tabora	t a b o r a	t a b o r a	370	408	BED			
 365	Deni	HOUSE	jamari	jamari	j a m a r i	j a m a r i	254	254	HOUSE			
@@ -69,7 +70,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10630	Proto-Arawan	HOUSE	jamari	jamari	j a m a r i	j a m a r i	254	254	HOUSE			
 10965	Paumari	HOUSE	gora	gora	g o r a	g o r a	1023	979	HOUSE			
 11211	Banawa	HOUSE	jobe	jobe	j o b e	j o b e	1130	1087	HOUSE			
-12013	Arasairi	HOUSE	jahak	jahak	j a h a k	j a h a k - -	922	881	HOUSE			
+12013	Arasairi	HOUSE	jahak	jahak	h a h a k	h a h a k - -	922	881	HOUSE			
 12263	Kulina	HOUSE	ni / oza	ni	n i	n i	1577	1558	HOME			
 12264	Kulina	HOUSE	ni / oza	oza	o z a	o z a	1711	1704	HOUSE			
 12455	Apurinã	HOUSE	aiko	aiko	ai k o	ai k o	1714	1708	HOUSE			
@@ -84,10 +85,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5192	Sorowaha	LAKE	taki	taki	t a k i	- t a k i	355	174	LAKE			
 10562	Proto-Arawan	LAKE	ɗako	ɗako	ɗ a k o	- ɗ a k o	355	174	LAKE			
 11855	Paumari_1833	LAKE	daku	daku	d a k u	d a k u	355	174	LAKE			
-12014	Arasairi	LAKE	bajako	bajako	b a j a k o	b a j a k o	355	174	LAKE			
+12014	Arasairi	LAKE	bajako	bajako	b a h a k o	b a h a k o	355	174	LAKE			
 12456	Apurinã	LAKE	ipowa	ipowa	i p o w a	i p o w a	1716	1709	LAKE			
 12588	Jamamadi	LAKE	wara	wara	w a r a	w a r a	1117	539	LAKE			
 12886	Sapiteri	LAKE	bajako	bajako	m/b a j a k o	m/b a j a k o	355	174	LAKE			
+13392	Katawishi	LAKE	kapisha han	kapisha han	k a p i ʃ a + h a n	k a p i ʃ a + h a n	2092	2098	LAKE			
 7	Arawa	MAN	makuidá	makuidá	m a k u i d a	- m a k u i d a	289	289	MAN.(ADULT.MALE)			
 98	Banawa	MAN	maki	maki	m a k i	m a k i	289	289	MAN.(ADULT.MALE)			
 383	Deni	MAN	makhi / dzabitsu	dzabitsu	dz a b i ts u	dz a b i ts u	384	365	MAN.(ADULT.MALE)			
@@ -116,7 +118,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10410	Amarakaeri	MOON	pugn	pugn	p u g n	p u g - n	932	892	MOON			
 10726	Proto-Arawan	MOON	masiko	masiko	m a s i k o	m a s i k o	202	203	MOON			
 11833	Paumari_1833	MOON	masiku	masiku	m a s i k u	m a s i k u	202	203	MOON			
-12017	Arasairi	MOON	pøjen	pøjen	p ø j e n	p ø j e n	932	892	MOON			
+12017	Arasairi	MOON	pøjen	pøjen	p ø h e n	p ø h e n	932	892	MOON			
 12458	Apurinã	MOON	kasuru	kasuru	k a s u r u	k a s u r u	1718	1711	MOON			
 12887	Toyeri	MOON	sedⁿ	sedⁿ	s e dⁿ	s e dⁿ	1934	1912	MOON			
 12888	Sapiteri	MOON	pʉhʉgⁿ	pʉhʉgⁿ	p ʉ h ʉ gⁿ	p ʉ h ʉ gⁿ	932	892	MOON			
@@ -149,6 +151,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12459	Apurinã	TAPIR	kema	kema	k e m a	k e m a	921	880	TAPIR			
 12891	Toyeri	TAPIR	keme	keme	k e m e	k e m e	921	880	TAPIR			
 12892	Sapiteri	TAPIR	keme	keme	k e m e	k e m e	921	880	TAPIR			
+13400	Katawishi	TAPIR	kabioho	kabioho	k a b i o h o	k a b i o h o	2100	2110	TAPIR			
 11	Arawa	WHITE-LIPPED PECCARY	isama	isama	i s a m a	- i s a m a	243	243	WHITE-LIPPED.PECCARY			
 176	Banawa	WHITE-LIPPED PECCARY	hijama	hijama	h i j a m a	h i j a m a	243	243	WHITE-LIPPED.PECCARY			
 502	Deni	WHITE-LIPPED PECCARY	hijama	hijama	h i j a m a	h i j a m a	243	243	WHITE-LIPPED.PECCARY			
@@ -161,6 +164,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5044	Sorowaha	WHITE-LIPPED PECCARY	dʒaməkahiɾi	dʒamakahiɾi / dʒaməkahiɾi	dʒ a m ə k a h i ɾ i	dʒ a m ə k a h i ɾ i	440	423	WHITE-LIPPED.PECCARY			
 10600	Proto-Arawan	WHITE-LIPPED PECCARY	hijama	hijama	h i j a m a	h i j a m a	243	243	WHITE-LIPPED.PECCARY			
 11779	Paumari	WHITE-LIPPED PECCARY	hirari	hirari	h i r a r i	h i r a r i	1368	1331	WHITE-LIPPED.PECCARY			
+13404	Katawishi	WHITE-LIPPED PECCARY	abari	abari	a b a r i	a b a r i	2104	2114	WHITE-LIPPED.PECCARY			
 12	Arawa	FOOT	otamá	otamá	o t a m a	o t a m a	47	47	FOOT			
 184	Banawa	FOOT	tame	tame	t a m e	- t a m e	47	47	FOOT			tame f, teme m
 792	Jamamadi	FOOT	tame	tame	t a m e	- t a m e	47	47	FOOT			tame f, teme m
@@ -170,16 +174,17 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1932	Sorowaha	FOOT	dama	dama	d a m a	- d a m a	47	47	FOOT			
 10086	Sorowaha	FOOT	ud̥ɨ	ud̥ɨ	u d̥ ɨ	u d̥ ɨ	717	660	FOOT			
 10223	Deni	FOOT	amuri	amuri	a m u r i	a m u r i	1260	1260	FOOT			
-10304	Katawishi	FOOT	høkora / ee	høkora	h ø k o r a	h ø k o r a	848	805	FOOT			
-10389	Amarakaeri	FOOT	ʔi	ʔi	ʔ i	ʔ i	337	337	FOOT			
+10304	Katawishi	FOOT	høkora / ee / ni	høkora	h ø k o r a	h ø k o r a	848	805	FOOT			
+10389	Amarakaeri	FOOT	ʔi	ʔi	w a + ʔ i	w a + ʔ i	337	532 337	_NOMINALIZER FOOT			
 10487	KatukinaBiá	FOOT	i	i	iː	iː	337	337	FOOT			
 10488	Kanamari	FOOT	i	i	iː	iː	337	337	FOOT			
 10563	Proto-Arawan	FOOT	ɗama	ɗama	ɗ a m a	- ɗ a m a	47	47	FOOT			
-10797	Katawishi	FOOT	høkora / ee	ee	eː	eː	337	337	FOOT			
+10797	Katawishi	FOOT	høkora / ee / ni	ee	eː	eː	337	337	FOOT			
 12020	Arasairi	FOOT	uai	uai	u a + i	u a + i	337	532 337	NOMINALIZER FOOT			
 12152	Paumari_1833	FOOT	da	da	d a	d a	47	47	FOOT			
 13341	Apurinã	FOOT	kiti	kiti	k i t i	k i t i	2054	2040	FOOT			
-13	Arawa	HAND	usaɸá	usaɸá	u s a ɸ á	u s a ɸ á - -	83	83	HAND			
+13428	Katawishi	FOOT	høkora / ee / ni	ni	n i	n i	2127	2140	FOOT			
+13	Arawa	HAND	usaɸá	usaɸá	u s a ɸ a	u s a ɸ a - -	83	83	HAND			
 205	Banawa	HAND	je	je	j e	j e	83	83	HAND			
 538	Deni	HAND	japa	japa	j a p a	- j a p a - -	83	83	HAND			
 813	Jamamadi	HAND	jahi	jahi	j a h i	- j a h i - -	83	83	HAND			jahi/jehe
@@ -191,14 +196,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1868	Sorowaha	HAND	bihi / sahani	bihi	b i h i	b i h i	383	322	HAND			
 1948	Sorowaha	HAND	bihi / sahani	sahani	s a h a n i	- s a h a n i	83	83	HAND			
 10315	Katawishi	HAND	bakøra	bakøra	b a k ø r a	b a k ø r a	858	815	HAND			
-10371	Amarakaeri	HAND	mbaʔ	mbaʔ	m/b a ʔ	- - m/b a ʔ	896	855	HAND			
+10371	Amarakaeri	HAND	mbaʔ	mbaʔ	w a + m/b a ʔ	w a + m/b a ʔ	83	532 83	_NOMINALIZER HAND			
 10632	Proto-Arawan	HAND	japa	japa	j a p a	- j a p a - -	83	83	HAND			
 11818	Paumari_1833	HAND	vuana	vuana	v ua n a	v ua n a	1390	1356	HAND			
-12021	Arasairi	HAND	uamba	uamba	u a m/b a	u a m/b a -	896	855	HAND			
+12021	Arasairi	HAND	uamba	uamba	u a + m/b a	u a + m/b a	896	532 532	_NOMINALIZER HAND			
 12488	Apurinã	HAND	wako	wako	ɰ a k o	ɰ a k o	1729	1722	HAND			
 12893	Toyeri	HAND	wamba	wamba	w a m/b a	w a m/b a -	896	855	HAND			
 12894	Sapiteri	HAND	wamba	wamba	w a m/b a	w a m/b a -	896	855	HAND			
-14	Arawa	JAGUAR	jumaihí	jumaihí	j u m a i h í	j u m a i h í	90	90	JAGUAR			
+14	Arawa	JAGUAR	jumaihí	jumaihí	j u m a i h i	j u m a i h i	90	90	JAGUAR			
 211	Banawa	JAGUAR	jomahi	jomahi	j o m a h i	j o m a - h i	90	90	JAGUAR			
 543	Deni	JAGUAR	jomahi	jomahi	j o m a h i	j o m a - h i	90	90	JAGUAR			
 819	Jamamadi	JAGUAR	jomahi	jomahi	j o m a h i	j o m a - h i	90	90	JAGUAR			
@@ -217,13 +222,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1198	Jarawara	ONE	ohari	ohari	o h a r i	o h a r i - -	684	684	ONE			Intransitive verb
 1586	Kulina	ONE	ohaɾi	ohaɾi	o h a ɾ i	o h a ɾ i - -	684	684	ONE			
 10339	Katawishi	ONE	wakata	wakata	w a k a t a	w a k a t a	872	830	ONE			
-10380	Amarakaeri	ONE	noŋtinda	noŋtinda	n o ŋ + t i + n/d a	n o ŋ + t i + n/d a	905	863 864 865	OTHER SPATIAL ?			
+10380	Amarakaeri	ONE	noŋtinda	noŋtinda	n o ŋ + t i + n/d a	n o ŋ + t i + n/d a	905	863 864 1631	OTHER SPATIAL ?			
 10769	Proto-Arawan	ONE	ohari	ohari	o h a r i	o h a r i	684	684	ONE			
-12022	Arasairi	ONE	untʃínda	untʃínda	u n + tʃ i + n/d a	- u n + tʃ i + n/d a	905	863 864 865	OTHER SPATIAL ?			
+12022	Arasairi	ONE	untʃínda	untʃínda	u n + tʃ i + n/d a	- u n + tʃ i + n/d a	905	863 864 1631	OTHER SPATIAL ?			
 12490	Apurinã	ONE	hãtu	hãtu	h ã t u	h ã t u	684	684	ONE			
-12895	Toyeri	ONE	nontšina	nontšina	n o n + tʃ i + n a	n o n + tʃ i + n a	905	863 864 865	OTHER SPATIAL ?			
-12896	Sapiteri	ONE	nontšina	nontšina	n o n + tʃ i + n a	n o n + tʃ i + n a	905	863 864 865	OTHER SPATIAL ?			
-16	Arawa	SCROTUM	naɸariná	naɸariná	n a ɸ a r i n á	- - n a ɸ a r i n á	375	360	SCROTUM			
+12895	Toyeri	ONE	nontšina	nontšina	n o n + tʃ i + n a	n o n + tʃ i + n a	905	863 864 865	OTHER SPATIAL ?			
+12896	Sapiteri	ONE	nontšina	nontšina	n o n + tʃ i + n a	n o n + tʃ i + n a	905	863 864 865	OTHER SPATIAL ?			
+16	Arawa	SCROTUM	naɸariná	naɸariná	n a ɸ a r i n a	- - n a ɸ a r i n a	375	360	SCROTUM			
 124	Banawa	SCROTUM	dane / naɸe	dane	d a n e	d a n e - - -	40	40	SCROTUM			dane/dene
 236	Banawa	SCROTUM	dane / naɸe	naɸe	n a ɸ e	- - n a ɸ e - - - -	375	360	SCROTUM			
 433	Deni	SCROTUM	denephe / nephe	denephe	d e n e p h e	d e n e p h e	40	40	SCROTUM			
@@ -250,6 +255,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11832	Paumari_1833	SUN	sahoeni	sahoeni	s a h oe n i	s a h oe n i	1042	997	SUN			
 12025	Arasairi	SUN	nee	nee	n e e	n e e	1485	1465	SUN			
 12491	Apurinã	SUN	atokatʃi	atokatʃi	a t o k a tʃ i	a t o k a tʃ i	1731	1724	SUN			
+13384	Katawishi	SUN	biha / san	biha	b i h a	b i h a	2085	2089	SUN			
+13385	Katawishi	SUN	biha / san	san	s a n	s a n	930	890	SUN			
 19	Arawa	TWO	ɸamihí	ɸamihí	ɸ a m i h i	- ɸ a m i h i	153	153	TWO			
 269	Banawa	TWO	ɸama	ɸama	ɸ a m a	- ɸ a m a - -	153	153	TWO			
 609	Deni	TWO	pama	pama	p a m a	- p a m a - -	153	153	TWO			
@@ -276,7 +283,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1824	Paumari	WATER	paha	paha	p a h a	p a h a	157	157	WATER			
 5148	Sorowaha	WATER	bami	bami	b a m i	b a m i	514	498	WATER			
 10320	Katawishi	WATER	wa	wa	w a	w a	157	157	WATER			
-10406	Amarakaeri	WATER	wẽʔẽj̃	wẽʔẽj̃	w ẽ ʔ ẽ j̃	w ẽ ʔ ẽ j̃	928	887	WATER			
+10406	Amarakaeri	WATER	wẽʔẽj̃	wẽʔẽj̃	w ẽ ʔ ẽ j̃	w ẽ ʔ ẽ j̃	928	887	WATER			
 10788	Proto-Arawan	WATER	phaha	phaha	pʰ a h a	pʰ a h a	157	157	WATER			
 11853	Paumari_1833	WATER	pahãn	pahãn	p a h ã n	p a h ã n	157	157	WATER			
 12027	Arasairi	WATER	aho	meej	m e e j	m e - e j	928	887	WATER			
@@ -297,6 +304,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12494	Apurinã	TURTLE	ʃutuju	ʃutuju	ʃ u t u j u	ʃ u t u j u	1734	1727	TURTLE			
 12899	Sapiteri	TURTLE	petsa	petsa	p e t s a	p e t s a - - - - - -	1044	999	TURTLE			
 12900	Toyeri	TURTLE	pesa	pesa	p e s a	p e - s a - - - - - -	1044	999	TURTLE			
+13397	Katawishi	TURTLE	mu	mu	m u	m u	2097	2106	TURTLE			
 24	Banawa	ANT	maɸo	maɸo	m a ɸ o	m a ɸ o	358	344	ANT		YES	Loan from PJC Proto-Japurá-Colômbia
 291	Deni	ANT	jomo / mapo	jomo	j o m o	j o m o	227	227	ANT			
 292	Deni	ANT	jomo / mapo	mapo	m a p o	m a p o	358	344	ANT		YES	Loan from PJC Proto-Japurá-Colômbia
@@ -385,7 +393,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10054	Sorowaha	BARK	asihi	asihi	a s i h i	a s i h i	679	207	SKIN			
 10170	Paumari	BARK	asaɸi	asaɸi	a s a ɸ i	a s a ɸ i	207	207	SKIN			
 10434	Proto-Arawan	BARK	atero	atero	a t e r o	a t e r o	208	208	SKIN			bark (of a tree)
-12036	Arasairi	BARK	uasindak	uasindak	u a s i n d a k	u a s i n d a k	1486	1466	SKIN			
+12036	Arasairi	BARK	uasindak	uasindak	u a + s i n/d a k	u a + s i n/d a k	1486	1466	_NOMINALIZER SKIN			
 12905	Toyeri	BARK	wakʉse / wakʉsimbero	wakʉse	w a k ʉ s e	w a k ʉ s e	1910	1890	SKIN			
 12906	Toyeri	BARK	wakʉse / wakʉsimbero	wakʉsimbero	w a k ʉ s i + m/b e r o	w a k ʉ s i + m/b e r o	1910	1890 1891	SKIN ?			
 13344	Apurinã	BARK	tãta	tãta	t ã t a	t ã t a	2056	2042	BARK			
@@ -415,7 +423,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1279	Kulina	BE HUNGRY	pɛmi	pɛmi	p ɛ m i	p ɛ - - - m i - -	327	327	BE.HUNGRY			
 1641	Paumari	BE HUNGRY	βaiʔami	βaiʔami	β a i ʔ a m i	β a i ʔ a m i - -	327	327	BE.HUNGRY			
 10887	Proto-Arawan	BE HUNGRY	waipemi	waipemi	w ai p e m i	w ai p e m i	327	327	BE.HUNGRY			
-12038	Arasairi	BE HUNGRY	ijkesitoki	ijkesitoki	i j k e s i t o k i	i j k e s i t o k i	1487	1467	BE.HUNGRY			
+12038	Arasairi	BE HUNGRY	ijkesitoki	ijkesitoki	i ç k e s i t o k i	i ç k e s i t o k i	1487	1467	BE.HUNGRY			1sg prs ind form
 12908	Toyeri	BE HUNGRY	ekʉsitok	ekʉsitok	e k ʉ s i t o k	e - k ʉ s i t o k -	1487	1467	BE.HUNGRY			
 12909	Sapiteri	BE HUNGRY	ekʉsitok	ekʉsitok	e k ʉ s i t o k	e - k ʉ s i t o k -	1487	1467	BE.HUNGRY			
 13345	Apurinã	BE HUNGRY	natʃi	natʃi	n a tʃ i	n a tʃ i	2057	2043	BE.HUNGRY			
@@ -430,7 +438,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11495	Jamamadi	BEE	daha	daha	d a h a	d a h a	1201	1167	BEE			
 11780	Paumari	BEE	bahina / mahi	bahina	b a h i n a	b a h i n a	1369	1332	BEE			
 11781	Paumari	BEE	bahina / mahi	mahi	m a h i	m a h i	385	132	BEE			
-12040	Arasairi	BEE	jamoro / meremi	jamoro	j a m o r o	j a m o r o	1488	1468	BEE			
+12040	Arasairi	BEE	jamoro / meremi	jamoro	h a m o r o	h a m o r o	1488	1468	BEE			
 12041	Arasairi	BEE	jamoro / meremi	meremi	m e r e m i	m e r e m i -	1489	1469	BEE			
 12574	Sapiteri	BEE	wapopikaj	wapopikaj	w a p o p i k a j	w a p o p i k a j	1777	1764	BEE			
 12575	Toyeri	BEE	wapopikaj	wapopikaj	w a p o p i k a j	w a p o p i k a j	1777	1764	BEE			
@@ -479,7 +487,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12045	Arasairi	BLOOD	mimi	mimi	m i m i	m i m i	869	827	BLOOD			
 12915	Toyeri	BLOOD	mimi	mimi	m i m i	m i m i	869	827	BLOOD			
 12916	Sapiteri	BLOOD	mimi	mimi	m i m i	m i m i	869	827	BLOOD			
-13348	Apurinã	BLOOD	serẽkatʃi	serẽka(tʃi)	s e r ẽ k a tʃ i	s e r ẽ k a tʃ i	2060	2046	BLOOD			With tʃi = unpossessed 
+13348	Apurinã	BLOOD	serẽkatʃi	serẽka(tʃi)	s e r ẽ k a tʃ i	s e r ẽ k a tʃ i	2060	2046	BLOOD			With tʃi = unpossessed 
 41	Banawa	BRANCH	ini	ini	i n i	i n i	251	251	BRANCH			
 315	Deni	BRANCH	ini	ini	i n i	i n i	251	251	BRANCH			
 648	Jamamadi	BRANCH	ini	ini	i n i	i n i	251	251	BRANCH			
@@ -526,6 +534,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10645	Proto-Arawan	BREAST	johari	johari	j o h a r i	j o h a r i	262	262	BREAST			
 11823	Paumari_1833	BREAST	bui	bui	b ui	b ui	1395	1362	BREAST			
 12927	Toyeri	BREAST	wakahka	wakahka	w a k a h k a	w a k a h k a	1904	1885	BREAST			
+13383	Katawishi	BREAST	emu	emu	e m u	e m u	2084	2088	BREAST			
 44	Banawa	CAPUCHIN MONKEY	jowi	jowi	j o w i	j o w i - -	263	263	CAPUCHIN.MONKEY			
 224	Banawa	CAPUCHIN MONKEY	kiso	kiso	k i s o	k i s o	108	108	CAPUCHIN.MONKEY			
 318	Deni	CAPUCHIN MONKEY	jowihi	jowihi	j o w i h i	j o w i h i	263	263	CAPUCHIN.MONKEY			
@@ -548,9 +557,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5032	Sorowaha	YAM	uusə / ahazubi	uusə	uː s ə	uː s ə	1297	1297	YAM			
 10037	Sorowaha	YAM	uusə / ahazubi	ahazubi	a h a z u b i	a h a z u b i	657	616	YAM			
 10463	Proto-Arawan	YAM	biha	biha	b i h a	b i h a	330	330	YAM			
-10511	KatukinaBiá	YAM	makuna	makuna	m a k u n a	m a k u n a	945	904	CARÁ			
-10512	Kanamari	YAM	makuna	makuna	m a k u n a	m a k u n a	945	904	CARÁ			
+10511	KatukinaBiá	YAM	makuna	makuna	m a k u n a	m a k u n a	945	904	YAM			
+10512	Kanamari	YAM	makuna	makuna	m a k u n a	m a k u n a	945	904	YAM			
 11785	Paumari	YAM	ʔiirori	ʔiirori	ʔ iː r o r i	ʔ iː r o r i	1373	1336	YAM			
+13405	Katawishi	YAM	anka	anka	a n k a	a n k a	2105	2115	YAM			
 46	Banawa	CASHEW	ajawa	ajawa	a j a w a	a j a w a	205	205	CASHEW			Domesticated cashew
 653	Jamamadi	CASHEW	winika	winika	w i n i k a	w i n i k a	516	502	CASHEW			Wild cashew species
 931	Jarawara	CASHEW	ajawa / winika	ajawa	a j a w a	a j a w a	205	205	CASHEW			Domesticated cashew
@@ -615,7 +625,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1648	Paumari	COUGH	otoho	otoho	o t o h o	o t o h o	333	333	COUGH			
 1852	Sorowaha	COUGH	toho	toho	t o h o	- t o h o	333	333	COUGH			
 10877	Proto-Arawan	COUGH	thoho	thoho	tʰ o h o	tʰ o h o	333	333	COUGH			
-12049	Arasairi	COUGH	etoje	etoje	e t o j e	e t o j e	333	333	COUGH			
+12049	Arasairi	COUGH	etoje	etoje	e t o h e	e t o h e	333	333	COUGH			
 12931	Toyeri	COUGH	etohʉ	etohʉ	e t o h ʉ	e t o h ʉ	333	333	COUGH			
 53	Banawa	DEER	bado	bado	b a d o	b a d o	214	214	DEER			
 327	Deni	DEER	bado	bado	b a d o	b a d o -	214	214	DEER			
@@ -627,9 +637,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10449	Proto-Arawan	DEER	bado	bado	b a d o	b a d o	214	214	DEER			
 10499	Kanamari	DEER	batʃi	batʃi	b a tʃ i	b a tʃ i	214	214	DEER			
 10500	KatukinaBiá	DEER	batʃi	batʃi	b a tʃ i	b a tʃ i	214	214	DEER			
-10944	Amarakaeri	DEER	mbáowiʰ	mbáowiʰ	m/b áo w iʰ	m/b áo w iʰ	997	956	DEER			
+10944	Amarakaeri	DEER	mbáowiʰ	mbáowiʰ	m/b a w iʰ	m/b a w iʰ	997	956	DEER			
 10990	Paumari	DEER	hotairi	hotairi	h o t ai r i	h o t ai r i	1013	969	DEER			
-12051	Arasairi	DEER	baji	baji	b a j i	b a j i	214	214	DEER			
+12051	Arasairi	DEER	baji	baji	b a h i	b a h i	214	214	DEER			
 12072	Paumari_1833	DEER	utari	utari	u t a r i	u t a r i	1013	969	DEER			
 54	Banawa	PATTERN	hano	hano	h a n o	h a n o	334	334	PATTERN			
 329	Deni	PATTERN	hano	hano	h a n o	h a n o	334	334	PATTERN			
@@ -660,7 +670,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10302	Katawishi	EAR	kiraba	kiraba	k i r a b a	k i r a b a	846	803	EAR			
 10746	Proto-Arawan	EAR	naribo	naribo	n a r i b o	n a r i b o	300	300	EAR			
 11411	Jamamadi	EAR	narabi	narabi	n a r a b i	n a r a b i	300	300	EAR			
-12052	Arasairi	EAR	uapeso / opehesok	uapeso	ua p e s o	u a p e - - s o -	1493	1473	EAR			
+12052	Arasairi	EAR	uapeso / opehesok	uapeso	u a + p e s o	u a + p e s o	1493	532 1473	_NOMINALIZER EAR			
 12053	Arasairi	EAR	uapeso / opehesok	opehesok	o p e h e s o k	- o p e h e s o k	1494	1474	EAR			
 12175	Paumari_1833	EAR	moroboi	moroboi	m o r o b oi	m o r o b oi	300	300	EAR			
 12933	Toyeri	EAR	wapesodn	wapesodn	w a p e s o dⁿ	w a p e - - s o dⁿ	1494	1474	EAR			
@@ -700,7 +710,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11874	Kulina	FAN (OBJECT)	pʰepʰe / kakadi	pʰepʰe	pʰ e pʰ e	pʰ e pʰ e	1417	1394	FAN			for fire
 11875	Kulina	FAN (OBJECT)	pʰepʰe / kakadi	kakadi	k a k a d i	k a k a d i	1418	1395	FAN			
 12056	Arasairi	FAN (OBJECT)	ʃintaapak	ʃintaapak	ʃ i n t aː p a k	ʃ i n t aː p a k	1495	1475	FAN			
-12962	Sapiteri	FAN (OBJECT)	tšʉna	tšʉna	tʃ ʉ n a	tʃ ʉ n a	1495	1475	FAN			
+12962	Sapiteri	FAN (OBJECT)	tšʉna	tšʉna	tʃ ʉ n a	tʃ ʉ n a	1495	1475	FAN			
 61	Banawa	FATHER	abi	abi	a b i	a b i - -	1	1	FATHER			
 665	Jamamadi	FATHER	abi	abi	a b i	a b i - -	1	1	FATHER			
 959	Jarawara	FATHER	abi	abi	a b i	a b i - -	1	1	FATHER			
@@ -710,13 +720,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10036	Sorowaha	FATHER	abi / ahadi	ahadi	a h a d i	a h a d i	656	615	FATHER			
 10202	Deni	FATHER	abi	abi	a b i	a b i - -	1	1	FATHER			
 10294	Arawa	FATHER	abi	abi	a b i	a b i - -	1	1	FATHER			
-10358	Amarakaeri	FATHER	pagŋ	pagŋ	p a g ŋ	p a g ŋ	884	843	FATHER			
+10358	Amarakaeri	FATHER	pagŋ	pagŋ	p a gŋ	p a gŋ	884	843	FATHER			
 10413	Proto-Arawan	FATHER	abi	abi	a b i	a b i - -	1	1	FATHER			
 10515	Kanamari	FATHER	pama	pama	p a m a	p a m a	884	843	FATHER			
 10516	KatukinaBiá	FATHER	paju	paju	p a j u	p a j u	884	843	FATHER			
 12057	Arasairi	FATHER	apak / papa	apak	a p a k	a p a k	1497	1477	FATHER			
 12058	Arasairi	FATHER	apak / papa	papa	p a p a	p a p a	1496	1476	FATHER		YES	
 12651	Paumari	FATHER	paʔa	paʔa	p a ʔ a	p a ʔ a	1802	1788	FATHER			
+13372	Katawishi	FATHER	aje	aje	a j e	a j e	2076	1695	FATHER			
 62	Banawa	PATERNAL UNCLE (FATHER'S BROTHER)	abise	abise	a b i s e	a b i s e	336	336	FATHER'S.BROTHER			
 666	Jamamadi	PATERNAL UNCLE (FATHER'S BROTHER)	abise	abise	a b i s e	a b i s e	336	336	FATHER'S.BROTHER			
 960	Jarawara	PATERNAL UNCLE (FATHER'S BROTHER)	abise	abise	a b i s e	a b i s e	336	336	FATHER'S.BROTHER			
@@ -724,7 +735,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10448	Proto-Arawan	PATERNAL UNCLE (FATHER'S BROTHER)	badi	badi	b a d i	b a d i	336	336	FATHER'S.BROTHER			
 11876	Deni	PATERNAL UNCLE (FATHER'S BROTHER)	kuku	kuku	k u k u	k u k u	1419	1396	FATHER'S.BROTHER			
 11877	Kulina	PATERNAL UNCLE (FATHER'S BROTHER)	abi owaa	abi owaa	a b i + o w aː	a b i + o w aː	1420	1 1397	FATHER BROTHER			
-12963	Sapiteri	PATERNAL UNCLE (FATHER'S BROTHER)	watšoh	watšoh	w a tʃ o h	w a tʃ o h	2008	1993	FATHER'S.BROTHER			
+12963	Sapiteri	PATERNAL UNCLE (FATHER'S BROTHER)	watšoh	watšoh	w a tʃ o h	w a tʃ o h	2008	1993	FATHER'S.BROTHER			
 63	Banawa	PATERNAL AUNT (FATHER'S SISTER)	aso	aso	a s o	- - a - s o -	17	17	FATHER'S.SISTER			
 338	Deni	PATERNAL AUNT (FATHER'S SISTER)	atsʰo / matsʰodini	atsʰo	a tsʰ o	- - a t sʰ o -	17	17	FATHER'S.SISTER			
 594	Deni	PATERNAL AUNT (FATHER'S SISTER)	atsʰo / matsʰodini	matsʰodini	m a tsʰ o d i n i	m a tsʰ o d i n i	131	131	FATHER'S.SISTER			
@@ -737,7 +748,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1859	Sorowaha	PATERNAL AUNT (FATHER'S SISTER)	aso	aso	a s o	- - a - s o -	17	17	FATHER'S.SISTER			
 10442	Proto-Arawan	PATERNAL AUNT (FATHER'S SISTER)	aatsʰo / mashodini	aatsʰo	aː tsʰ o	- - aː t sʰ o -	17	17	FATHER'S.SISTER			
 10725	Proto-Arawan	PATERNAL AUNT (FATHER'S SISTER)	aatsʰo / matsʰodini	matsʰodini	m a tsʰ o d i n i	m a t sʰ o d i n i	131	131	FATHER'S.SISTER			
-12964	Sapiteri	PATERNAL AUNT (FATHER'S SISTER)	watšoh	watšoh	w a tʃ o h	w a tʃ o h	17	17	FATHER'S.SISTER			
+12964	Sapiteri	PATERNAL AUNT (FATHER'S SISTER)	watšoh	watšoh	w a tʃ o h	w a tʃ o h	17	17	FATHER'S.SISTER			
 64	Banawa	FAECES (EXCREMENT)	ijo	ijo	i j o	i j o	248	248	FECES			
 339	Deni	FAECES (EXCREMENT)	ijo	ijo	i j o	i j o	248	248	FECES			
 668	Jamamadi	FAECES (EXCREMENT)	ijo	ijo	i j o	i j o	248	248	FECES			
@@ -757,7 +768,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 8016	Jarawara	FOOD	jamata / taɸe	taɸe	t a ɸ e	t a ɸ e - -	185	185	FOOD			
 8017	Kulina	FOOD	jamatapa / tapaɾi	tapaɾi	t a p a ɾ i	t a p a ɾ i	185	185	FOOD			
 10099	Sorowaha	FOOD	zaama hawaɾu	zaama hawaɾu	z aː m a + h a w aː ɾ u	z aː m a + h a w aː ɾ u	729	341 594	THING ?			
-10368	Amarakaeri	FOOD	ajpo	ajpo	a j p o	a j p o	893	852	FOOD			
+10368	Amarakaeri	FOOD	ajpo	ajpo	ai p o	ai p o	893	852	FOOD			
 10631	Proto-Arawan	FOOD	jamatapa / tapa	jamatapa	j a m a t a p a	j a m a t a p a	255	255	FOOD			
 10861	Proto-Arawan	FOOD	jamatapa / tapa	tapa	t a p a	t a p a	185	185	FOOD			
 10971	Paumari	FOOD	ɓai	ɓai	ɓ ai	ɓ ai	1019	975	FOOD			
@@ -820,10 +831,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10114	Sorowaha	HAIR	kona / kasukɨ	kasukɨ	k a s u k ɨ	k a s u k ɨ	737	699	HAIR			
 10240	Paumari	HAIR	afa	afa	a f a	a f a	813	11	LEAF			
 10689	Proto-Arawan	HAIR	kona	kona	k o n a	k o n a	275	275	HAIR			
-12060	Arasairi	HAIR	bakuíhi	bakuíhi	b a k ui h i	b a k ui h i	1498	1478	HAIR			
+12060	Arasairi	HAIR	bakuíhi	bakuíhi	b a k u i h i	b a k u i h i	1498	1478	HAIR			
 12158	Paumari_1833	HAIR	boi	boi	b oi	b oi	1514	1497	HAIR			
 12965	Toyeri	HAIR	wawih	wawih	w a w i h	w a w i h	1498	1478	HAIR			
 12966	Sapiteri	HAIR	wawih	wawih	w a w i h	w a w i h	1498	1478	HAIR			
+13425	Katawishi	HAIR	tsaw awa	tsaw awa	ts a w + a w a	ts a w + a w a	2124	2136	HAIR			
 75	Banawa	HAMMOCK	jiɸo	jiɸo	j i ɸ o	j i ɸ o	260	260	HAMMOCK			
 355	Deni	HAMMOCK	phoʔi	phoʔi	pʰ o ʔ i	pʰ o ʔ i	260	260	HAMMOCK			
 680	Jamamadi	HAMMOCK	jiɸo	jiɸo	j i ɸ o	j i ɸ o	260	260	HAMMOCK			
@@ -845,10 +857,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10241	Paumari	HEAD	ɗaɗi / inakɨ / atɨ	atɨ	a t ɨ	a t ɨ	44	44	HEAD			also means forehead or face
 10242	Paumari	HEAD	ɗaɗi / inakɨ / atɨ	inakɨ	i n a k ɨ	i n a k ɨ	814	770	HEAD			refers to the upper part of any object
 10299	Katawishi	HEAD	tukae	tukae	k aːe	k aːe	843	800	HEAD			
-10392	Amarakaeri	HEAD	ku	ku	k u	- - k u	916	875	HEAD			
+10392	Amarakaeri	HEAD	ku	ku	w a + k u	w a + k u	916	532 875	_NOMINALIZER HEAD			
 10560	Proto-Arawan	HEAD	ɗaɗi	ɗaɗi	ɗ a ɗ i	ɗ a ɗ i	44	44	HEAD			
 11817	Paumari_1833	HEAD	nda dɨni	nda dɨni	n/d a + d ɨ n i	n/d a + d ɨ n i	44	44 1386	HEAD ?			
-12062	Arasairi	HEAD	uaki	uaki	w a k i	w a k i	916	875	HEAD			
+12062	Arasairi	HEAD	uaki	uaki	w a + k i	w a + k i	916	532 875	_NOMINALIZER HEAD			
 12969	Toyeri	HEAD	wakʉ	wakʉ	w a k ʉ	w a k ʉ	916	875	HEAD			
 12970	Sapiteri	HEAD	wakʉ	wakʉ	w a k ʉ	w a k ʉ	916	875	HEAD			
 77	Banawa	HEART	wakamari	wakamari	w a k a m a r i	w a k a m a r i	285	285	HEART			
@@ -856,7 +868,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5039	Sorowaha	HEART	gʲãzubuni	gʲãzubuni	gʲ ã + z u b u n i	gʲ ã + z u b u n i	1270	1525 1526	? SEED			seed chest
 10244	Deni	HEART	vabunukʰuri	vabunukʰuri	v a b u n u kʰ u r i	v a b u n u kʰ u r i	521	510	HEART			
 11574	Jarawara	HEART	makawari	makawari	m a k a w a r i	m a k a w a r i	285	285	HEART			
-12064	Arasairi	HEART	uanore	uanore	u a n o r e	u a n o - - r e	521	510	HEART			
+12064	Arasairi	HEART	uanore	uanore	u a + n o r e	u a + n o r e	521	532 510	_NOMINALIZER HEART			
 12947	Paumari	HEART	kanabidi	kanabidi	k a n a b i d i	k a n a b i d i	1930	1900	HEART			
 78	Banawa	HEAVY	kanaha	kanaha	k a n a h a	k a n a h a	279	279	HEAVY			
 358	Deni	HEAVY	kanaha	kanaha	k a n a h a	k a n a h a	279	279	HEAVY			
@@ -916,7 +928,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1870	Sorowaha	MOUNTAIN OR HILL	adami	adami	a d a m i	a d a m i	3	3	EARTH			ada = earth?
 10416	Proto-Arawan	MOUNTAIN OR HILL	adami	adami	a d a m i	a d a m i	3	3	HILL			
 11850	Paumari_1833	MOUNTAIN OR HILL	arabu	arabu	a r a b u	a r a b u	1409	1385	MOUNTAIN			
-12069	Arasairi	MOUNTAIN OR HILL	nemba	nemba	n e m b a	n e m b a	1501	1481	HILL			
+12069	Arasairi	MOUNTAIN OR HILL	nemba	nemba	n e m/b a	n e m/b a	1501	1481	HILL			
+13391	Katawishi	MOUNTAIN OR HILL	bohu	bohu	b o h u	b o h u	2091	2097	HILL			
 83	Banawa	POISON	iha	iha	i h a	i h a	339	339	POISON			
 362	Deni	POISON	iha	iha	i h a	i h a	339	339	POISON			
 990	Jarawara	POISON	iha	iha	i h a	i h a	339	339	POISON			
@@ -931,7 +944,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1674	Paumari	HOLE	hodi	hodi	h o ɗ i	h o ɗ i	246	246	HOLE			
 10155	Sorowaha	HOLE	dadɨ	dadɨ	d a d ɨ	d a d ɨ	246	246	HOLE			
 10604	Proto-Arawan	HOLE	hodi	hodi	h o d i	h o d i	246	246	HOLE			
-12071	Arasairi	HOLE	uaje	uaje	u a j e	u a j e	1502	1482	HOLE			
+12071	Arasairi	HOLE	uaje	uaje	u a + h e	u a + h e	1502	532 1482	_NOMINALIZER HOLE			
 85	Banawa	HOWLER MONKEY	jiko	jiko	j i k o	j i k - - o	252	252	HOWLER.MONKEY			
 366	Deni	HOWLER MONKEY	jajiʔo	jajiʔo	j a j i ʔ o	j a j i ʔ o	252	252	HOWLER.MONKEY			
 686	Jamamadi	HOWLER MONKEY	jiko	jiko	j i k o	j i k - - o	252	252	HOWLER.MONKEY			
@@ -942,6 +955,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10628	Proto-Arawan	HOWLER MONKEY	jajiko / kawina	jajiko	j a j i k o	j a j i k o	252	252	HOWLER.MONKEY			
 10676	Proto-Arawan	HOWLER MONKEY	jajiko / kawina	kawina	k a w i n a	k a w i n a	522	511	HOWLER.MONKEY			
 12082	Paumari_1833	HOWLER MONKEY	kaβina	kaβina	k a β i n a	k a β i n a	522	511	HOWLER.MONKEY			
+13415	Katawishi	HOWLER MONKEY	xadiho	xadiho	ʃ a d i h o	ʃ a d i h o	2114	2124	HOWLER.MONKEY			
 86	Banawa	LIGHT (RADIATION)	ɸiri	ɸiri	ɸ i r i	ɸ i r i	312	312	ILLUMINATE			Cause to shine
 229	Banawa	LIGHT (RADIATION)	oje	oje	o j e	o j e	687	410	LIGHT			
 367	Deni	LIGHT (RADIATION)	piri	piri	p i r i	p i r i	312	312	ILLUMINATE			
@@ -978,7 +992,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5007	Sorowaha	FAT (ORGANIC SUBSTANCE)	amudzɨ	amudzɨ	a m u dz ɨ	a m u dz ɨ	1247	1247	FAT			
 10201	Paumari	FAT (ORGANIC SUBSTANCE)	basina	basina	b a s i n a	b a s i n a	787	747	FAT			
 11883	Deni	FAT (ORGANIC SUBSTANCE)	ukini	ukini	u k i n i	u k i n i	1248	1248	FAT			
-12074	Arasairi	FAT (ORGANIC SUBSTANCE)	uasihua	uasihua	w a s i h u a	w a s i h u a	1503	1483	FAT			
+12074	Arasairi	FAT (ORGANIC SUBSTANCE)	uasihua	uasihua	u a + s i w a	u a + s i w a	1503	532 1483	_NOMINALIZER FAT			
 90	Banawa	THING	jama	jama	j a m a	j a m a	341	341	THING			
 370	Deni	THING	jama	jama	j a m a	j a m a	341	341	THING			
 690	Jamamadi	THING	jama	jama	j a m a	j a m a	341	341	THING			
@@ -1020,7 +1034,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1683	Paumari	LEAF	afa	afa	a f a	a - - f a	11	11	LEAF			
 1874	Sorowaha	LEAF	ahaba /ahɨ	ahaba	a h a b a	a h a b a	11	11	LEAF			
 5146	Sorowaha	LEAF	ahaba /ahɨ	ahɨ	a h ɨ	a h ɨ - -	11	11	LEAF			
-10372	Amarakaeri	LEAF	mbaʔ	mbaʔ	m/b a ʔ	m/b a ʔ	897	855	HAND			
+10372	Amarakaeri	LEAF	mbaʔ	mbaʔ	e + m/b a ʔ	e + m/b a ʔ	897	1603 855	_NOMINALIZER HAND			
 10430	Proto-Arawan	LEAF	apha	apha	a pʰ a	a - - pʰ a	11	11	LEAF			
 10493	KatukinaBiá	LEAF	ba	ba	b a	b a	897	855	LEAF			
 10494	Kanamari	LEAF	ba	ba	b a	b a	897	855	LEAF			
@@ -1041,8 +1055,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1371	Kulina	LIVER	wati	wati	w a t i	w a - - t i	346	346	LIVER			
 1687	Paumari	LIVER	βaʔi	βaʔi	β a ʔ i	β a ʔ - - i	346	346	LIVER			
 10885	Proto-Arawan	LIVER	wahati	wahati	w a h a t i	w a h a t i	346	346	LIVER			
-10932	Amarakaeri	LIVER	wa mẽʔ	wa mẽʔ	w a + m ẽ ʔ	w a + m ẽ ʔ	989	532 947	? ?			
-12080	Arasairi	LIVER	uame	uame	w a + m e	w a + m e -	989	532 947	? ?			
+10932	Amarakaeri	LIVER	wa mẽʔ	wa mẽʔ	w a + m ẽ ʔ	w a + m ẽ ʔ	989	532 947	_NOMINALIZER LIVER			
+12080	Arasairi	LIVER	uame	uame	w a + m e	w a + m e -	989	532 947	_NOMINALIZER LIVER			
 97	Banawa	LUNG FISH	sako	sako	s a k o	s a k o	347	347	LUNG.FISH			
 382	Deni	LUNG FISH	sako	sako	s a k o	s a k o	347	347	LUNG.FISH			
 697	Jamamadi	LUNG FISH	sako	sako	s a k o	s a k o	347	347	LUNG.FISH			
@@ -1073,11 +1087,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1690	Paumari	FLESH OR MEAT	ima	ima	i m a	i m a	250	250	MEAT			
 1878	Sorowaha	FLESH OR MEAT	ime /ɨmɨ	ime	i m e	i m e	250	250	MEAT			
 5145	Sorowaha	FLESH OR MEAT	ime /ɨmɨ	ɨmɨ	ɨ m ɨ	ɨ m ɨ	250	250	MEAT			
-10323	Katawishi	FLESH OR MEAT	han	han	h a n	- - h a n	862	820	MEAT			
+10323	Katawishi	FLESH OR MEAT	han / gobahasi	han	h a n	- - h a n	862	820	MEAT			
 10616	Proto-Arawan	FLESH OR MEAT	ima	ima	i m a	i m a	250	250	MEAT			
-10939	Amarakaeri	FLESH OR MEAT	hẽn	hẽn	h ẽ n	- - h ẽ n	862	820	MEAT			
+10939	Amarakaeri	FLESH OR MEAT	hẽn	hẽn	w a + h ẽ n	w a + h ẽ n	862	532 820	_NOMINALIZER MEAT			
 11820	Paumari_1833	FLESH OR MEAT	damãn	damãn	d a m ã n	d a m ã n	250	250	MEAT			
-12083	Arasairi	FLESH OR MEAT	uajen	uajen	ua j e n	u a j e n	862	820	MEAT			
+12083	Arasairi	FLESH OR MEAT	uajen	uajen	u a + h e n	u a + h e n	862	532 820	_NOMINALIZER MEAT			
+13380	Katawishi	FLESH OR MEAT	han / gobahasi	gobahasi	g o b a h a s i	g o b a h a s i	791	2084	MEAT			Natterer (1833)
 102	Banawa	MONTH	abariko	abariko	a b a r i k o	a b a r i k o	203	203	MOON			
 388	Deni	MONTH	abajiko	abajiko	a b a j i k o	a b a j i k o	203	203	MOON			
 702	Jamamadi	MONTH	abariko	abariko	a b a r i k o	a b a r i k o	203	203	MOON			
@@ -1221,7 +1236,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10585	Proto-Arawan	PATH OR ROAD	hagi	hagi	h a g i	h a g i	238	238	PATH			
 10824	Kanamari	PATH OR ROAD	daŋ	daŋ	d a ŋ	d a ŋ	970	927	PATH			
 10936	Amarakaeri	PATH OR ROAD	ⁿdagⁿ	ⁿdagⁿ	ⁿd a gⁿ	ⁿd a - - - gⁿ	970	927	PATH			
-12097	Arasairi	PATH OR ROAD	dahank	dahank	d a h a n k	d a h a n k	970	927	PATH			
+12097	Arasairi	PATH OR ROAD	dahank	dahank	d a h a ŋ k	d a h a ŋ k	970	927	PATH			
 12984	Toyeri	PATH OR ROAD	mbakʉket	mbakʉket	m/b a k ʉ k e t	m/b a k ʉ k e t	2047	2033	PATH			
 117	Banawa	PIERCE	saka / ida	saka	s a k a	s a k a	350	350	PIERCE			
 196	Banawa	PIERCE	saka / ida	ida	i d a	i d a	70	70	PIERCE			
@@ -1285,8 +1300,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10852	Proto-Arawan	ROAST OR FRY	bana / tabitsʰe	tabitsʰe	t a b i tsʰ e	t a b i tsʰ e	407	407	ROAST			
 11651	Jamamadi	ROAST OR FRY	ibana / tabasi	ibana	i b a n a	i b a n a	23	23	ROAST.ON.COALS			
 12105	Arasairi	ROAST OR FRY	et͡ʃije	et͡ʃije	e tʃ i j e	e tʃ i j e	1513	1493	ROAST			
-12988	Toyeri	ROAST OR FRY	etšihe	etšihe	e tʃ i h e	e tʃ i h e	1513	1493	ROAST			
-12989	Sapiteri	ROAST OR FRY	etšihe	etšihe	e tʃ i h e	e tʃ i h e	1513	1493	ROAST			
+12988	Toyeri	ROAST OR FRY	etšihe	etšihe	e tʃ i h e	e tʃ i h e	1513	1493	ROAST			
+12989	Sapiteri	ROAST OR FRY	etšihe	etšihe	e tʃ i h e	e tʃ i h e	1513	1493	ROAST			
 122	Banawa	ROTTEN	bata	bata	b a t a	b a t - a - -	224	224	ROTTEN			
 429	Deni	ROTTEN	batha	batha	b a t h a	b a t h a - -	224	224	ROTTEN			
 725	Jamamadi	ROTTEN	bata	bata	b a t a	b a t - a - -	224	224	ROTTEN			
@@ -1311,7 +1326,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10657	Proto-Arawan	SAND	kaaxijo / shiki	kaaxijo	k aː x i j o	k aː x i j o	527	516	SAND			
 10840	Proto-Arawan	SAND	kaaxijo / shiki	shiki	tsʰ i k i	tsʰ i k i	266	266	SAND			
 11851	Paumari_1833	SAND	kasi	kasi	k a s i	k a s i	527	516	SAND			
-12532	Arasairi	SAND	kihuat	kihuat	k i h u a t	k i h u a t	1755	1746	SAND			
+12532	Arasairi	SAND	kihuat	kihuat	k i w a t	k i w a t	1755	1746	SAND			
 12991	Sapiteri	SAND	kʉadⁿ	kʉadⁿ	k ʉ a dⁿ	k - - ʉ a dⁿ	1755	1746	SAND			
 12992	Toyeri	SAND	kʉadⁿ	kʉadⁿ	k ʉ a dⁿ	k - - ʉ a dⁿ	1755	1746	SAND			
 125	Banawa	SHELLFISH	taro	taro	t a r o	t a r o	376	361	SHELLFISH			
@@ -1410,7 +1425,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1442	Kulina	STINGRAY	botani	botani	b o t̪ a n i	b o t̪ a n i	225	225	STINGRAY			
 1724	Paumari	STINGRAY	boɗani	boɗani	b o ɗ a n i	b o ɗ a n i	225	225	STINGRAY			
 5024	Sorowaha	STINGRAY	miʃʲa	miʃʲa	m i ʃʲ a	m i ʃʲ a	530	520	STINGRAY			
-10335	Katawishi	STINGRAY	mitsa	mitsa	m i t s a	m i t s a	530	520	STINGRAY			
+10335	Katawishi	STINGRAY	mitsa	mitsa	m i ts a	m i ts a	530	520	STINGRAY			
 10540	Proto-Arawan	STINGRAY	ɓoɗani	ɓoɗani	ɓ o ɗ a n i	ɓ o ɗ a n i	225	225	STINGRAY			
 12065	Paumari_1833	STINGRAY	butani	butani	b u t a n i	b u t a n i	225	225	STINGRAY			
 136	Banawa	LUBRICATE	kete	kete	k e t e	k e t e	1281	1281	LUBRICATE			
@@ -1447,6 +1462,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10781	Proto-Arawan	UPPER LEG (THIGH)	panakho	panakho	p a n a kʰ o	p a n a kʰ o	310	310	THIGH			
 11274	Sorowaha	UPPER LEG (THIGH)	inabuwani	inabuwani	i n a b u w a n i	i n a b u w a n i	1164	1130	THIGH			
 12155	Paumari	UPPER LEG (THIGH)	kabaha	kabaha	k a b a h a	k a b a h a	1513	1496	THIGH			
+13427	Katawishi	UPPER LEG (THIGH)	tsanpi	tsanpi	ts a n p i	ts a n p i	2126	2139	THIGH			
 142	Banawa	THORN	atia	atia	a t i a	a t i - a	209	209	THORN			
 457	Deni	THORN	atiwa	atiwa	a t i w a	a t i w a	209	209	THORN			
 746	Jamamadi	THORN	atiwa	atiwa	a t i w a	a t i w a	209	209	THORN			
@@ -1454,7 +1470,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1455	Kulina	THORN	ati	ati	a t̪ i	a t̪ i - -	209	209	THORN			
 5062	Sorowaha	THORN	haʃini	haʃini	h a ʃ i n i	h a ʃ i n i	531	521	THORN			
 10435	Proto-Arawan	THORN	ati	ati	a t i	a t i	209	209	THORN			
-12117	Arasairi	THORN	uapi	uapi	u a p i	u a p i	1519	1499	THORN			
+12117	Arasairi	THORN	uapi	uapi	u a + p i	u a + p i	1519	532 1499	_NOMINALIZER THORN			
 12237	Paumari	THORN	jaroa	jaroa	dʒ a r oa	dʒ a r oa	1559	1539	THORN			
 143	Banawa	TICK	wabo	wabo	w a b o	w a b o	222	222	TICK			
 460	Deni	TICK	babo	babo	b a b o	b a b o	222	222	TICK			
@@ -1509,7 +1525,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1461	Kulina	BURN	bot̪ʰa	bot̪ʰa	b o t̪ʰ a	b o t̪ʰ a	1292	1292	BURN			
 5029	Sorowaha	BURN	tʲɛhɛ / kaʃuuhu	tʲɛhɛ	tʲ ɛ h ɛ	tʲ ɛ h ɛ	1293	1293	BURN			
 10118	Sorowaha	BURN	tʲɛhɛ / kaʃuuhu	kaʃuuhu	k a ʃ uː h u	k a ʃ uː h u	740	702	BURN			
-12120	Arasairi	BURN	emei	emei	e m e i	e m e i	1522	1502	BURN			
+12120	Arasairi	BURN	emei	emei	e m ei	e m ei 	1522	1502	BURN			
 12239	Paumari	BURN	kai / aova /  hadi / khovo	kai	k ai	k ai	1561	1541	BURN			
 12240	Paumari	BURN	kai / aova /  hadi / khovo	aova	ao β a	ao β a	1562	1542	BURN			
 12241	Paumari	BURN	kai / aova /  hadi / khovo	hadi	h a ɗ i	h a ɗ i	1563	1544	BURN			
@@ -1541,7 +1557,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1466	Kulina	DIG	wi	wi	w i	w i	1133	1133	DIG			
 10900	Proto-Arawan	DIG	wi	wi	w i	w i	1133	1133	DIG			
 11276	Sorowaha	DIG	bijaka	bijaka	b i j a k a	b i j a - - - k a	1166	1132	DIG			
-12124	Arasairi	DIG	jajenka	jajenka	j a j e n k a	- - j a j e n k a	1166	1132	DIG			
+12124	Arasairi	DIG	jajenka	jajenka	h a h e n k a	- - h a h e n k a	1166	1132	DIG			
 12860	Paumari	DIG	kʰomakʰoma	kʰomakʰoma	kʰ o m a + kʰ o m a	kʰ o m a + kʰ o m a	1884	1864 1864	DIG DIG			
 13010	Toyeri	DIG	eheka	eheka	e h e k a	- - - e h e - k a	1166	1132	DIG			
 13011	Sapiteri	DIG	eheka / ekheika	eheka	e h e k a	- - - e h e - k a	1166	1132	DIG			
@@ -1555,7 +1571,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10403	Amarakaeri	DRINK	maj	maj	m a j	- - m a - j	925	884	DRINK			
 10786	Proto-Arawan	DRINK	pawe	pawe	p a w e	p a w e	315	315	DRINK			
 11277	Jarawara	DRINK	ɸawa	ɸawa	ɸ a w a	ɸ a w a	315	315	DRINK			
-12125	Arasairi	DRINK	jamaj	jamaj	j a m a j	j a m a - j	925	884	DRINK			
+12125	Arasairi	DRINK	jamaj	jamaj	h a m ai	h a m ai	925	884	DRINK			
 13013	Toyeri	DRINK	omahi	omahi	o m a h i	- o m a h i	925	884	DRINK			
 13014	Sapiteri	DRINK	emaj	emaj	e m a j	- e m a - j	925	884	DRINK			
 153	Banawa	GO	toka	toka	t o + k a	t o + k a	236	1116 1208	AWAY COME			
@@ -1569,7 +1585,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10575	Proto-Arawan	GO	gawa / kha	gawa	g a w a	g a w a	535	525	GO			
 10701	Proto-Arawan	GO	gawa / kha	kha	kʰ a	kʰ a	236	236	GO			
 10820	Kanamari	GO	lubɯ	lubɯ	l uː b ɯ	l uː b ɯ	967	924	GO			
-12126	Arasairi	GO	jahuatei	jahuatei	j a h ua t ei	j a h ua t ei	1524	1504	GO			
+12126	Arasairi	GO	jahuatei	jahuatei	h a w a t ei	h a w a t ei	1524	1504	GO			
 12937	Paumari	GO	ka	ka	k a	k a	236	236	GO			
 154	Banawa	HEAR	mita	mita	m i t a	m i t - a	293	293	HEAR			
 474	Deni	HEAR	mitha	mitha	m i t h a	m i t h a	293	293	HEAR			
@@ -1580,8 +1596,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1907	Sorowaha	HEAR	mita	mita	m i t a	m i t - a	293	293	HEAR			
 10731	Proto-Arawan	HEAR	mitha	mitha	m i tʰ a	m i tʰ a	293	293	HEAR			
 12128	Arasairi	HEAR	enimpei / nimpeeje / uanimpeeje	enimpei	e n i m p ei	- e n i m p e - i -	1525	1505	HEAR			
-12129	Arasairi	HEAR	enimpei / nimpeeje / uanimpeeje	nimpeeje	n i m p ee j e	- - n i m p e e j e	1525	1505	HEAR			
-12130	Arasairi	HEAR	enimpei / nimpeeje / uanimpeeje	uanimpeeje	w a n i m p ee j e	w a n i m p ee j e	1525	1505	HEAR			
+12129	Arasairi	HEAR	enimpei / nimpeeje / uanimpeeje	nimpeeje	n i m p ee h e	n i m p ee h e	1525	1505	HEAR			
+12130	Arasairi	HEAR	enimpei / nimpeeje / uanimpeeje	uanimpeeje	w a n i m p ee h e	w a n i m p ee h e	1525	1505	HEAR			
 13015	Toyeri	HEAR	eniŋpe	eniŋpe	e n i ŋ p e	e n i ŋ p e	1525	1505	HEAR			
 13016	Sapiteri	HEAR	eniŋpe	eniŋpe	e n i ŋ p e	e n i ŋ p e	1525	1505	HEAR			
 156	Banawa	KNOW	wato	wato	w a t o	- - w a t o	302	302	KNOW			
@@ -1591,7 +1607,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1478	Kulina	KNOW	naʔato	naʔato	n a ʔ a t o	n a ʔ a t o	302	302	KNOW			
 10748	Proto-Arawan	KNOW	nawato	nawato	n a w a t o	n a w a t o	302	302	KNOW			
 11278	Sorowaha	KNOW	takunɨri	takunɨri	t a k u n ɨ r i	t a k u n ɨ r i	1167	1135	KNOW			
-12132	Arasairi	KNOW	ijei	ijei	i j e i	i - - j e i	1526	1506	KNOW			
+12132	Arasairi	KNOW	ijei	ijei	i h e i	i - - h e i	1526	1506	KNOW			
 12953	Paumari	KNOW	oga	oga	o g a	o g a	1924	1904	KNOW			
 13017	Toyeri	KNOW	etahaj	etahaj	e t a h a j	e t a h a j	1526	1506	KNOW			
 157	Banawa	LAUGH	haha	haha	h a h a	h a h a	239	239	LAUGH			
@@ -1614,9 +1630,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1742	Paumari	LIE (REST)	ʔoma	ʔoma	ʔ o m a	- - - - - ʔ o m a	313	313	LIE			
 10061	Sorowaha	LIE (REST)	kusuna	kusuna	k u s u n a	k u s u n a	594	580	REST			
 10784	Proto-Arawan	LIE (REST)	poma	poma	p o m a	p o m a	313	313	LIE			
-10913	Amarakaeri	LIE (REST)	wedn	wedn	w e d n	w e d n	976	934	LIE			
+10913	Amarakaeri	LIE (REST)	wedn	wedn	w e dn	w e dn	976	934	LIE			
 12315	Arasairi	LIE (REST)	jahatok / tojeanda	jahatok	j a h a t o k	j a h a t o k	1609	1593	LIE			
-12316	Arasairi	LIE (REST)	jahatok / tojeanda	tojeanda	t o j e a + n/d a	t o j e a + n/d a	1610	1592 865	LIE ?			
+12316	Arasairi	LIE (REST)	jahatok / tojeanda	tojeanda	t o j e a + n/d a	t o j e a + n/d a	1610	1592 1631	LIE ?			
 159	Banawa	LIKE	noɸa	noɸa	n o ɸ a	n o ɸ a	303	303	LIKE			
 764	Jamamadi	LIKE	noɸa	noɸa	n o ɸ a	n o ɸ a	303	303	LIKE			
 1099	Jarawara	LIKE	noɸa	noɸa	n o ɸ a	n o ɸ a	303	303	LIKE			
@@ -1640,7 +1656,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1911	Sorowaha	PUSH	jokona / zuhʷana	jokona	j o k o n a	j o k - o n a	230	230	PUSH			
 10092	Sorowaha	PUSH	jokona / zuhʷana	zuhʷana	z u hʷ a n a	z u hʷ a n a	230	230	PUSH			
 10568	Proto-Arawan	PUSH	ɗokho	ɗokho	ɗ o kʰ o	ɗ o kʰ o	230	230	PUSH			
-12317	Arasairi	PUSH	endak	endak	e n d a k	e - - n d a k -	1611	1594	PUSH			
+12317	Arasairi	PUSH	endak	endak	e n/d a k	e n/d a k	1611	1594	PUSH			
 13019	Toyeri	PUSH	etaⁿdere	etaⁿdere	e t a ⁿd e r e	e t a ⁿd e r e	1611	1594	PUSH			
 13020	Sapiteri	PUSH	etaⁿdere	etaⁿdere	e t a ⁿd e r e	e t a ⁿd e r e	1611	1594	PUSH			
 163	Banawa	SHOW	joɸi / namo	joɸi	j o ɸ i	j o ɸ i	299	299	SHOW			
@@ -1664,9 +1680,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1108	Jarawara	SMELL	hisi	hisi	h i s i	h i s i - -	1004	1004	SMELL.V			
 1496	Kulina	SMELL	hitsʰi / maho	hitsʰi	h i tsʰ i	h i tsʰ i - -	1004	1004	SMELL.V			
 1913	Sorowaha	SMELL	hisina / mahi	hisina	h i s i n a	h i s i n a	1004	1004	SMELL.V			
-12319	Arasairi	SMELL	ejørik	ejørik	e j ø r i k	e j ø r i k	1612	1595	SMELL.V			
-13021	Toyeri	SMELL	etšekpo	etšekpo	e tʃ e k p o	e tʃ e k p o	2018	2018	SMELL.V			
-13022	Sapiteri	SMELL	etšekpo	etšekpo	e tʃ e k p o	e tʃ e k p o	2017	2017	SMELL.V			
+12319	Arasairi	SMELL	ejørik	ejørik	e + j ø r i k	e + j ø r i k	1612	1603 1595	_NOMINALIZER SMELL.V			
+13021	Toyeri	SMELL	etšekpo	etšekpo	e tʃ e k p o	e tʃ e k p o	2018	2018	SMELL.V			
+13022	Sapiteri	SMELL	etšekpo	etšekpo	e tʃ e k p o	e tʃ e k p o	2017	2017	SMELL.V			
 166	Banawa	SPEAK	hijara	hijara	h i j a r a	h i j a r a	244	244	SPEAK			
 771	Jamamadi	SPEAK	hijara	hijara	h i j a r a	h i j a r a	244	244	SPEAK			
 1113	Jarawara	SPEAK	hijara	hijara	h i j a r a	h i j a r a	244	244	SPEAK			
@@ -1674,9 +1690,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10601	Proto-Arawan	SPEAK	hijara	hijara	h i j a r a	h i j a r a	244	244	SPEAK			
 11892	Deni	SPEAK	ima	ima	i m a	i m a	1430	1407	SPEAK			
 11893	Kulina	SPEAK	wati	wati	w a t̪ i	w a t̪ i	1431	1408	SPEAK			
-12320	Arasairi	SPEAK	ejapak	ejapak	e j a p a k	e - - - - - j a p a k	1613	1596	SPEAK			
-13023	Arasairi	SPEAK	embatšapak	embatšapak	e m b a tʃ j a p a k	e m b a tʃ j a p a k	1613	1596	SPEAK			
-13024	Arasairi	SPEAK	embatšapak	embatšapak	e m b a tʃ j a p a k	e m b a tʃ j a p a k	1613	1596	SPEAK			
+12320	Arasairi	SPEAK	ejapak	ejapak	e + j a + p a k	e + j a + p a k	1613	1603 1667 1596	_NOMINALIZER SAY VERBALIZER			
+13023	Arasairi	SPEAK	embatšapak	embatšapak	e + m/b a + ti + a + p a k	e + m/b a + ti + a + p a k	1613	1603 1639 1640 1667 1596	_NOMINALIZER VERBAL.PLURAL UP SAY VERBALIZER			
 167	Banawa	TIE	kaho / mado	kaho	k a h o	k a h o	268	268	TIE			
 250	Banawa	TIE	kaho / mado	mado	m a d o	m a d o	127	127	TIE			
 589	Deni	TIE	mado	mado	m a d o	m a d o	127	127	TIE			
@@ -1690,8 +1705,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10714	Proto-Arawan	TIE	kaho / mado	mado	m a d o	m a d o	127	127	TIE			
 11523	Jamamadi	TIE	soki	soki	s o k i	s o k i	545	536	TIE			
 12533	Arasairi	TIE	et͡ʃansøne	et͡ʃansøne	e tʃ a n s ø n e	e tʃ a n s ø n e - - - - -	1756	1747	TIE			
-13025	Toyeri	TIE	etšinokhʉkʉ	etšinokhʉkʉ	e tʃ i n o k h ʉ k ʉ	e tʃ i n - o - - k h ʉ k ʉ	1756	1747	TIE			
-13026	Sapiteri	TIE	etšinokhʉkʉ	etšinokhʉkʉ	e tʃ i n o k h ʉ k ʉ	e tʃ i n - o - - k h ʉ k ʉ	1756	1747	TIE			
+13025	Toyeri	TIE	etšinokhʉkʉ	etšinokhʉkʉ	e tʃ i n o k h ʉ k ʉ	e tʃ i n - o - - k h ʉ k ʉ	1756	1747	TIE			
+13026	Sapiteri	TIE	etšinokhʉkʉ	etšinokhʉkʉ	e tʃ i n o k h ʉ k ʉ	e tʃ i n - o - - k h ʉ k ʉ	1756	1747	TIE			
 168	Banawa	TOUCAN	jaki	jaki	j a k i	j a k i - - - -	253	253	TOUCAN			
 491	Deni	TOUCAN	jakhi	jakhi	j a kʰ i	j a kʰ i - - - -	253	253	TOUCAN			
 774	Jamamadi	TOUCAN	jaki	jaki	j a k i	j a k i - - - -	253	253	TOUCAN			
@@ -1710,7 +1725,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1920	Sorowaha	TREE	aga / wakana	aga	a g a	a g a	546	537	TREE			Generic word for ‘tree’
 1921	Sorowaha	TREE	aga / wakana	wakana	w a k a n a	w a k a n a	4	4	TREE.SP			Species of tree, crabwood
 10338	Katawishi	TREE	hihi	hihi	h i h i	h i h i	871	829	TREE			
-10400	Amarakaeri	TREE	wẽj̃	wẽj̃	w ẽ j̃	- - - w ẽ j̃	923	882	TREE			
+10400	Amarakaeri	TREE	wẽj̃	wẽj̃	õ w ẽ j̃	õ w ẽ j̃	923	882	TREE			
 10417	Proto-Arawan	TREE	aga / mahowa / wakana	aga	a g a	a g a	546	537	TREE			Generic word for ‘tree’
 10718	Proto-Arawan	TREE	aga / mahowa / wakana	mahowa	m a h o w a	m a h o w a	849	806	TREE			
 10756	Banawa	TREE	awa	awa	a w a	a w a	546	537	TREE			Generic word for ‘tree’
@@ -1813,11 +1828,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 789	Jamamadi	SEE	awa	awa	a w a	a w a	540	531	SEE			
 1104	Jarawara	SEE	awa	awa	a w a	a w a	540	531	SEE			
 1491	Kulina	SEE	kʰi	kʰi	kʰ i	kʰ - i	281	281	SEE			
-10378	Amarakaeri	SEE	tiawaj	tiawaj	t ia w a j	- t ia w a j	903	861	SEE			
+10378	Amarakaeri	SEE	tiawaj	tiawaj	tʃ a w ai	tʃ a w ai	903	861	SEE			
 10705	Proto-Arawan	SEE	khi	khi	kʰ i	kʰ i	281	281	SEE			
 10973	Paumari	SEE	noki	noki	n o k i	n o k i	281	281	SEE			
-12318	Arasairi	SEE	et͡ʃajaj	et͡ʃajaj	e t͡ʃ a j a j	e t͡ʃ a j a j	903	861	SEE			
-13029	Sapiteri	SEE	etšahaj	etšahaj	e tʃ a h a j	e tʃ a h a j	903	861	SEE			
+12318	Arasairi	SEE	et͡ʃajaj	et͡ʃajaj	e t͡ʃ a j ai	e t͡ʃ a j ai	903	861	SEE			
+13029	Sapiteri	SEE	etšahaj	etšahaj	e tʃ a h a j	e tʃ a h a j	903	861	SEE			
 181	Banawa	COOK (SOMETHING)	kawari	kawari	k a + w a + r i	k a + w a + r i	367	128 373 2051	COMITATIVE COOK RAISED.SURFACE			
 509	Deni	COOK (SOMETHING)	kaʔa	kaʔa	k a ʔ a	k a ʔ a	367	1117	COOK			
 790	Jamamadi	COOK (SOMETHING)	kawari	kawari	k a + w a + r i	k a + w a + r i	367	128 373 2051	COMITATIVE COOK RAISED.SURFACE			
@@ -1849,7 +1864,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1935	Sorowaha	BE	ha	ha	h a	h a	54	54	BE			
 10578	Proto-Arawan	BE	ha	ha	h a	h a	54	54	BE			
 11414	Jamamadi	BE	toha	toha	t o h a	t o h a	54	54	BE			
-12535	Arasairi	BE	ijen / ire	ijen	i j e n	i j e n	1757	1749	BE			
+12535	Arasairi	BE	ijen / ire	ijen	i h e n	i h e n	1757	1749	BE			
 12536	Arasairi	BE	ijen / ire	ire	i r e	i r e	1758	1748	BE			
 12708	Paumari	BE	ni / hi	ni	n i	n i	1815	1801	BE			
 12710	Paumari	BE	ni / hi	hi	h i	h i	54	54	BE			
@@ -1905,9 +1920,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10593	Proto-Arawan	BLOW (WITH MOUTH)	hapho / kariboba	hapho	h a pʰ o	h a pʰ - o	61	61	BLOW			
 10671	Proto-Arawan	BLOW (WITH MOUTH)	hapho / kariboba	kariboba	k a r i b o b a	k a r i b o b a	104	104	BLOWGUN			
 10948	Amarakaeri	BLOW (WITH MOUTH)	po	po	p o	- - - p o -	61	61	BLOW			
-12326	Arasairi	BLOW (WITH MOUTH)	et͡ʃipoj	et͡ʃipoj	e t͡ʃ i p o j	e t͡ʃ i p o j	61	61	BLOW			
-13034	Toyeri	BLOW (WITH MOUTH)	etšipo	etšipo	e tʃ i p o	e tʃ i p o -	61	61	BLOW			
-13035	Sapiteri	BLOW (WITH MOUTH)	etšipo	etšipo	e tʃ i p o	e tʃ i p o -	61	61	BLOW			
+12326	Arasairi	BLOW (WITH MOUTH)	et͡ʃipoj	et͡ʃipoj	e t͡ʃ i p o h	e t͡ʃ i p o h	61	61	BLOW			
+13034	Toyeri	BLOW (WITH MOUTH)	etšipo	etšipo	e tʃ i p o	e tʃ i p o -	61	61	BLOW			
+13035	Sapiteri	BLOW (WITH MOUTH)	etšipo	etšipo	e tʃ i p o	e tʃ i p o -	61	61	BLOW			
 192	Banawa	BREATHE	hasi	hasi	h a s i	h a s - i	62	62	BREATHE			
 525	Deni	BREATHE	hatsʰi	hatsʰi	h a tsʰ i	h a tsʰ - i	62	62	BREATHE			
 800	Jamamadi	BREATHE	hasi	hasi	h a s i	h a s - i	62	62	BREATHE			
@@ -1947,10 +1962,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1156	Jarawara	GRANDFATHER	iti	iti	i t i	i t i	72	72	GRANDFATHER			
 1553	Kulina	GRANDFATHER	idi	idi	i d i	i d i	72	72	GRANDFATHER			
 10611	Proto-Arawan	GRANDFATHER	idi	idi	i d i	i d i	72	72	GRANDFATHER			
-10922	Amarakaeri	GRANDFATHER	apane	apane	a p a n e	a p a n e	974	932	GRANDFATHER			
+10922	Amarakaeri	GRANDFATHER	apane	apane	a + p a n e	a + p a n e	974	532 932	_NOMINALIZER GRANDFATHER			
 12497	Deni	GRANDFATHER	biridi / atuvi	atuvi	a t u v i	a t u v i	1736	1729	GRANDFATHER			Vocative
 12498	Deni	GRANDFATHER	biridi / atuvi	biridi	b i r i d i	b i r i d i	72	72	GRANDFATHER			
 12939	Paumari	GRANDFATHER	ʔarahodi	ʔarahodi	ʔ a r a h o d i	ʔ a r a h o d i	72	72	GRANDFATHER			
+13376	Katawishi	GRANDFATHER	ufa fa	ufa fa	u f a + f a	u f a + f a	2080	2081 2082	? ?			
 198	Banawa	TOOTH	ini	ini	i n i	i n i	74	74	TOOTH			ini/ino
 532	Deni	TOOTH	ino	ino	i n o	i n o	74	74	TOOTH			
 805	Jamamadi	TOOTH	ini	ini	i n i	i n i	74	74	TOOTH			ini/ino
@@ -1959,7 +1975,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1783	Paumari	TOOTH	ino	ino	i n o	i n o	74	74	TOOTH			
 5008	Sorowaha	TOOTH	zuumɨ	zuumɨ	z uː m ɨ	z uː m ɨ	552	543	TOOTH			
 10300	Katawishi	TOOTH	hihi	hihi	h i h i	h i h i	844	801	TOOTH			
-10386	Amarakaeri	TOOTH	ʔidn	ʔidn	ʔ i d n	ʔ i d n	911	871	TOOTH			
+10386	Amarakaeri	TOOTH	ʔidn	ʔidn	w a + ʔ i dn	w a + ʔ i dn	911	532 871	_NOMINALIZER TOOTH			
 10619	Proto-Arawan	TOOTH	ino	ino	i n o	i n o	74	74	TOOTH			
 12178	Paumari_1833	TOOTH	inoni	inoni	i n o n i	i n o n i	74	74	TOOTH			
 12329	Arasairi	TOOTH	uait	uait	u a i t	u a i t	1619	1602	TOOTH			
@@ -1981,7 +1997,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1686	Paumari	LIP	ihi	ihi	i h i	i h i	76	76	LIP			
 10615	Proto-Arawan	LIP	ijahi / ipo	ijahi	i j a h i	i j a h i	76	76	LIP			
 10622	Proto-Arawan	LIP	ijahi / ipo	ipo	i p o	i p o	76	76	LIP			
-12330	Arasairi	LIP	uakita	uakita	u a k i t a	u a k i t a	1620	1603	LIP			
+12330	Arasairi	LIP	uakita	uakita	u a + k i t a	u a + k i t a	1620	532 1679	_NOMINALIZER MOUTH			
 201	Banawa	LEG	isi	isi	i s i	i s i - - - - -	77	77	LEG			isi/iso
 534	Deni	LEG	itsʰo	itsʰo	i tsʰ o	i tsʰ o - - - - -	77	77	LEG			
 808	Jamamadi	LEG	isi	isi	i s i	i s i - - - - -	77	77	LEG			isi/iso
@@ -1991,6 +2007,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10255	Paumari	LEG	avai	avai	a β ai	a β ai	820	776	LEG			below a knee
 10621	Proto-Arawan	LEG	isho	isho	i s h o	i s h o	77	77	LEG			
 11822	Paumari_1833	LEG	dadɨni	dadɨni	d a d ɨ n i	d a d ɨ n i	1394	1361	LEG			
+13381	Katawishi	LEG	be	be	b e	b e	2082	2085	LEG			
 202	Banawa	NEW	jati	jati	j a t i	j a t i	79	79	NEW			
 397	Deni	NEW	dzati / jati	dzati	dz a t i	dz a t i	79	79	NEW			
 535	Deni	NEW	dzati / jati	jati	j a t i	j a t i	79	79	NEW			
@@ -2001,10 +2018,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1784	Paumari	NEW	jaɗi	jaɗi	dʒ a ɗ i	dʒ a ɗ i	79	79	NEW			
 5050	Sorowaha	NEW	wasi	wasi	w a s i	w a s i	553	545	NEW			
 10624	Proto-Arawan	NEW	jaɗi	jaɗi	j a ɗ i	j a ɗ i	79	79	NEW			
-10937	Amarakaeri	NEW	mbo nda	mbo nda	m/b o + n/d a	- - m/b o + n/d a	541	922 946	? ?			
 12331	Arasairi	NEW	uaboda	uaboda	u a b o + d a	u a b o + d a	541	922 946	? ?			
-13038	Amarakaeri	NEW	wambo	wambo	w a m/b o	w a m/b o	541	922	?			
-13039	Amarakaeri	NEW	wambo	wambo	w a m/b o	w a m/b o	541	922	?			
+13038	Amarakaeri	NEW	wambo	wambo	m/b o	m/b o	541	922	NEW			bound form
 203	Banawa	STONE	jati	jati	j a t i	j a t i	80	80	STONE			
 811	Jamamadi	STONE	jati	jati	j a t i	j a t i	80	80	STONE			
 1163	Jarawara	STONE	jati	jati	j a t i	j a t i	80	80	STONE			
@@ -2132,6 +2147,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12111	Kulina	MAIZE	tapa	tapa	t a p a	t a p a	1502	1483	MAIZE			
 12337	Arasairi	MAIZE	sinke	sinke	s i n k e	s i n k e	1624	1607	MAIZE			
 12475	Apurinã	MAIZE	kemɨ	kemɨ	k e m ɨ	k e m ɨ	105	105	MAIZE			
+13406	Katawishi	MAIZE	iniasi	iniasi	i n ia s i	i n ia s i	2106	2116	MAIZE			
 223	Banawa	THREE-TOED SLOTH	kerewe	kerewe	k e r e w e	k e r e w e	106	106	THREE-TOED.SLOTH			
 558	Deni	THREE-TOED SLOTH	kiriwe	kiriwe	k i r i w e	k i r i w e	106	106	THREE-TOED.SLOTH			
 831	Jamamadi	THREE-TOED SLOTH	kerewe	kerewe	k e r e w e	k e r e w e	106	106	THREE-TOED.SLOTH			
@@ -2254,8 +2270,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12198	Paumari	WHISTLE	foofoo / itʰo / fiofio	fiofio	f io f io	f io f io	1458	1441	WHISTLE			
 12199	Paumari	WHISTLE	foofoo / itʰo / fiofio	itʰo	i tʰ o	i tʰ o	1538	1518	WHISTLE			
 12340	Arasairi	WHISTLE	ebombíj	ebombíj	e b o m/b i j	e - - - b o - m/b i j	1627	1610	WHISTLE			
-13051	Toyeri	WHISTLE	emanbogⁿwíe	emanbogⁿwíe	e m a n b o gⁿ w íe	e m a n b o gⁿ w í e	1627	1610	WHISTLE			
-13052	Sapiteri	WHISTLE	emanbogⁿwíe	emanbogⁿwíe	e m a n b o gⁿ w íe	e m a n b o gⁿ w í e	1627	1610	WHISTLE			
+13051	Toyeri	WHISTLE	emanbogⁿwíe	emanbogⁿwíe	e m a n b o gⁿ w ie	e m a n b o gⁿ w ie	1627	1610	WHISTLE			
+13052	Sapiteri	WHISTLE	emanbogⁿwíe	emanbogⁿwíe	e m a n b o gⁿ w ie	e m a n b o gⁿ w ie	1627	1610	WHISTLE			
 247	Banawa	AIMARA	korobo	korobo	k o r o b o	k o r o b o	122	122	FISH			Hoplerythrinus unitaeniatus
 582	Deni	AIMARA	korobo	korobo	k o r o b o	k o r o b o	122	122	FISH			Hoplerythrinus unitaeniatus
 854	Jamamadi	AIMARA	korobo	korobo	k o r o b o	k o r o b o	122	122	FISH			Hoplerythrinus unitaeniatus
@@ -2281,7 +2297,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1812	Paumari	ODOR (SMELL)	mahora	mahora	m a h o r a	m a h o r a	129	129	SMELL			
 1972	Sorowaha	ODOR (SMELL)	hisina / mahi	mahi	m a h i	m a h o - -	129	129	SMELL			
 10716	Proto-Arawan	ODOR (SMELL)	maho	maho	m a h o	m a h o	129	129	SMELL			
-12341	Arasairi	ODOR (SMELL)	uajørik	uajørik	u a j ø r i k	u a j ø r i k	1628	1611	SMELL			
+12341	Arasairi	ODOR (SMELL)	uajørik	uajørik	u a + h ø r i k	u a + h ø r i k	1628	532 1611	_NOMINALIZER SMELL			
 254	Banawa	BAT	mesebiri	mesebiri	m e s e + b i r i	m e s e + b i r i	130	130 220	BAT SMALL			
 862	Jamamadi	BAT	masi	masi	m a s i	m a s i - - - - -	130	130	BAT			
 1224	Jarawara	BAT	masebiri	masebiri	m a s e + b i r i	m a s e + b i r i	130	130 220	BAT SMALL			
@@ -2324,7 +2340,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1976	Sorowaha	FLOWER	mawa	mawa	m a w a	m a w a	136	136	FLOWER			
 10219	Deni	FLOWER	karabuni	karabuni	k a r a b u n i	k a r a b u n i	797	755	FLOWER			
 10737	Proto-Arawan	FLOWER	mowe	mowe	m o w e	m o w e	136	136	FLOWER			
-12343	Arasairi	FLOWER	uajei	uajei	u a j e i	u a - j e i - -	1629	1612	FLOWER			
+12343	Arasairi	FLOWER	uajei	uajei	u a + h ei	u a + h ei	1629	532 1612	_NOMINALIZER FLOWER			
 13058	Toyeri	FLOWER	wakta	wakta	w a k t a	w a k - - - t a	1629	1612	FLOWER			
 13059	Sapiteri	FLOWER	wakhej	wakhej	w a k h e j	w a k h e j - -	1629	1612	FLOWER			
 258	Banawa	NIGHT MONKEY	mowi	mowi	m o w i	m o w i	137	137	NIGHT.MONKEY			
@@ -2354,8 +2370,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10739	Proto-Arawan	BIG	naɓi	naɓi	n a ɓ i	n a ɓ i	138	138	BIG			
 10919	Amarakaeri	BIG	mboroʔ / tone	tone	t o n e	t o n e	450	560	AUGMENTATIVE			bound form
 10970	Paumari	BIG	naɓaha / karaho	karaho	k a r a h o	k a r a h o	1054	1011	BIG			
-12344	Arasairi	BIG	uadahuakenda / uauanda	uadahuakenda	u a + d a h ua k e + n/d a	u a + d a h ua k e + n/d a	1630	532 1614 1742	NOMINALIZER BIG ?			
-12345	Arasairi	BIG	uadahuakenda / uauanda	uauanda	u a u a + n/d a	u a u a + n/d a	1630	1614 1742	BIG ?			
+12344	Arasairi	BIG	uadahuakenda / uauanda	uadahuakenda	u a + d a w a k e + n/d a	u a + d a w a k e + n/d a	1630	532 1614 1631	_NOMINALIZER BIG ?			
+12345	Arasairi	BIG	uadahuakenda / uauanda	uauanda	u a u a + n/d a	u a u a + n/d a	1630	1614 1631	BIG ?			
 12746	Paumari	BIG	karaho	karaho	k a r a h o	k a r a h o	1835	1819	BIG			
 261	Banawa	UNDERSIDE	boɸe	boɸe	b o ɸ e	b o ɸ e	140	140	UNDERSIED			
 600	Deni	UNDERSIDE	bopa	bopa	b o p a	b o p a	140	140	UNDERSIED			
@@ -2435,8 +2451,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11009	Paumari	WIFE	gamo	gamo	g a m o	g a m o	1049	911	WOMAN			
 11901	Kulina	WIFE	amonehe	amonehe	a m o n e h e	a m o n e h e	1304	1006	WOMAN			
 12347	Arasairi	WIFE	notoe	notoe	n o t o e	n o t o e	1632	1615	WIFE			
-13063	Sapiteri	WIFE	watoe / tšinani	tšinani	tʃ i n a n i	tʃ i n a n i	2044	2030	WIFE			
-13064	Sapiteri	WIFE	watoe / tšinani	watoe	w a t oe	w a t oe	1632	1615	WIFE			
+13063	Sapiteri	WIFE	watoe / tšinani	tšinani	tʃ i n a n i	tʃ i n a n i	2044	2030	WIFE			
+13064	Sapiteri	WIFE	watoe / tšinani	watoe	w a t oe	w a t oe	1632	1615	WIFE			
 13065	Toyeri	WIFE	watoe	watoe	w a t oe	w a t oe	1632	1615	WIFE			
 271	Banawa	WOMAN	ɸana	ɸana	ɸ a n a	ɸ a n a	155	154	WOMAN			
 504	Deni	WOMAN	amunehe / dzuvatu	amunehe	a m u n e h e	a m u n e h e	401	1006	WOMAN			
@@ -2451,6 +2467,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11011	Paumari	WOMAN	gamo	gamo	g a m o	g a m o	1045	911	WOMAN			
 11815	Paumari	WOMAN	gamu	gamu	g a m u	g a m u	1045	911	WOMAN			
 12348	Arasairi	WOMAN	uajet	uajet	ua j e t	ua j e t	1633	1616	WOMAN			
+13375	Katawishi	WOMAN	anapati ape	anapati ape	a n a p a t i + a p e	a n a p a t i + a p e	2079	2079 2080	MOTHER ?			
 272	Banawa	BITTER MANIOC	ɸowa	ɸowa	ɸ o w a	ɸ o w a	156	983	MANIOC			Cognate with the word for 'manioc' in Paiter (Tupi)
 611	Deni	BITTER MANIOC	poʔo	poʔo	p o ʔ o	p o ʔ o	156	156	MANIOC			Cognate with the word for 'manioc' in Paiter (Tupi)
 881	Jamamadi	BITTER MANIOC	ɸowa	ɸowa	ɸ o w a	ɸ o w a	156	983	MANIOC			Cognate with the word for 'manioc' in Paiter (Tupi)
@@ -2459,7 +2476,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5179	Sorowaha	BITTER MANIOC	maama / kuɾukuɾu	kuɾukuɾu	k u ɾ u + k u ɾ u	k u ɾ u + k u ɾ u	1283	1283 1283	? ?			
 5185	Sorowaha	BITTER MANIOC	maama / kuɾukuɾu	maama	m aː m a	m aː m a	1284	1061	MANIOC			
 10787	Proto-Arawan	BITTER MANIOC	poʔa	poʔa	p o ʔ a	p o ʔ a	156	156	MANIOC			
-12349	Arasairi	BITTER MANIOC	taare	taare	t aa r e	t aa r e	1634	1617	MANIOC			
+12349	Arasairi	BITTER MANIOC	taare	taare	t a a r e	t a a r e	1634	1617	MANIOC			
 12748	Paumari	BITTER MANIOC	boda	boda	b o d a	b o d a	156	156	MANIOC			
 274	Banawa	SPIT	ɸiro	ɸiro	ɸ i r o	ɸ i r o	158	158	SPIT			
 883	Jamamadi	SPIT	ɸiro	ɸiro	ɸ i r o	ɸ i r o	158	158	SPIT			
@@ -2514,8 +2531,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10923	Amarakaeri	PEEL	siʔ / tipit	tipit	t i p i t	- t i p i t - - - - -	924	883	PEEL			
 11701	Jamamadi	PEEL	saa	saa	s aː	s aː	166	166	RELEASE			
 12352	Arasairi	PEEL	etiere	etiere	e t ie r e	e t ie r e	1636	1619	PEEL			
-13071	Toyeri	PEEL	etšikonaŋ	etšikonaŋ	e tʃ i k o n a ŋ	e tʃ i - - - k o n a ŋ	924	883	PEEL			
-13072	Sapiteri	PEEL	etšihit	etšihit	e tʃ i h i t	e tʃ i h i t - - - - -	924	883	PEEL			
+13071	Toyeri	PEEL	etšikonaŋ	etšikonaŋ	e tʃ i k o n a ŋ	e tʃ i - - - k o n a ŋ	924	883	PEEL			
+13072	Sapiteri	PEEL	etšihit	etšihit	e tʃ i h i t	e tʃ i h i t - - - - -	924	883	PEEL			
 280	Banawa	OTTER	sabira	sabira	s a b i r a	s a b i r a	167	167	OTTER			
 620	Deni	OTTER	tsʰabira	tsʰabira	tsʰ a b i r a	tsʰ a b i r a	167	167	OTTER			
 889	Jamamadi	OTTER	sabira	sabira	s a b i r a	s a b i r a	167	167	OTTER			
@@ -2533,7 +2550,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10287	Arawa	TOBACCO	aga	aga	a g a	a g a	837	795	TOBACCO			
 10841	Proto-Arawan	TOBACCO	shina	shina	tsʰ i n a	tsʰ i n a	169	169	TOBACCO			
 10925	Amarakaeri	TOBACCO	pajmbaʔ	pajmbaʔ	p a j + m/b a ʔ	p a j + m/b a ʔ	985	433 855	BITTER HAND			
-12354	Arasairi	TOBACCO	uaen	uaen	u a e n	u a e n	1638	1621	TOBACCO			
+12354	Arasairi	TOBACCO	uaen	uaen	u a + e n	u a + e n	1638	532 1621	_NOMINALIZER TOBACCO			
+13418	Katawishi	TOBACCO	kabita	kabita	k a b i t a	k a b i t a	2117	2127	TOBACCO			
 283	Banawa	AGOUTI	sinama	sinama	s i n a m a	s i n a m a	170	170	AGOUTI			
 623	Deni	AGOUTI	tsʰinama	tsʰinama	tsʰ i n a m a	tsʰ i n a m a	170	170	AGOUTI			
 892	Jamamadi	AGOUTI	sinama	sinama	s i n a m a	s i n a m a	170	170	AGOUTI			
@@ -2558,7 +2576,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1631	Kulina	COLD	tsiɾi	tsiɾi	ts i ɾ i	- - - - ts i ɾ i - -	173	173	BE.COLD			
 1832	Paumari	COLD	pahisiri	pahisiri	p a h i s i r i	p a h i s i r i - -	173	173	BE.COLD			
 10845	Proto-Arawan	COLD	tsʰiri	tsʰiri	tsʰ i r i	tsʰ i r i	173	173	BE.COLD			
-12356	Arasairi	COLD	jeje	jeje	j e j e	j e j e	1640	1623	COLD			
+12356	Arasairi	COLD	jeje	jeje	h e h e	h e h e	1640	1623	COLD			
+13421	Katawishi	COLD	sa a	sa a	s a + a	 s a + a	2120	2130 2131	? ?			
 287	Banawa	NAVEL	sobori	sobori	s o b o r i	s o b o r i	175	175	NAVEL			
 626	Deni	NAVEL	tsʰobori	tsʰobori	tsʰ o b o r i	tsʰ o b o r i	175	175	NAVEL			
 1259	Jarawara	NAVEL	sobori	sobori	s o b o r i	s o b o r i	175	175	NAVEL			
@@ -2592,7 +2611,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11080	Banawa	ARM	mani	mani	m a n i	m a n i	940	899	ARM			mani/mano
 11180	Jarawara	ARM	mani	mani	m a n i	m a n i	940	899	ARM			mani/mano
 11415	Jamamadi	ARM	mani	mani	m a n i	m a n i	940	899	ARM			mani/mano
-12358	Arasairi	ARM	uaupi / ohopí	uaupi	u a + u p i	u a + u p i	1642	532 1625	NOMINALIZER ARM			
+12358	Arasairi	ARM	uaupi / ohopí	uaupi	u a + u p i	u a + u p i	1642	532 1625	_NOMINALIZER ARM			
 12359	Arasairi	ARM	uaupi / ohopí	ohopí	o h o p i	o h o p i	1642	1625	ARM			
 13075	Toyeri	ARM	waopi	waopi	w a o p i	w a o p i	1642	1625	ARM			
 13076	Sapiteri	ARM	waopi	waopi	w a o p i	w a o p i	1642	1625	ARM			
@@ -2628,13 +2647,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11189	Jarawara	BATHE	aɸi	aɸi	a ɸ i	a ɸ i	1096	2	WET			
 11191	Proto-Arawan	BATHE	inaha	inaha	i nː a h a	i nː a h a	276	276	BATHE			
 11418	Jamamadi	BATHE	aɸi	aɸi	a ɸ i	a ɸ i	1096	2	WET			
-12361	Arasairi	BATHE	ejojo	ejojo	e j o j o	e j o j o	1644	1627	BATHE			
+12361	Arasairi	BATHE	ejojo	ejojo	e + h o h o	e + h o h o	1644	1603 1627	_NOMINALIZER BATHE			
 303	Deni	BEAK	bono	bono	b o n o	b o n o	33	33	BEAK			
 1280	Kulina	BEAK	bono	bono	b o n o	b o n o	33	33	BEAK			
 1642	Paumari	BEAK	bono	bono	b o n o	b o n o	33	33	BEAK			
 10533	Proto-Arawan	BEAK	bono	bono	b o n o	b o n o	33	33	BEAK			
 11198	Jarawara	BEAK	boni	boni	b o n i	b o n i	33	33	BEAK			
-12362	Arasairi	BEAK	uaopi	uaopi	u a o p i	u a o p i	1645	1628	BEAK			
+12362	Arasairi	BEAK	uaopi	uaopi	u a + o p i	u a + o p i	1645	532 1628	_NOMINALIZER BEAK			
 305	Deni	BEETLE	hijabo	hijabo	h i j a b o	h i j a b o	242	242	BEETLE			
 643	Jamamadi	BEETLE	hijabo	hijabo	h i j a b o	h i j a b o	242	242	BEETLE			
 917	Jarawara	BEETLE	hijabo	hijabo	h i j a b o	h i j a b o	242	242	BEETLE			
@@ -2651,11 +2670,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1677	Paumari	BELLY	jaha	jaha	dʒ a h a	dʒ a h a	1228	1228	ABDOMEN			
 1842	Sorowaha	BELLY	makawɨ	makawɨ	m a k a w ɨ	m a k a - - w ɨ	386	285	HEART			
 10821	Kanamari	BELLY	tʃolomidak	tʃolomidak	tʃ o l o m i d a k	tʃ o l o m i d a k	968	925	BELLY			
-10934	Amarakaeri	BELLY	wa nẽk	wa nẽk	w a + n ẽ k	w a + n ẽ k	990	532 948	NOMINALIZER BELLY			
+10934	Amarakaeri	BELLY	wa nẽk	wa nẽk	w a + n ẽ k	w a + n ẽ k	990	532 948	_NOMINALIZER BELLY			
 11399	Banawa	BELLY	nabadi	nabadi	n a b a d i	n a b a d i	388	366	BELLY			
 11419	Jamamadi	BELLY	nabadi	nabadi	n a b a d i	n a b a d i	388	366	BELLY			
 12157	Paumari_1833	BELLY	dawaua	dawaua	d a w au a	d a w au a	1228	1228	ABDOMEN			
 12363	Arasairi	BELLY	uandapo	uandapo	u a + n/d a p o	u a + n/d a p o	1646	532 1629	NOMINALIZER BELLY			
+13426	Katawishi	BELLY	ibasa han	ibasa han	i b a s a + h a n	i b a s a + h a n	2125	2137 2138	? ?			
 309	Deni	BIG LEAF CALATHEA	dawi	dawi	d a w i	d a w i	328	328	BIG.LEAF.CALATHEA			
 644	Jamamadi	BIG LEAF CALATHEA	dawi	dawi	d a w i	d a w i	328	328	BIG.LEAF.CALATHEA			
 920	Jarawara	BIG LEAF CALATHEA	tawi	tawi	t a w i	t a w i	328	328	BIG.LEAF.CALATHEA			
@@ -2667,13 +2687,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10171	Paumari	BLACK	bara / pororo	bara	b a r a	b a r a	769	732	BLACK			
 10172	Jarawara	BLACK	soki / hahasa na	hahasa na	h a h a s a + n a	h a h a s a + n a	771	735 734	? CAUSATIVE			
 10173	Jarawara	BLACK	soki / hahasa na	soki	s o k i	s o k i	770	733	BLACK			
-10412	Amarakaeri	BLACK	sik	sik	s i k	s i k	934	894	BLACK			
+10412	Amarakaeri	BLACK	sik	sik	s i k	s i k	770	894	BLACK			bound form
 10981	Paumari	BLACK	bara / pororo	pororo	p o r o r o	p o r o r o	1057	1014	BLACK			
-11400	Banawa	BLACK	soki	soki	s o k i	s o k i	770	733	BLACK			
-11420	Jamamadi	BLACK	soki	soki	s o k i	s o k i	770	733	BLACK			
+11400	Banawa	BLACK	soki	soki	s o k i	s o k i	770	894	BLACK			
+11420	Jamamadi	BLACK	soki	soki	s o k i	s o k i	770	894	BLACK			
 12160	Paumari_1833	BLACK	pururuke	pururuke	p u r u r u k e	p u r u r u k e	1057	1014	BLACK			
-12364	Arasairi	BLACK	dahuasinda / uasikenda	dahuasinda	d a h ua s i + n d a	d a h ua s i - - + n d a	1647	1630 1631	BLACK ?			
-12365	Arasairi	BLACK	dahuasinda / uasikenda	uasikenda	u a s i k e + n d a	- - - u a s i k e + n d a	1647	1630 1631	BLACK ?			
+12364	Arasairi	BLACK	dahuasinda / uasikenda	dahuasinda	d a w a + s i k + n/d a	d a w a + s i k + n/d a	770	532 894 1631	? BLACK ?			
+12365	Arasairi	BLACK	dahuasinda / uasikenda	uasikenda	u a + s i k e + n/d a	u a + s i k e + n/d a	770	532 894 1631	_NOMINALIZER BLACK ?			
 323	Deni	CORPSE	abapo	abapo	a b a p o	a b a p o	574	561	CORPSE			
 11116	Banawa	CORPSE	abowi	abowi	a b o w i	a b o w i	574	561	CORPSE			
 11421	Jamamadi	CORPSE	aboi	aboi	a b oi	a b oi	574	561	CORPSE			
@@ -2689,6 +2709,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11837	Kulina	DAY (NOT NIGHT)	wada	wada	w a d a	w a d a	576	563	DAY			
 12366	Arasairi	DAY (NOT NIGHT)	uamenoe	uamenoe	u a m e n o e	u a m e n o e	1648	1632	DAY			
 13079	Toyeri	DAY (NOT NIGHT)	wameno	wameno	w a m e n o	w a m e n o -	1648	1632	DAY			
+13386	Katawishi	DAY (NOT NIGHT)	boto holu	boto holu	b o t o + h o l u	b o t o + h o l u	2086	2090 2091	? ?			
 330	Deni	DIRTY	kiri	kiri	k i r i	k i r i	580	567	DIRTY			
 944	Jarawara	DIRTY	bisa / tohija	bisa	b i s a	- b i s a	14	14	DIRTY			
 945	Jarawara	DIRTY	bisa / tohija	tohija	t o h i j a	t o h i j a	392	372	DIRTY			
@@ -2705,9 +2726,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 958	Jarawara	FAR	jabo	jabo	j a b o	j a b o	1244	781	LONG			
 1317	Kulina	FAR	wahi	wahi	w a h i	w a h i - -	1243	1243	FAR			
 10200	Paumari	FAR	ada	ada	a ɗ a	a ɗ a	786	746	FAR			
-12367	Arasairi	FAR	jatenjokdak	jatenjokdak	j a t e n j o k d a k	j a t e n j o k d a k	1649	1633	FAR			
-13082	Toyeri	FAR	aktšo	aktšo	a k tʃ o	a k tʃ o	2033	2019	FAR			
-13083	Sapiteri	FAR	aktšo	aktšo	a k tʃ o	a k tʃ o	2033	2019	FAR			
+12367	Arasairi	FAR	jatenjokdak	jatenjokdak	h a t e n h o k d a k	h a t e n h o k d a k	1649	1633	FAR			
+13082	Toyeri	FAR	aktšo	aktšo	a k tʃ o	a k tʃ o	2033	2019	FAR			
+13083	Sapiteri	FAR	aktšo	aktšo	a k tʃ o	a k tʃ o	2033	2019	FAR			
 342	Deni	FIX	ta	ta	t a	t a - -	45	45	FIX			
 1661	Paumari	FIX	ɗakha	ɗakha	ɗ a kʰ a	ɗ a kʰ a	45	45	FIX			
 10561	Proto-Arawan	FIX	ɗa	ɗa	ɗ a	ɗ a	45	45	FIX			
@@ -2719,9 +2740,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11388	Banawa	FOREHEAD	ate	ate	a t e	a t e	210	210	FOREHEAD			ate/ete
 11423	Jamamadi	FOREHEAD	ate	ate	a t e	a t e	210	210	FOREHEAD			ate/ete
 12260	Kulina	FOREHEAD	wasʰari	wasʰari	w a sʰ a r i	w a sʰ a r i	1574	1555	FOREHEAD			
-12368	Arasairi	FOREHEAD	uanaen	uanaen	u a + n ae n	u a + n ae n	1650	532 1634	NOMINALIZER FOREHEAD			
+12368	Arasairi	FOREHEAD	uanaen	uanaen	u a + n a e n	u a + n a e n	1650	532 1634	NOMINALIZER FOREHEAD			
 13084	Toyeri	FOREHEAD	wakmbere	wakmbere	w a k m/b e r e	w a k m/b e r e	2035	2021	FOREHEAD			
 13085	Sapiteri	FOREHEAD	wakmbere	wakmbere	w a k m/b e r e	w a k m/b e r e	2035	2021	FOREHEAD			
+13424	Katawishi	FOREHEAD	sau a	sau a	s au + a	s au + a	2123	2134 2135	? ?			
 344	Deni	FROG	boko / joiwa	boko	b o k o	b o k o	31	31	FROG			
 345	Deni	FROG	boko / joiwa	joiwa	j o i w a	j o i w a	264	264	FROG			
 608	Deni	FROG	owawa	owawa	o w a w a	o w a w a	150	150	FROG.SP.			
@@ -2741,19 +2763,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1329	Kulina	FRUIT	bono	bono	b o n o	b o n o	34	34	FRUIT			
 1663	Paumari	FRUIT	bono / dororo	bono	b o n o	b o n o	34	34	FRUIT			
 5011	Sorowaha	FRUIT	midʒiɾi	midʒiɾi	m i dʒ i ɾ i	m i dʒ i ɾ i	1263	1263	FRUIT			
-10917	Amarakaeri	FRUIT	nda	nda	n d a	- - n d a	973	931	FRUIT			
 10994	Paumari	FRUIT	bono / dororo	dororo	ɗ o r o r o	ɗ o r o r o	1020	976	FRUIT			
 11172	Banawa	FRUIT	hadi	hadi	h a d i	h a d i	1159	1125	FRUIT			
 11766	Jamamadi	FRUIT	boni	boni	b o n i	b o n i	34	34	FRUIT			boni/bono
-13086	Amarakaeri	FRUIT	waⁿda	waⁿda	w a ⁿd a	w a ⁿd a	973	931	FRUIT			
-13087	Amarakaeri	FRUIT	waⁿda	waⁿda	w a ⁿd a	w a ⁿd a	973	931	FRUIT			
+13086	Amarakaeri	FRUIT	waⁿda	waⁿda	w a + ⁿd a	w a + ⁿd a	973	532 931	_NOMINALIZER FRUIT			
 351	Deni	BLUE OR GREEN	derepʰede	derepʰede	d e r e pʰ e d e	d e r e pʰ e d e	811	1267	BLUE_GREEN			
 10234	Paumari	BLUE OR GREEN	kori	kori	k o r i	- - - - k o r i	810	767	BLUE_GREEN			
 10235	Sorowaha	BLUE OR GREEN	karakori	karakori	k a r a k o r i	k a r a k o r i	810	767	BLUE_GREEN			
 10236	Jarawara	BLUE OR GREEN	teteɸo	teteɸo	t e t e ɸ o	t e t e ɸ o	811	1267	BLUE_GREEN			
 11258	Sorowaha	BLUE OR GREEN	huraru	huraru	h u r a r u	h u r a r u	1156	1118	BLUE_GREEN			Also means green, skin color,, shiny
 12165	Paumari_1833	BLUE OR GREEN	guaiso	guaiso	g ua i s o	g ua i s o	632	599	BLUE_GREEN			
-12369	Arasairi	BLUE OR GREEN	dahuakibeida	dahuakibeida	d a h u a k i b ei d a	d a h u a k i b ei d a	1651	1635	BLUE_GREEN			
 13088	Toyeri	BLUE OR GREEN	wakiwej	wakiwej	w a k i w e j	- - - w a k i w e j - -	1651	1635	BLUE_GREEN			
 13089	Sapiteri	BLUE OR GREEN	wakiwej	wakiwej	w a k i w e j	- - - w a k i w e j - -	1651	1635	BLUE_GREEN			
 356	Deni	HARD	khara	khara	kʰ a r a	kʰ a r a	278	278	HARD			
@@ -2764,9 +2783,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11194	Jarawara	HARD	kita	kita	k i t a	k i t a	278	278	HARD			
 11524	Jamamadi	HARD	kita	kita	k i t a	k i t a	278	278	HARD			
 12212	Sorowaha	HARD	hisa	hisa	h i s a	h i s a	278	278	HARD			
-12370	Arasairi	HARD	dobuatenda	dobuatenda	d o b u a t e + n d a	d o b u a t e + n d a	1652	1636 1637	HARD ?			
-13090	Toyeri	HARD	watširaj	watširaj	w a tʃ i r a j	w a tʃ i r a j	2040	2026	HARD			
-13091	Sapiteri	HARD	watširaj	watširaj	w a tʃ i r a j	w a tʃ i r a j	2040	2026	HARD			
+12370	Arasairi	HARD	dobuatenda	dobuatenda	d o b u a t e + n/d a	d o b u a t e + n/d a	1652	1636 1637	HARD ?			
+13090	Toyeri	HARD	watširaj	watširaj	w a tʃ i r a j	w a tʃ i r a j	2040	2026	HARD			
+13091	Sapiteri	HARD	watširaj	watširaj	w a tʃ i r a j	w a tʃ i r a j	2040	2026	HARD			
 373	Deni	KNEE	khobori	khobori	kʰ o b o r i	kʰ o - - b o r i	283	283	KNEE			
 1002	Jarawara	KNEE	jobati / kobabari	jobati	j o b a t i	j o b a t i	584	571	KNEE			
 1003	Jarawara	KNEE	jobati / kobabari	kobabari	k o b a b a r i	k o b a b a r i	283	283	KNEE			
@@ -2810,7 +2829,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1021	Jarawara	NAME	ini	ini	i n i	- - - - i n - i - -	309	309	NAME			ini/ino
 1389	Kulina	NAME	oni	oni	o n i	- - - - o n - i - -	309	309	NAME			
 1692	Paumari	NAME	oni	oni	o n i	- - - - o n - i - -	309	309	NAME			
-10373	Amarakaeri	NAME	ndik	ndik	n/d i k	n/d i k	898	856	NAME			
+10373	Amarakaeri	NAME	ndik	ndik	w a + n/d i k	w a + n/d i k	898	532 856	_NOMINALIZER NAME			
 10772	Proto-Arawan	NAME	oni	oni	o n i	- - - - o n - i - -	309	309	NAME			
 11282	Banawa	NAME	ini	ini	i n i	- - - - i n - i - -	309	309	NAME			ini/ino
 13096	Sapiteri	NAME	watonsipo	watonsipo	w a t o n s i p o	w a t o n s i p o	309	309	NAME			
@@ -2821,8 +2840,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11382	Banawa	NIGHT	jama	jama	j a m a	j a m a	589	575	NIGHT			
 11835	Paumari_1833	NIGHT	dʒuma	dʒuma	dʒ u m a	dʒ u m a	589	575	NIGHT			
 11838	Sorowaha	NIGHT	bana	bana	b a n a	b a n a	1405	1376	NIGHT			
-12373	Arasairi	NIGHT	osinde / sikiu	osinde	o s i n d e	o s i n d e	1654	1640	NIGHT			
-12374	Arasairi	NIGHT	osinde / sikiu	sikiu	s i k iu	s i k iu	1655	1639	NIGHT			
+12373	Arasairi	NIGHT	osinde / sikiu	osinde	o s i k + n/d e	o s i k + n/d e	1654	894 1631	BLACK ALREADY			
+12374	Arasairi	NIGHT	osinde / sikiu	sikiu	s i k + j u	s i k + j u	1655	894 2077	BLACK LOCATIVE			
+13368	Amarakaeri	NIGHT	sikyo	sikyo	s i k + j o	s i k + j o	1655	894 2077	BLACK LOCATIVE			
+13387	Katawishi	NIGHT	wida	wida	w i d a	w i d a	2087	2092	NIGHT			
 399	Deni	NOSE	ene	ene	e n e	e n e	1112	1112	NOSE			
 1392	Kulina	NOSE	ɛnɛ	ɛnɛ	ɛ n ɛ	ɛ n ɛ	1112	1112	NOSE			
 1694	Paumari	NOSE	βiridi	βiridi	β i r i ɗ i	β i r i ɗ i	590	576	NOSE			
@@ -2873,6 +2894,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1793	Paumari	DOVE	kamoa	kamoa	k a m o a	k a m o - a	98	98	PIGEON			
 10664	Proto-Arawan	DOVE	kamowa	kamowa	k a m o w a	k a m o w a	98	98	PIGEON			
 12085	Paumari_1833	DOVE	hoi hoi	hoi hoi	h oi h oi	h oi h oi	1494	1160	PIGEON			
+13413	Katawishi	DOVE	itxihin	itxihin	i tʃ i h i ɲ	i tʃ i h i ɲ	2112	2122	PIGEON			
 416	Deni	PICK	ba	ba	b a	b a - -	213	213	PICK			
 1039	Jarawara	PICK	bata	bata	b a t a	b a t a	213	213	PICK			
 1706	Paumari	PICK	bada	bada	b a ɗ a	b a ɗ a	213	213	PICK			
@@ -2912,7 +2934,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11306	Banawa	RED	mawa	mawa	m a w a	m a w a	834	1151	RED			Also yellow
 11530	Jamamadi	RED	mawa	mawa	m a w a	m a w a	834	1151	RED			
 12161	Paumari_1833	RED	vuatarake	vuatarake	v ua t a r a k e	v ua t a r a k e	596	581	RED			
-12376	Arasairi	RED	dahuabenda	dahuabenda	d a h u a b e + n/d a	d a h u a b e + n/d a	1657	1642 1643	RED ?			
+12376	Arasairi	RED	dahuabenda	dahuabenda	d a w a b e + n/d a	d a w a b e + n/d a	1657	1642 1631	RED ?			
 13100	Toyeri	RED	wambedⁿ	wambedⁿ	w a m/b e + dⁿ	w a - - - m/b e + dⁿ -	1657	162 1643	RED ?			
 13101	Sapiteri	RED	wambedⁿa	wambedⁿa	w a m/b e + dⁿ a	w a - - - m/b e + dⁿ a	1657	1642 1643	RED ?			
 425	Deni	RESIN	moja	moja	m o j a	m o j a	295	295	RESIN			
@@ -2928,7 +2950,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10289	Arawa	RIVER	paha	paha	p a h a	p a h a	597	157	WATER			
 10319	Katawishi	RIVER	waha	waha	w a + h aː	w a + h aː	597	157 583	WATER ?			
 10886	Proto-Arawan	RIVER	waini	waini	w ai n i	w ai n i	430	417	RIVER			Possibly of Arawak origin
-10908	Amarakaeri	RIVER	wẽ	wẽ	w ẽ	- - - - w ẽ	597	157	WATER			
+10908	Amarakaeri	RIVER	wẽ	wẽ	w a + w ẽ	w a + w ẽ	597	532 157	_NOMINALIZER WATER			
 11040	Sorowaha	RIVER	bami	bami	b a m i	b a m i	1074	498	WATER			
 12377	Arasairi	RIVER	uabe	uabe	u a b e	u a - - b e	597	157	WATER			
 13102	Toyeri	RIVER	watewe	watewe	w a t e w e	w a t e w e	597	157	WATER			
@@ -2960,7 +2982,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12281	Kulina	SON	ato / bedi / ehedeni	ato	a t o	a t o	1585	1567	SON			Vocative
 12283	Kulina	SON	ato / bedi / ehedeni	ehedeni	e h e d e n i	e h e d e n i	1587	1569	SON			1st and 2nd possessor
 12284	Kulina	SON	ato / bedi / ehedeni	bedi	b e d i	b e d i	1586	1568	SON			3rd possessor
-12379	Arasairi	SON	huasipo	huasipo	h u a s i p o	h u a s i p o	1659	1645	SON			
+12379	Arasairi	SON	huasipo	huasipo	w a + s i + p o	w a + s i + p o	1659	532 1645	_NOMINALIZER PEEL CLF:ROUND			
+13373	Katawishi	SON	gu a	gu a	g u + a	g u + a	2077	1742 2078				
 447	Deni	SHIT (DEFECATE)	kija	kija	k i j a	k i j a	599	1212	DEFECATE			
 1726	Paumari	SHIT (DEFECATE)	kia	kia	k i a	k i - a	599	1212	DEFECATE			
 10940	Amarakaeri	SHIT (DEFECATE)	ndoʔ	ndoʔ	n/d o ʔ	- - - n/d o ʔ	998	957	DEFECATE			
@@ -2968,7 +2991,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11531	Jamamadi	SHIT (DEFECATE)	mii	mii	m iː	m iː	1205	1171	DEFECATE			
 11596	Jarawara	SHIT (DEFECATE)	mii	mii	m iː	m iː	1205	1171	DEFECATE			
 12280	Kulina	SHIT (DEFECATE)	mihi	mihi	m i h i	m i h i	1205	1171	DEFECATE			
-12380	Arasairi	SHIT (DEFECATE)	emando	emando	e m a n/d o	e m a n/d o -	998	957	DEFECATE			
+12380	Arasairi	SHIT (DEFECATE)	emando	emando	e + m a n/d o	e + m a n/d o	998	957	DEFECATE			
 448	Deni	STRETCH OUT LEGS	bitsʰo	bitsʰo	b i tsʰ o	b i tsʰ o - -	696	696	STRETCH.OUT.LEGS			
 1446	Kulina	STRETCH OUT LEGS	bitsʰo	bitsʰo	b i tsʰ o	b i tsʰ o - -	696	696	STRETCH.OUT.LEGS			
 1727	Paumari	STRETCH OUT LEGS	ɓisoni	ɓisoni	ɓ i s o n i	ɓ i s o n i	696	696	STRETCH.OUT.LEGS			
@@ -2990,7 +3013,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11345	Banawa	THICK	baji	baji	b a j i	b a j i	488	472	THICK			
 11424	Jamamadi	THICK	baji	baji	b a j i	b a j i	488	472	THICK			
 11461	Jarawara	THICK	baji	baji	b a j i	b a j i	488	472	THICK			
-12382	Arasairi	THICK	uajairi	uajairi	u a j a i r i	u a j a i r i	1661	1647	THICK			
+12382	Arasairi	THICK	uajairi	uajairi	u a j a i r i	u a j ai r i	1661	1647	THICK			
 456	Deni	THIN	tsʰeperi	tsʰeperi	tsʰ e p e r i	tsʰ e p e r i	606	591	THIN			
 1454	Kulina	THIN	wɛɾi	wɛɾi	w ɛ ɾ i	- - w ɛ ɾ i	606	591	THIN			
 1730	Paumari	THIN	tʃapi	tʃapi	tʃ a p i	tʃ a p i	605	590	THIN			
@@ -2999,7 +3022,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1456	Kulina	THROAT	tamidi	tamidi	t̪ a m i d i	t̪ a m i d i	607	405	THROAT			
 1731	Paumari	THROAT	nabidi	nabidi	n a b i ɗ i	n a b i ɗ i	607	405	THROAT			
 11350	Banawa	THROAT	namidi	namidi	n a m i d i	n a m i d i	607	405	THROAT			
-12383	Arasairi	THROAT	uaan	uaan	u aa n	u aa n - - - -	1662	1648	THROAT			
+12383	Arasairi	THROAT	uaan	uaan	u a + a n	u a + a n	1662	532 1648	THROAT			
 13107	Toyeri	THROAT	waterekpʉ / wamajek	wamajek	w a m a j e k	w a m a j e k	1662	1648	THROAT			
 13108	Toyeri	THROAT	waterekpʉ / wamajek	waterekpʉ	w a t e r e k + p ʉ	w a t e r e k + p ʉ	1662	1648 1916	THROAT ?			
 459	Deni	THUNDER	bahi	bahi	b a h i	b a h i	216	216	THUNDER			
@@ -3012,6 +3035,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11351	Banawa	THUNDER	mai	mai	m ai	m ai	216	216	THUNDER			
 11839	Paumari_1833	THUNDER	karawe	karawe	k a r a w e	k a r a w e	1406	1377	THUNDER			
 12384	Arasairi	THUNDER	keren	keren	k e r e n	k e r e n	1663	1649	THUNDER			
+13388	Katawishi	THUNDER	kaw ijo	kaw ijo	k a w + i j o	k a w + i j o	2088	2093 2094	? ?			
 469	Deni	EAT	kadapi / hao / komi	kadapi	k a d a p i	k a d a p i	609	593	EAT			
 517	Deni	EAT	kadapi / hao / komi	hao	h a o	h a - o	53	53	EAT			
 575	Deni	EAT	kadapi / hao / komi	komi	k o m i	k o m i	610	683	SUCK			
@@ -3032,7 +3056,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1469	Kulina	FALL	tsʰona / katoha	tsʰona	tsʰ o n a	tsʰ o n a	1240	1240	FALL			
 1470	Kulina	FALL	tsʰona / katoha	katoha	k a t̪ o h a	k a t̪ o h a	1241	1241	FALL			
 10083	Sorowaha	FALL	ubuɾi	ubuɾi	u b u ɾ i	u b u ɾ i	715	658	FALL			
-10399	Amarakaeri	FALL	kat	kat	k a t	- - - k a t - -	1241	1241	FALL			
+10399	Amarakaeri	FALL	kat	kat	k o t	- - - k o t - -	1241	1241	FALL			
 10849	Proto-Arawan	FALL	tsʰona	tsʰona	tsʰ o n a	tsʰ o n a	1240	1240	FALL			
 11150	Banawa	FALL	sona / ɸoro	sona	s o n a	s o n a	1240	1240	FALL			
 11151	Jarawara	FALL	sona / ɸoro	sona	s o n a	s o n a	1240	1240	FALL			
@@ -3041,8 +3065,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11425	Jamamadi	FALL	sona	sona	s o n a	s o n a	1240	1240	FALL			
 12386	Arasairi	FALL	okotok	okotok	o k o t o k	o - - k o t o k	1241	1241	FALL			
 12866	Paumari	FALL	adaɸana	adaɸana	a d a ɸ a n a	a d a ɸ a n a	1888	1868	FALL			
-13111	Sapiteri	FALL	etšikotaj / ekot	etšikotaj	e tʃ i k o t a j	e tʃ i k o t a j	1241	1241	FALL			
-13112	Sapiteri	FALL	etšikotaj / ekot	ekot	e k o t	e - - k o t - -	1241	1241	FALL			
+13111	Sapiteri	FALL	etšikotaj / ekot	etšikotaj	e tʃ i k o t a j	e tʃ i k o t a j	1241	1241	FALL			
+13112	Sapiteri	FALL	etšikotaj / ekot	ekot	e k o t	e - - k o t - -	1241	1241	FALL			
 13113	Toyeri	FALL	ekot	ekot	e k o t	e - - k o t - -	1241	1241	FALL			
 471	Deni	GIVE	da	da	d a	d a - -	37	37	GIVE			
 1333	Kulina	GIVE	da / daka	da	d a	d a - -	37	37	GIVE			
@@ -3054,7 +3078,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11176	Banawa	GIVE	daa	daa	d aː	d aː	37	37	GIVE			
 11177	Jarawara	GIVE	taa	taa	t aː	t aː	37	37	GIVE			
 11532	Jamamadi	GIVE	daa	daa	d aː	d aː	37	37	GIVE			
-12387	Arasairi	GIVE	jakokende / jajoki	jakokende	j a k o k e n d e	j a k o k e n d e	910	870	GIVE			
+12387	Arasairi	GIVE	jakokende / jajoki	jakokende	j a k o k e n/d e	j a k o k e n/d e	910	870	GIVE			
 12388	Arasairi	GIVE	jakokende / jajoki	jajoki	j a j o k i	j a j o k i - - -	910	870	GIVE			
 13114	Toyeri	GIVE	embajok		e m/b a j o k	e m/b a j o k	910	870	GIVE			
 13116	Sapiteri	GIVE	ekjok			e k - j o k - - - -	910	870	GIVE			
@@ -3086,7 +3110,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1918	Sorowaha	TONGUE	abɨ	abɨ	a b ɨ	a b ɨ - -	16	16	TONGUE			
 10316	Katawishi	TONGUE	no	no	n o	n o	859	816	TONGUE			
 10441	Proto-Arawan	TONGUE	abeno	abeno	a b e n o	a b e n o	16	16	TONGUE			
-10931	Amarakaeri	TONGUE	nõʔ	nõʔ	n õ ʔ	- - n õ ʔ	859	816	TONGUE			
+10931	Amarakaeri	TONGUE	nõʔ	nõʔ	w a + n õ ʔ	w a + n õ ʔ	859	532 816	_NOMINALIZER TONGUE			
 11073	Banawa	TONGUE	abate	abate	a b a t e	a b a t e	16	16	TONGUE			abate/ebete
 11580	Jarawara	TONGUE	abate	abate	a b a n e	a b a n e	16	16	TONGUE			abate/ebete
 12176	Paumari_1833	TONGUE	amoni	amoni	a m o n i	a m o n i	16	16	TONGUE			
@@ -3114,7 +3138,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11534	Jamamadi	WHITE	sawa	sawa	s a w a	s a w a	1207	1173	WHITE			
 11594	Jarawara	WHITE	sawa	sawa	s a w a	s a w a	1207	1173	WHITE			
 12159	Paumari_1833	WHITE	wuakoreke	wuakoreke	w ua k o r e k e	w ua k o r e k e	22	22	WHITE			
-12390	Arasairi	WHITE	dahuakerenda	dahuakerenda	d a h ua k e r e + n/d a	d a h ua k e r e - + n/d a	1665	1651 1652	WHITE ?			
+12390	Arasairi	WHITE	dahuakerenda	dahuakerenda	d a h ua k e r e + n/d a	d a h ua k e r e - + n/d a	1665	1651 1631	WHITE ?			
 13119	Toyeri	WHITE	wakeregⁿna		w a k e r e gⁿ + n a	- - - w a k e r e gⁿ + n a	1665	1651 1652	WHITE ?			
 13120	Sapiteri	WHITE		wakeregⁿda	w a k e r e g + ⁿd a	- - - w a k e r e g + ⁿd a	1665	1651 1652	WHITE ?			
 507	Deni	YELLOW	derepʰede	derepʰede	d e r e pʰ e d e	d e r e pʰ e d e	397	1267	BLUE_GREEN			
@@ -3184,7 +3208,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10800	Katawishi	BACK	kori	kori	k o r i	k o r i	958	916	BACK			
 11085	Banawa	BACK	bari	bari	b a r i	b a r i	765	728	BACK			
 11426	Jamamadi	BACK	bari	bari	b a r i	b a r i	765	728	BACK			
-12392	Arasairi	BACK	uajén	uajén	u a j e n	u a j e n	1667	1654	BACK			
+12392	Arasairi	BACK	uajén	uajén	u a + h e n	u a + h e n	1667	532 1654	_NOMINALIZER BACK			
 13121	Toyeri	BACK	watapi	watapi	w a t a p i	w a t a p i	2022	2005	BACK			
 13122	Sapiteri	BACK	watapi	watapi	w a t a p i	w a t a p i	2022	2005	BACK			
 536	Deni	INSECT	jaʔo	jaʔo	j a ʔ o	j a ʔ o	81	81	LARGE.INSECT			
@@ -3209,6 +3233,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12682	Paumari	ARMADILLO	tato	tato	t a t o	t a t o	1810	1796	ARMADILLO			
 13123	Toyeri	ARMADILLO	kohopo	kohopo	k o h o p o	k o h o p o - -	1092	1052	ARMADILLO			
 13124	Sapiteri	ARMADILLO	kohopo	kohopo	k o h o p o	k o h o p o - -	1092	1052	ARMADILLO			
+13401	Katawishi	ARMADILLO	kawitso / jabito	kawitso	k a w i ts o	k a w i ts o	2101	2111	ARMADILLO			
+13402	Katawishi	ARMADILLO	kawitso / jabito	jabito	j a b i t o	j a b i t o	2102	2112	ARMADILLO			Large armadillo
 560	Deni	SPILL (SOMETHING)	kitsʰa	kitsʰa	k i tsʰ a	k i tsʰ a	109	109	SPILL			
 1577	Kulina	SPILL (SOMETHING)	kitsʰa	kitsʰa	k i tsʰ a	k i tsʰ a	109	109	SPILL			
 1798	Paumari	SPILL (SOMETHING)	kitʃo	kitʃo	k i tʃ o	k i tʃ o	109	109	SPILL			
@@ -3225,8 +3251,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11021	Jarawara	SQUIRREL MONKEY	sariwa	sariwa	s a r i w a	s a r i w a	1063	1020	SQUIRREL.MONKEY			
 11022	Jamamadi	SQUIRREL MONKEY	sasari	sasari	s a s a r i	s a s a r i	1063	1020	SQUIRREL.MONKEY			
 572	Deni	SEAT	taboro	taboro	t a b o r o	t a b o r o	560	408	BED			
-12393	Arasairi	SEAT	uauan	uauan	u a u a n	u a u a n	1668	1655	SEAT			
-12394	Arasairi	SEAT	uauan / euauan	euauan	e u a u a n	e u a u a n	1668	1655	SEAT			
+12393	Arasairi	SEAT	uauan / euauan	uauan	u a + u a n	u a + u a n	1668	532 1655	_NOMINALIZER SIT			
+12394	Arasairi	SEAT	uauan / euauan	euauan	e + u a + u a n	e + u a + u a n	1668	1630 532 1655	? _NOMINALIZER SIT			
 573	Deni	LEAF BUNDLE	taphowe	taphowe	t a pʰ o w e	t a pʰ o w e	409	409	LEAF.BUNDLE			
 1202	Jarawara	LEAF BUNDLE	taɸowe	taɸowe	t a ɸ o w e	t a ɸ o w e	409	409	LEAF.BUNDLE			
 10862	Proto-Arawan	LEAF BUNDLE	taphowe	taphowe	t a pʰ o w e	t a pʰ o w e	409	409	LEAF.BUNDLE			
@@ -3282,8 +3308,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12003	Deni	CRAB	amu	amu	a m u	a m u	7	7	CRAB			
 12004	Paumari	CRAB	mokaʔaʔa	mokaʔaʔa	m o k a ʔ a ʔ a	m o k a ʔ a ʔ a	1479	1179	CRAB			
 12396	Arasairi	CRAB	toot	toot	t o o t	t o o t	1670	1657	CRAB			
-13128	Toyeri	CRAB	tšitšigi	tšitšigi	tʃ i tʃ i g i	tʃ i tʃ i g i	2028	2011	CRAB			
-13129	Sapiteri	CRAB	tšitšiki	tšitšiki	tʃ i tʃ i k i	tʃ i tʃ i k i	2028	2011	CRAB			
+13128	Toyeri	CRAB	tšitšigi	tšitšigi	tʃ i tʃ i g i	tʃ i tʃ i g i	2028	2011	CRAB			
+13129	Sapiteri	CRAB	tšitšiki	tšitšiki	tʃ i tʃ i k i	tʃ i tʃ i k i	2028	2011	CRAB			
 715	Jamamadi	PACU	base	base	b a s e	b a s e - -	218	218	PACU			
 1031	Jarawara	PACU	base	base	b a s e	b a s e - -	218	218	PACU			
 1882	Sorowaha	PACU	basani	basani	b a s a n i	b a s a n i	218	218	PACU			
@@ -3292,7 +3318,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11956	Kulina	PACU	bama	bama	b a m a	b a m a	1210	1432	PACU			
 11957	Deni	PACU	karuru / kibi	karuru	k a r u r u	k a r u r u	1269	1433	PACU			
 11958	Deni	PACU	karuru / kibi	kibi	k i b i	k i b i	1454	1434	PACU			
-12397	Arasairi	PACU	huasik	huasik	h ua s i k	h ua s i k	1671	1658	PACU			
+12397	Arasairi	PACU	huasik	huasik	w a s i k	w a s i k	1671	1658	PACU			
 719	Jamamadi	PIAU	awida	awida	a w i d a	- a w i d a	1100	1100	PIAU			
 1036	Jarawara	PIAU	awita	awita	a w i t a	- a w i t a	1100	1100	PIAU			
 1703	Paumari	PIAU	ʔaβida	ʔaβida	ʔ a β i ɗ a	ʔ a β i ɗ a	1100	1100	PIAU			
@@ -3328,6 +3354,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10907	Proto-Arawan	SWEET MANIOC	kojo / ximeka	ximeka	ʃ i m e k a	ʃ i m e k a	209	209	SWEET.MANIOC			
 12187	Paumari_1833	SWEET MANIOC	simaka	simaka	s i m a k a	s i m a k a	209	209	SWEET.MANIOC			
 12289	Kulina	SWEET MANIOC	poo	poo	p oː	p oː	1591	1573	SWEET.MANIOC			
+13407	Katawishi	SWEET MANIOC	maipui	maipui	m ai p ui	m ai p ui	2107	2117	MANIOC			
 845	Jamamadi	TUCUNARÉ	kosoɸa	kosoɸa	k o s o ɸ a	k o s o ɸ a	112	493	TUCUNARÉ			
 1204	Jarawara	TUCUNARÉ	kojoɸa	kojoɸa	k o j o ɸ a	k o j o ɸ a	112	493	TUCUNARÉ			
 1964	Sorowaha	TUCUNARÉ	kosowa	kosowa	k o s o w a	k o s o w a	112	493	TUCUNARÉ			
@@ -3350,8 +3377,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10480	Paumari	BANANA	satomi / sipatihi	sipatihi	s i p a t i h i	s i p a t i h i	432	415	BANANA		YES	From Apurinã
 10828	Proto-Arawan	BANANA	satomi	satomi	s a t o m i	s a t o m i	162	162	BANANA.SP.			
 12226	Kulina	BANANA	bare	bare	b a r e	b a r e	1043	1715	BANANA			
-12398	Arasairi	BANANA	jaón / jahu	jaón	j a o n	j a o n	1672	1660	BANANA			
-12399	Arasairi	BANANA	jaón / jahu	jahu	j a h u	j a h u	1673	1659	BANANA			
+12398	Arasairi	BANANA	jaón / jahu	jaón	h a o n	h a o n	1672	1660	BANANA			
+12399	Arasairi	BANANA	jaón / jahu	jahu	h a h u	h a h u	1673	1659	BANANA			
 12471	Apurinã	BANANA	tʃiparɨ	tʃiparɨ	tʃ i p a r ɨ	tʃ i p a r ɨ	432	415	BANANA			
 13132	Toyeri	BANANA	haogⁿ	haogⁿ	h ao gⁿ	h ao gⁿ	2023	2006	BANANA			
 13133	Sapiteri	BANANA	haogⁿ	haogⁿ	h ao gⁿ	h ao gⁿ	2023	2006	BANANA			
@@ -3365,9 +3392,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10134	Kulina	ALL	wapima / bazima	bazima	b a z i m a	b a z i m a	752	715	ALL			also means 'many'
 11083	Banawa	ALL	naɸi	naɸi	n a ɸ i	n a ɸ i	1231	1231	ALL			
 11429	Jamamadi	ALL	naɸi	naɸi	n a ɸ i	n a ɸ i	1231	1231	ALL			
-12400	Arasairi	ALL	jaja	jaja	j a j a	j a j a	1674	1661	ALL			
+12400	Arasairi	ALL	jaja	jaja	h a h a	h a h a	1674	1661	ALL			
 13134	Toyeri	ALL	haia	haia	h a i a	h a i a	1674	1661	ALL			
 13135	Sapiteri	ALL	haia	haia	h a i a	h a i a	1674	1661	ALL			
+13367	Amarakaeri	ALL	aya	aya	a j a	a j a	2075	2076	ALL			
 900	Jarawara	ANIMAL	bani	bani	b a n i	b a n i - - - - -	318	318	ANIMAL			
 1262	Kulina	ANIMAL	bani / banitsiɾi	bani	b a n i	b a n i - - - - -	318	318	ANIMAL			
 1263	Kulina	ANIMAL	bani / banitsiɾi	banitsiɾi	b a n i + ts i ɾ i	b a n i + ts i ɾ i	318	318 492	ANIMAL ?			
@@ -3389,7 +3417,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 8004	Kulina	BONE	tona	tona	t̪ o n a	- - t̪ o n a	191	191	BONE			
 8005	Paumari	BONE	katona	katona	k a t o n a	k a t o n a	191	191	BONE			
 10871	Proto-Arawan	BONE	tona	tona	t o n a	t o n a	191	191	BONE			
-10938	Amarakaeri	BONE	áiʔ	áiʔ	ái ʔ	- á - i ʔ -	989	951	BONE			
+10938	Amarakaeri	BONE	aiʔ	aiʔ	w a + ai ʔ	w a + ai ʔ	989	532 951	_NOMINALIZER BONE			
 12401	Arasairi	BONE	uai	uai	u ai	u a - i - -	989	951	BONE			
 13136	Toyeri	BONE	wapiere	wapiere	w a p ie r e	w a p ie r e	989	951	BONE			
 13137	Sapiteri	BONE	wapire	wapire	w a p i r e	w a p i r e	989	951	BONE			
@@ -3398,12 +3426,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10174	Paumari	CHILD	badia / isai	badia	b a ɗ ia	b a ɗ ia	772	736	CHILD			
 10175	Paumari	CHILD	badia / isai	isai	i s ai	i s ai	773	737	CHILD			
 10176	Deni	CHILD	eheve	eheve	e h e v e	e h e v e	774	738	CHILD			
-10949	Amarakaeri	CHILD	wasípo	wasípo	w a + s í + p o	w a + s í + p o	991	532 949 950	? ? ?			
+10949	Amarakaeri	CHILD	wasípo	wasípo	w a + s i + p o	w a + s i + p o	991	532 949 950	_NOMINALIZER PEEL CLASSIFIER.ROUND			
 11108	Banawa	CHILD	enemede	enemede	e n e m e d e	e n e m e d e	774	738	CHILD			
 11397	Sorowaha	CHILD	hawini	hawini	h a w i n i	h a w i n i	1195	1162	CHILD			
 11430	Jamamadi	CHILD	madehe	madehe	m a d e h e	m a d e h e	395	374	CHILD			
 11816	Paumari_1833	CHILD	isãnini	isãnini	i s ã n i n i	i s ã n i n i	773	737	CHILD			
-12402	Arasairi	CHILD	uasipo	uasipo	u a + s i + p o	u a + s i + p o	991	532 949 950	? ? ?			
+12402	Arasairi	CHILD	uasipo	uasipo	u a + s i + p o	u a + s i + p o	991	532 949 950	_NOMINALIZER PEEL CLASSIFIER.ROUND			
+13377	Jamamadi	CHILD	ebe	ebe	e b e	e b e	2081	2083	CHILD			
 938	Jarawara	CLOUD	sabi	sabi	s a b i	s a b i	506	491	FOAM			
 1301	Kulina	CLOUD	mɛmɛ ɛtsʰɛ	mɛmɛ ɛtsʰɛ	m ɛ m ɛ + ɛ tsʰ ɛ	m ɛ m ɛ + ɛ tsʰ ɛ	507	1001 1002	CLOUD ?			
 10177	Paumari	CLOUD	bahi	bahi	b a h i	b a h i	775	739	CLOUD			
@@ -3419,15 +3448,16 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10185	Paumari	DOG	jomahi vaovaoha	jomahi vaovaoha	j o m a h i + β ao β ao h a	j o m a h i + β ao β ao h a	504	90 742	JAGUAR _ONOMATOPOEIC			
 10186	Deni	DOG	meze	meze	m e dz e	m e dz e	781	489	DOG			
 10283	Arawa	DOG	dʒumajhi	dʒumajhi	dʒ u m a j h i	dʒ u m a j h i	504	90	JAGUAR			
-10375	Amarakaeri	DOG	kuwa	kuwa	k u w a	k u w a	900	858	DOG			
+10375	Amarakaeri	DOG	kuwa	kuwa	k u w a	k u w a	900	858	DOG		YES	
 10501	Kanamari	DOG	wapa	wapa	w aː p a	w aː p a	942	901	DOG			
 10502	KatukinaBiá	DOG	wapa	wapa	w aː p a	w aː p a	942	901	DOG			
 11134	Banawa	DOG	jomai	jomai	j o m ai	j o m ai	504	90	JAGUAR			
 11432	Jamamadi	DOG	jomahi	jomahi	j o m a h i	j o m a h i	504	90	JAGUAR			
 12073	Paumari_1833	DOG	jumahen	jumahen	j u m a h e n	j u m a h e n	504	90	JAGUAR			
-12404	Arasairi	DOG	kiua	kiua	k iu a	k iu - a	900	858	DOG			
+12404	Arasairi	DOG	kiua	kiua	k i u a	k i u a	900	858	DOG			
 13139	Toyeri	DOG	kʉa	kʉa	k ʉ a	k ʉ - a	900	858	DOG			
 13140	Sapiteri	DOG	kʉa	kʉa	k ʉ a	k ʉ - a	900	858	DOG			
+13416	Katawishi	DOG	agiti	agiti	a g i t i	a g i t i	2115	2125	DOG			
 950	Jarawara	DULL	toboro	toboro	t o b o r o	t o b o r o	1236	1236	DULL			
 12509	Deni	DULL	tʰumu	tʰumu	tʰ u m u	tʰ u m u	1742	1735	DULL			
 951	Jarawara	DUST	hobokori	hobokori	h o b o k o r i	h o b o k o r i	1237	1237	DUST			
@@ -3477,7 +3507,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11535	Jamamadi	MANY	dama	dama	d a m a	d a m a	1161	1126	MANY			
 12167	Paumari	MANY	arafia	arafia	a r a f ia	a r a f ia	1518	1501	MANY			
 12168	Paumari_1833	MANY	warana	warana	w a r a n a	w a r a n a	1519	1502	MANY			
-12408	Arasairi	MANY	uakanda	uakanda	u a k a + n d a	u a k a + n d a	1678	1666 1667	? ?			
+12408	Arasairi	MANY	uakanda	uakanda	u a k a + n/d a	u a k a + n/d a	1678	1666 1631	? ?			
 1046	Jarawara	SALT	saha	saha	s a h a	s a h a	494	478	SALT		YES	From Portuguese
 1421	Kulina	SALT	tsao	tsao	ts a o	ts a o	494	478	SALT		YES	From Portuguese
 10464	Paumari	SALT	jokira	jokira	j o k i r a	j o k i r a	935	895	SALT		YES	From Língua Geral
@@ -3500,25 +3530,24 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12005	Deni	SEED	nukʰu	nukʰu	n u kʰ u	n u kʰ u	492	476	SEED			
 12006	Kulina	SEED	nokʰo	nokʰo	n o kʰ o	n o kʰ o	492	476	SEED			
 12409	Arasairi	SEED	uakebi	uakebi	u a k e b i	u a k e b i	1679	1668	SEED			
-13143	Arasairi	SEED	wakʉidⁿ	wakʉidⁿ	w a k ʉi dⁿ	w a k ʉi dⁿ -	1679	1668	SEED			
-13144	Arasairi	SEED	wakʉidⁿ	wakʉidⁿ	w a k ʉi dⁿ	w a k ʉi dⁿ -	1679	1668	SEED			
+13143	Arasairi	SEED	wakʉidⁿ	wakʉidⁿ	w a + k ʉi dⁿ	w a + k ʉi dⁿ	1679	532 1668	_NOMINALIZER SEED			
 1052	Jarawara	SHARP	ino	ino	i n o	i n o	491	475	SHARP			
 10127	Sorowaha	SHARP	zuma	zuma	z u m a	z u m a	747	709	SHARP			
 11318	Banawa	SHARP	ino	ino	i n o	i n o	491	475	SHARP			
 11975	Deni	SHARP	ketsheu	ketsheu	k e tsʰ eu	k e tsʰ eu	1464	1446	SHARP			
-12410	Arasairi	SHARP	ejuande	ejuande	e j u a + n d e	e j u a + n d e	1680	1669 1670	SHARPEN ?			
+12410	Arasairi	SHARP	ejuande	ejuande	e j u a + n/d e	e j u a + n/d e	1680	1669 1670	SHARPEN ?			
 1054	Jarawara	SKIN	atari	atari	a t a r i	a t a r i	490	208	SKIN			atari/ataro
 1428	Kulina	SKIN	wapi / etero	wapi	w a p i	w a p i	489	473	SKIN			
 1716	Paumari	SKIN	asafi	asafi	a s a f i	a s a f i	207	207	SKIN			
 1895	Sorowaha	SKIN	asihi	asihi	a s i h i	a s i h i	207	207	SKIN			
 10326	Katawishi	SKIN	borahe	borahe	b o r a	b o r a	864	822	SKIN			
 10432	Proto-Arawan	SKIN	asiphi	asiphi	a s i pʰ i	a s i pʰ i	207	207	SKIN			
-10946	Amarakaeri	SKIN	siⁿdak	siⁿdak	s i n/d a k	- - s i n/d a k	1006	962	SKIN			
+10946	Amarakaeri	SKIN	siⁿdak	siⁿdak	w a + s i n/d a k	w a + s i n/d a k	1006	532 962	_NOMINALIZER +SKIN			
 11327	Banawa	SKIN	atari	atari	a t a r i	a t a r i	490	208	SKIN			atari/ataro
 11537	Jamamadi	SKIN	atori	atori	a t o r i	a t o r i	490	208	SKIN			atori/ataro
 11971	Kulina	SKIN	wapi / etero	wapi / etero	e t̪ e r o	e t̪ e r o	490	208	SKIN			
 11972	Deni	SKIN	eteru	eteru	e t e r u	e t e r u	490	208	SKIN			
-12411	Arasairi	SKIN	uasindak	uasindak	u a s i n/d a k	u a s i n/d a k	1006	962	SKIN			
+12411	Arasairi	SKIN	uasindak	uasindak	u a + s i n/d a k	u a + s i n/d a k	1006	532 962	_NOMINALIZER SKIN			
 13145	Toyeri	SKIN	wasinak	wasinak	w a s i n a k	w a s i n a k	1006	962	SKIN			
 13146	Sapiteri	SKIN	wasinak	wasinak	w a s i n a k	w a s i n a k	1006	962	SKIN			
 1055	Jarawara	SKY	neme	neme	n e m e	n e m e	1001	1001	SKY			
@@ -3580,7 +3609,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12009	Deni	WET	beri	beri	b e r i	b e r i	1480	1460	WET			
 12010	Kulina	WET	pʰaha	pʰaha	pʰ a h a	pʰ a h a	1481	1461	WET			
 12011	Sorowaha	WET	hahari	hahari	h a h a r i	h a h a r i	1482	1462	WET			
-12414	Arasairi	WET	uasajenda	uasajenda	u a s a j e n + d a	u a s a j e n + d a	984	942 1672	WET ?			
+12414	Arasairi	WET	uasajenda	uasajenda	u a s a j e n + d a	u a s a j e n + d a	984	942 1631	WET ?			
 13153	Toyeri	WET	wawetna	wawetna	w a w e t n a	w a w e t n a	2006	1991	WET			
 1135	Jarawara	YOU TWO	tee	tee	t eː	t eː -	480	465	YOU.(PLURAL)			
 1531	Kulina	YOU TWO	tia	tia	t̪ i a	t̪ i a	480	465	YOU.(PLURAL)			
@@ -3659,7 +3688,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10194	Paumari	EGG	χoχoro / nafani	nafani	n a f a n i	n a f a n i	784	360	SCROTUM			
 10195	Deni	EGG	naɸani	naɸani	n a ɸ a n i	n a ɸ a n i	784	360	SCROTUM			
 10285	Arawa	EGG	nafarina	nafarina	n a ɸ a r i n a	n a ɸ a r i n a	784	360	EGG			
-10396	Amarakaeri	EGG	knda	knda	k n/d a	- - k n/d a	920	879	EGG			
+10396	Amarakaeri	EGG	knda	knda	w a + k n/d a	w a + k n/d a	920	532 879	_NOMINALIZER EGG			
 10491	KatukinaBiá	EGG	pu	pu	p u	p u	939	596	EGG			
 10492	Kanamari	EGG	pu	pu	p u	p u	939	596	EGG			
 10745	Proto-Arawan	EGG	napha	napha	n a pʰ a	n a pʰ a	784	360	EGG			
@@ -3676,24 +3705,26 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10301	Katawishi	EYE	ørada / lada	ørada	ø r a d a	ø r a d a	845	802	EYE			
 10814	Kanamari	EYE	iku	iku	i k u	i k u	573	930	EYE			
 10815	Katawishi	EYE	ørada / lada	lada	l a d a	l a d a	845	802	EYE			
-10912	Amarakaeri	EYE	kpo	kpo	k p o	k p o	573	930	EYE			
+10912	Amarakaeri	EYE	kpo	kpo	w a + k p o	w a + k p o	573	532 930	_NOMINALIZER EYE			
 11404	Banawa	EYE	noki	noki	n o k i	n o k i	1242	1242	EYE		YES	Loan of Arawak origin; also means face; noki/noko
 11436	Jamamadi	EYE	noki	noki	n o k i	n o k i	1242	1242	EYE		YES	Loan of Arawak origin; also means face;noki/noko
 12173	Paumari_1833	EYE	nokʰo	nokʰo	n o kʰ o	n o kʰ o	1242	1242	EYE		YES	Loan of Arawak origin
 13165	Toyeri	EYE	kpo	kpo	k p o	k p o	573	930	EYE			
 13166	Sapiteri	EYE	kpo	kpo	k p o	k p o	573	930	EYE			
+13423	Katawishi	EYE	eso	eso	e s o	e s o	2122	2133	EYE			
 1322	Kulina	FINGERNAIL	nokotsʰi	nokotsʰi	n o k o tsʰ i	n o k o tsʰ i	1250	685	IN.FRONT.OF			
 10208	Deni	FINGERNAIL	nukʰuʃini	nukʰuʃini	n u kʰ u ʃ i n i	n u kʰ u ʃ i n i	1250	685	IN.FRONT.OF			
-10211	Jarawara	FINGERNAIL	jehe atari	jehe atari	j e h e + a t a r i	j e h e + a t a r i	792	83 208	HAND SKIN			
+10211	Jarawara	FINGERNAIL	jehe atari	jehe atari	j e h e + a t a r i	j e h e + a t a r i	792	532 208	HAND SKIN			
 10216	Paumari	FINGERNAIL	ɗamai kanakoɗini	ɗamai kanakoɗini	ɗ a m ai + k a n a k o ɗ i n i	ɗ a m ai + k a n a k o ɗ i n i	796	752 754	FINGER ?			
 10217	Deni	FINGERNAIL	saʔai kanakoʔdini	saʔai kanakoʔdini	s a ʔ ai + k a n a k o ʔ d i n i	s a ʔ ai + k a n a k o ʔ d i n i	796	752 753	FINGER ?			
-10391	Amarakaeri	FINGERNAIL	mbaʔku	mbaʔku	m/b a ʔ + k u	- - m/b a ʔ + k u	915	855 875	HAND HEAD			
+10391	Amarakaeri	FINGERNAIL	mbaʔku	mbaʔku	m/b a ʔ + k u	- - m/b a ʔ + k u	915	532 875	HAND HEAD			
 11155	Banawa	FINGERNAIL	je atari	je atari	j e + a t a r i	j e + a t a r i	792	83 208	HAND SKIN			
-11437	Jamamadi	FINGERNAIL	jehe ataro	jehe ataro	j e h e + a t a r o	j e h e + a t a r o	792	83 208	HAND SKIN			
+11437	Jamamadi	FINGERNAIL	jehe ataro	jehe ataro	j e h e + a t a r o	j e h e + a t a r o	792	532 208	HAND SKIN			
 11819	Paumari_1833	FINGERNAIL	aiju	aiju	ai j u	ai j u	1391	1357	FINGER			
-12418	Arasairi	FINGERNAIL	umbaki	umbaki	u m/b a + k i	u - m/b a - + k i	915	855 875	HAND HEAD			
-13167	Toyeri	FINGERNAIL	wambakʉ	wambakʉ	w a m/b a + k ʉ	w a m/b a - + k ʉ	915	855 875	HAND HEAD			
-13168	Sapiteri	FINGERNAIL	wambakʉ	wambakʉ	w a m/b a + k ʉ	w a m/b a - + k ʉ	915	855 875	HAND HEAD			
+12418	Arasairi	FINGERNAIL	umbaki	umbaki	u m/b a + k i	u m/b a + k i	915	532 875	HAND HEAD			
+13167	Toyeri	FINGERNAIL	wambakʉ	wambakʉ	w a m/b a + k ʉ	w a m/b a - + k ʉ	915	532 875	HAND HEAD			
+13168	Sapiteri	FINGERNAIL	wambakʉ	wambakʉ	w a m/b a + k ʉ	w a m/b a - + k ʉ	915	532 875	HAND HEAD			
+13379	Katawishi	FINGERNAIL	ipe ta	ipe ta	i p e + t a	i p e + t a	792	532 208	HAND ?			
 1328	Kulina	FOREST	dzama / jama	dzama	dz a m a	dz a m a	341	341	THING			
 1359	Kulina	FOREST	dzama / jama	jama	j a m a	j a m a	341	341	THING			
 10027	Sorowaha	FOREST	aga hʊʊɾi	aga hʊʊɾi	a g a + h ʊː ɾ i	a g a + h ʊː ɾ i	647	537 1274	TREE INSIDE			
@@ -3703,19 +3734,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10411	Amarakaeri	FOREST	ndumba	ndumba	n/d u m/b a	n/d u m/b a	933	893	FOREST			
 12048	Paumari_1833	FOREST	arabu	arabu	a r a b u	a r a b u	1490	1470	FOREST			
 12419	Arasairi	FOREST	nemba	nemba	n e m/b a	n e m/b a	933	893	FOREST			
+13394	Katawishi	FOREST	kata ki	kata ki	k a t a + k i	k a t a + k i	2094	2101 2102	? ?			
 1335	Kulina	GRASS	dzɛɾo makʰa / dzɛɾo taapi	dzɛɾo makʰa	dz ɛ ɾ o + m a kʰ a	dz ɛ ɾ o + m a kʰ a	1266	4000 288	GRASS SNAKE			
 1336	Kulina	GRASS	dzɛɾo makʰa / dzɛɾo taapi	dzɛɾo taapi	dz ɛ ɾ o + t aː p i	dz ɛ ɾ o + t aː p i	1266	4000 5001	GRASS ?			
 10231	Jarawara	GRASS	masiri	masiri	m a s i r i	m a s i r i	808	764	GRASS			
 10232	Sorowaha	GRASS	natuza	natuza	n a t u z a	n a t u z a	807	765	GRASS			
 10233	Deni	GRASS	hamaʃi	hamaʃi	h a m a ʃ i	h a m a ʃ i	809	766	GRASS			
 11183	Banawa	GRASS	mosiri	mosiri	m o s i r i	m o s i r i	808	764	GRASS			
+13395	Katawishi	GRASS	tshi a	tshi a	tʃ i + a	tʃ i + a	2095	2103 2104	? ?			
 1352	Kulina	HORN (ANATOMY)	oɾi	oɾi	o ɾ i	o ɾ i	1271	1271	HORN			
 10246	Jarawara	HORN (ANATOMY)	warabi awe	warabi awe	w a r a b i + a w e	w a r a b i + a w e	815	771 772	HORN ?			
 10248	Deni	HORN (ANATOMY)	tati maʃirine	tati maʃirine	t a t i + m a ʃ i r i n e	t a t i + m a ʃ i r i n e	816	44 773	HEAD ?			
 10249	Paumari	HORN (ANATOMY)	morobo	morobo	m o r o b o	m o r o b o	815	771	HORN			
 11514	Banawa	HORN (ANATOMY)	warabi awe	warabi awe	w a r a b i + a w e	w a r a b i + a w e	815	771 772	HORN ?			
 11545	Jamamadi	HORN (ANATOMY)	narabi awe	narabi awe	n a r a b i + a w e	n a r a b i + a w e	815	771 772	HORN ?			
-12420	Arasairi	HORN (ANATOMY)	uakipi	uakipi	u a k i p i	u a k i p i	1684	1675	HORN			
+12420	Arasairi	HORN (ANATOMY)	uakipi	uakipi	u a + k i p i	u a + k i p i	1684	532 1675	_NOMINALIZER HORN			
 13169	Toyeri	HORN (ANATOMY)	wakʉpi	wakʉpi	w a k ʉ p i	w a k ʉ p i	1684	1675	HORN			
 1354	Kulina	HUSBAND	makʰi	makʰi	m a kʰ i	m a kʰ i	478	289	MAN.(ADULT.MALE)			
 10251	Paumari	HUSBAND	makʰira	makʰira	m a kʰ i r a	m a kʰ i r a	818	289	MAN.(ADULT.MALE)			
@@ -3724,7 +3757,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11386	Banawa	HUSBAND	maki	maki	m a k i	m a k i	478	289	MAN.(ADULT.MALE)			
 11546	Jamamadi	HUSBAND	maki	maki	m a k i	m a k i	478	289	MAN.(ADULT.MALE)			
 11685	Jarawara	HUSBAND	maki	maki	m a k i	m a k i	478	289	MAN.(ADULT.MALE)			
-12421	Arasairi	HUSBAND	uatohe	uatohe	u a t o h e	u a t o h e	1685	1676	SPOUSE			
+12421	Arasairi	HUSBAND	uatohe	uatohe	u a + t o h e	u a + t o h e	1685	532 1676	_NOMINALIZER SPOUSE			
 13170	Toyeri	HUSBAND	watoe	watoe	w a t oe	w a t o - e	1685	1676	SPOUSE			
 13171	Sapiteri	HUSBAND	watoe	watoe	w a t oe	w a t o - e	1685	1676	SPOUSE			
 1358	Kulina	UTERUS	jaʔa	jaʔa	j a ʔ a	j a ʔ a	1226	1226	UTERUS			
@@ -3736,9 +3769,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10259	Jarawara	LONG	jabo	jabo	j a b o	j a b o	823	781	LONG			
 11265	Banawa	LONG	jabo	jabo	j a b o	j a b o	823	781	LONG			
 11438	Jamamadi	LONG	jabo	jabo	j a b o	j a b o	823	781	LONG			
-12422	Arasairi	LONG	uambinda	uambinda	u a m b i + n/d a	u a m b i - + n/d a	1686	1677 1678	LONG ?			
+12422	Arasairi	LONG	uambinda	uambinda	u a + m/b i + n/d a	u a + m/b i - + n/d a	1686	532 1677 1631	_NOMINALIZER LONG ?			
 13172	Toyeri	LONG	wambidⁿna	wambidⁿna	w a m b i dⁿ + n a	w a m b i dⁿ + n a	1686	1677 1678	LONG ?			
-13173	Sapiteri	LONG	wambidnda	wambidnda	w a m b i d + n/d a	w a m b i d + n/d a	1686	1677 1678	LONG ?			
+13173	Sapiteri	LONG	wambidnda	wambidnda	w a m b i d + n/d a	w a m b i d + n/d a	1686	1677 1631	LONG ?			
 1386	Kulina	MOUTH	ahaɾi	ahaɾi	a h a ɾ i	a h a ɾ i	477	463	MOUTH			
 1875	Sorowaha	MOUTH	ijahi	ijahi	i j a h i	i j a h i	249	249	MOUTH			
 10263	Jarawara	MOUTH	inohoti	inohoti	i n o h o t i	i n o h o t i	826	74	MOUTH			
@@ -3750,15 +3783,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11270	Banawa	MOUTH	irodi	irodi	i r o d i	i r o d i	826	74	MOUTH			
 11547	Jamamadi	MOUTH	inodi	inodi	i n o d i	i n o d i	826	74	MOUTH			
 12177	Paumari_1833	MOUTH	inoni	inoni	i n o n i	i n o n i	826	74	MOUTH			
-12423	Arasairi	MOUTH	uakita	uakita	u a k i t a	u a k i t a	1687	1679	MOUTH			
+12423	Arasairi	MOUTH	uakita	uakita	u a + k i t a	u a + k i t a	1687	532 1679	_NOMINALIZER MOUTH			
 13174	Toyeri	MOUTH	wakita	wakita	w a k i t a	w a k i t a	1687	1679	MOUTH			
 13175	Sapiteri	MOUTH	wakita	wakita	w a k i t a	w a k i t a	1687	1679	MOUTH			
 1393	Kulina	NOW	hidapana	hidapana	h i d a + p a n a	h i d a + p a n a	241	241 462	NOW ?			
 1695	Paumari	NOW	hida	hida	h i ɗ a	h i ɗ a - - - - -	241	241	NOW			
 10597	Proto-Arawan	NOW	hida	hida	h i d a	h i d a	241	241	NOW			
 11284	Banawa	NOW	ɸa amani	ɸa amani	ɸ a + a m a n i	ɸ a + a m a n i	1407	1379 1380	? ?			
-13176	Toyeri	NOW	oitšok	oitšok	oi tʃ o k	oi tʃ o k	2003	1988	NOW			
-13177	Sapiteri	NOW	oitšok	oitšok	oi tʃ o k	oi tʃ o k	2003	1988	NOW			
+13176	Toyeri	NOW	oitšok	oitšok	oi tʃ o k	oi tʃ o k	2003	1988	NOW			
+13177	Sapiteri	NOW	oitšok	oitšok	oi tʃ o k	oi tʃ o k	2003	1988	NOW			
 1412	Kulina	RAIN (PRECIPITATION)	patsʰo	patsʰo	p a tsʰ o	p a tsʰ o	475	460	RAIN			
 10275	Sorowaha	RAIN (PRECIPITATION)	bami	bami	b a m i	b a m i	831	789	RAIN			
 10276	Deni	RAIN (PRECIPITATION)	paʃu	paʃu	p a ʃ u	p a ʃ u	475	460	RAIN			
@@ -3766,7 +3799,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10278	Jarawara	RAIN (PRECIPITATION)	ɸaha / isi	ɸaha	ɸ a h a	ɸ a h a	832	790	RAIN			
 10279	Jarawara	RAIN (PRECIPITATION)	ɸaha / isi	isi	i s i	i s i	833	791	RAIN			
 10318	Katawishi	RAIN (PRECIPITATION)	wahi	wahi	w aː h i	w aː h i	831	789	RAIN			
-10395	Amarakaeri	RAIN (PRECIPITATION)	wi	wi	w i	w i	919	878	RAIN			
+10395	Amarakaeri	RAIN (PRECIPITATION)	wi	wi	e + w i	e + w i	919	1603 878	_NOMINALIZER RAIN			
 11303	Banawa	RAIN (PRECIPITATION)	ɸa	ɸa	ɸ a	ɸ a	832	790	RAIN			
 11548	Jamamadi	RAIN (PRECIPITATION)	ɸaha	ɸaha	ɸ a h a	ɸ a h a	832	790	RAIN			
 11847	Paumari_1833	RAIN (PRECIPITATION)	bahi	bahi	b a h i	b a h i	831	216	THUNDER			
@@ -3780,7 +3813,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1435	Kulina	SMOKE (EXHAUST)	ɛtsʰɛ	ɛtsʰɛ	ɛ tsʰ ɛ	ɛ tsʰ ɛ	1002	1002	SMOKE			
 10031	Sorowaha	SMOKE (EXHAUST)	aganɨ	aganɨ	a g a n ɨ	a g a n ɨ	651	610	SMOKE			
 10179	Deni	SMOKE (EXHAUST)	aʃivani	aʃivani	a ʃ i v a n i	a ʃ i v a n i	772	740	SMOKE			
-10950	Amarakaeri	SMOKE (EXHAUST)	oʔsĩwĩ	oʔsĩwĩ	o ʔ s ĩ w ĩ	o ʔ s ĩ w ĩ	999	958	SMOKE			
+10950	Amarakaeri	SMOKE (EXHAUST)	oʔsĩwĩ	oʔsĩwĩ	e ʔ + s ĩ w ĩ	e ʔ + s ĩ w ĩ	999	958	SMOKE			
 1438	Kulina	SONG	ahiɛ / tahiɛɾi	ahiɛ	a h i ɛ	a h i ɛ	473	458	SONG			
 1633	Kulina	SONG	ahiɛ / tahiɛɾi	tahiɛɾi	t̪ a h i + ɛ ɾ i	t̪ a h i + ɛ ɾ i	178	178 444	SONG ?			
 1998	Jarawara	SONG	ajaka / tahi	tahi	t a h i	t a h i - - -	178	178	SONG			
@@ -3796,7 +3829,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12217	Deni	SOUR	tsʰitaka	tsʰitaka	tsʰ i t a k a	tsʰ i t a k a	693	693	SOUR			
 12218	Jarawara	SOUR	sina	sina	s i n a	s i n a	1546	1527	SOUR			
 12219	Banawa	SOUR	koɸaria	koɸaria	k o ɸ a r ia	k o ɸ a r ia	1547	1528	SOUR			
-12425	Arasairi	SOUR	adahuadapaida	adahuadapaida	a d a h ua d a p ai d a	a d a h ua d a p ai d a	1689	1681	SOUR			
+12425	Arasairi	SOUR	adahuadapaida	adahuadapaida	a d a w a d a p ai n/d a	a d a w a d a p ai n/d a	1689	1681	SOUR			
 1443	Kulina	MIX	kɛʔɛma	kɛʔɛma	k ɛ ʔ ɛ m a	k ɛ ʔ ɛ m a	472	457	MIX			
 12256	Sorowaha	MIX	koukehɨru	koukehɨru	k ou k e h ɨ r u	k ou k e h ɨ r u	1572	1553	MIX			
 1464	Kulina	CUT	ka / witsʰi / wishi	witsʰi	w i tsʰ i	w i tsʰ - i	206	206	SLICE			
@@ -3829,7 +3862,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11831	Paumari_1833	DIE	abini	abini	a b i n i	a b i n i	1014	970	DIE			
 12034	Deni	DIE	muna	muna	m u n a	m u n a	1483	1463	DIE			
 12035	Sorowaha	DIE	mazaru	mazaru	m a z a r u	m a z a r u	1484	1464	DIE			Also means faint
-12427	Arasairi	DIE	ibejapat	ibejapat	i b e j a p a t	i b e j a p a t	1691	1683	DIE			
+12427	Arasairi	DIE	ibejapat	ibejapat	i b e h a p a t	i b e h a p a t	1691	1683	DIE			
 13183	Sapiteri	DIE	ekmbʉej	ekmbʉej	e k m/b ʉe j	e k m/b ʉe j	2001	1986	DIE			
 1475	Kulina	KILL	nanadzokʰɛ / napamahona / nanahika	nanahika	n a n a h i k a	n a n a h i k a	469	454	KILL			
 1476	Kulina	KILL	nanadzokʰɛ / napamahona / nanahika	nanadzokʰɛ	n a n a dz o kʰ ɛ	n a n a dz o kʰ ɛ	469	454	KILL			
@@ -3846,7 +3879,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11640	Jarawara	KILL	iti / naabowa / nahabi	nahabi	n a h a b i	n a h a b i	817	774	KILL			
 12032	Deni	KILL	nazukʰe / tabaru	nazukʰe	n a dz u kʰ e	n a dz u kʰ e	469	454	KILL			
 12033	Deni	KILL	nazukʰe / tabaru	tabaru	t a b a r u	t a b a r u	425	399	KILL			
-12428	Arasairi	KILL	jajarak	jajarak	j a j a r a k	j a j a r a k	929	889	KILL			
+12428	Arasairi	KILL	jajarak	jajarak	h a h a r a k	h a h a r a k	929	889	KILL			
 12952	Paumari	KILL	abini	abini	a b i n i	a b i n i	1923	1915	KILL			
 13184	Toyeri	KILL	embarak	embarak	e m/b a r a k	e m/b a r a k	929	889	KILL			
 13185	Sapiteri	KILL	embarak	embarak	e m/b a r a k	e m/b a r a k	929	889	KILL			
@@ -3856,7 +3889,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12703	Paumari	BE ALIVE	hoki	hoki	h o k i	h o k i	1814	1800	LIVE			
 1484	Kulina	PLAY	it̪ʰomɛ	it̪ʰomɛ	i t̪ʰ o m ɛ	i t̪ʰ o m ɛ	467	452	PLAY			
 5042	Sorowaha	PLAY	gamakɨza	gamakɨza	g a m a k ɨ z a	g a m a k ɨ z a	468	453	PLAY			
-12429	Arasairi	PLAY	uandiakak	uandiakak	ua n d ia k a k	ua n d ia k a k	1692	1684	PLAY			
+12429	Arasairi	PLAY	uandiakak	uandiakak	u a n/d ia k a k	u a n/d ia k a k	1692	1684	PLAY			
 12524	Deni	PLAY	vadavada / itume	vadavada	v a d a + v a d a	v a d a + v a d a	1747	578 578	PRETEND PRETEND			
 12525	Deni	PLAY	vadavada / itume	itume	i t u m e	i t u m e	467	452	PLAY			
 12577	Jarawara	PLAY	siwa	siwa	s i w a	s i w a	1933	1933	PLAY			
@@ -3877,7 +3910,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11551	Jamamadi	SING	jowiri	jowiri	j o w i r i	j o w i r i	1182	1149	SING			
 11600	Jarawara	SING	ajaka / jowiri	jowiri	j o w i r i	j o w i r i	1182	1149	SING			
 11601	Jarawara	SING	ajaka / jowiri	ajaka	a j a k a	a j a k a	1181	1148	SING			
-12430	Arasairi	SING	ebatandikiak	ebatandikiak	e b a t a n d i k ia k	e b a t a n d i k ia k	1693	1685	SING			
+12430	Arasairi	SING	ebatandikiak	ebatandikiak	e + b a t a n d i k ia k	e + b a t a n d i k ia k	1693	1603 1685	_NOMINALIZER SING			
 13180	Toyeri	SING	embatandike	embatandike	e m/b a t a n/d i k e	e m/b a t a n/d i k e	1998	1983	SING			
 1494	Kulina	SIT	wit̪ʰa	wit̪ʰa	w i t̪ʰ a	w i t̪ʰ - a	207	207	SIT			
 5127	Paumari	SIT	βitha	βitha	β i t h a	β i t h a	207	207	SIT			
@@ -3887,7 +3920,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 5132	Jamamadi	SIT	ita	ita	i t a	- i t - a	207	207	SIT			
 5133	Sorowaha	SIT	ita	ita	i t a	- i t - a	207	207	SIT			
 10905	Proto-Arawan	SIT	witha	witha	w i tʰ a	w i tʰ a	207	207	SIT			
-12431	Arasairi	SIT	jahuank	jahuank	j a h u a n k	j a h u a n k	1694	1686	SIT			
+12431	Arasairi	SIT	jahuank	jahuank	j a w a n k	j a w a n k	1694	1686	SIT			
 13190	Toyeri	SIT	emaron	emaron	e m a r o n	e m a r o n	1997	1982	SIT			
 1502	Kulina	SWIM	kona	kona	k o n a	k o n a	464	449	SWIM			
 10125	Sorowaha	SWIM	kaɾukʷaaɾi	kaɾukʷaaɾi	k a ɾ u kʷ aː ɾ i	k a ɾ u kʷ aː ɾ i	745	707	SWIM			
@@ -3895,7 +3928,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11340	Banawa	SWIM	dao	dao	d ao	d ao	1401	1372	SWIM			
 12039	Deni	SWIM	kunaha	kunaha	k u n a h a	k u n a h a	464	449	SWIM			
 12042	Jarawara	SWIM	kabiri	kabiri	k a b i r i	k a b i r i	1487	1467	SWIM			
-12432	Arasairi	SWIM	edopie	edopie	e d o p ie	e d o p ie -	983	941	SWIM			
+12432	Arasairi	SWIM	edopie	edopie	e + d o p i e	e + d o p i e	983	1603 941	_NOMINALIZER SWIM			
 13191	Toyeri	SWIM	paspasehe	paspasehe	p a s p a s e h e	p a s p a s e h e	1996	1981	SWIM			
 1505	Kulina	TURN	piko	piko	p i k o	p i k o	463	448	TURN			
 11353	Banawa	TURN	weo	weo	w eo	w eo	411	386	?			
@@ -3904,7 +3937,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12170	Deni	WARM	abika	abika	a b i k a	a b i k a	1521	2057	WARM			
 12171	Paumari_1833	WARM	panãn mani	panãn mani	p a n ã n + m a n i	p a n ã n + m a n i	1522	2054 2058	WARM ?			
 12172	Sorowaha	WARM	suku	suku	s u k u	s u k u	1523	2056	WARM			
-12433	Arasairi	WARM	dahuajenda	dahuajenda	d a h ua j e + n d a	d a h ua j e + n d a	1695	1687 1742	WARM ?			
+12433	Arasairi	WARM	dahuajenda	dahuajenda	d a h ua j e + n d a	d a h ua j e + n d a	1695	1687 1631	WARM ?			
 1519	Kulina	WE	ia	ia	i a	i a	461	446	WE			
 10048	Sorowaha	WE	aɾi	aɾi	a ɾ i	a ɾ i	674	626	WE			
 10365	Amarakaeri	WE	oroʔ	oroʔ	o r o ʔ	o r o ʔ	890	849	WE			
@@ -3918,6 +3951,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11848	Paumari	WIND	sirisiri	sirisiri	s i r i s i r i	s i r i s i r i	1409	1385	WIND			
 11849	Paumari_1833	WIND	tsiritsiri	tsiritsiri	ts i r i ts i r i	ts i r i ts i r i	1409	1385	WIND			
 12434	Arasairi	WIND	bapuka	bapuka	b a p u k a	b a p u k a	1696	1688	WIND			
+13390	Katawishi	WIND	pupu	pupu	p u p u	p u p u	2090	2096	WIND			
 1526	Kulina	WING	ɛpʰɛ	ɛpʰɛ	ɛ pʰ ɛ	ɛ pʰ ɛ	404	382	WING			
 12435	Arasairi	WING	uauka	uauka	u a u k a	u a u k a	1697	1689	WING			
 1529	Kulina	YEAR	wahano	wahano	w a h a n o	w a h a n o	399	378	YEAR			
@@ -3931,8 +3965,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10750	Banawa	STICK	awe	awe	a w e	a w e	558	400	STICK			awe/ewene
 11934	Jamamadi	STICK	awe	awe	a w e	a w e	558	400	STICK			awe/ewene
 11935	Jarawara	STICK	awe	awe	a w e	a w e	558	400	STICK			awe/ewene
-12436	Arasairi	STICK	uaipa / uaimei	uaipa	u a i p a	u a i p a	1698	1691	STICK			
-12437	Arasairi	STICK	uaimei	uaimei	u a i m e i	u a i m e i	1699	1690	STICK			
+12436	Arasairi	STICK	uaipa / uaimei	uaipa	u ai p a	u ai p a	1698	1691	STICK			
+12437	Arasairi	STICK	uaimei	uaimei	u ai m ei	u ai m ei	1699	1690	STICK			
 13192	Toyeri	STICK	ojpi	ojpi	o j p i	o j p i	1698	1691	STICK			
 13193	Sapiteri	STICK	ojpi	ojpi	o j p i	o j p i	1698	1691	STICK			
 1589	Kulina	BED	taboɾo	taboɾo	t̪ a b o ɾ o	t̪ a b o ɾ o	132	408	BED			
@@ -3947,6 +3981,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12123	Paumari_1833	FAST	vaidʒora kɨ	vaidʒora kɨ	v ai dʒ o r a + k ɨ	v ai dʒ o r a + k ɨ	1503	1484 1485	FAST ?			
 12127	Deni	FAST	nahura	nahura	n a h u r a	n a h u r a	1504	1486	FAST			
 12131	Jarawara	FAST	kita / hahata	hahata	h a h a t a	h a h a t a	1506	1488	FAST			
+13419	Katawishi	FAST	atxiho	atxiho	a tʃ i h o	a tʃ i h o	2118	2128	FAST			
 1617	Kulina	GOURD	paho	paho	p a h o	p a h o	152	152	GOURD			
 1823	Paumari	GOURD	βao	βao	β a o	β a - o	152	152	GOURD			
 10778	Proto-Arawan	GOURD	paho	paho	p a h o	p a h o	152	152	GOURD			
@@ -3960,15 +3995,15 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10205	Deni	FEATHER	eɸe / kune	kune	k u n e	k u n e	788	748	FEATHER			
 10206	Kulina	FEATHER	aɸa	aɸa	a ɸ a	a ɸ a	789	11	LEAF		YES	Loan of Arawak origin
 11440	Jamamadi	FEATHER	eɸe	eɸe	e ɸ e	e ɸ e	789	11	LEAF		YES	Loan of Arawak origin
-12439	Arasairi	FEATHER	uauká	uauká	u a u k a	u a u k a	1701	1693	FEATHER			
+12439	Arasairi	FEATHER	uauká	uauká	u a + u k a	u a + u k a	1701	532 1693	_NOMINALIZER FEATHER			
 1678	Paumari	SIDE OF FOREST	jama	jama	dʒ a m a	dʒ a m a	341	341	SIDE.OF.FOREST			
 1684	Paumari	TEACH	na ima	na ima	n a + i m a	n a + i m a	460	442 443	? ?			
 11341	Banawa	TEACH	kanawana	kanawana	k a n a w a n a	k a n a w a n a	1245	1188	TEACH			
 11605	Jarawara	TEACH	kanawana	kanawana	k a n a w a n a	k a n a w a n a	1245	1188	TEACH			
 12292	Kulina	TEACH	naatʰa	naatʰa	n aa tʰ a	n aa tʰ a	1594	1575	?			
 1693	Paumari	NERVE	abaʔo	abaʔo	a b a ʔ o	a b a ʔ o	459	441	NERVE			
-13197	Toyeri	NERVE	watšimbi	watšimbi	w a tʃ i m/b i	w a tʃ i m/b i	1995	1980	NERVE			
-13198	Sapiteri	NERVE	watšimbi	watšimbi	w a tʃ i m/b i	w a tʃ i m/b i	1995	1980	NERVE			
+13197	Toyeri	NERVE	watšimbi	watšimbi	w a tʃ i m/b i	w a tʃ i m/b i	1995	1980	NERVE			
+13198	Sapiteri	NERVE	watšimbi	watšimbi	w a tʃ i m/b i	w a tʃ i m/b i	1995	1980	NERVE			
 1700	Paumari	PAU-MULATO	baro	baro	b a r o	b a r o	458	440	PAU-MULATO			
 1763	Paumari	MESSAGE	moni	moni	m o n i	m o n i	457	690	MESSAGE			
 1768	Paumari	CICADA	ɗiriri	ɗiriri	ɗ i r i r i	ɗ i r i - - r i	51	51	CICADA			
@@ -3983,7 +4018,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12561	Deni	CICADA	sesekanade	sesekanade	s e s e k a n a d e	s e s e k a n a d e	1775	1762	CICADA			
 1801	Paumari	SWEET	tʃina	tʃina	tʃ i n a	tʃ i n a	379	412	SWEET			
 1959	Sorowaha	SWEET	sina	sina	s i n a	s i n a	379	412	SWEET			
-12440	Arasairi	SWEET	dabuasenda	dabuasenda	d a b ua s e + n d a	d a b ua s e + n d a	1702	1694 1695	SWEET ?			
+12440	Arasairi	SWEET	dabuasenda	dabuasenda	d a b ua s e + n/d a	d a b ua s e + n/d a	1702	1694 1631	SWEET ?			
 13199	Toyeri	SWEET	setkʉin	setkʉin	s e t k ʉi n	s e t k ʉi n	1994	1979	SWEET			
 13200	Sapiteri	SWEET	setkʉin	setkʉin	s e t k ʉi n	s e t k ʉi n	1994	1979	SWEET			
 1802	Paumari	FRAGRANT	sina	sina	s i n a	s i n a	629	412	unknown8			
@@ -3992,7 +4027,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1810	Paumari	WALK BENT OVER	βatʃi	βatʃi	β a tʃ i	β a tʃ i	627	501	CRAWL			
 1833	Paumari	BLOW (OF WIND)	sirisiri	sirisiri	s i r i + s i r i	s i r i + s i r i	174	173 173	WIND.BLOWS WIND.BLOWS			
 12230	Kulina	BLOW (OF WIND)	ho	ho	h o	h o	1554	1534	WIND.BLOW			
-12441	Arasairi	BLOW (OF WIND)	etʃipaj	etʃipaj	e tʃ i p o j	e tʃ i p o j	1703	1696	WIND.BLOW			
+12441	Arasairi	BLOW (OF WIND)	etʃipaj	etʃipaj	e tʃ i p a h	e tʃ i p a h	1703	1696	WIND.BLOW			
 13201	Toyeri	BLOW (OF WIND)	embapo	embapo	e m/b a p o	e m/b a p o -	1703	1696	WIND.BLOW			
 13202	Sapiteri	BLOW (OF WIND)	embapo	embapo	e m/b a p o	e m/b a p o -	1703	1696	WIND.BLOW			
 1835	Sorowaha	ALLIGATOR	ona	ona	o n a	o n a	308	308	ALLIGATOR			
@@ -4005,7 +4040,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12576	Jamamadi	ALLIGATOR	onehe	onehe	o n e h e	o n e h e	1104	1062	ALLIGATOR			
 12659	Paumari	ALLIGATOR	kasiʔi	kasiʔi	k a s i ʔ i	k a s i ʔ i	1805	1790	ALLIGATOR			
 1841	Sorowaha	SCARED	ohi	ohi	o h i	o h i	305	305	CRY			
-1903	Sorowaha	TINGUÍ	konahá	konahá	k o n a h á	k o n a h á	666	666	TINGUÍ			
+1903	Sorowaha	TINGUÍ	konahá	konahá	k o n a h a	k o n a h a	666	666	TINGUÍ			
 10444	Proto-Arawan	TINGUÍ	akonaha	akonaha	a k o n a h a	a k o n a h a	666	666	TINGUÍ			
 1962	Sorowaha	MARK	taboɾi	taboɾi	t a b o ɾ i	t a b o ɾ i	561	408	unknown5			morph=bed?
 1963	Sorowaha	CLOTHES	tahɨ	tahɨ	t a h ɨ	t a h ɨ	620	409	CLOTHES			
@@ -4015,7 +4050,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10473	Paumari	CLOTHES	makari	makari	m a k a r i	m a k a r i	937	897	CLOTHING		YES	From Apurinã
 10474	Jamamadi	CLOTHES	bora	bora	b o r a	b o r a	938	898	CLOTHING			
 12249	Kulina	CLOTHES	etero	etero	e t e r o	e t e r o	1567	1548	CLOTHES			
-12442	Arasairi	CLOTHES	jørá	jørá	j ø r á	j ø r á	938	898	CLOTHES			
+12442	Arasairi	CLOTHES	jørá	jørá	h ø r a	h ø r a	938	898	CLOTHES			
+13365	Apurinã	CLOTHES	mãkari	mãkari	m ã k a + r i	m ã k a + r i	937	897 2075	CLOTHE ?			
 1986	Sorowaha	FLY	bihʲawa	bihʲawa	b i hʲ a w a	b i hʲ a w a	1258	1258	FLY			
 11165	Banawa	FLY	dawi	dawi	d a w i	d a w i	1120	1078	FLY			
 11462	Jarawara	FLY	tawi	tawi	t a w i	t a w i	1120	1078	FLY			
@@ -4026,18 +4062,18 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11606	Jarawara	THIRST	bakasi	bakasi	b a k a s i	b a k a s i	1254	1189	THIRST			
 11681	Jamamadi	THIRST	bakose	bakose	b a k o s e	b a k o s e	1254	1189	THIRST			Prefix which is an index used for when both A and O are third person and it is an O-construction clause
 12293	Kulina	THIRST	zari	zari	z a r i	z a r i	1595	1576	?			
-12443	Arasairi	THIRST	maimaɲaijai	maimaɲaijai	m a i m a ɲ a i j a i	m a i m a ɲ a i j a i	1704	1697	THIRST			
+12443	Arasairi	THIRST	maimaɲaijai	maimaɲaijai	m a i m a ɲ a i j a i	m a i m a ɲ a i j a i	1704	1697	THIRST			Be thursty (1.SG)
 1989	Sorowaha	ARROW	tɨbɨ	tɨbɨ	t ɨ b ɨ	t ɨ b ɨ	353	124	ARROW			
 10296	Arawa	ARROW	atu	atu	a t u	a t u	842	799	ARROW			
 10312	Katawishi	ARROW	tenkpa	tenkpa	t e n k p a	t e n k p a	855	812	ARROW			
-10405	Amarakaeri	ARROW	pĩã	pĩã	p ĩ ã	p ĩ - ã	927	886	ARROW			
+10405	Amarakaeri	ARROW	pĩã	pĩã	p ĩ ã	p ĩ - ã	927	886	ARROW			
 10978	Paumari	ARROW	abiha	abiha	a b i h a	a b i h a	953	964	ARROW			
 11082	Banawa	ARROW	wati	wati	w a t i	w a t i	842	799	ARROW			
 11181	Jarawara	ARROW	wati	wati	w a t i	w a t i	842	799	ARROW			
 11441	Jamamadi	ARROW	wati	wati	w a t i	w a t i	842	799	ARROW			
 12136	Paumari_1833	ARROW	abiha	abiha	a b i h a	a b i h a	953	964	ARROW			
 12225	Kulina	ARROW	boba	boba	b o b a	b o b a	1550	1191	ARROW			
-12444	Arasairi	ARROW	pija	pija	p i j a	p i j a	927	886	ARROW			
+12444	Arasairi	ARROW	pija	pija	p i h a	p i h a	927	886	ARROW			
 12543	Deni	ARROW	kakiba	kakiba	k a k i b a	k a k i b a	1763	1754	ARROW			
 13203	Toyeri	ARROW	mbeta	mbeta	m/b e t a	m/b e t a	1993	1978	ARROW			
 1991	Sorowaha	PLACE (POSITION)	dʋʋki / dʋci	dʋʋki	d ʋː k i	d ʋː k i	454	437	PLACE			
@@ -4054,6 +4090,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12445	Arasairi	RED-AND-GREEN MACAW (Ara chloropterus)	uambe	uambe	u a m/b e	u a m/b e -	1705	1698	RED.MACAW			
 13204	Toyeri	RED-AND-GREEN MACAW (Ara chloropterus)	wambedⁿ	wambedⁿ	w a m/b e dⁿ	w a m/b e dⁿ	1705	1698	RED.MACAW			
 13205	Sapiteri	RED-AND-GREEN MACAW (Ara chloropterus)	wambedⁿ	wambedⁿ	w a m/b e dⁿ	w a m/b e dⁿ	1705	1698	RED.MACAW			
+13411	Katawishi	RED-AND-GREEN MACAW (Ara chloropterus)	adai	adai	a d a i	a d a i	2110	2120	RED.MACAW			
 2002	Sorowaha	JACKFRUIT	tamino	tamino	t a m i n o	t a m i n o	181	181	JACKFRUIT			
 8023	Banawa	JACKFRUIT	tamino	tamino	t a m i n o	t a m i n o	181	181	JACKFRUIT			
 8024	Deni	JACKFRUIT	tamino	tamino	t a m i n o	t a m i n o	181	181	JACKFRUIT			
@@ -4140,7 +4177,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11691	Jamamadi	COCKROACH	barawa	barawa	b a r a w a	b a r a w a	1107	1065	COCKROACH			
 12562	Deni	COCKROACH	deru	deru	d e r u	d e r u	1776	1763	COCKROACH			
 12854	Deni	COCKROACH	βaɓaɗa	βaɓaɗa	β a ɓ a ɗ a	β a ɓ a ɗ a	1107	1065	COCKROACH			
-13209	Sapiteri	COCKROACH	pitšik	pitšik	p i tʃ i k	p i tʃ i k	1989	1974	COCKROACH			
+13209	Sapiteri	COCKROACH	pitšik	pitšik	p i tʃ i k	p i tʃ i k	1989	1974	COCKROACH			
 5025	Sorowaha	CAPYBARA	hiiɾi	hiiɾi	h iː ɾ i	h iː ɾ i	1296	1296	CAPYBARA			
 10803	Katawishi	CAPYBARA	wahøkøha	wahøkøha	w a h ø k ø h a	w a h ø k ø h a	959	917	CAPYBARA			
 10804	Kanamari	CAPYBARA	walikama	walikama	w a l i k a m a	w a l i k a m a	959	917	CAPYBARA			
@@ -4159,7 +4196,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11981	Kulina	SQUIRREL	makari	makari	m a k aː r i	m a k aː r i	1467	1449	SQUIRREL			
 12447	Arasairi	SQUIRREL	meiri	meiri	m ei r i	m ei r i	1706	1699	SQUIRREL			
 5031	Sorowaha	BEAUTIFUL	ɨmɨzɨ	ɨmɨzɨ	ɨ m ɨ z ɨ	ɨ m ɨ z ɨ	360	8	BE.GOOD			
-10374	Amarakaeri	BEAUTIFUL	uru	uru	u r u	u r u	899	857	BEAUTIFUL			
+10374	Amarakaeri	BEAUTIFUL	uru	uru	u r u	u r u	899	857	BEAUTIFUL			bound form
 11089	Banawa	BEAUTIFUL	tamina	tamina	t a m i n a	t a m i n a	1097	1057	BEAUTIFUL			
 11442	Jamamadi	BEAUTIFUL	tamina	tamina	t a m i n a	t a m i n a	1097	1057	BEAUTIFUL			
 11463	Jarawara	BEAUTIFUL	tamina	tamina	t a m i n a	t a m i n a	1097	1057	BEAUTIFUL			
@@ -4172,11 +4209,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 8013	Jarawara	DAUGHTER	to	to	t o	t o	188	188	DAUGHTER			
 10096	Sorowaha	DAUGHTER	ahidini / zamuuni	zamuuni	z a m uː n i	z a m uː n i	726	675	DAUGHTER			
 10868	Proto-Arawan	DAUGHTER	to	to	t o	t o	188	188	DAUGHTER			
-10921	Amarakaeri	DAUGHTER	jombu	jombu	j o m/b u	j o m/b u	450	560	DAUGHTER			
+10921	Amarakaeri	DAUGHTER	jombu	jombu	w a + j o m/b u	w a + j o m/b u	450	532 560	_NOMINALIZER DAUGHTER			
 10972	Paumari	DAUGHTER	isai	isai	i s ai	i s ai	1012	737	OFFSPRING			
 11813	Paumari	DAUGHTER	atoni	atoni	a t o n i	a t o n i	188	188	DAUGHTER			
 12251	Kulina	DAUGHTER	to	to	t o	t o	188	188	DAUGHTER			
-12448	Arasairi	DAUGHTER	huasipo	huasipo	h ua s i p o	h ua s i p o	1707	1700	DAUGHTER			
+12448	Arasairi	DAUGHTER	huasipo	huasipo	w a + s i + p o	w a + s i + p o	1707	532 1672 1700	_NOMINALIZER PEEL CLASSIFIER.ROUND			of any gender
+13374	Katawishi	DAUGHTER	anapati	anapati	a n a p a t i	a n a p a t i	2078	2079	DAUGHTER			
 5037	Sorowaha	COLLARED PECCARY	dʒanɨdumuɾi	dʒanɨdumuɾi	dʒ a n ɨ d u m u ɾ i	dʒ a n ɨ d u m u ɾ i	441	424	COLLARED.PECCARY			
 11291	Banawa	COLLARED PECCARY	kobaja	kobaja	k o b a j a	k o b a j a	1170	1138	COLLARED.PECCARY			
 11496	Jarawara	COLLARED PECCARY	kobaja	kobaja	k o b a j a	k o b a j a	1170	1138	COLLARED.PECCARY			
@@ -4186,6 +4224,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11907	Deni	COLLARED PECCARY	anubeza	anubeza	a n u b e dz a	a n u b e dz a	1439	1415	COLLARED.PECCARY			
 11908	Kulina	COLLARED PECCARY	anubeze	anubeze	a n u b e z e	a n u b e z e	1439	1415	COLLARED.PECCARY			
 12070	Paumari_1833	COLLARED PECCARY	mãin	mãin	m ãi n	m ãi n	1193	1158	COLLARED.PECCARY			
+13403	Katawishi	COLLARED PECCARY	innai	innai	i nː ai	i nː ai	2103	2113	COLLARED.PECCARY			
 5038	Sorowaha	FISHHOOK	kabɨkana	kabɨkana	k a b ɨ k a n a	k a b ɨ k a n a	1256	1256	FISHHOOK			
 11161	Banawa	FISHHOOK	kabikana	kabikana	k a b i k a n a	k a b i k a n a	1256	1256	FISHHOOK			
 11162	Jarawara	FISHHOOK	kabikana	kabikana	k a b i k a n a	k a b i k a n a	1256	1256	FISHHOOK			
@@ -4194,7 +4233,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12144	Paumari_1833	FISHHOOK	ikoaka	ikoaka	i k oa k a	i k oa k a	1510	1493	FISHHOOK			
 12145	Kulina	FISHHOOK	kokoro	kokoro	k o + k o r o	k o + k o r o	1511	1494 115	? THROW			
 12146	Deni	FISHHOOK	kaheru	kaheru	k a h e r u	k a h e r u	1512	1495	FISHHOOK			
-12449	Arasairi	FISHHOOK	uakimapi	uakimapi	u a k i m a p i	u a k i m a p i -	1708	1701	FISHHOOK			
+12449	Arasairi	FISHHOOK	uakimapi	uakimapi	u a + k i m a p i	u a + k i m a p i	1708	532 1701	_NOMINALIZER FISHHOOK			
 13210	Toyeri	FISHHOOK	wakʉmapit	wakʉmapit	w a k ʉ m a p i t	w a k ʉ m a p i t	1708	1701	FISHHOOK			
 13211	Sapiteri	FISHHOOK	wakʉmapit	wakʉmapit	w a k ʉ m a p i t	w a k ʉ m a p i t	1708	1701	FISHHOOK			
 5045	Sorowaha	COPULATE	sɨbɨ	sɨbɨ	s ɨ b ɨ	s ɨ b ɨ	1275	1275	INTERCOURSE			
@@ -4209,7 +4248,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11406	Banawa	EARTH (SOIL)	nami	nami	n a m i	n a m i	782	744	EARTH			
 11444	Jamamadi	EARTH (SOIL)	wami	wami	w a m i	w a m i	782	744	EARTH			
 12450	Arasairi	EARTH (SOIL)	sorok / uandarik	sorok	s o r o k	ss o r o k	1709	1703	EARTH			
-12451	Arasairi	EARTH (SOIL)	sorok / uandarik	uandarik	ua + n/d a r i k	ua + n/d a r i k	1710	532 1702	NOMINALIZER EARTH			
+12451	Arasairi	EARTH (SOIL)	sorok / uandarik	uandarik	u a + n/d a r i k	u a + n/d a r i k	1710	532 1702	NOMINALIZER EARTH			
 5049	Sorowaha	PIRANHA	uma	uma	u m a	u m a	438	421	PIRANHA			
 10977	Paumari	PIRANHA	bano	bano	b a n o	b a n o	1033	988	PIRANHA			
 11296	Banawa	PIRANHA	oma	oma	o m a	o m a	438	421	PIRANHA			
@@ -4228,12 +4267,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10004	Jarawara	CAIMAN	ona	ona	o n a	o n a	393	308	CAIMAN			Jacaretinga
 10005	Kulina	CAIMAN	wama	wama	w a m a	w a m a	128	727	CAIMAN			
 10006	Paumari	CAIMAN	kasiʔi	kasiʔi	k a s i ʔ i	k a s i ʔ i	410	499	CAIMAN			
-10327	Katawishi	CAIMAN	kadjuhe	kadjuhe	k a d j u	k a d j u	865	823	CAIMAN			
+10327	Katawishi	CAIMAN	kadjuhe / wahaio	kadjuhe	k a dʒ u he	k a dʒ u he	865	823	CAIMAN			
 10503	Kanamari	CAIMAN	kadʒu	kadʒu	k aː dʒ u	k aː dʒ - u	865	823	CAIMAN			
 10504	KatukinaBiá	CAIMAN	kadʒu	kadʒu	k aː dʒ u	k aː dʒ - u	865	823	CAIMAN			
 11445	Jamamadi	CAIMAN	ona	ona	o n a	o n a	393	308	CAIMAN			
 11989	Deni	CAIMAN	vana	vana	v a n a	v a n a	128	727	CAIMAN			
 12063	Paumari_1833	CAIMAN	kaʃiʔi	kaʃiʔi	k a ʃ i ʔ i	k a ʃ i ʔ i	410	499	CAIMAN			
+13398	Katawishi	CAIMAN	kadjuhe / wahaio	wahaio	w a h ai o	w a h ai o	2098	2107	CAIMAN			
 5056	Sorowaha	MONKEY	kanʲa	kanʲa	k a nʲ a	k a nʲ a	435	511	HOWLER.MONKEY			
 10856	Proto-Arawan	MONKEY	gapha / tamakori	tamakori	t a m a k o r i	t a m a k o r i	965	418	MONKEY			
 11010	Paumari	MONKEY	dikosi	dikosi	ɗ i k o s i	ɗ i k o s i	1029	984	MONKEY			
@@ -4392,12 +4432,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12088	Deni	VULTURE	abariza	abariza	a b a r i dz a	a b a r i dz a	1496	1478	VULTURE			
 12090	Kulina	VULTURE	abariza	abariza	a b a r i z a	a b a r i z a	1496	1478	VULTURE			
 12474	Apurinã	VULTURE	majorɨ	majorɨ	m a j o r ɨ	m a j o r ɨ	1495	1477	VULTURE			
+13412	Katawishi	VULTURE	kupiju	kupiju	k u p i j u	k u p i j u	2111	2121	VULTURE			
 5193	Sorowaha	VAGINA	tuusu	tuusu	t uː s u	t uː s u	1225	1225	VAGINA			
 12179	Paumari_1833	VAGINA	kasi hue	kasi hue	k a s i + h ue	k a s i + h ue	1527	1507 1741	VAGINA ?			
 12180	Paumari	VAGINA	baʔbaʔdani	babadani	b a ɓ a ɗ a n i	b a ɓ a ɗ a n i	1528	1508	VAGINA			
 12181	Kulina	VAGINA	matsʰi	matsʰi	m a tsʰ i	m a tsʰ i	1530	784	VAGINA			
 12182	Jarawara	VAGINA	jama noko	jama noko	j a m a + n o k o	j a m a + n o k o	1529	341 1511	THING ?			
 12526	Deni	VAGINA	matsi	matsi	m a ts i	m a ts i	1530	784	VAGINA			
+13429	Katawishi	VAGINA	nopin	nopin	n o p i n	n o p i n	2128	2141	VAGINA			
 5465	Kulina	MIRROR	waɾowa / tsʰonoba	tsʰonoba	tsʰ o n o b a	tsʰ o n o b a	406	384	MIRROR			
 8967	Kulina	MIRROR	waɾowa / tsʰonoba	waɾowa	w a ɾ o w a	w a ɾ o w a	408	385	MIRROR		YES	From Língua Geral
 10126	Sorowaha	MIRROR	kaɾahi	kaɾahi	k a ɾ a h i	k a ɾ a h i	746	708	MIRROR			
@@ -4459,7 +4501,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 13237	Sapiteri	BRING	etokiak	etokiak	e t o + k ia k	e t o + k ia k	646	606 1952	TAKE.AWAY ?			
 13238	Toyeri	BRING	etohaja	etohaja	e t o + h a j a	e t o + h a j a	1968	606 1953	TAKE.AWAY ?			
 13239	Sapiteri	BRING	etohaja	etohaja	e t o + h a j a	e t o + h a j a	1968	606 1953	TAKE.AWAY ?			
-13240	Toyeri	BRING	etšaka	etšaka	e tʃ a + k a	e tʃ a + k a	646	606 1952	TAKE.AWAY ?			
+13240	Toyeri	BRING	etšaka	etšaka	e tʃ a + k a	e tʃ a + k a	646	606 1952	TAKE.AWAY ?			
 10028	Sorowaha	MIDDLE	hʊʊɾi	hʊʊɾi	h ʊː ɾ i	h ʊː ɾ i	648	1274	INSIDE			
 10753	Banawa	MIDDLE	enoki	enoki	e n o k i	e n o k i	951	909	MIDDLE			
 11616	Jarawara	MIDDLE	eenoki	eenoki	ee n o k i	ee n o k i	951	909	MIDDLE			
@@ -4484,10 +4526,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10157	Deni	ABOVE	nemehene	nemehene	n e m e + h e n e	n e m e + h e n e	761	723 724	ABOVE ?			
 11448	Jamamadi	ABOVE	neme	neme	n e m e	n e m e	761	723	ABOVE			
 11710	Paumari	ABOVE	nama	nama	n a m a	n a m a	761	723	ABOVE			
-13241	Toyeri	ABOVE	tš / tši	tši	tʃ i	tʃ i	891	850	ABOVE			
-13242	Toyeri	ABOVE	tš / tši	tš	t ʃ	t ʃ -	891	850	ABOVE			
-13243	Sapiteri	ABOVE	tš / tši	tši	tʃ i	tʃ i	891	850	ABOVE			
-13244	Sapiteri	ABOVE	tš / tši	tš	t ʃ	t ʃ -	891	850	ABOVE			
+13241	Toyeri	ABOVE	tš / tši	tši	tʃ i	tʃ i	891	850	ABOVE			
+13242	Toyeri	ABOVE	tʃ / tʃi	tš	t ʃ	t ʃ -	891	850	ABOVE			
+13243	Sapiteri	ABOVE	tʃ / tʃi	tši	tʃ i	tʃ i	891	850	ABOVE			
+13244	Sapiteri	ABOVE	tʃ / tʃi	tš	t ʃ	t ʃ -	891	850	ABOVE			
 10042	Sorowaha	MOAN	adʒiaka	adʒiaka	a dʒ ia k a	a dʒ ia k a	662	620	MOAN			
 11709	Paumari	MOAN	abararia	abararia	a b a r a r ia	a b a r a r ia	1323	1245	MOAN			
 10043	Sorowaha	CHICKEN	akaɾa	akaɾa	a k a ɾ a	- a k a ɾ a	663	621	CHICKEN		YES	From Jamamadi
@@ -4501,6 +4543,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12478	Apurinã	CHICKEN	patarɨ	patarɨ	p a t a r ɨ	p a t a r ɨ	1723	1716	CHICKEN			
 12559	Deni	CHICKEN	kataraʔa	kataraʔa	k a t a r a ʔ a	k a t a r a ʔ a	1774	1761	CHICKEN			
 12759	Paumari	CHICKEN	ʔarakaβa	ʔarakaβa	ʔ a r a k a β a	ʔ a r a k a β a	663	621	CHICKEN			
+13414	Katawishi	CHICKEN	kauiroto	kauiroto	k au i r o t o	k au i r o t o	2113	2123	CHICKEN			
 10045	Sorowaha	FINISH	akuwa	akuwa	a k u w a	a k u w a	665	623	FINISH			
 10825	Kanamari	FINISH	wihaŋ	wihaŋ	w i h a ŋ	w i h a ŋ	971	928	FINISH			
 11157	Banawa	FINISH	ɸijo / hawa	hawa	h a w a	h a w a	1118	1076	FINISH			
@@ -4554,6 +4597,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11562	Jamamadi	HOT	hiwa	hiwa	h i w a	h i w a	1129	1086	HOT			
 11759	Paumari	HOT	afa	afa	a f a	a f a	1354	1316	HOT			
 12265	Kulina	HOT	pʰoko	pʰoko	pʰ o k o	pʰ o k o	926	885	HOT			
+13422	Katawishi	HOT	biohoe	biohoe	b io h o e	b io h o e	2121	2132	HOT			
 10073	Sorowaha	CALM	sumawaɾi	sumawaɾi	s u m a w a ɾ i	s u m a w a ɾ i	706	648	CALM			
 11757	Paumari	CALM	dabarina	dabarina	ɗ a b a r i n a	ɗ a b a r i n a	1353	1315	CALM			
 10077	Sorowaha	SPIDER MONKEY	sɨwɨ	sɨwɨ	s ɨ w ɨ	s ɨ w ɨ	709	652	SPIDER.MONKEY			Ateles Paniscus
@@ -4564,13 +4608,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12286	Kulina	SPIDER MONKEY	homo	homo	h o m o	h o m o	1589	1571	SPIDER.MONKEY			
 10078	Sorowaha	COME	sɨza	sɨza	s ɨ z a	s ɨ z a	710	653	COME			only used towards adults
 10377	Sorowaha	COME	sasi	sasi	s a s i	s a s i	1196	1161	COME			only used towards children
-10918	Amarakaeri	COME	tiak	tiak	t ia k	- t ia k	902	860	COME			
+10918	Amarakaeri	COME	tiak	tiak	tʃ a k	- tʃ a k	902	860	COME			
 11326	Jarawara	COME	kake	kake	k a + k e	k a + k e	1176	1146 1208	MOVE COME			ka -ke
 11398	Banawa	COME	kamaki	kamaki	k a + m a + k i	k a + m a + k i	1176	1146 2049 1208	MOVE BACK COME			ka -ma -ki
 11452	Jamamadi	COME	kake	kake	k a + k e	k a + k e	1176	1146 1208	MOVE COME			ka -ke
 11756	Paumari	COME	ka	ka	k a	k a	1176	1146	COME			
-13250	Toyeri	COME	etšak	etšak	e tʃ a k	e tʃ a k	902	860	COME			
-13251	Sapiteri	COME	etšak	etšak	e tʃ a k	e tʃ a k	902	860	COME			
+13250	Toyeri	COME	etšak	etšak	e tʃ a k	e tʃ a k	902	860	COME			
+13251	Sapiteri	COME	etšak	etšak	e tʃ a k	e tʃ a k	902	860	COME			
 10084	Sorowaha	TREE TRUNK	udani / uḍɨ	udani	u d a n i	u d a n i	716	659	TRUNK			
 10085	Sorowaha	TREE TRUNK	udani / uḍɨ	ud̥ɨ	u d̥ ɨ	u d̥ ɨ	718	660	TRUNK			
 11581	Jarawara	TREE TRUNK	ate	ate	a t e	a t e	1216	1181	TRUNK			ate/ete
@@ -4601,8 +4645,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11304	Jarawara	EYEBROW	noki jowahari kone	noki jowahari kone	n o k i + j o w a h a r i + k o n e	n o k i + j o w a h a r i + k o n e	1101	1242 1145 275	EYE ? HAIR			
 11751	Paumari	EYEBROW	nokʰoi kaidani	nokʰoi kaidani	n o kʰ o i + k a i ɗ a n i	n o kʰ o i + k a i ɗ a n i	1101	1242 1309	EYE BACK.PART			
 12254	Kulina	EYEBROW	nokosʰi	nokosʰi	n o k o + sʰ i	n o k o + sʰ i	1101	1242 1551	EYE ?			
-13256	Toyeri	EYEBROW	wakpokʉtšimbʉih	wakpokʉtšimbʉih	w a k p o k ʉ tʃ i m/b ʉi h	w a k p o k ʉ tʃ i m/b ʉi h	1962	1946	EYEBROW			
-13257	Sapiteri	EYEBROW	wakpokʉtšimbʉih	wakpokʉtšimbʉih	w a k p o k ʉ tʃ i m/b ʉi h	w a k p o k ʉ tʃ i m/b ʉi h	1962	1946	EYEBROW			
+13256	Toyeri	EYEBROW	wakpokʉtšimbʉih	wakpokʉtšimbʉih	w a k p o k ʉ tʃ i m/b ʉi h	w a k p o k ʉ tʃ i m/b ʉi h	1962	1946	EYEBROW			
+13257	Sapiteri	EYEBROW	wakpokʉtšimbʉih	wakpokʉtšimbʉih	w a k p o k ʉ tʃ i m/b ʉi h	w a k p o k ʉ tʃ i m/b ʉi h	1962	1946	EYEBROW			
 10101	Sorowaha	SEW	wisina / wisinaɾi	wisina	w i s i n a	w i s i n a - -	730	678	SEW			
 10102	Sorowaha	SEW	wisina / wisinaɾi	wisinaɾi	w i s i n a ɾ i	w i s i n a ɾ i	730	678	SEW			
 11301	Jarawara	SEW	tasikana	tasikana	t a s i + k a + n a	t a s i + k a + n a	1173	1141 515 793	? COMITATIVE AUX			
@@ -4610,8 +4654,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11316	Banawa	SEW	dasi / rara	rara	r a r a	r a r a	1177	1144	SEW			
 11564	Jamamadi	SEW	dasi	dasi	d a s i	d a s i	1176	674	SEW			
 11750	Paumari	SEW	rokʰoi	rokʰoi	r o kʰ oi	r o kʰ oi	1348	1308	SEW			
-13258	Toyeri	SEW	embatšokʱʉja	embatšokʱʉja	e m/b a tʃ o kʱ ʉ j a	e m/b a tʃ o kʱ ʉ j a	1961	1945	SEW			
-13259	Sapiteri	SEW	embatšokʱʉja	embatšokʱʉja	e m/b a tʃ o kʱ ʉ j a	e m/b a tʃ o kʱ ʉ j a	1961	1945	SEW			
+13258	Toyeri	SEW	embatšokʱʉja	embatšokʱʉja	e m/b a tʃ o kʱ ʉ j a	e m/b a tʃ o kʱ ʉ j a	1961	1945	SEW			
+13259	Sapiteri	SEW	embatšokʱʉja	embatšokʱʉja	e m/b a tʃ o kʱ ʉ j a	e m/b a tʃ o kʱ ʉ j a	1961	1945	SEW			
 10111	Sorowaha	LET GO OR SET FREE	katabu	katabu	k a t a b u	k a t a b u	734	697	RELEASE			
 11649	Jamamadi	LET GO OR SET FREE	saa	saa	s aː	s aː	1301	1199	RELEASE			
 11749	Paumari	LET GO OR SET FREE	agaha	agaha	a g a h a	a g a h a	1347	1307	RELEASE			
@@ -4641,19 +4685,21 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12480	Apurinã	CHAMELEON	tamakore	tamakore	t a m a k o r e	t a m a k o r e	495	479	CHAMELEON			
 12558	Deni	CHAMELEON	rubu	rubu	r u b u	r u b u	1773	1760	CHAMELEON			
 10209	Deni	FINGER	zepe	zepe	dz e p e	dz e p e	790	750	FINGER			
-10210	Jarawara	FINGER	jehe	jehe	j e h e	j e h e	791	83	HAND			
+10210	Jarawara	FINGER	jehe	jehe	j e h e	j e h e	790	750	HAND			
 10212	Sorowaha	FINGER	bihi	bihi	b i h i	- - - - b i h i	793	322	HAND			also means hand and forearm
 10214	Paumari	FINGER	saʔa / dama	dama	ɗ a m a	ɗ a m a	794	751	FINGER			
 10215	Paumari	FINGER	saʔa / dama	saʔa	s a ʔ a	s a ʔ a	795	752	FINGER			
 10218	Kulina	FINGER	zepe	zepe	z e p e	z e p e	790	750	FINGER			
 13264	Toyeri	FINGER	wambapih	wambapih	w a m/b a p i h	w a m/b a p i h -	793	322	HAND			
 13265	Sapiteri	FINGER	wambapih	wambapih	w a m/b a p i h	w a m/b a p i h -	793	322	HAND			
+13378	Katawishi	FINGER	ipe ha	ipe ha	i p e + h a	i p e + h a	790	750				
 10237	Kulina	BLUE	napana	napana	n a p a n a	n a p a n a	812	769	BLUE			
 11742	Paumari	BLUE	kori	kori	k o r i	k o r i	1340	767	BLUE_GREEN			
 12166	Paumari_1833	BLUE	vuadadini	vuadadini	v ua d a d i n i	v ua d a d i n i	1517	1500	BLUE			
+12369	Arasairi	BLUE	dahuakibeida	dahuakibeida	d a w a k i b ei d a	d a w a k i b ei d a	1959	1635	BLUE_GREEN			
 12548	Deni	BLUE	derepʰede	derepʰede	d e r e pʰ e d e	d e r e pʰ e d e	1766	1267	BLUE_GREEN			
-13266	Toyeri	BLUE	wakiwej	wakiwej	w a k i w e j	w a k i w e j	1959	1943	BLUE			
-13267	Sapiteri	BLUE	wakiwej	wakiwej	w a k i w e j	w a k i w e j	1959	1943	BLUE			
+13266	Toyeri	BLUE	wakiwej	wakiwej	w a k i w e j	w a k i w e j	1959	1943	BLUE_GREEN			
+13267	Sapiteri	BLUE	wakiwej	wakiwej	w a k i w e j	w a k i w e j	1959	1943	BLUE_GREEN			
 10307	Katawishi	FLOUR	ko	ko	k o	k o	851	808	FLOUR			
 11741	Paumari	FLOUR	kiivi	kiivi	k iː β i	k iː β i	1339	1299	FLOUR			
 12259	Kulina	FLOUR	paria	paria	p a r ia	p a r ia	1573	1554	MANIOC.FLOUR			
@@ -4722,13 +4768,13 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12296	Kulina	WANT	hipa	hipa	h i p a	h i p a	1598	1579	WANT			
 13273	Toyeri	WANT	epak	epak	e p a k	e p a k	895	854	WANT			
 13274	Sapiteri	WANT	epak	epak	e p a k	e p a k	895	854	WANT			
-10379	Amarakaeri	HUNT	mationka	mationka	m a t io n k a	- m a t io n k a	904	862	HUNT			
+10379	Amarakaeri	HUNT	mationka	mationka	m a tʃ o n k a	- m a tʃ o n k a	904	862	HUNT			
 11214	Banawa	HUNT	jete	jete	j e t e	j e t e	447	430	HUNT			
 11566	Jamamadi	HUNT	jete	jete	j e t e	j e t e	447	430	HUNT			
 11736	Paumari	HUNT	avimarahi	avimarahi	a β i m a r a h i	a β i m a r a h i	1334	1284	HUNT			
 11760	Jarawara	HUNT	jete	jete	j e t e	j e t e	447	430	HUNT			
-13275	Toyeri	HUNT	embatšoŋkae	embatšoŋkae	e m/b a tʃ o ŋ k ae	e m/b a tʃ o ŋ k ae	904	862	HUNT			
-13276	Sapiteri	HUNT	embatšoŋkae	embatšoŋkae	e m/b a tʃ o ŋ k ae	e m/b a tʃ o ŋ k ae	904	862	HUNT			
+13275	Toyeri	HUNT	embatšoŋkae	embatšoŋkae	e m/b a tʃ o ŋ k ae	e m/b a tʃ o ŋ k ae	904	862	HUNT			
+13276	Sapiteri	HUNT	embatšoŋkae	embatšoŋkae	e m/b a tʃ o ŋ k ae	e m/b a tʃ o ŋ k ae	904	862	HUNT			
 10424	Proto-Arawan	SOCIOZINHO HERON	amasawari	amasawari	a m a s a w a r i	a m a s a w a r i	548	358	HERON			
 11392	Jarawara	SOCIOZINHO HERON	masawari	masawari	m a s a w a r i	m a s a w a r i	548	358	HERON			
 11393	Paumari	SOCIOZINHO HERON	amasawa	amasawa	a m a s a w a	a m a s a w a	548	358	HERON			
@@ -4747,11 +4793,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11240	Jarawara	PARROT	bikawi / babakajo / kaha	kaha	k a h a	k a h a	1150	1108	PARROT			
 11288	Banawa	PARROT	bekawi	bekawi	b e k a w i	b e k a w i	1148	1106	PARROT			
 11567	Jamamadi	PARROT	kaha	kaha	k a h a	k a h a	1150	1108	PARROT			
-11733	Paumari	PARROT	viro	viro	β i r o	β i r o	1333	1269	PARROT			
+11733	Paumari	PARROT	viro	viro	β i ɾ o	β i ɾ o	1333	1269	PARROT			
 11734	Sorowaha	PARROT	kawikawi	kawikawi	k a w i kʲ a w i	k a w i kʲ a w i	1148	1106	PARROT			
-12101	Paumari_1833	PARROT	weru	weru	w e r u	w e r u	1333	1269	PARROT			
-13277	Toyeri	PARROT	toaro	toaro	t oa r o	t oa r o	1333	1269	PARROT			
-13278	Sapiteri	PARROT	toaro	toaro	t oa r o	t oa r o	1333	1269	PARROT			
+12101	Paumari_1833	PARROT	weru	weru	w e ɾ u	w e ɾ u	1333	1269	PARROT			
+13277	Toyeri	PARROT	toaro	toaro	t oa ɾ o	t oa ɾ o	1333	1269	PARROT			
+13278	Sapiteri	PARROT	toaro	toaro	t oa ɾ o	t oa ɾ o	1333	1269	PARROT			
+13409	Katawishi	PARROT	obiru	obiru	o b i ɾ u	o b i ɾ u	1333	1269	PARROT			
 10542	Proto-Arawan	IMBAUBA	ɓoko	ɓoko	ɓ o k o	ɓ o k o - - - -	35	35	IMBAUBA			
 10719	Proto-Arawan	PAJURÁ	majo	majo	m a j o	m a j o	988	922	PAJURA			
 11235	Jarawara	PAJURÁ	majo	majo	m a j o	m a j o	988	922	PAJURA			
@@ -4763,6 +4810,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11234	Jarawara	WOOD	awa	awa	a w a	a w a	948	537	TREE			
 11676	Jamamadi	WOOD	awa	awa	a w a	a w a	948	537	TREE			
 12297	Kulina	WOOD	awa	awa	a w a	a w a	948	537	TREE			
+13393	Katawishi	WOOD	ishi wehi	ishi wehi	i ʃ i + w e h i	i ʃ i + w e h i	2093	2099 2100	WOOD ?			
 10752	Banawa	SEPARATE	kosei	kosei	k o s ei	k o s ei	950	908	SEPARATE			
 11232	Sorowaha	SEPARATE	hɨkagɨːra	hɨkagɨːra	h ɨ k a g ɨː r a	h ɨ k a g ɨː r a	1144	1102	SEPARATE			
 11233	Jarawara	SEPARATE	tani	tani	t a n i	t a n i	1145	1103	SEPARATE			
@@ -4791,7 +4839,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11228	Jarawara	KICK	taro	taro	t a r o	t a r o	956	914	KICK			
 11730	Paumari	KICK	akaʔdira	akaʔdira	a k a ʔ ɗ i r a	a k a ʔ ɗ i r a	1330	1265	KICK			
 10777	Proto-Arawan	CULTIVATED FIELD	padara	padara	p a d a r a	p a d a r a	1138	1095	SLASH			
-10935	Amarakaeri	CULTIVATED FIELD	taʔmba	taʔmba	t a ʔ + m/b a	t a ʔ + m/b a	1003	960 961	? ?			
+10935	Amarakaeri	CULTIVATED FIELD	taʔmba	taʔmba	t a ʔ m/b a	t a ʔ m/b a	1003	960 961	SWIDDEN ?			
 11223	Sorowaha	CULTIVATED FIELD	hadara	hadara	h a d a r a	h a d a r a	1138	1095	SLASH			
 11224	Jarawara	CULTIVATED FIELD	awa / fatara / tafe	awa	a w a	a w a	1139	1096	SLASH			
 11225	Jarawara	CULTIVATED FIELD	awa / fatara / tafe	fatara	ɸ a t a r a	ɸ a t a r a	1138	1095	SLASH			
@@ -4822,7 +4870,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11939	Jamamadi	STRONG	kita	kita	k i t a	k i t a	1114	1072	STRONG			
 12288	Kulina	STRONG	dako	dako	d a k o	d a k o	1590	1572	STRONG			
 13283	Toyeri	STRONG	wateteŋna	wateteŋna	w a t e t e ŋ + n a	w a t e t e ŋ + n a	1955	1939 2060	? ?			
-13284	Sapiteri	STRONG	wateteŋnda	wateteŋnda	w a t e t e ŋ + n/d a	w a t e t e ŋ + n/d a	1955	1939 2060	? ?			
+13284	Sapiteri	STRONG	wateteŋnda	wateteŋnda	w a t e t e ŋ + n/d a	w a t e t e ŋ + n/d a	1955	1939 1631	? ?			
 10910	Amarakaeri	MEET	ndeh	ndeh	n/d e h	n/d e h	978	936	MEET			
 11144	Sorowaha	MEET	tiene	tiene	t ie n e	t ie n e	1111	1070	MEET			
 11705	Paumari	MEET	jora	jora	dʒ o r a	dʒ o r a	1155	1219	MEET			
@@ -4965,6 +5013,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11911	Deni	ANACONDA (WATER BOA)	makʰabuvana / makʰapʰuve	makʰabuvana	m a kʰ a + b u v a n a	m a kʰ a + b u v a n a	1089	288 1416	SNAKE ?			
 11912	Deni	ANACONDA (WATER BOA)	makʰabuvana / makʰapʰuve	makʰapʰuve	m a kʰ a + pʰ u v e	m a kʰ a + pʰ u v e	1089	288 1418	SNAKE ?			
 11913	Kulina	ANACONDA (WATER BOA)	makʰape	makʰape	m a kʰ a + p e	m a kʰ a + p e	1089	288 1418	SNAKE ?			
+13399	Katawishi	ANACONDA (WATER BOA)	itiu	itiu	i t i + u	i t i + u	2099	2108 2109	? ?			
 11156	Jarawara	TAYRA	sawa	sawa	s a w a	s a w a	1090	1049	TAYRA			
 11654	Jamamadi	TAYRA	sawa	sawa	s a w a	s a w a	1090	1049	TAYRA			
 11909	Deni	TAYRA	sʰava	sʰava	sʰ a v a	sʰ a v a	1090	1049	TAYRA			
@@ -4974,9 +5023,10 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11590	Banawa	BLUE-AND-YELLOW MACAW (Ara ararauna)	amako	amako	a m a k o	a m a k o	1218	1184	BLUE.MACAW			
 11687	Paumari	BLUE-AND-YELLOW MACAW (Ara ararauna)	karaʔimaro	karaʔimaro	k a r a ʔ i m a r o	k a r a ʔ i m a r o	1319	1215	BLUE.MACAW			
 11688	Sorowaha	BLUE-AND-YELLOW MACAW (Ara ararauna)	kamawaku	kamawaku	k a m a w a k u	k a m a w a k u	1218	1184	BLUE.MACAW			
-11905	Deni	BLUE-AND-YELLOW MACAW (Ara ararauna)	waha	waha	w a h a	w a h a	1438	1414	MACAW			
-11906	Kulina	BLUE-AND-YELLOW MACAW (Ara ararauna)	waha	waha	w a h a	w a h a	1438	1414	MACAW			
+11905	Deni	BLUE-AND-YELLOW MACAW (Ara ararauna)	waha	waha	w a h a	w a h a	1438	1414	BLUE.MACAW			
+11906	Kulina	BLUE-AND-YELLOW MACAW (Ara ararauna)	waha	waha	w a h a	w a h a	1438	1414	BLUE.MACAW			
 12100	Paumari_1833	BLUE-AND-YELLOW MACAW (Ara ararauna)	aruta pururuke	aruta pururuke	a r u t a + p u r u r u k e	a r u t a + p u r u r u k e	1499	1479 1014	RED.MACAW BLACK			
+13410	Katawishi	BLUE-AND-YELLOW MACAW (Ara ararauna)	babaha	babaha	b a b a h a	b a b a h a	2109	2119	BLUE.MACAW			
 11619	Jarawara	SATIATED	akara	akara	a k a r a	a k a r a	1268	1193	SATIATED			
 11620	Banawa	SATIATED	akara	akara	a k a r a	a k a r a	1268	1193	SATIATED			
 11684	Sorowaha	SATIATED	iganata	iganata	i g a n a t a	i g a n a t a	1318	1214	SATIATED			
@@ -5013,6 +5063,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11896	Deni	TELL	ima	ima	i m a	i m a	1433	1410	TELL			
 11897	Kulina	TELL	wati	wati	w a t̪ i	w a t̪ i	1434	1411	TELL			
 12487	Jamamadi	TELL	sãpire	sãpire	s ã p i r e	s ã p i r e	1728	1721	TELL			
+13369	Amarakaeri	TELL	embatsiapak	embatsiapak	e + m/b a + t i + a + p a k	e + m/b a + t i + a + p a k	934	1603 1639 1640 1667 1596	_NOMINALIZER VERBAL.PLURAL UP SAY VERBALIZER			Tell stories
 11715	Banawa	FAT (OBESE)	ima	ima	i m a	- i m a	1302	1249	FAT			
 11722	Paumari	FAT (OBESE)	basina	basina	b a s i n a	b a s i n a	319	783	FAT			
 11723	Sorowaha	FAT (OBESE)	amuzɨ	amuzɨ	a m u z ɨ	a m u z ɨ	825	1029	FAT			
@@ -5040,8 +5091,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11828	Paumari_1833	MILK	ama	ama	a m a	a m a	1397	1364	MILK			
 11829	Paumari	MILK	dʒoho	dʒoho	dʒ o h o	dʒ o h o	1396	262	BREAST			
 11830	Banawa	MILK	jowa fai	jowa fai	j o w a + ɸ ai	j o w a + ɸ ai	1396	262 1363	BREAST LIQUID			
-12484	Apurinã	MILK	tenuã pẽ	tenuã pẽ	t e n u + p ẽ	t e n u + p ẽ	1725	1718 1363	BREAST LIQUID			
+12484	Apurinã	MILK	tenuã pẽ	tenuã pẽ	t e n u + p ẽ	t e n u + p ẽ	1725	1718 1363	BREAST LIQUID			
 12534	Jamamadi	MILK	johari ɸahi	johari ɸahi	j o h a r i + ɸ a h i	j o h a r i + ɸ a h i	1396	262 1363	BREAST  LIQUID			
+13382	Katawishi	MILK	kau iha	kau iha	k au + i h a	k au + i h a	2083	2086 2087	? ?			
 11840	Kulina	LIGHTNING	sʰisʰiede	sʰisʰiede	tsʰ i tsʰ ie d e	tsʰ i tsʰ ie d e	1407	1379	LIGHTNING			Also species of firefly
 11841	Jarawara	LIGHTNING	bahi	bahi	b a h i	b a h i	1408	216	THUNDER			
 11842	Sorowaha	LIGHTNING	baai	baai	b aː i	b aː i	1408	216	THUNDER			
@@ -5049,11 +5101,14 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11844	Paumari_1833	LIGHTNING	isadɨ	isadɨ	i s a d ɨ	i s a d ɨ	1407	1379	LIGHTNING			
 11845	Banawa	LIGHTNING	mai ebenei	mai ebenei	m ai + e b e n ei	m ai + e b e n ei	1409	216 1385	THUNDER FLASH			
 11846	Deni	LIGHTNING	zibe	zibe	dz i b e	dz i b e	1410	1384	LIGHTNING			
-12184	Paumari	PUMPKIN	joroma	joroma	dʒ o r o m a	dʒ o r o m a	1531	1510	PUMPKIN		YES	From Língua Geral
-12185	Kulina	PUMPKIN	zirimo	zirimo	z i r i m o	z i r i m o	1531	1510	PUMPKIN		YES	From Língua Geral
-13295	Toyeri	PUMPKIN	karudⁿ	karudⁿ	k a r u dⁿ	k a r u dⁿ	1950	1934	PUMPKIN			
+13389	Katawishi	LIGHTNING	domahan	domahan	d o m a h a n	d o m a h a n	2089	2095	THUNDER			
+12184	Paumari	PUMPKIN	joroma	joroma	dʒ o ɾ o m a	dʒ o ɾ o m a	1531	1510	PUMPKIN		YES	From Língua Geral
+12185	Kulina	PUMPKIN	zirimo	zirimo	z i ɾ i m o	z i ɾ i m o	1531	1510	PUMPKIN		YES	From Língua Geral
+13295	Toyeri	PUMPKIN	karudⁿ	karudⁿ	k a ɾ u dⁿ	k a ɾ u dⁿ	1950	1934	PUMPKIN			
+13408	Katawishi	PUMPKIN	ara	ara	a ɾ a	a ɾ a	2108	2118	PUMPKIN			
 12186	Paumari	TAPIOCA	puʔusuku	puʔusuku	p u ʔ u s u k u	p u ʔ u s u k u	1532	1512	TAPIOCA			
 12483	Apurinã	TAPIOCA	nakanhi	nakanhi	n a k a n h i	n a k a n h i	1724	1717	TAPIOCA			
+13417	Katawishi	TAPIOCA	tasimi	tasimi	t a s i m i	t a s i m i	2116	2126	TAPIOCA			
 12188	Deni	BLOWGUN	karibehe	karibehe	k a r i b e h e	k a r i b e h e	1533	749	BLOWGUN			
 12189	Jarawara	BLOWGUN	karaboha	karaboha	k a r a b o h a	k a r a b o h a	1533	749	BLOWGUN			
 12190	Sorowaha	BLOWGUN	tiuhu	tiuhu	t iu h u	t iu h u	1534	1513	BLOWGUN			
@@ -5098,6 +5153,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12644	Kulina	BASKET	kiki	kiki	k i k i	k i k i	1798	1784	BASKET			
 12696	Paumari	BASKET	dʒamaʃi / βaradʒa	dʒamaʃi	dʒ a m a ʃ i	dʒ a m a ʃ i	1812	1798	BASKET			
 12697	Paumari	BASKET	dʒamaʃi / βaradʒa	βaradʒa	β a r a dʒ a	β a r a dʒ a	1813	1799	BASKET			
+13420	Katawishi	BASKET	basala	basala	b a s a l a	b a s a l a	2119	2129	BASKET			
 12611	Jamamadi	BEGIN	jana	jana	j a n a	j a n a	1783	1769	BEGIN			
 12612	Banawa	BEGIN	jana	jana	j a n a	j a n a	1783	1769	BEGIN			
 12613	Jarawara	BEGIN	jana	jana	j a n a	j a n a	1783	1769	BEGIN			
@@ -5193,10 +5249,12 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12705	Banawa	FEEL HURT	koma	koma	k o m a	k o m a	1817	273	PAIN			
 12706	Jarawara	FIGHT	mono	mono	m o n o	m o n o	1818	1803	FIGHT			
 12707	Jamamadi	FIGHT	mono	mono	m o n o	m o n o	1818	1803	FIGHT			
+13364	Apurinã	FIGHT	tʃita	tʃita	tʃ i t a	tʃ i t a	2074	2074	FIGHT			
 12709	Jarawara	FIND	wasi	wasi	w a s i	w a s i	1819	1804	FIND			
 12711	Jamamadi	FIND	wasi	wasi	w a s i	w a s i	1819	1804	FIND			
 12712	Banawa	FIND	wasi	wasi	w a s i	w a s i	1819	1804	FIND			
 12868	Jarawara	FIND	dʒora	dʒora	dʒ o r a	dʒ o r a	1890	1870	FIND			
+13363	Apurinã	FIND	apoka	apoka	a p o k a	a p o k a	2073	2073	FIND			
 12713	Jarawara	FLU	ito	ito	i t o	i t o	1820	1805	FLU			
 12714	Jamamadi	FLU	widaha	widaha	w i d a h a	w i d a h a	1821	1806	FLU			
 12875	Paumari	FLU	oho	oho	o h o	o h o	1894	1874	FLU			
@@ -5221,6 +5279,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12730	Jamamadi	GRANDMOTHER	aki	aki	a k i	a k i	1826	1810	GRANDMOTHER			
 12731	Banawa	GRANDMOTHER	aki	aki	a k i	a k i	1826	1810	GRANDMOTHER			
 12940	Paumari	GRANDMOTHER	ʔarahoni	ʔarahoni	ʔ a r a h o n i	ʔ a r a h o n i	1911	1892	GRANDMOTHER			
+13362	Apurinã	GRANDMOTHER	akuro	akuro	a k u r o	a k u r o	2072	2072	GRANDMOTHER			
 12732	Jarawara	GRAVE	tame	tame	t a m e	t a m e	1827	1811	GRAVE			tame/temene
 12733	Jamamadi	GRAVE	tame	tame	t a m e	t a m e	1827	1811	GRAVE			tame/temene
 12734	Banawa	GRAVE	tame	tame	t a m e	t a m e	1827	1811	GRAVE			tame/temene
@@ -5234,9 +5293,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12943	Paumari	GROW	aβidʒava	aβidʒava	a β i dʒ a v a	a β i dʒ a v a	1914	1895	GROW			
 13306	Toyeri	GROW	ekerek	ekerek	e k e r e k	e k e r e k	1946	1929	GROW			
 13307	Sapiteri	GROW	ekerek	ekerek	e k e r e k	e k e r e k	1946	1929	GROW			
+13361	Apurinã	GROW	pitʃeka	pitʃeka	p i tʃ e k a	p i tʃ e k a	2071	2071	GROW			
 12740	Jarawara	HATE	kaako	kaako	k aa k o	k aa k o	1829	1813	HATE			
 12741	Jamamadi	HATE	kako	kako	k a k o	k a k o	1829	1813	HATE			
 12742	Banawa	HATE	kako	kako	k a k o	k a k o	1829	1813	HATE			
+13360	Apurinã	HATE	manatiniri	manatiniri	m a n a t i n i r i	m a n a t i n i r i	2070	2070	HATE			
 12761	Jarawara	HAVE	kiha	kiha	k i h a	k i h a	1845	1829	HAVE			
 12762	Jamamadi	HAVE	kiha	kiha	k i h a	k i h a	1845	1829	HAVE			
 12763	Banawa	HAVE	kia	kia	k ia	k ia	1845	1829	HAVE			
@@ -5247,8 +5308,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12766	Jarawara	HIDE	kehemo	kehemo	k e h e m o	k e h e m o	1847	1831	HIDE			
 12767	Jamamadi	HIDE	kemo	kemo	k e m o	k e m o	1847	1831	HIDE			
 12768	Banawa	HIDE	kemo	kemo	k e m o	k e m o	1847	1831	HIDE			
-13310	Toyeri	HIDE	etšitšika	etšitšika	e tʃ i tʃ i k a	e tʃ i tʃ i k a	1944	1927	HIDE			
-13311	Sapiteri	HIDE	etšitšika	etšitšika	e tʃ i tʃ i k a	e tʃ i tʃ i k a	1944	1927	HIDE			
+13310	Toyeri	HIDE	etšitšika	etšitšika	e tʃ i tʃ i k a	e tʃ i tʃ i k a	1944	1927	HIDE			
+13311	Sapiteri	HIDE	etšitšika	etšitšika	e tʃ i tʃ i k a	e tʃ i tʃ i k a	1944	1927	HIDE			
+13359	Apurinã	HIDE	inakaanatina	inakaanatina	i n a k aː n a t i n a	i n a k aː n a t i n a	2069	2069	HIDE			
 12769	Jarawara	HORNED SCREAMER (BIRD)	amiko	amiko	a m i k o	a m i k o	1848	1832	HORNED.SCREAMER			
 12770	Jamamadi	HORNED SCREAMER (BIRD)	amiko	amiko	a m i k o	a m i k o	1848	1832	HORNED.SCREAMER			
 12771	Banawa	HORNED SCREAMER (BIRD)	amiko	amiko	a m i k o	a m i k o	1848	1832	HORNED.SCREAMER			
@@ -5256,6 +5318,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12773	Jarawara	INTESTINES	joti	joti	j o t i	j o t i	1849	1833	INTESTINES			joti/joto
 12774	Jamamadi	INTESTINES	joti	joti	j o t i	j o t i	1849	1833	INTESTINES			joti/joto
 12951	Paumari	INTESTINES	kaidʒo	kaidʒo	k a i dʒ o	k a i dʒ o	1922	1903	INTESTINES			
+13358	Apurinã	INTESTINES	tikaputsa	tikaputsa	t i k a + p u ts a	t i k a + p u ts a	2068	2067 2068	EXCREMENT LIANA			
 12775	Jarawara	LARGE BASKET	isiri	isiri	i s i r i	i s i r i	1850	1767	BASKET			
 12776	Banawa	LARGE BASKET	isiri	isiri	i s i r i	i s i r i	1850	1767	BASKET			
 12777	Jamamadi	LIE (FALSEHOOD)	kejehe	kejehe	k e j e h e	k e j e h e	1851	1834	LIE			
@@ -5267,22 +5330,27 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12782	Banawa	DWELL (LIVE, RESIDE)	wina	wina	w i n a	w i n a	1852	1835	LIVE			
 13312	Toyeri	DWELL (LIVE, RESIDE)	eheika	eheika	e h ei k a	e h ei k a	1943	1926	LIVE			
 13313	Sapiteri	DWELL (LIVE, RESIDE)	eheika	eheika	e h ei k a	e h ei k a	1943	1926	LIVE			
+13357	Apurinã	DWELL (LIVE, RESIDE)	awa	awa	a w a	a w a	2067	2066	LIVE			
 12783	Jarawara	LOOK AT	kii	kii	k ii	k ii	1853	1836	LOOK.AT			
 12784	Jamamadi	LOOK AT	kii	kii	k ii	k ii	1853	1836	LOOK.AT			
 12785	Banawa	LOOK AT	kii	kii	k ii	k ii	1853	1836	LOOK.AT			
-13314	Sapiteri	LOOK AT	etšahaja	etšahaja	e tʃ a h a j a	e tʃ a h a j a	1942	1925	LOOK.AT			
+13314	Sapiteri	LOOK AT	etšahaja	etšahaja	e tʃ a h a j a	e tʃ a h a j a	1942	1925	LOOK.AT			
+13356	Apurinã	LOOK AT	aõku	aõku	aõ k u	aõ k u	2066	2065	LOOK.AT			
 12786	Jarawara	MATERNAL AUNT (MOTHER'S SISTER)	amise	amise	a m i s e	a m i s e	1854	1837	MOTHER’S.SISTER			
 12787	Jamamadi	MATERNAL AUNT (MOTHER'S SISTER)	amise	amise	a m i s e	a m i s e	1854	1837	MOTHER’S.SISTER			
 12788	Banawa	MATERNAL AUNT (MOTHER'S SISTER)	amise	amise	a m i s e	a m i s e	1854	1837	MOTHER’S.SISTER			
+13355	Apurinã	MATERNAL AUNT (MOTHER'S SISTER)	unurota	unurota	u n u r o t a	u n u r o t a	2065	2064	MOTHER’S.SISTER			
 12789	Jarawara	MOVE AWAY	bana	bana	b a n a	b a n a	1855	1838	MOVE.AWAY			
 12790	Jamamadi	MOVE AWAY	bana	bana	b a n a	b a n a	1855	1838	MOVE.AWAY			
 12791	Banawa	MOVE AWAY	bana	bana	b a n a	b a n a	1855	1838	MOVE.AWAY			
 12792	Jarawara	OPEN	see	see	s ee	s ee	1856	1839	OPEN			
 12793	Jamamadi	OPEN	see	see	s ee	s ee	1856	1839	OPEN			
 12794	Banawa	OPEN	see	see	s ee	s ee	1856	1839	OPEN			
+13354	Apurinã	OPEN	kaurukatataka	kaurukatataka	k au r u k a t a t a k a	k au r u k a t a t a k a	2064	2063	OPEN			Open door
 12795	Jarawara	PASS	ɸija	ɸija	ɸ i j a	ɸ i j a	1857	1840	PASS			
 12796	Jamamadi	PASS	ɸija	ɸija	ɸ i j a	ɸ i j a	1857	1840	PASS			
 12797	Banawa	PASS	ɸija	ɸija	ɸ i j a	ɸ i j a	1857	1840	PASS			
+13353	Apurinã	PASS	napa	napa	n a p a	n a p a	2063	2062	PASS			
 12798	Jarawara	POND	tikori	tikori	t i k o r i	t i k o r i	1858	1841	POND			
 12799	Banawa	POND	tiko	tiko	t i k o	t i k o	1858	1841	POND			
 13326	Sorowaha	POND	taki	taki	t a k i	t a k i	1941	1924	POND			
@@ -5292,9 +5360,11 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12803	Jarawara	PULL UP	bore	bore	b o r e	b o r e	1860	221	PULL			
 12804	Jamamadi	PULL UP	bore	bore	b o r e	b o r e	1860	221	PULL			
 12805	Banawa	PULL UP	bore	bore	b o r e	b o r e	1860	221	PULL			
+13352	Apurinã	PULL UP	maporoka	maporoka	m a p o r o k a	m a p o r o k a	2014	2061	PULL			
 12806	Jamamadi	PUSH AWAY	ɸata	ɸata	ɸ a t a	ɸ a t a	1861	1842	PUSH.AWAY			
 12807	Jarawara	PUSH AWAY	ɸata	ɸata	ɸ a t a	ɸ a t a	1861	1842	PUSH.AWAY			
 13315	Sapiteri	PUSH AWAY	etandere	etandere	e t a n/d e r e	e t a n/d e r e	1940	1923	PUSH.AWAY			
+13351	Apurinã	PUSH AWAY	katika	katika	k a t i k a	k a t i k a	1276	1276	PUSH			
 12808	Jarawara	RESULT	ihi	ihi	i h i	i h i	1862	1843	RESULT			ihi/ehene
 12809	Banawa	RESULT	ii	ii	ii	ii	1862	1843	RESULT			ii/eene
 12810	Jamamadi	RESULT	ihi	ihi	i h i	i h i	1862	1843	RESULT			ihi/ene
@@ -5305,7 +5375,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12815	Jamamadi	SCRAPE	sowe	sowe	s o w e	s o w e	1864	1844	SCRAPE			
 12816	Banawa	SCRAPE	soe	soe	s oe	s oe	1864	1844	SCRAPE			
 13333	Sorowaha	SCRAPE	siwaki	siwaki	s i w a k i	s i w a k i	1864	1844	SCRAPE			
-13339	Apurinã	SCRAPE	kiʃẽĩ	kiʃẽĩ	k i ʃ ẽĩ	k i ʃ ẽĩ	2052	2038	SCRAPE			
+13339	Apurinã	SCRAPE	kiʃẽĩ	kiʃẽĩ	k i ʃ ẽĩ	k i ʃ ẽĩ	2052	2038	SCRAPE			
 12817	Jarawara	SEARCH FOR	siba	siba	s i b a	s i b a	1865	1845	SEARCH			
 12818	Jamamadi	SEARCH FOR	siba	siba	s i b a	s i b a	1865	1845	SEARCH			
 12819	Banawa	SEARCH FOR	siba	siba	s i b a	s i b a	1865	1845	SEARCH			
@@ -5363,3 +5433,5 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 13322	Toyeri	WORK ON	embaha	embaha	e m/b a h a	e m/b a - - h a	1615	1917	WORK.ON			
 13323	Sapiteri	WORK ON	embaha / embapiha	embaha	e m/b a h a	e m/b a - - h a	1615	1917	WORK.ON			
 13324	Sapiteri	WORK ON	embaha / embapiha	embapiha	e m/b a p i h a	e m/b a p i h a	1615	1917	WORK.ON			
+13370	Arasairi	GREEN	wakibei	wakibei	w a k i b ei	w a k i b ei	1647	1635	BLUE_GREEN			
+13371	Amarakaeri	GREEN	wakiwei	wakiwei	w a k i w ei	w a k i w ei	1647	1635	BLUE_GREEN			
