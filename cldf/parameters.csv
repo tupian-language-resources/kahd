@@ -209,7 +209,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Number,Semantic_Field
 215_ground,GROUND,2159,GROUND,,
 216_growl,GROWL,3679,GROWL,,
 217_guan,GUAN,437,GUAN,,
-218_guava,GUAVA,3981,GUAVA,,
+218_guava,GUAVA,,,,
 219_hair,HAIR,1040,HAIR,,
 220_hammock,HAMMOCK,2019,HAMMOCK,,
 221_hand,HAND,1277,HAND,,
