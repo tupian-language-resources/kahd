@@ -1,6 +1,21 @@
 # Error Analysis for ARAWA
+* ALIGNMENT empty 961
 * BIBTEX MISSING 
 * CONCEPT MANIOC
 * CONCEPT RED-AND-GREEN MACAW (Ara chloropterus)
+* LENGTH: 10935 Amarakaeri CULTIVATED FIELD
+* LENGTH: 10950 Amarakaeri SMOKE (EXHAUST)
+* LENGTH: 12036 Arasairi BARK
+* LENGTH: 12379 Arasairi SON
+* LENGTH: 12380 Arasairi SHIT (DEFECATE)
+* LENGTH: 12383 Arasairi THROAT
+* LENGTH: 13373 Katawishi SON
+* LENGTH: 13378 Katawishi FINGER
+* LENGTH: 13392 Katawishi LAKE
+* LENGTH: 13425 Katawishi HAIR
+* SOUND: dn
 * SOUND: eⁿ
+* SOUND: gŋ
+* SOUND: he
 * SOUND: iʰ
+* SOUND: ti

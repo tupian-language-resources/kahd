@@ -27,22 +27,22 @@ Conceptlists in Concepticon:
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 18
-- **Concepts:** 677
-- **Lexemes:** 5,340
-- **Sources:** 35
+- **Concepts:** 678
+- **Lexemes:** 5,395
+- **Sources:** 36
 - **Synonymy:** 1.10
-- **Cognacy:** 5,609 cognates in 2,052 cognate sets (985 singletons)
-- **Cognate Diversity:** 0.29
+- **Cognacy:** 5,735 cognates in 2,121 cognate sets (1,056 singletons)
+- **Cognate Diversity:** 0.31
 - **Invalid lexemes:** 0
-- **Tokens:** 26,508
-- **Segments:** 138 (0 BIPA errors, 0 CLTS sound class errors, 138 CLTS modified)
-- **Inventory size (avg):** 38.17
+- **Tokens:** 26,887
+- **Segments:** 136 (0 BIPA errors, 0 CLTS sound class errors, 136 CLTS modified)
+- **Inventory size (avg):** 38.50
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 322/5340 (6.03%)
+- Entries missing sources: 337/5395 (6.25%)
 
 # Contributors
 

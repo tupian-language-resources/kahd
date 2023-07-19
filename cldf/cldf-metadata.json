@@ -17,7 +17,7 @@
         {
             "rdf:about": "git@github.com:tupian-language-resources/kahd",
             "rdf:type": "prov:Entity",
-            "dc:created": "0.9-6-g64bcb39",
+            "dc:created": "0.9-10-gb043e2b",
             "dc:title": "Repository"
         },
         {
@@ -58,7 +58,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 5340,
+            "dc:extent": 5395,
             "tableSchema": {
                 "columns": [
                     {
@@ -248,7 +248,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 677,
+            "dc:extent": 678,
             "tableSchema": {
                 "columns": [
                     {
@@ -288,7 +288,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#CognateTable",
-            "dc:extent": 5609,
+            "dc:extent": 5735,
             "tableSchema": {
                 "columns": [
                     {
