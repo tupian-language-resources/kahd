@@ -1,4 +1,4 @@
-# Katukinan-Arawan-Harakmbut Database (KAHD)
+# Katukinan-Arawan-Apurinã-Harakmbut Database (KAHD)
 
 ## How to cite
 
