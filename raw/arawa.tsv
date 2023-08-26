@@ -246,7 +246,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 433	Deni	SCROTUM	denephe / nephe	denephe	d e n e p h e	d e n e p h e	40	40	SCROTUM			
 571	Deni	SCROTUM	denephe / nephe	nephe	n e p h e	- - n e p h e	375	360	SCROTUM			
 728	Jamamadi	SCROTUM	dane	dane	d a n e	d a n e - - -	40	40	SCROTUM			dane/dene
-1049	Jarawara	SCROTUM	tane	tane	t a n e	t a n e 	40	40	SCROTUM			tane/tenehe
+1049	Jarawara	SCROTUM	tane	tane	t a n e	t a n e	40	40	SCROTUM			tane/tenehe
 1425	Kulina	SCROTUM	dɛnɛpʰɛ / nɛpʰɛ	dɛnɛpʰɛ	d ɛ n ɛ pʰ ɛ	d ɛ n ɛ pʰ - ɛ	40	40	SCROTUM			
 1588	Kulina	SCROTUM	dɛnɛpʰɛ / nɛpʰɛ	nɛpʰɛ	n ɛ pʰ ɛ	- - n ɛ pʰ - ɛ	375	360	SCROTUM			
 1806	Paumari	SCROTUM	nafa	nafa	n a f a	- - n a f a - - - -	375	360	SCROTUM			
@@ -515,7 +515,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12045	Arasairi	BLOOD	mimi	mimi	m i m i	m i m i	869	827	BLOOD			
 12915	Toyeri	BLOOD	mimi	mimi	m i m i	m i m i	869	827	BLOOD			
 12916	Sapiteri	BLOOD	mimi	mimi	m i m i	m i m i	869	827	BLOOD			
-13348	Apurinã	BLOOD	serẽkatʃi	serẽka(tʃi)	s e r ẽ k a tʃ i	s e r ẽ k a tʃ i	2060	2046	BLOOD			With tʃi = unpossessed 
+13348	Apurinã	BLOOD	serẽkatʃi	serẽka(tʃi)	s e r ẽ k a tʃ i	s e r ẽ k a tʃ i	2060	2046	BLOOD			With tʃi = unpossessed
 41	Banawa	BRANCH	ini	ini	i n i	i n i	251	251	BRANCH			
 315	Deni	BRANCH	ini	ini	i n i	i n i	251	251	BRANCH			
 648	Jamamadi	BRANCH	ini	ini	i n i	i n i	251	251	BRANCH			
@@ -1128,9 +1128,9 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10493	KatukinaBiá	LEAF	ba	ba	b a	b a	897	855	LEAF			
 10494	Kanamari	LEAF	ba	ba	b a	b a	897	855	LEAF			
 10798	Katawishi	LEAF	ba	ba	b a	b a	897	855	LEAF			
-12076	Arasairi	LEAF	uakketa / masíma 	uakketa	u a k k e t a	u a k k e t a	1505	1485	LEAF			
+12076	Arasairi	LEAF	uakketa / masíma	uakketa	u a k k e t a	u a k k e t a	1505	1485	LEAF			
 12077	Arasairi	LEAF	masíma	masíma	m a s i m a	m a s i m a	1506	1486	LEAF			
-12980	Toyeri	LEAF	wakʉta	wakʉta	w a + k ʉ t a	w a + k ʉ t a	1505	532 1485	_NOMINALIZER LEAF			'branch' rather than 'leaf'
+12980	Toyeri	LEAF	wakʉta	wakʉta	w a + k ʉ t a	w a + k ʉ t a	1505	532 1485	_NOMINALIZER LEAF			branch' rather than 'leaf'
 95	Banawa	LET'S GO	homa	homa	h o m a	h o m a	345	345	LET'S.GO			
 378	Deni	LET'S GO	hina	hina	h i n a	h i n a	345	345	LET'S.GO			
 695	Jamamadi	LET'S GO	hima	hima	h i m a	h i m a	345	345	LET'S.GO			
@@ -1332,7 +1332,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10638	Proto-Arawan	PALM TREE	ere / jani / jawana / kowasaki	jawana	j a w a n a	j a w a n a	87	87	PALM.SP.			
 10699	Proto-Arawan	PALM TREE	ere / jani / jawana / kowasaki	kowasaki	k o w a s a k i	k o w a s a k i	120	547	PALM.SP.			
 12983	Sapiteri	PALM TREE	tapori	tapori	t a p o r i	t a p o r i	2012	1997	PALM.SP.			
-13545	Amarakaeri	PALM TREE	ho / witpi / arongka / kodnda	arongka 	a r o ŋ k a	a r o ŋ k a	2222	2230	PALM.SP.			Urucuri Palm
+13545	Amarakaeri	PALM TREE	ho / witpi / arongka / kodnda	arongka	a r o ŋ k a	a r o ŋ k a	2222	2230	PALM.SP.			Urucuri Palm
 116	Banawa	PATH OR ROAD	hawi	hawi	h a w i	h a w i - -	238	238	PATH			
 409	Deni	PATH OR ROAD	hawi	hawi	h a w i	h a w i - -	238	238	PATH			
 718	Jamamadi	PATH OR ROAD	hawi	hawi	h a w i	h a w i - -	238	238	PATH			
@@ -1758,7 +1758,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1478	Kulina	KNOW	naʔato	naʔato	n a ʔ a t o	n a ʔ a t o	302	302	KNOW			
 10748	Proto-Arawan	KNOW	nawato	nawato	n a w a t o	n a w a t o	302	302	KNOW			
 11278	Sorowaha	KNOW	takunɨri	takunɨri	t a k u n ɨ r i	t a k u n ɨ r i	1167	1135	KNOW			
-12132	Arasairi	KNOW	ijei	ijei	i h e i	i - - h e i	1526	1506	KNOW			'I am'
+12132	Arasairi	KNOW	ijei	ijei	i h e i	i - - h e i	1526	1506	KNOW			I am'
 12953	Paumari	KNOW	oga	oga	o g a	o g a	1924	1904	KNOW			
 13017	Toyeri	KNOW	etahaj	etahaj	e + t a h a j	e + t a h a j	1526	1603 1506	_NOMINALIZER KNOW			
 13521	Amarakaeri	KNOW	enöpöë	enöpöë	e + n õ p õ ẽ	e + n õ p õ ẽ	2205	1603 2214	_NOMINALIZER KNOW			
@@ -2004,7 +2004,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12302	Kulina	YOUNGER SISTER	masʰi / kote / onii	kote	k o t e	k o t e	1601	1582	YOUNGER.SISTER			1st and 2nd possessor
 12303	Kulina	YOUNGER SISTER	masʰi / kote / onii	onii	o n iː	o n iː	363	357	YOUNGER.SISTER			3rd possessor
 12495	Deni	YOUNGER SISTER	karipene	karipene	k a r i p e n e	k a r i p e n e	1735	1728	YOUNGER.SISTER			
-13855	Amarakaeri	YOUNGER SISTER	widnpoyet /wamambuysipo	widnpoyet 	w i dn p o + j e t	w i dn p o + j e t	2276	2275 2257	OPPOSITE.SEX.SIBLING ?			male ego
+13855	Amarakaeri	YOUNGER SISTER	widnpoyet /wamambuysipo	widnpoyet	w i dn p o + j e t	w i dn p o + j e t	2276	2275 2257	OPPOSITE.SEX.SIBLING ?			male ego
 13856	Amarakaeri	YOUNGER SISTER	widnpoyet /wamambuysipo	wamambuysipo	w a + m a m/b u j + ʃ i p o	w a + m a m/b u j + ʃ i p o	2316	532 2272 2273	_NOMINALIZER SAME.SEX.SIBLING DIMINUTIVE			female ego
 180	Banawa	SEE	awa	awa	a w a	a w a	540	531	SEE			
 481	Deni	SEE	khi	khi	k h i	k h i	281	281	SEE			
@@ -2064,7 +2064,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1143	Jarawara	GRASSHOPPER	habise	habise	h a b i s e	h a b i s e	55	55	GRASSHOPPER.SP.			
 1539	Kulina	GRASSHOPPER	abitsʰa	abitsʰa	a b i tsʰ a	- a b i tsʰ - a	55	55	GRASSHOPPER.SP.			
 10579	Proto-Arawan	GRASSHOPPER	habitsʰe	habitsʰe	h a b i tsʰ e	h a b i tsʰ e	55	55	GRASSHOPPER.SP			
-12945	Paumari	GRASSHOPPER	ʔomaβari 	ʔomaβari 	ʔ o m a β a r i	ʔ o m a β a r i 	1917	1898	GRASSHOPPER.SP			
+12945	Paumari	GRASSHOPPER	ʔomaβari	ʔomaβari	ʔ o m a β a r i	ʔ o m a β a r i	1917	1898	GRASSHOPPER.SP			
 13659	Amarakaeri	GRASSHOPPER	sïrït	sïrït	s ĩ r ĩ t	s ĩ r ĩ t	2196	2204	GRASSHOPPER.SP.			
 187	Banawa	ROOT	habi	habi	h a b i	h a b i - -	56	56	ROOT			habi/habo
 520	Deni	ROOT	habo	habo	h a b o	h a b o - -	56	56	ROOT			
@@ -2194,7 +2194,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1686	Paumari	LIP	ihi	ihi	i h i	i h i	76	76	LIP			
 10615	Proto-Arawan	LIP	ijahi / ipo	ijahi	i j a h i	i j a h i	76	76	LIP			
 10622	Proto-Arawan	LIP	ijahi / ipo	ipo	i p o	i p o	76	76	LIP			
-12330	Arasairi	LIP	uakita	uakita	u a + k i t a	u a + k i t a	1620	532 1679	_NOMINALIZER MOUTH			'mouth'
+12330	Arasairi	LIP	uakita	uakita	u a + k i t a	u a + k i t a	1620	532 1679	_NOMINALIZER MOUTH			mouth'
 13523	Amarakaeri	LIP	wambogn	wambogn	w a + m/b o gŋ	w a + m/b o gŋ	2210	532 2219	_NOMINALIZER LIP			
 13873	Apurinã	LIP	poto	poto	p u t u	p u t u	2376		LIP			
 201	Banawa	LEG	isi	isi	i s i	i s i - - - - -	77	77	LEG			isi/iso
@@ -2850,7 +2850,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1832	Paumari	COLD	pahisiri	pahisiri	p a h i s i r i	p a h i s i r i - -	173	173	BE.COLD			
 10845	Proto-Arawan	COLD	tsʰiri	tsʰiri	tsʰ i r i	tsʰ i r i	173	173	BE.COLD			
 12356	Arasairi	COLD	jeje	jeje	h e h e	h e h e	1640	1623	COLD			
-13421	Katawishi	COLD	sa a	sa a	s a + a	 s a + a	2120	2130 2131	? ?			
+13421	Katawishi	COLD	sa a	sa a	s a + a	s a + a	2120	2130 2131	? ?			
 13470	Amarakaeri	COLD	käröng	käröng	k ã r õ ŋ	k ã r õ ŋ	2186	2191	COLD			
 13887	Sorowaha	COLD	tasaha	tasaha	t a s a h a	t a s a h a	2384	2361	COLD			
 287	Banawa	NAVEL	sobori	sobori	s o b o r i	s o b o r i	175	175	NAVEL			
@@ -2930,7 +2930,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11191	Proto-Arawan	BATHE	inaha	inaha	i nː a h a	i nː a h a	276	276	BATHE			
 11418	Jamamadi	BATHE	aɸi	aɸi	a ɸ i	a ɸ i	1096	2	WET			
 12361	Arasairi	BATHE	ejojo	ejojo	e + h o h o	e + h o h o	1644	1603 1627	_NOMINALIZER BATHE			
-13444	Amarakaeri	BATHE	ẽõʔõ	ẽõʔõ	ẽ + õ ʔ õ	 ẽ +  õ ʔ  õ	1644	1603 1627	_NOMINALIZER BATHE			
+13444	Amarakaeri	BATHE	ẽõʔõ	ẽõʔõ	ẽ + õ ʔ õ	ẽ +  õ ʔ  õ	1644	1603 1627	_NOMINALIZER BATHE			
 13976	KatukinaBiá	BATHE	kodi	kodi	k oː d i	k oː d i	2462	2422	BATHE			
 303	Deni	BEAK	bono	bono	b o n o	b o n o	33	33	BEAK			
 1280	Kulina	BEAK	bono	bono	b o n o	b o n o	33	33	BEAK			
@@ -3606,7 +3606,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1202	Jarawara	LEAF BUNDLE	taɸowe	taɸowe	t a ɸ o w e	t a ɸ o w e	409	409	LEAF.BUNDLE			
 10862	Proto-Arawan	LEAF BUNDLE	taphowe	taphowe	t a pʰ o w e	t a pʰ o w e	409	409	LEAF.BUNDLE			
 11507	Banawa	LEAF BUNDLE	taɸowe	taɸowe	t a ɸ o w e	t a ɸ o w e	409	409	LEAF.BUNDLE			
-13672	Amarakaeri	LEAF BUNDLE	emba embapadn	emba embapadn	e + m/b a  e + m/b a + p a dn 	e + m/b a  e + m/b a + p a dn 	2209	1603 855 2217 2218	_NOMINALIZER HAND _NOMINALIZER CLF:HAND BUNDLE			
+13672	Amarakaeri	LEAF BUNDLE	emba embapadn	emba embapadn	e + m/b a  e + m/b a + p a dn	e + m/b a  e + m/b a + p a dn	2209	1603 855 2217 2218	_NOMINALIZER HAND _NOMINALIZER CLF:HAND BUNDLE			
 583	Deni	GROWL	koro	koro	k o r o	k o r o - -	123	123	GROWL			
 1809	Paumari	GROWL	khororo	khororo	kʰ o r o r o	kʰ o r o r o	123	123	GROWL			
 10710	Proto-Arawan	GROWL	khororo	khororo	kʰ o r o r o	kʰ o r o r o	123	123	GROWL			
@@ -4482,7 +4482,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12249	Kulina	CLOTHES	etero	etero	e t e r o	e t e r o	1567	1548	CLOTHES			
 12442	Arasairi	CLOTHES	jørá	jørá	h ø r a	h ø r a	938	898	CLOTHES			
 13365	Apurinã	CLOTHES	mãkari / mãkatxi	mãkari	m ã k a + r i	m ã k a + r i	937	897 2075	CLOTHE ?			
-13467	Amarakaeri	CLOTHES	yudnta	yudnta	j ʉ dn t a	j ʉ dn t a 	2184	2189	CLOTHES			
+13467	Amarakaeri	CLOTHES	yudnta	yudnta	j ʉ dn t a	j ʉ dn t a	2184	2189	CLOTHES			
 13914	Apurinã	CLOTHES	mãkari / mãkatxi	mãkatxi	m ã k a + tʃ i	m ã k a + tʃ i	937	897 2366	CLOTHE ?			With absolute/non-possessed suffix -txi
 14030	KatukinaBiá	CLOTHES	kidapak	kidapak	k i d a p a k	k i d a p a k	2498	2458	CLOTHES			
 1986	Sorowaha	FLY	bihʲawa	bihʲawa	b i hʲ a w a	b i hʲ a w a	1258	1258	FLY			
@@ -4997,7 +4997,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11643	Banawa	MIDDLE	baikani	baikani	b ai k a n i	b ai k a n i	1299	1198	MIDDLE			
 11644	Jarawara	MIDDLE	baikani	baikani	b ai k a n i	b ai k a n i	1299	1198	MIDDLE			
 11645	Jamamadi	MIDDLE	bai	bai	b ai	b ai	1299	1198	MIDDLE			
-13646	Amarakaeri	MIDDLE	nöpöte	nöpöte	n õ p õ + t e	n õ p  õ + t e	2213	2223 2170	MIDDLE LOCATIVE			'in the middle'
+13646	Amarakaeri	MIDDLE	nöpöte	nöpöte	n õ p õ + t e	n õ p  õ + t e	2213	2223 2170	MIDDLE LOCATIVE			in the middle'
 10029	Sorowaha	TROWEL	agabɨsiiɾi	agabɨsiiɾi	a g a b ɨ s i + i ɾ i	a g a b ɨ s i + i ɾ i	649	607 608	? ?			
 10032	Sorowaha	PROCREATE	agja	agja	a g j a	a g j a	652	611	PROCREATE			
 10034	Sorowaha	UNTIE	agidʒawa / tabaɾu	agidʒawa	a g i dʒ a w a	a g i dʒ a w a	654	613	UNTIE			
@@ -5088,8 +5088,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12298	Kulina	YOUNGER BROTHER	tati / kote / owaa	tati	t a t i	t a t i	1600	1581	YOUNGER.BROTHER			Vocative
 12299	Kulina	YOUNGER BROTHER	tati / kote / owaa	kote	k o t e	k o t e	1599	1580	YOUNGER.BROTHER			1st 2nd person possessor
 12300	Kulina	YOUNGER BROTHER	tati / kote / owaa	owaa	o w aː	o w aː	1421	1397	BROTHER			3rd person possessor
-13853	Amarakaeri	YOUNGER BROTHER	widnpoyet / wamambuysipo	widnpoyet 	w i dn p o + j e t	w i dn p o + j e t	2251	2256 2257	OPPOSITE.SEX.SIBLING ?			female ego
-13858	Amarakaeri	YOUNGER BROTHER	widnpoyet /wamambuysipo	 wamambuysipo	w a + m a m/b u j + ʃ i p o	w a + m a m/b u j + ʃ i p o	2250	532 2272 2273	_NOMINALIZER SAME.SEX.SIBLING DIMINUTIVE			
+13853	Amarakaeri	YOUNGER BROTHER	widnpoyet / wamambuysipo	widnpoyet	w i dn p o + j e t	w i dn p o + j e t	2251	2256 2257	OPPOSITE.SEX.SIBLING ?			female ego
+13858	Amarakaeri	YOUNGER BROTHER	widnpoyet /wamambuysipo	wamambuysipo	w a + m a m/b u j + ʃ i p o	w a + m a m/b u j + ʃ i p o	2250	532 2272 2273	_NOMINALIZER SAME.SEX.SIBLING DIMINUTIVE			
 10069	Sorowaha	EDGE	ʃɨɾɨmi	ʃɨɾɨmi	ʃ ɨ ɾ ɨ m i	ʃ ɨ ɾ ɨ m i	702	645	EDGE			
 10071	Sorowaha	HOT	suku	suku	s u k u	s u k u	704	646	ROAST			
 10404	Amarakaeri	HOT	huk	huk	h u k	h u k	926	885	HOT.(WEATHER)			
@@ -5237,7 +5237,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 13269	Sapiteri	THREE	mbapa	mbapa	m/b a p a	m/b a p a -	907	867	THREE			
 10347	Deni	CEDAR	tsiburima	tsiburima	ts i b u r i m a	ts i b u r i m a	877	835	CEDAR			
 11250	Jarawara	CEDAR	wiɸi	wiɸi	w i ɸ i	w i ɸ i	1153	1113	CEDAR			
-11739	Paumari	CEDAR	katatopi kaavani 	katatopi kaavani 	k a t a t o p i + k aː β a n i	k a t a t o p i + k aː β a n i	1337	1287 1361	? ?			
+11739	Paumari	CEDAR	katatopi kaavani	katatopi kaavani	k a t a t o p i + k aː β a n i	k a t a t o p i + k aː β a n i	1337	1287 1361	? ?			
 12589	Jamamadi	CEDAR	wiɸi	wiɸi	w i ɸ i	w i ɸ i	1153	1113	CEDAR			
 12590	Banawa	CEDAR	wiɸi	wiɸi	w i ɸ i	w i ɸ i	1153	1113	CEDAR			
 10348	Deni	BRAZIL NUT (Bertholletia excelsa)	karu / nami wasazu	karu	k a r u	k a r u	878	836	BRAZIL.NUT			
@@ -5809,7 +5809,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12698	Banawa	ELBOW	jokori	jokori	j o k o r i	j o k o r i	1815	1801	ELBOW			
 13302	Toyeri	ELBOW	waokatapi	waokatapi	w a + o k a t a p i	w a + o k a t a p i	1948	532 1931	_NOMINALIZER ELBOW			
 13303	Sapiteri	ELBOW	waokatapi	waokatapi	w a + o k a t a p i	w a + o k a t a p i	1948	532 1931	_NOMINALIZER ELBOW			
-13486	Amarakaeri	ELBOW	wakotapi 	wakotapi 	w a + k o t a p i	w a + k o t a p i	1948	532 1931	_NOMINALIZER ELBOW			
+13486	Amarakaeri	ELBOW	wakotapi	wakotapi	w a + k o t a p i	w a + k o t a p i	1948	532 1931	_NOMINALIZER ELBOW			
 12699	Banawa	FAMILIAR SPIRIT	doni	doni	d o n i	d o n i	1816	1802	FAMILIAR.SPIRIT			
 12700	Jamamadi	FAMILIAR SPIRIT	doni	doni	d o n i	d o n i	1816	1802	FAMILIAR.SPIRIT			
 12701	Jarawara	FAMILIAR SPIRIT	toni	toni	t o n i	t o n i	1816	1802	FAMILIAR.SPIRIT			
@@ -6031,4 +6031,4 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 13324	Sapiteri	WORK ON	embaha / embapiha	embapiha	e + m/b a p i h a	e + m/b a p i h a	1615	1603 1917	_NOMINALIZER WORK.ON			
 13609	Amarakaeri	WORK ON	embaʔa	embaʔa	e + m/b a ʔ a	e + m/b a ʔ a	1615	1603 1917	_NOMINALIZER WORK.ON			
 13370	Arasairi	GREEN	wakibei	wakibei	w a + k i b ei	w a + k i b ei	1647	532 1635	_NOMINALIZER BLUE_GREEN			
-13371	Amarakaeri	GREEN	wakiwei	wakiwei	w a + k i w ei	w a + k i w ei	1647	532 1635	    
+13371	Amarakaeri	GREEN	wakiwei	wakiwei	w a + k i w ei	w a + k i w ei	1647	532 1635				
