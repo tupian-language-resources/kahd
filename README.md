@@ -1,4 +1,4 @@
-# Katukinan-Arawan-Apurinã-Harakmbut Database (KAAHD)
+# Katukinan-Arawan-Harakmbut Database (KAHD)
 
 ## How to cite
 
@@ -20,29 +20,29 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-![Glottolog: 92%](https://img.shields.io/badge/Glottolog-92%25-green.svg "Glottolog: 92%")
-![Concepticon: 88%](https://img.shields.io/badge/Concepticon-88%25-yellowgreen.svg "Concepticon: 88%")
+![Glottolog: 91%](https://img.shields.io/badge/Glottolog-91%25-green.svg "Glottolog: 91%")
+![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
 ![Source: 94%](https://img.shields.io/badge/Source-94%25-green.svg "Source: 94%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 18
-- **Concepts:** 678
-- **Lexemes:** 5,395
+- **Concepts:** 677
+- **Lexemes:** 5,822
 - **Sources:** 36
 - **Synonymy:** 1.10
-- **Cognacy:** 5,735 cognates in 2,121 cognate sets (1,056 singletons)
-- **Cognate Diversity:** 0.31
+- **Cognacy:** 6,710 cognates in 2,401 cognate sets (1,271 singletons)
+- **Cognate Diversity:** 0.34
 - **Invalid lexemes:** 0
-- **Tokens:** 26,887
-- **Segments:** 136 (0 BIPA errors, 0 CLTS sound class errors, 136 CLTS modified)
-- **Inventory size (avg):** 38.50
+- **Tokens:** 29,732
+- **Segments:** 145 (0 BIPA errors, 0 CLTS sound class errors, 145 CLTS modified)
+- **Inventory size (avg):** 39.72
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 337/5395 (6.25%)
+- Entries missing sources: 370/5822 (6.36%)
 
 # Contributors
 
@@ -53,7 +53,6 @@ Carolina Aragon    | @carolinaaragon | Data Collector,cognacy assignment, co-lex
 Stanislav Reichert | @StasReichert   | Data Collector | Author |
 Alan Vogel         |                 | Data Collector,cognacy assignment, co-lexifications, notes | Author |
 An Van linden      |                 | Data Collector,cognacy assignment, co-lexifications, notes   | Author |
-Fernando Orphão de Carvalho | @fernaoorphao | Data Collector,cognacy assignment, co-lexifications, notes   | Author |
 Johann-Mattis List | @lingulist | EDICTOR set up and final checks | Other |
 
 
