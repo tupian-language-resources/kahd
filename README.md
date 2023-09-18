@@ -20,29 +20,29 @@ Conceptlists in Concepticon:
 ## Statistics
 
 
-![Glottolog: 91%](https://img.shields.io/badge/Glottolog-91%25-green.svg "Glottolog: 91%")
+![Glottolog: 92%](https://img.shields.io/badge/Glottolog-92%25-green.svg "Glottolog: 92%")
 ![Concepticon: 89%](https://img.shields.io/badge/Concepticon-89%25-yellowgreen.svg "Concepticon: 89%")
-![Source: 94%](https://img.shields.io/badge/Source-94%25-green.svg "Source: 94%")
+![Source: 93%](https://img.shields.io/badge/Source-93%25-green.svg "Source: 93%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 18
-- **Concepts:** 677
-- **Lexemes:** 5,822
+- **Concepts:** 678
+- **Lexemes:** 5,914
 - **Sources:** 36
-- **Synonymy:** 1.10
-- **Cognacy:** 6,710 cognates in 2,401 cognate sets (1,271 singletons)
+- **Synonymy:** 1.11
+- **Cognacy:** 6,863 cognates in 2,461 cognate sets (1,313 singletons)
 - **Cognate Diversity:** 0.34
 - **Invalid lexemes:** 0
-- **Tokens:** 29,732
+- **Tokens:** 30,313
 - **Segments:** 145 (0 BIPA errors, 0 CLTS sound class errors, 145 CLTS modified)
-- **Inventory size (avg):** 39.72
+- **Inventory size (avg):** 39.83
 
 ## Possible Improvements:
 
 
 
-- Entries missing sources: 370/5822 (6.36%)
+- Entries missing sources: 404/5914 (6.83%)
 
 # Contributors
 
@@ -50,7 +50,6 @@ Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
 Fabrício Ferraz Gerardi | @LanguageStructure | Data Collector,cognacy assignment, co-lexifications, notes | Author |
 Carolina Aragon    | @carolinaaragon | Data Collector,cognacy assignment, co-lexifications, notes | Author |
-Fernando Orphão de Carvalho | Museu Nacional-UFRJ | @fernaoorphao | Data Collector, cognacy assignment, co-lexifications, notes | Author
 Stanislav Reichert | @StasReichert   | Data Collector | Author |
 Alan Vogel         |                 | Data Collector,cognacy assignment, co-lexifications, notes | Author |
 An Van linden      |                 | Data Collector,cognacy assignment, co-lexifications, notes   | Author |
