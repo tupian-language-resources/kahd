@@ -21,7 +21,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 914	Jarawara	GOOD	amosa	amosa	a m o s a	a m o s a	8	8	BE.GOOD			
 10228	Paumari	GOOD	dʒaha / makʰani	dʒaha	dʒ a h a	dʒ a h a	806	763	BE.GOOD			
 10230	Paumari	GOOD	dʒaha / makʰani	makʰani	m a kʰ a n i	m a kʰ a n i	805	762	BE.GOOD			
-10390	Amarakaeri	GOOD	wandak	wandak	w a + nd a k	w a + nd a k	914	874	_NOMINALIZER GOOD			bound form
+10390	Amarakaeri	GOOD	wandak	wandak	w a + nd a k	w a + nd a k	914	532 874	_NOMINALIZER GOOD			bound form
 10427	Proto-Arawan	GOOD	amotsʰi	amotsʰi	a m o tsʰ i	a m o tsʰ i	8	8	BE.GOOD			
 10509	Kanamari	GOOD	nuk	nuk	n u k	n u k	914	874	BE.GOOD			
 10510	KatukinaBiá	GOOD	nuk	nuk	n u k	n u k	914	874	BE.GOOD			
@@ -548,7 +548,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12919	Toyeri	BREAK (DESTROY OR GET DESTROYED)	ekketek	ekketek	e + k k e t e k	e + k k e t e k	1900	1603 1881	_NOMINALIZER BREAK			
 12920	Sapiteri	BREAK (DESTROY OR GET DESTROYED)	ekketek	ekketek	e + k k e t e k	e + k k e t e k	1900	1603 1881	_NOMINALIZER BREAK			
 12921	Toyeri	BREAK (DESTROY OR GET DESTROYED)	eketodn	eketodn	e + k e t o dⁿ	e + k e t o dⁿ	1901	1603 1881	_NOMINALIZER BREAK			
-12922	Sapiteri	BREAK (DESTROY OR GET DESTROYED)	eketodn	eketodn	e + k e t o dⁿ	e + k e t o dⁿ	1901	1882	_NOMINALIZER BREAK			
+12922	Sapiteri	BREAK (DESTROY OR GET DESTROYED)	eketodn	eketodn	e + k e t o dⁿ	e + k e t o dⁿ	1901	1603 1882	_NOMINALIZER BREAK			
 12923	Toyeri	BREAK (DESTROY OR GET DESTROYED)	wakʉrʉgnda	wakʉrʉgnda	w a k ʉ r ʉ g nd a	w a k ʉ r ʉ g nd a	1902	1883	BREAK			
 12924	Sapiteri	BREAK (DESTROY OR GET DESTROYED)	wakʉrʉgnda	wakʉrʉgnda	w a k ʉ r ʉ g nd a	w a k ʉ r ʉ g nd a	1902	1883	BREAK			
 12925	Toyeri	BREAK (DESTROY OR GET DESTROYED)	emarok	emarok	e + m a r o k	e + m a r o k	1903	1603 1884	_NOMINALIZER BREAK			
@@ -1541,7 +1541,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1441	Kulina	STEAL	boti	boti	b o t̪ i	b o t̪ i	25	25	STEAL			
 1722	Paumari	STEAL	boʔi	boʔi	b o ʔ i	b o ʔ i	25	25	STEAL			
 10525	Proto-Arawan	STEAL	boɗi	boɗi	b o ɗ i	b o ɗ i	25	25	STEAL			
-10915	Amarakaeri	STEAL	embere	embere	e + mb e r e	e + mb e r e	982	940	_NOMINALIZER STEAL		YES	From Apurinã
+10915	Amarakaeri	STEAL	embere	embere	e + mb e r e	e + mb e r e	982	1603 940	_NOMINALIZER STEAL		YES	From Apurinã
 12116	Arasairi	STEAL	embaere	embaere	e + mb a e r e	e + mb a e r e	982	1603 940	_NOMINALIZER STEAL		YES	From Apurinã
 12997	Toyeri	STEAL	embaere	embaere	e + mb a e r e	e + mb a e r e	982	1603 940	_NOMINALIZER STEAL		YES	From Apurinã
 12998	Sapiteri	STEAL	embaere	embaere	e + mb a e r e	e + mb a e r e	982	1603 940	_NOMINALIZER STEAL		YES	From Apurinã
@@ -1772,7 +1772,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1909	Sorowaha	LAUGH	haka	haka	h a k a	h a k a	239	239	LAUGH			
 5057	Sorowaha	LAUGH	haka	haka	h a k a	h a k a	434	239	LAUGH			
 10586	Proto-Arawan	LAUGH	haha	haha	h a h a	h a h a	239	239	LAUGH			
-12314	Arasairi	LAUGH	erik	erik	e r i k	e r i k	1608	1591	_NOMINALIZER LAUGH			
+12314	Arasairi	LAUGH	erik	erik	e + r i k	e + r i k	1608	1603 1591	_NOMINALIZER LAUGH			
 13522	Amarakaeri	LAUGH	eʔerik	eʔerik	e + ʔ e r i k	e + ʔ e r i k	2208	1603 1591	_NOMINALIZER LAUGH			
 158	Banawa	LIE (REST)	homa	homa	h o m a	- - - - - h o m a	313	313	LIE			
 478	Deni	LIE (REST)	poma	poma	p o m a	- - - - - p o m a	313	313	LIE			
@@ -2111,8 +2111,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10041	Sorowaha	BLOW (WITH MOUTH)	ahuka	ahuka	a h u k a	a h u k a	661	619	BLOW			
 10593	Proto-Arawan	BLOW (WITH MOUTH)	hapho / kariboba	hapho	h a pʰ o	h a pʰ - o	61	61	BLOW			
 10671	Proto-Arawan	BLOW (WITH MOUTH)	hapho / kariboba	kariboba	k a r i b o b a	k a r i b o b a	104	104	BLOWGUN			
-10948	Amarakaeri	BLOW (WITH MOUTH)	epoh	epoh	e + p o h	e + p o h	61	61	_NOMINALIZER BLOW.WITH.MOUTH			
-12326	Arasairi	BLOW (WITH MOUTH)	et͡ʃipoj	et͡ʃipoj	e + tʃ i  + p o h	e + tʃ i  + p o h	61	1603 61	_NOMINALIZER SPAT:HIGH BLOW			
+10948	Amarakaeri	BLOW (WITH MOUTH)	epoh	epoh	e + p o h	e + p o h	61	1603 61	_NOMINALIZER BLOW.WITH.MOUTH			
+12326	Arasairi	BLOW (WITH MOUTH)	et͡ʃipoj	et͡ʃipoj	e + tʃ i  + p o h	e + tʃ i  + p o h	61	1603 61 2505	_NOMINALIZER SPAT:HIGH BLOW			
 13034	Toyeri	BLOW (WITH MOUTH)	etšipo	etšipo	e tʃ i + p o	e tʃ i + p o	61	61	_NOMINALIZER SPAT:HIGH BLOW			
 13035	Sapiteri	BLOW (WITH MOUTH)	etšipo	etšipo	e + tʃ i + p o	e + tʃ i + p o	61	1603 61	_NOMINALIZER SPAT:HIGH BLOW			
 192	Banawa	BREATHE	hasi	hasi	h a s i	h a s - i	62	62	BREATHE			
@@ -2777,7 +2777,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 13068	Sapiteri	SHARPEN (SOMETHING)	eknet / ekhoa	eknet	e + k n e t	e + k n e t	2036	1603 2022	_NOMINALIZER SHARPEN			
 13069	Toyeri	SHARPEN (SOMETHING)	eknet / ekhoa	ekhoa	e + k h oa	e + k h oa	2037	1603 2023	_NOMINALIZER SHARPEN			
 13070	Sapiteri	SHARPEN (SOMETHING)	eknet / ekhoa	ekhoa	e + k h o a	e + k h o a	2037	1603 2023	_NOMINALIZER SHARPEN			
-13571	Amarakaeri	SHARPEN (SOMETHING)	ekwïrïngkaʔ	ekwïrïngkaʔ	e + k + w ĩ r ĩ ŋ + k a ʔ	e + k + w ĩ r ĩ ŋ + k a ʔ	2235	1603 2243 1938	_NOMINALIZER SPAT:SEPARATION SHARP MAKE.OR.DO			
+13571	Amarakaeri	SHARPEN (SOMETHING)	ekwïrïngkaʔ	ekwïrïngkaʔ	e + k + w ĩ r ĩ ŋ + k a ʔ	e + k + w ĩ r ĩ ŋ + k a ʔ	2235	1603 2506 1938	_NOMINALIZER SPAT:SEPARATION SHARP MAKE.OR.DO			
 278	Banawa	SINGING CATFISH	siraba	siraba	s i r a b a	s i r a b a	164	164	FISH			
 888	Jamamadi	SINGING CATFISH	siraba	siraba	s i r a b a	s i r a b a	164	164	FISH			Trachelyopterus striatulus
 1250	Jarawara	SINGING CATFISH	siraba	siraba	s i r a b a	s i r a b a	164	164	FISH			
@@ -2793,7 +2793,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 10402	Amarakaeri	PEEL	siʔ / etipit	siʔ	s i ʔ	- s i ʔ - - - - - - -	924	883	PEEL			
 10565	Proto-Arawan	PEEL	ɗero / sha	ɗero	ɗ e r o	ɗ e r o	49	49	PEEL			
 10832	Proto-Arawan	PEEL	ɗero / sha	sha	s h a	s h a	166	166	PEEL			
-10923	Amarakaeri	PEEL	siʔ / etipit	etipit	e + tʃ i p i t	e + tʃ i p i t	924	883	_NOMINALIZER PEEL.V			
+10923	Amarakaeri	PEEL	siʔ / etipit	etipit	e + tʃ i p i t	e + tʃ i p i t	924	1603 883	_NOMINALIZER PEEL.V			
 11701	Jamamadi	PEEL	saa	saa	s aː	s aː	166	166	RELEASE			
 12352	Arasairi	PEEL	etiere	etiere	e + t ie r e	e + t ie r e	1636	1603 1619	_NOMINALIZER PEEL			
 13071	Toyeri	PEEL	etšikonaŋ	etšikonaŋ	e + tʃ i k o n a ŋ	e + tʃ i k o n a ŋ	924	1603 883	_NOMINALIZER PEEL			
@@ -3247,7 +3247,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12161	Paumari_1833	RED	vuatarake	vuatarake	v ua t a r a k e	v ua t a r a k e	596	581	RED			
 12376	Arasairi	RED	dahuabenda	dahuabenda	d a w a b e + nd a	d a w a b e + nd a	1657	1642 1631	RED ?			
 13100	Toyeri	RED	wambedⁿ	wambedⁿ	w a + mb e dⁿ	w a + mb e dⁿ	1657	532 162 1643	_NOMINALIZER RED			
-13101	Sapiteri	RED	wambedⁿa	wambedⁿa	w a + mb e dⁿ a	w a + mb e dⁿ a	1657	532 1642 1643	_NOMINALIZER RED ?			
+13101	Sapiteri	RED	wambedⁿa	wambedⁿa	w a + mb e dⁿ + a	w a + mb e dⁿ + a	1657	532 1643	_NOMINALIZER RED ?			
 13556	Amarakaeri	RED	wambedn	wambedn	w a + mb e dⁿ	w a + mb e dⁿ	1657	532 1631	_NOMINALIZER RED			
 425	Deni	RESIN	moja	moja	m o j a	m o j a	295	295	RESIN			
 1415	Kulina	RESIN	moja	moja	m o j a	m o j a	295	295	RESIN			
@@ -3344,7 +3344,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1456	Kulina	THROAT	tamidi	tamidi	t̪ a m i d i	t̪ a m i d i	607	405	THROAT			
 1731	Paumari	THROAT	nabidi	nabidi	n a b i ɗ i	n a b i ɗ i	607	405	THROAT			
 11350	Banawa	THROAT	namidi	namidi	n a m i d i	n a m i d i	607	405	THROAT			
-12383	Arasairi	THROAT	uaan	uaan	u a + a n	u a + a n	1662	532 1648	THROAT			
+12383	Arasairi	THROAT	uaan	uaan	u a + a n	u a + a n	1662	532 1648	_NOMINALIZER THROAT			
 13107	Toyeri	THROAT	waterekpʉ / wamajek	wamajek	w a + m a j e k	w a + m a j e k	2230	532 2238	_NOMINALIZER THROAT			
 13108	Toyeri	THROAT	waterekpʉ / wamajek	waterekpʉ	w a + t e r e k + p ʉ	w a + t e r e k + p ʉ	1662	532 1648 1916	_NOMINALIZER THROAT ?			
 13596	Amarakaeri	THROAT	waodn / wäërenpi	waodn	w a + o dⁿ	w a + o dⁿ	2231	532 2239	_NOMINALIZER THROAT			
@@ -3384,7 +3384,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1469	Kulina	FALL	tsʰona / katoha	tsʰona	tsʰ o n a	tsʰ o n a	1240	1240	FALL			
 1470	Kulina	FALL	tsʰona / katoha	katoha	k a t̪ o h a	k a t̪ o h a	1241	1241	FALL			
 10083	Sorowaha	FALL	ubuɾi	ubuɾi	u b u ɾ i	u b u ɾ i	715	658	FALL			
-10399	Amarakaeri	FALL	ekot	ekot	e + k o t	e + k o t	1241	1241	_NOMINALIZER FALL			
+10399	Amarakaeri	FALL	ekot	ekot	e + k o t	e + k o t	1241	1603 1241	_NOMINALIZER FALL			
 10849	Proto-Arawan	FALL	tsʰona	tsʰona	tsʰ o n a	tsʰ o n a	1240	1240	FALL			
 11150	Banawa	FALL	sona / ɸoro	sona	s o n a	s o n a	1240	1240	FALL			
 11151	Jarawara	FALL	sona / ɸoro	sona	s o n a	s o n a	1240	1240	FALL			
@@ -3393,7 +3393,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11425	Jamamadi	FALL	sona	sona	s o n a	s o n a	1240	1240	FALL			
 12386	Arasairi	FALL	okotok	okotok	o k o t o k	o - - k o t o k	1241	1241	FALL			
 12866	Paumari	FALL	adaɸana	adaɸana	a d a ɸ a n a	a d a ɸ a n a	1888	1868	FALL			
-13111	Sapiteri	FALL	etšikotaj / ekot	etšikotaj	e + tʃ i + k o t + a h	e + tʃ i + k o t + a h	1241	1603 1241 1952	_NOMINALIZER SPAT:HIGH FALL TRANSITIVIZER			
+13111	Sapiteri	FALL	etšikotaj / ekot	etšikotaj	e + tʃ i + k o t + a h	e + tʃ i + k o t + a h	1241	1603 61 1241 1952	_NOMINALIZER SPAT:HIGH FALL TRANSITIVIZER			
 13112	Sapiteri	FALL	etšikotaj / ekot	ekot	e + k o t	e + k o t	1241	1603 1241	_NOMINALIZER FALL			
 13113	Toyeri	FALL	ekot	ekot	e + k o t	e + k o t	1241	1603 1241	_NOMINALIZER FALL			
 13995	KatukinaBiá	FALL	dauaikang	dauaikang	d a w ai k ã ŋ	d a w ai k ã ŋ	2476	2436	FALL			
@@ -3401,7 +3401,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1333	Kulina	GIVE	da / daka	da	d a	d a - -	37	37	GIVE			
 1334	Kulina	GIVE	da / daka	daka	d a k a	d a k a	37	37	GIVE			
 1664	Paumari	GIVE	da / noʔa	da	ɗ a	ɗ a - -	37	37	GIVE			
-10385	Amarakaeri	GIVE	eyok	eyok	e + j o k	e + j o k	910	870	_NOMINALIZER GIVE			
+10385	Amarakaeri	GIVE	eyok	eyok	e + j o k	e + j o k	910	1603 870	_NOMINALIZER GIVE			
 10544	Proto-Arawan	GIVE	da	da	d a	d a	37	37	GIVE			
 10957	Paumari	GIVE	da / noʔa	noʔa	n o ʔ a	n o ʔ a	1021	977	GIVE			
 11176	Banawa	GIVE	daa	daa	d aː	d aː	37	37	GIVE			
@@ -3409,8 +3409,8 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11532	Jamamadi	GIVE	daa	daa	d aː	d aː	37	37	GIVE			
 12387	Arasairi	GIVE	jakokende / jajoki	jakokende	j a k o k e nd e	j a k o k e nd e	910	870	GIVE			
 12388	Arasairi	GIVE	jakokende / jajoki	jajoki	j a j o k i	j a j o k i - - -	910	870	GIVE			
-13114	Toyeri	GIVE	embajok	embajok	e + mb a + j o k	e + mb a + j o k	910	1603 868	_NOMINALIZER VERBAL.PLURAL GIVE			
-13116	Sapiteri	GIVE	ekjok	ekjok	e + k + j o k	e + k + j o k	910	1603 870	_NOMINALIZER SPAT:SEPARATION GIVE			
+13114	Toyeri	GIVE	embajok	embajok	e + mb a + j o k	e + mb a + j o k	910	1603 868 870	_NOMINALIZER VERBAL.PLURAL GIVE			
+13116	Sapiteri	GIVE	ekjok	ekjok	e + k + j o k	e + k + j o k	910	1603 2506 870	_NOMINALIZER SPAT:SEPARATION GIVE			
 485	Deni	STAND	wa	wa	w a	w a - - - -	232	232	STAND			
 770	Jamamadi	STAND	wa	wa	w a	w a - - - -	232	232	STAND			
 1112	Jarawara	STAND	wa	wa	w a	w a - - - -	232	232	STAND			
@@ -3631,7 +3631,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12609	Jamamadi	WITH	daba	daba	d a b a	d a b a	1782	1768	BE.WITH			
 12610	Banawa	WITH	daba	daba	d a b a	d a b a	1782	1768	BE.WITH			
 586	Deni	RUN	watsʰi	watsʰi	w a tsʰ i	w a tsʰ i	625	501	RUN			
-10924	Amarakaeri	RUN	eket	eket	e + k e t	e + k e t	981	939	_NOMINALIZER RUN			
+10924	Amarakaeri	RUN	eket	eket	e + k e t	e + k e t	981	1603 939	_NOMINALIZER RUN			
 10969	Paumari	RUN	kiɗarahi	kiɗarahi	k i ɗ a r a h i	k i ɗ a r a h i	1034	989	RUN			
 11310	Banawa	RUN	bede	bede	b e d e	b e d e	1220	1186	RUN			
 11597	Jarawara	RUN	bete	bete	b e t e	b e t e	1220	1186	RUN			
@@ -4219,7 +4219,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 1435	Kulina	SMOKE (EXHAUST)	ɛtsʰɛ	ɛtsʰɛ	ɛ tsʰ ɛ	ɛ tsʰ ɛ	1002	1002	SMOKE			
 10031	Sorowaha	SMOKE (EXHAUST)	aganɨ	aganɨ	a g a n ɨ	a g a n ɨ	651	610	SMOKE			
 10179	Deni	SMOKE (EXHAUST)	aʃivani	aʃivani	a ʃ i v a n i	a ʃ i v a n i	772	740	SMOKE			
-10950	Amarakaeri	SMOKE (EXHAUST)	eʔsĩwĩ	eʔsĩwĩ	e ʔ + s ĩ w ĩ	e ʔ + s ĩ w ĩ	999	958	_NOMINALIZER SMOKE			
+10950	Amarakaeri	SMOKE (EXHAUST)	eʔsĩwĩ	eʔsĩwĩ	e ʔ + s ĩ w ĩ	e ʔ + s ĩ w ĩ	999	1603 958	_NOMINALIZER SMOKE			
 1438	Kulina	SONG	ahiɛ / tahiɛɾi	ahiɛ	a h i ɛ	a h i ɛ	473	458	SONG			
 1633	Kulina	SONG	ahiɛ / tahiɛɾi	tahiɛɾi	t̪ a h i + ɛ ɾ i	t̪ a h i + ɛ ɾ i	178	178 444	SONG ?			
 1998	Jarawara	SONG	ajaka / tahi	tahi	t a h i	t a h i - - -	178	178	SONG			
@@ -4343,7 +4343,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 13574	Amarakaeri	SIT	ewadn	ewadn	e + w a dⁿ	e + w a dⁿ	1693	1603 2244	_NOMINALIZER SIT			
 1502	Kulina	SWIM	kona	kona	k o n a	k o n a	464	449	SWIM			
 10125	Sorowaha	SWIM	kaɾukʷaaɾi	kaɾukʷaaɾi	k a ɾ u kʷ aː ɾ i	k a ɾ u kʷ aː ɾ i	745	707	SWIM			
-10920	Amarakaeri	SWIM	endopih	endopih	e + nd o p i h	e + nd o p i h	983	941	_NOMINALIZER SWIM			
+10920	Amarakaeri	SWIM	endopih	endopih	e + nd o p i h	e + nd o p i h	983	1603 941	_NOMINALIZER SWIM			
 11340	Banawa	SWIM	dao	dao	d ao	d ao	1401	1372	SWIM			
 12039	Deni	SWIM	kunaha	kunaha	k u n a h a	k u n a h a	464	449	SWIM			
 12042	Jarawara	SWIM	kabiri	kabiri	k a b i r i	k a b i r i	1487	1467	SWIM			
@@ -4460,7 +4460,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 12441	Arasairi	BLOW (OF WIND)	etʃipaj	etʃipaj	e + tʃ i p a h	e + tʃ i p a h	1703	1603 1696	_NOMINALIZER WIND.BLOW			
 13201	Toyeri	BLOW (OF WIND)	embapo	embapo	e + mb a p o	e + mb a p o	1703	1603 1696	WIND.BLOW			
 13202	Sapiteri	BLOW (OF WIND)	embapo	embapo	e + mb a p o	e + mb a p o	1703	1603 1696	_NOMINALIZER WIND.BLOW			
-13456	Amarakaeri	BLOW (OF WIND)	embapok	embapok	e + mb a p o k	e + mb a p o k	1703	1603	_NOMINALIZER WIND.BLOW			
+13456	Amarakaeri	BLOW (OF WIND)	embapok	embapok	e + mb a p o k	e + mb a p o k	1703	1603 961	_NOMINALIZER WIND.BLOW			
 1835	Sorowaha	ALLIGATOR	ona	ona	o n a	o n a	308	308	ALLIGATOR			
 10162	Deni	ALLIGATOR	tukuzu	tukuzu	t u k u dz u	t u k u dz u	763	726	ALLIGATOR			
 10163	Kulina	ALLIGATOR	wama / tokozo	wama	w a m a	w a m a	764	727	ALLIGATOR			
@@ -4650,7 +4650,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 13806	Amarakaeri	SQUIRREL	wäwëmbedn / wäwësik	wäwëmbedn	w ã w ẽ + mb e dⁿ	w ã w ẽ + mb e dⁿ	2350	2344 1631	? RED			red squirrel
 13807	Amarakaeri	SQUIRREL	wäwëmbedn / wäwësik	wäwësik	w ã w ẽ + s i k	w ã w ẽ + s i k	2350	2344 894	? BLACK			black squirrel
 5031	Sorowaha	BEAUTIFUL	ɨmɨzɨ	ɨmɨzɨ	ɨ m ɨ z ɨ	ɨ m ɨ z ɨ	360	8	BE.GOOD			
-10374	Amarakaeri	BEAUTIFUL	urunda	urunda	u r u + nd a	u r u + nd a	899	857	BEAUTIFUL ?			bound form
+10374	Amarakaeri	BEAUTIFUL	urunda	urunda	u r u + nd a	u r u + nd a	899	857 2148	BEAUTIFUL ?			bound form
 11089	Banawa	BEAUTIFUL	tamina	tamina	t a m i n a	t a m i n a	1097	1057	BEAUTIFUL			
 11442	Jamamadi	BEAUTIFUL	tamina	tamina	t a m i n a	t a m i n a	1097	1057	BEAUTIFUL			
 11463	Jarawara	BEAUTIFUL	tamina	tamina	t a m i n a	t a m i n a	1097	1057	BEAUTIFUL			
@@ -5275,7 +5275,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11808	Deni	GIRL	badeni	badeni	b a d eː n i	b a d eː n i	1387	1353	GIRL			
 12261	Kulina	GIRL	zowato	zowato	z o w a t o	z o w a t o	1575	1556	GIRL			
 10369	Deni	WANT	kahi	kahi	k a h i	k a h i	894	853	WANT			
-10370	Amarakaeri	WANT	epak	epak	e + p a k	e + p a k	895	854	_NOMINALIZER WANT.LOVE			
+10370	Amarakaeri	WANT	epak	epak	e + p a k	e + p a k	895	1603 854	_NOMINALIZER WANT.LOVE			
 10513	KatukinaBiá	WANT	wɯ	wɯ	w ɯ	w ɯ	946	905	WANT			
 10514	Kanamari	WANT	wɯ	wɯ	w ɯ	w ɯ	946	905	WANT			
 10962	Paumari	WANT	nofi	nofi	n o f i	n o f i	1048	644	WANT			
@@ -5363,7 +5363,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 11730	Paumari	KICK	akaʔdira	akaʔdira	a k a ʔ ɗ i r a	a k a ʔ ɗ i r a	1330	1265	KICK			
 13669	Amarakaeri	KICK	eyakay	eyakay	e + j a k a j	e + j a k a j	2162	1603 2151	_NOMINALIZER KICK			
 10777	Proto-Arawan	CULTIVATED FIELD	padara	padara	p a d a r a	p a d a r a	1138	1095	SLASH			
-10935	Amarakaeri	CULTIVATED FIELD	taʔmba	taʔmba	t a ʔ mb a	t a ʔ mb a	1003	960 961	SWIDDEN			
+10935	Amarakaeri	CULTIVATED FIELD	taʔmba	taʔmba	t a ʔ mb a	t a ʔ mb a	1003	960	SWIDDEN			
 11223	Sorowaha	CULTIVATED FIELD	hadara	hadara	h a d a r a	h a d a r a	1138	1095	SLASH			
 11224	Jarawara	CULTIVATED FIELD	awa / fatara / tafe	awa	a w a	a w a	1139	1096	SLASH			
 11225	Jarawara	CULTIVATED FIELD	awa / fatara / tafe	fatara	ɸ a t a r a	ɸ a t a r a	1138	1095	SLASH			
@@ -5399,7 +5399,7 @@ ID	DOCULECT	CONCEPT	VALUE	FORM	TOKENS	ALIGNMENT	COGID	COGIDS	MORPHEMES	COGNACY	B
 13283	Toyeri	STRONG	wateteŋna	wateteŋna	w a + t e t e ŋ + n a	w a + t e t e ŋ + n a	1955	532 1939 2060	_NOMINALIZER STRONG ?			
 13284	Sapiteri	STRONG	wateteŋnda	wateteŋnda	w a + t e t e ŋ + nd a	w a + t e t e ŋ + nd a	1955	532 1939 1631	_NOMINALIZER STRONG ?			
 13812	Amarakaeri	STRONG	teynda	teynda	t e j + nd a	t e j + nd a	1955	1939 1631	STROND ?			
-10910	Amarakaeri	MEET	endeh	endeh	e + nd e h	e + nd e h	978	936	_NOMINALIZER MEET			
+10910	Amarakaeri	MEET	endeh	endeh	e + nd e h	e + nd e h	978	1603 936	_NOMINALIZER MEET			
 11144	Sorowaha	MEET	tiene	tiene	t ie n e	t ie n e	1111	1070	MEET			
 11705	Paumari	MEET	jora	jora	dʒ o r a	dʒ o r a	1155	1219	MEET			
 11717	Jarawara	MEET	kobo	kobo	k o b o	k o b o	1329	1262	MEET			
