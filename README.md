@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Ferraz Gerardi, Fabrício & Aragon, Carolina & de Carvalho, Fernando O. & Reichert, Stanislav & Vogel, Alan & Van linden, An (2023): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release.
+  > Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav & Vogel, Alan & Van linden, An (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -28,13 +28,13 @@ Conceptlists in Concepticon:
 
 - **Varieties:** 18
 - **Concepts:** 678
-- **Lexemes:** 5,914
+- **Lexemes:** 5,935
 - **Sources:** 36
 - **Synonymy:** 1.11
-- **Cognacy:** 6,863 cognates in 2,461 cognate sets (1,313 singletons)
+- **Cognacy:** 6,909 cognates in 2,470 cognate sets (1,319 singletons)
 - **Cognate Diversity:** 0.34
 - **Invalid lexemes:** 0
-- **Tokens:** 30,313
+- **Tokens:** 30,445
 - **Segments:** 145 (0 BIPA errors, 0 CLTS sound class errors, 145 CLTS modified)
 - **Inventory size (avg):** 39.83
 
@@ -42,7 +42,7 @@ Conceptlists in Concepticon:
 
 
 
-- Entries missing sources: 404/5914 (6.83%)
+- Entries missing sources: 407/5935 (6.86%)
 
 # Contributors
 
@@ -50,7 +50,6 @@ Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
 Fabrício Ferraz Gerardi | @LanguageStructure | Data Collector,cognacy assignment, co-lexifications, notes | Author |
 Carolina Aragon    | @carolinaaragon | Data Collector,cognacy assignment, co-lexifications, notes | Author |
-Fernando Orphão de Carvalho | @fernaoorphao | Data Collector,cognacy assignment, co-lexifications, notes | Author |
 Stanislav Reichert | @StasReichert   | Data Collector | Author |
 Alan Vogel         |                 | Data Collector,cognacy assignment, co-lexifications, notes | Author |
 An Van linden      |                 | Data Collector,cognacy assignment, co-lexifications, notes   | Author |
