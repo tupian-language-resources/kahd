@@ -17,7 +17,7 @@
         {
             "rdf:about": "git@github.com:tupian-language-resources/kahd",
             "rdf:type": "prov:Entity",
-            "dc:created": "0.9-29-gbdf5fc6",
+            "dc:created": "0.9-31-g0744819",
             "dc:title": "Repository"
         },
         {
