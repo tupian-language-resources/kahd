@@ -3,9 +3,9 @@
 ## How to cite
 
 If you use these data please cite
-- the original source
-  > Ferraz Gerardi, Fabrício & Aragon, Carolina & Reichert, Stanislav & Vogel, Alan & Van linden, An (2022): Katukinan-Arawan-Harakmbut Database (KAHD) [Dataset]. Pre-release.
-- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8362943.svg)](https://doi.org/10.5281/zenodo.8362943)
+
+
 
 ## Description
 
