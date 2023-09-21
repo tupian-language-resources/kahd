@@ -1,4 +1,6 @@
-# Katukinan-Arawan-Harakmbut Database (KAHD)
+# Katukinan-Arawan-Harakmbut Database (KAAHD)
+
+The Katukinan-Arawan-Apirunã-Harakmbut Database comprises lexical data from 18 doculects belonging to different language families whose genetic links are uncertain. This comprehensive database includes manually assigned simple and partial cognates, colexifications, as well as valuable notes. It adheres to the standardized CLDF format, facilitating easy sharing and accessibility. The database encompasses a wide range of concepts, including the well-known Swadesh List, culturally relevant items, and species of fauna and flora.
 
 ## How to cite
 
